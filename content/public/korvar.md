@@ -4,7 +4,7 @@
 
 **Hamarkorvar** names the language family. **Korvar**, literally people’s or public speech, is the taught interregional standard. **Hamarvar** retains its separate ridge-network language meaning.
 
-The family’s main sound and grammar inspirations are Nordic, Icelandic and German, with smaller echoes from other European roots. It is an invented family, not a claim that a real European ancestral language has been reconstructed. Real-world speakers must still learn its vocabulary.
+The family combines shared grammatical patterns with regional vocabulary and pronunciation. Korvar provides a taught form for communication across those differences.
 
 ## Literal roots with distinct jobs
 

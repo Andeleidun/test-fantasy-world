@@ -45,7 +45,7 @@ for (const theme of ['light', 'dark']) for (const width of [1440, 390, 320]) {
   test(`${theme} reader and accessibility at ${width}px`, async ({ page }) => {
     await page.emulateMedia({ colorScheme: theme });
     await page.setViewportSize({ width, height: 950 });
-    for (const path of ['./', 'dverghamar.html', 'language-grammar.html', 'dverghamar-atlas.html', 'search.html', 'dictionary.html']) {
+    for (const path of ['./', 'erde.html', 'erde-atlas.html', 'dverghamar.html', 'language-grammar.html', 'dverghamar-atlas.html', 'search.html', 'dictionary.html']) {
       await page.goto(path);
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
       const results = await new AxeBuilder({ page }).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();

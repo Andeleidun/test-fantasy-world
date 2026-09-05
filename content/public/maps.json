@@ -1,43 +1,48 @@
 [
   {
     "code": "E1",
-    "title": "Orientation comparison",
+    "title": "Lands and seas",
     "world": "Erde",
-    "stem": "E1-orientation-comparison",
-    "description": "Compare Earth reference coastlines with their mathematical rotation into Erde's spin frame.",
-    "reading": "Earth-reference land geometry is rotated into the chosen Erde frame. This is an orientation scaffold; it does not calculate the effects of an alternate geological history on shorelines."
+    "stem": "erde-lands-and-seas",
+    "description": "A broad view of Erde’s continental land, seas and coordinate grid.",
+    "reading": "The view shows the distribution of land and water. Local shorelines and geographic boundaries require more detailed regional maps.",
+    "legacyStem": "E1-orientation-comparison"
   },
   {
     "code": "E2",
-    "title": "Latitude and climate potential",
+    "title": "Latitude zones",
     "world": "Erde",
-    "stem": "E2-latitude-and-climate-potential",
-    "description": "New-latitude forcing bands with reference sites; separates geometric constraints from unmodeled regional climates.",
-    "reading": "The same land geometry is compared with new latitude bands. The bands represent solar-forcing potential, not a climate simulation or a finished biome map."
+    "stem": "erde-latitude-zones",
+    "description": "Latitude bands show differences in solar input across Erde.",
+    "reading": "Latitude helps explain climatic contrasts, but rainfall, vegetation and ice also depend on relief, circulation and local conditions.",
+    "legacyStem": "E2-latitude-and-climate-potential"
   },
   {
     "code": "E3",
     "title": "Relief and passages",
     "world": "Erde",
-    "stem": "E3-relief-and-passages",
-    "description": "An approximate mountain and passage scaffold showing isolation, rain shadows, and migration.",
-    "reading": "Approximate mountain and passage axes suggest where elevation and barriers could shape movement. Relief and routes are illustrative rather than surveyed."
+    "stem": "erde-relief-and-passages",
+    "description": "Mountain barriers, coastal approaches and island passages shape movement.",
+    "reading": "Mountain lines locate broad barriers and connections. They do not supply surveyed elevations or the detailed course of every valley.",
+    "legacyStem": "E3-relief-and-passages"
   },
   {
     "code": "E4",
     "title": "Ancestry and dispersal",
     "world": "Erde",
-    "stem": "E4-ancestry-and-dispersal",
-    "description": "Locate the African ancestry, Sunda radiation, Sahul branch, and early American migration across the reference continents.",
-    "reading": "Ancestry and dispersal overlays connect the African stem, Sunda radiation, Sahul branch and early American migration. They are historical scenarios rather than exact tracks."
+    "stem": "erde-ancestry-and-dispersal",
+    "description": "Ancient human and hobbit populations branch and move between continental and island habitats.",
+    "reading": "Arrows combine movements from different periods. Shared ancestry and overlapping routes do not establish one culture or a political boundary.",
+    "legacyStem": "E4-ancestry-and-dispersal"
   },
   {
     "code": "E5",
-    "title": "American contact landscape",
+    "title": "Regional contact",
     "world": "Erde",
-    "stem": "E5-american-contact-landscape",
-    "description": "Historical map of the five First American regional complexes and the northern successor outcome.",
-    "reading": "The five First American regional complexes are shown at the period about five thousand years before Erde’s present. The northern successor outcome does not erase independent southern histories."
+    "stem": "erde-regional-contact",
+    "description": "Five regional population complexes and their successor communities about five thousand years before the present.",
+    "reading": "The Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin retain self-sustaining networks. Coastal and mountain-rim communities continue through mixed successors.",
+    "legacyStem": "E5-american-contact-landscape"
   },
   {
     "code": "D1",

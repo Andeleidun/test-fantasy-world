@@ -2,33 +2,31 @@
 
 ## Deep ancestry
 
-Erde’s human and hobbit peoples share an African ancestral foundation, followed by long divergence, dispersal and contact. The separation of Sunda and mainland populations is important to the later branching history. Hobbit lineages include Flores, Luzon, Papuan-highland and pelagic forms, each with its own opportunities for isolation and movement.
+Erde’s human and hobbit peoples share a deep ancestral foundation, followed by long divergence, dispersal and contact. Separation between island populations and neighboring mainland populations is important to the later branching history. Several island, highland and pelagic hobbit lineages develop their own ways of living.
 
-The history uses erectus-grade ancestors and later human-form branches as an evolutionary framework. These are fictional trajectories on Erde, not a replacement account of Earth’s archaeology. Rare cross-macroclade interbreeding is possible in the working model, usually with low fertility. Biological compatibility, culture, language and political belonging remain different questions.
+Ancient human branches likewise diverge, encounter one another and sometimes exchange ancestry. Interbreeding between the broad human and hobbit branches is rare and usually has low fertility. Biological compatibility, language, culture and political belonging remain different questions.
 
-## The First American radiation
+## Early continental settlement
 
-An early erectus-derived population reaches the American-analogue continents around **650,000–450,000 years ago**. Its descendants diversify long before the later arrival of sapiens-like populations. Mountain corridors, watershed systems, coastlines and refuges support different regional histories.
+An early human population reaches a connected pair of continents around **650,000–450,000 years ago**. Its descendants diversify long before later human arrivals. Mountain corridors, watershed systems, coastlines and refuges support different regional histories.
 
-Five broad complexes organize the current description. Their names are geographic reference labels, not five unified states or five modern racial categories.
+Five broad complexes organize the current description. The descriptions identify broad geographic and historical communities. Each contains distinct local peoples and institutions.
 
 | Complex | Landscape and later continuity |
 | --- | --- |
-| Boreal Rim | Pacific-rim, cordilleran and Beringian populations, later continued through several mixed successors |
-| Great Watersheds | Interior rivers, lakes, wetlands and Atlantic-facing systems, with enduring basin networks |
+| Coastal and mountain-rim communities | Populations along coasts, mountain corridors and the old continental approach, later continued through several mixed successors |
+| Great Watersheds | Interior rivers, lakes, wetlands and coastal drainage systems, with enduring basin networks |
 | Volcanic Hinge | Volcanic highlands, islands, valleys and maritime refuge routes |
 | Highland Spine | Connected coasts, slopes, valleys, plateaus and high refuges |
 | Equatorial Basin | River gardens, headwaters, forests and distributed settlement networks |
 
-“Boreal Rim” is a retained label. Erde’s changed orientation means that its Beringian approaches are not uniformly cold or polar.
+## Contact and successor communities
 
-## Contact and northern successors
-
-A later durable sapiens-like founding movement occurs around **35,000–20,000 years ago** in the setting’s reconstruction. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
+A later durable human founding movement occurs around **35,000–20,000 years ago** in the current historical account. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
 
 Disease acts together with food shortages, social disruption and existing local stresses. Transmission is reciprocal, with different populations affected at different times. It is not a single one-way epidemic that determines every outcome.
 
-The northern complex eventually continues through multiple mixed successor populations. Substantial ancestral and cultural continuity can survive without one unchanged population identity. The southern complexes remain self-sustaining through different combinations of ecological connection, institutions, refuges and defense.
+The coastal and mountain-rim complex eventually continues through multiple mixed successor populations. Substantial ancestral and cultural continuity can survive without one unchanged population identity. The other regional complexes remain self-sustaining through different combinations of ecological connection, institutions, refuges and defense.
 
 ## Great Watersheds
 
@@ -38,7 +36,7 @@ Ordinary mature hydromancy works best through prepared teams at known crossings.
 
 These defenses demand effort and local knowledge and can harm fisheries, soils, settlements and defenders. Flexible control of an unfamiliar river reach belongs to a few exceptional masters. Basin-scale alteration occurs only once or twice in remembered desperation, with severe lasting consequences.
 
-Sapiens-like travelers eventually develop a **Pacific coastal bypass** through repeated short voyages, estuaries and offshore islands. Several millennia of navigation, provisioning and route knowledge turn intermittent journeys into durable migration links. The defended watershed interior remains an independent demographic and political world.
+Human travelers eventually develop a **coastal bypass** through repeated short voyages, estuaries and offshore islands. Several millennia of navigation, provisioning and route knowledge turn intermittent journeys into durable migration links. The defended watershed interior remains an independent demographic and political world.
 
 ## Volcanic Hinge
 
@@ -70,10 +68,10 @@ Range and clarity depend on ecological continuity, preparation, familiarity and 
 
 Kinship with animals, plants and fungi takes many cultural and religious forms. More capable practitioners sometimes develop deep relationships with particular living beings, including magically attuned wild animals. Experimental shapeshifting begins among a few masters around five thousand years ago. Its developed rules are described in [familiars and shapeshifting](familiar-magic.md).
 
-Mixed settlements concentrate in western headwaters and major confluences. Deep-forest, eastern-river and savanna populations remain self-sustaining and connected through their own networks.
+Mixed settlements concentrate in upland headwaters and major confluences. Deep-forest, river and savanna populations remain self-sustaining and connected through their own networks.
 
 ## Learned traditions and individual lives
 
 Magical traditions emerge when recurring needs make observation, teaching and cooperation valuable. Biology can influence how a practice is experienced without assigning one ability to an entire people. Institutions can share techniques, disagree about authority and preserve mistakes as well as discoveries.
 
-The [Erde atlas](erde-atlas.md) places these histories in their geographic framework. Its American contact sheet depicts roughly five thousand years before Erde’s present; dispersal arrows on other sheets may refer to much earlier periods.
+The [Erde atlas](erde-atlas.md) places these histories in their geographic framework. Its regional contact sheet depicts roughly five thousand years before Erde’s present; dispersal arrows on other sheets may refer to much earlier periods.

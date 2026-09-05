@@ -1,16 +1,16 @@
 # Erde
 
-## The shape of Erde
+## The lands of Erde
 
-Erde has a continental foundation recognizable from Earth, but a different planetary orientation and an independent living history. Its north pole is placed at Earth-reference coordinates 0°, 150° west, with the south pole opposite at 0°, 30° east. Lands that occupy familiar positions on an Earth map therefore lie at different latitudes here.
+Erde is home to many peoples, languages and ways of life. Mountain chains divide its interiors; rivers connect settlements across wide basins; coasts and island passages carry travelers between communities with long histories of their own.
 
-The [atlas](erde-atlas.md) shows this change in orientation. Its coastlines are a reference scaffold: ocean currents, ice, rainfall and the effects of Erde’s own geological history have not yet been mapped in comparable detail.
+Its geography shapes where people can travel, grow food, take refuge and meet their neighbors. The [atlas](erde-atlas.md) follows these relationships through lands and seas, latitude, mountain passages and ancient migrations. Its broad outlines leave room for more detailed regional maps.
 
 ## Peoples and deep history
 
-Human and hobbit lineages share deep ancestry and follow different branches. Long isolation, movement between habitats and occasional contact shape their histories. The hobbit radiation includes Flores, Luzon, Papuan-highland and pelagic branches. These labels identify broad evolutionary histories, rather than prescribing one culture for each population.
+Human and hobbit lineages share deep ancestry and follow different branches. Long isolation, movement between habitats and occasional contact shape their histories. Hobbit lineages include several island branches, highland populations and seafaring peoples. Their shared ancestry does not give them one culture or a single way of living.
 
-An early erectus-derived migration reaches the American-analogue continents roughly 650,000–450,000 years ago in the setting’s historical reconstruction. Its descendants form the First American radiation, with five principal regional complexes. Later sapiens-like arrivals encounter established populations, routes, institutions and ways of living.
+One early human migration reaches a connected pair of continents roughly 650,000–450,000 years ago. Over the following ages, its descendants form distinct regional populations. Much later arrivals encounter established communities, routes, institutions and ways of living.
 
 ## Landscapes and learned magic
 
@@ -20,7 +20,7 @@ These practices have costs and limits. A well-prepared team at a familiar river 
 
 ## The Thal departure
 
-About five thousand years ago, a catastrophe on **Erde** drove surviving Neanderthal people through the Otherworld to Dverghamar. Their descendants are the **Thals**. Neanderthal populations remaining on Erde subsequently became extinct or were absorbed.
+About five thousand years ago, a catastrophe on **Erde** drove survivors of an ancient human lineage through the Otherworld to Dverghamar. Their descendants are the **Thals**. Other populations of that lineage remaining on Erde subsequently became extinct or were absorbed.
 
 The departure belongs to Erde’s history. Dverghamar’s native dwarven lineages had already evolved independently over far longer spans of time.
 

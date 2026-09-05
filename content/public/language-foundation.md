@@ -8,7 +8,7 @@
 
 **Hamarkorvar** names the language family, **Korvar** the shared standard and **Hamarvar** the ridge-network language. **Dverghamar** is the ordinary planetary name, with **Dvergahamrar** its archaic or highly formal form. The inherited dverg- element survives in names rather than serving as the modern general people-name.
 
-The invented family draws mainly on Nordic, Icelandic and German sound patterns and grammatical structures, with smaller Celtic and Slavic echoes. It creates a mythological family resemblance without claiming to reconstruct a real European ancestral language. Readers of those languages may recognize some structures, while the vocabulary still needs to be learned.
+Names can preserve older sounds and meanings even as everyday speech changes. The grammar below describes the shared standard; local traditions have their own histories.
 
 ## Language in daily life
 

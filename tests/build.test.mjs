@@ -88,3 +88,22 @@ test('public dictionary downloads match the displayed edition and preserve forms
   assert.equal(examples.trimEnd().split('\n').length, 99);
   assert.equal(examples, await readFile('content/public/data/korvar-examples.tsv', 'utf8'));
 });
+
+test('public Erde uses its own identity while naming proposals remain authorial', async () => {
+  const forbidden = /\b(?:Earth|Africa\w*|America\w*|Europe\w*|Asia\w*|Pacific|Atlantic|Bering\w*|Sunda|Flores|Luzon|Papua\w*|Sahul|Neanderthal\w*|Denisovan\w*|erectus|sapiens|Proposal 4)\b/i;
+  for (const file of ['erde.md','erde-reference.md','erde-atlas.md','thals.md','map-methods.md']) {
+    const source = await readFile(`content/public/${file}`, 'utf8');
+    assert.doesNotMatch(source, forbidden, file);
+    assert.doesNotMatch(source, /\b(?:Oratha|Veyra|Tavren|Selvara|Maruun|Ilyra|Erden)\b/, `Unapproved name in ${file}`);
+  }
+  const maps = JSON.parse(await readFile('content/public/maps.json', 'utf8'));
+  for (const map of maps.filter(m => m.world === 'Erde')) {
+    assert.doesNotMatch(map.title + map.description + map.reading, forbidden);
+    const current = await readFile(`dist/assets/maps/${map.stem}.svg`, 'utf8');
+    assert.doesNotMatch(current, forbidden, map.stem);
+    assert.equal(current, await readFile(`dist/assets/maps/${map.legacyStem}.svg`, 'utf8'));
+  }
+  const index = JSON.parse(await readFile('dist/search-index.json', 'utf8'));
+  for (const item of index.filter(i => /^(erde|thals|map-methods)/.test(i.href))) assert.doesNotMatch(item.title + item.text, forbidden, item.href);
+  await assert.rejects(stat('dist/data/erde-reference-locations.csv'));
+});

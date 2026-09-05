@@ -2,7 +2,7 @@
 
 ## From Erde to Dverghamar
 
-The **Thals** are the surviving descendants of Erde’s Neanderthal people. About five thousand years ago, a catastrophe on Erde forced a surviving population to flee through the Otherworld. They found refuge on Dverghamar, among landscapes and native peoples with an independent evolutionary history.
+The **Thals** are the surviving descendants of an ancient human lineage of Erde. About five thousand years ago, a catastrophe on Erde forced a surviving population to flee through the Otherworld. They found refuge on Dverghamar, among landscapes and native peoples with an independent evolutionary history.
 
 The native Hamarkorar are not descended from these arrivals. Their six-limbed ancestry, species diversification and relationship with mineral nurseries developed long before the Thal migration.
 

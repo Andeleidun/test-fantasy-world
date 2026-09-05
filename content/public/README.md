@@ -22,3 +22,5 @@ See ../SOURCES.md for original import provenance. Downloaded Common dictionary d
 ## Editorial conventions
 
 Lead with the setting and its everyday relationships. Explain technical terms where they matter. Keep selected scenario values visibly provisional where they require modeling. Preserve uncertainty about unassigned communities and anatomy. Do not include decision history, user instructions, story material or private author notes. Prefer descriptive headings and links over promotional copy.
+
+Erde is presented as its inhabitants’ own world. Earth-reference geography, archaeological analogues, construction history and real-world language inspirations belong in authorial files. See `../../docs/ERDE-NAMING-DIRECTION.md` for the naming policy and proposals. New proper names require an explicit selection before public use. The public Erde atlas variants retain the original geography while replacing authorial comparisons and labels; legacy map URLs serve these public variants. Paired Earth/Erde coordinate downloads remain authorial only.

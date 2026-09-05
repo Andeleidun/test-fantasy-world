@@ -12,19 +12,13 @@ The atlas contains thirteen sheets: five for Erde and eight for Dverghamar. They
 
 A schematic lake, settlement or province is an example, not a newly named canonical place. The sheets do not establish political borders.
 
-## Erde’s coordinates
+## Reading Erde’s geography
 
-Erde’s north pole points toward Earth-reference latitude 0°, longitude −150°. Its south pole is at 0°, +30°. The transformed latitude follows:
+Erde’s maps use latitude and longitude to locate land, seas and routes. Rectangular views are equidistant cylindrical projections: they preserve some useful relationships while distorting area and distance toward the poles.
 
-`sin(new latitude) = cos(reference latitude) × cos(reference longitude + 150°)`
+Latitude bands describe differences in solar input. Rainfall, vegetation and ice also depend on altitude, circulation, coastlines and local conditions. A colored band is therefore not a complete habitat description.
 
-The atlas places zero longitude through the old geographic north pole. Rectangular maps use an equidistant cylindrical projection in this frame; they are not equal-area maps, and distortion increases toward the poles.
-
-Reference land shapes come from [Natural Earth’s public-domain land data](https://www.naturalearthdata.com/downloads/110m-physical-vectors/). They make the orientation legible but do not predict Erde’s actual shorelines after independent erosion, ice history and sea-level change.
-
-Latitude bands show potential solar forcing under a modest-obliquity scenario. They are not computed biomes or exact tropical and polar circles. Approximate mountain axes indicate relief and barriers without claiming surveyed elevations or plate boundaries.
-
-[Download paired reference coordinates (CSV)](data/erde-reference-locations.csv).
+Mountain lines indicate broad barriers and passages. Their exact heights, valleys and watersheds are not all mapped. Historical arrows show connections and movement, rather than the route of every traveler or a permanent boundary between peoples.
 
 ## Dverghamar’s day and night
 
@@ -46,15 +40,15 @@ The dwarf habitat sheet shows overlapping ecological tendencies, not species ter
 
 ## Historical time
 
-Erde’s dispersal sheet combines stages that are not necessarily contemporary. The early American founding interval is roughly 650,000–450,000 years ago. The American contact sheet depicts about five thousand years before Erde’s present, following a later sapiens-like founding movement around 35,000–20,000 years ago.
+Erde’s dispersal sheet combines stages that are not necessarily contemporary. The early continental founding interval is roughly 650,000–450,000 years ago. The regional contact sheet depicts about five thousand years before Erde’s present, following a later later human founding movement around 35,000–20,000 years ago.
 
-At the contact sheet’s epoch, the southern First American complexes remain self-sustaining. The northern complex continues through multiple mixed successors. These are fictional historical scenarios rather than claims about Earth’s archaeological record.
+At the contact sheet’s epoch, the Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin communities remain self-sustaining. The coastal and mountain-rim complex continues through multiple mixed successors. The sheets combine long histories at a broad scale; local timelines can differ.
 
 The Thal migration connects the worlds through the Otherworld. The maps do not assign a physical interplanetary distance or an exact portal location.
 
 ## Opening the sheets
 
-Every figure includes a text explanation and a link to the full-size SVG. The artwork retains its original light background in both reading themes so its symbols and colors remain consistent. Some original sheets use “Dwarven Planet” for the world now named Dverghamar.
+Every figure includes a text explanation and a link to the full-size SVG. The artwork retains its original light background in both reading themes so its symbols and colors remain consistent.
 
 - [Maps of Erde](erde-atlas.md)
 - [Maps of Dverghamar](dverghamar-atlas.md)

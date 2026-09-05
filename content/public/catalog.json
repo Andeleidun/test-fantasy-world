@@ -3,7 +3,7 @@
     "id": "erde",
     "title": "Erde",
     "category": "worlds",
-    "description": "Continental geography, human and hobbit lineages, and the histories of regional communities.",
+    "description": "The lands, human and hobbit peoples, and regional histories of Erde.",
     "kind": "World guide",
     "file": "erde.md"
   },
@@ -27,7 +27,7 @@
     "id": "thals",
     "title": "The Thals",
     "category": "peoples",
-    "description": "Erde’s surviving Neanderthal descendants and their later refuge on Dverghamar.",
+    "description": "An ancient human lineage of Erde whose descendants found refuge on Dverghamar.",
     "kind": "World guide",
     "file": "thals.md"
   },
@@ -67,7 +67,7 @@
     "id": "erde-reference",
     "title": "Erde: peoples and regional histories",
     "category": "worlds",
-    "description": "Deep ancestry, First American communities, contact and learned magical traditions.",
+    "description": "Deep ancestry, regional communities, contact and learned magical traditions.",
     "kind": "History",
     "file": "erde-reference.md"
   },
