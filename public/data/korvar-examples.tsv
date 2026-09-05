@@ -1,0 +1,99 @@
+id	text	translation	feature	analysis
+C01	Ek sere Hamarkor.	I am a dwarf.	identity	Hamarkor is a predicate noun; no occupational implication.
+C02	Vir sere Hamarkorar.	We are dwarves.	number	Plural predicate noun; verb does not agree.
+C03	Da menir karne da kel.	The stoneworker builds the chamber.	main_v2	Subject + finite + object.
+C04	Nu karne ek da kel.	Now I build the chamber.	inversion	Time constituent + finite + subject.
+C05	Na da kelum vare da menir.	The stoneworker speaks inside the chamber.	preposition	Whole location phrase occupies first field.
+C06	Karne du da kel?	Do you build the chamber?	yes_no	Finite precedes subject.
+C07	Hve karne da kel?	Who builds the chamber?	subject_question	Interrogative is the subject.
+C08	Hvat karne du?	What do you build?	object_question	Object question retains explicit subject.
+C09	Hor sere da ner?	Where is the child?	where_question	Copula is finite second constituent.
+C10	Me hveum vare du?	With whom do you speak?	oblique_question	Interrogative takes oblique after me.
+C11	Ek karne ne da kel.	I do not build the chamber.	negation	Ne follows subject and finite.
+C12	Nu have ek ne karnet da kel.	Now I have not built the chamber.	negated_perfect	Inversion; negation before nonfinite participle.
+C13	Ek vare ke sa ne karne da kel.	I say that they do not build the chamber.	subordination	Singular sa; dependent negation before finite.
+C14	Ek vite se du karne da kel.	I know whether you build the chamber.	embedded_yes_no	No inversion in dependent question.
+C15	Ek vite hor du karne da kel.	I know where you build the chamber.	embedded_wh	Question word + subject + finite.
+C16	Da kor ri karne da kel sere her.	The person who builds the chamber is here.	subject_relative	Relative subject gap; entire noun phrase precedes main copula.
+C17	Da kel ri ek karne sere storr.	The chamber that I build is large.	object_relative	Relative object gap; predicate adjective remains uninflected.
+C18	Da kor ri ek vare me saum sere her.	The person with whom I speak is here.	oblique_relative	Resumptive pronoun saum after me.
+C19	Da kor ri ne karne da kel sere her.	The person who does not build the chamber is here.	relative_negation	Subject gap followed by ne + finite.
+C20	Eks kel sere her.	My chamber is here.	possessive_pronoun	Possessor replaces head determiner.
+C21	Da menirs kel sere her.	The stoneworker's chamber is here.	genitive_scope	Da belongs inside the possessor.
+C22	Ek have kel af da menirum.	I have a chamber belonging to the stoneworker.	indefinite_possession	Bare head plus postposed association phrase.
+C23	Ek give da men til duum.	I give the stone to you.	recipient	No bare double-object pattern.
+C24	Sa vaske si.	They wash themself.	reflexive	Singular reflexive refers to clause subject.
+C25	Sa vaske sa.	They wash another person referred to as they.	nonreflexive	Distinct third-person referent; repeat names if unclear.
+C26	Sa have sis handhamar.	They have their own hand hammer.	reflexive_possession	Sis is subject-bound.
+C27	Sa have sas handhamar.	They have another person's hand hammer.	external_possession	Sas is not subject-bound here.
+C28	Vir helpe vir mut.	We help one another.	reciprocal	Plural object plus reciprocal marker.
+C29	Ek vare me sium ak duum.	I speak with myself and you.	coordination	Reflexive sium is clause-subject-bound; both conjuncts carry oblique.
+C30	Da men sere darn ak spröd.	The stone is scratch-resistant and brittle.	properties	Hardness does not entail toughness.
+C31	Di men sere mer darn dan dan men.	This stone is harder than that stone.	comparison	First dan is comparison linker; second is determiner.
+C32	Di kel sere sam storr as dan kel.	This chamber is as large as that chamber.	equative	Sam + adjective + as introduces an equal comparison.
+C33	Da menir karnte da nerkel.	The stoneworker built the nursery.	past	Transparent past suffix -te.
+C34	Ek have karnet da kel.	I have built the chamber.	perfect	Have + participle.
+C35	Ek havte karnet da kel.	I had built the chamber.	pluperfect	Past auxiliary + participle.
+C36	Ek fere karnen da kel.	I will build the chamber.	future	Finite prospective auxiliary + infinitive.
+C37	Ek fere haven karnet da kel.	I will have built the chamber.	future_perfect	Future + infinitive perfect auxiliary + participle.
+C38	Ek mage bären da men.	I can carry the stone.	ability	Magen expresses ability.
+C39	Ek mole stilen.	I must remain silent.	obligation	Positive obligation with lexical silent verb.
+C40	Ek mole ne varen.	I am not obliged to speak.	modal_negation	Negation takes scope over obligation.
+C41	Ek banne varen.	I prohibit speaking.	prohibition	Activity infinitive; not I must not speak.
+C42	Ek love ke da ner ete.	I permit the child to eat.	permission	Explicit subordinate subject.
+C43	Da kel vere karnet af da menirum.	The chamber is being built by the stoneworker.	passive	Event passive plus agent phrase.
+C44	Da kel sere karnet.	The chamber stands built.	result_state	Copula plus result participle.
+C45	Ek sere nu na karnadum.	I am now engaged in building.	ongoing	Activity noun after na.
+C46	Vel da drav stane, stane da rad.	If the water flow stops, the wheel stops.	condition	Dependent clause fills first main-clause field.
+C47	Vel ek vu havte da men, fere ek vu karnen da kel.	If I had the stone, I would build the chamber.	counterfactual	Vu has documented dependent and main positions.
+C48	Ek kome te helpen.	I come to help.	purpose_shared	Infinitive shares main subject.
+C49	Ek karne da kel te ke da ner mage soven.	I build the chamber so that the child can sleep.	purpose_different	Te ke introduces explicit new subject.
+C50	Tem da kel, ek karne di.	As for the chamber, I build it.	topic	Outside-clause topic plus resumptive demonstrative.
+C51	Ne op da dor.	Do not open the door.	negative_imperative	Ne precedes bare imperative.
+C52	Bitte, giv da men til ekum.	Please give the stone to me.	polite_request	Imperative plus recipient in oblique.
+C53	Pom da vas in da dravkelum.	Pump the water into the cistern.	industrial_direction	Imperative and directional preposition.
+C54	Da drav dreve da rad.	The water flow powers the wheel.	industrial_power	Direct mechanical power relationship.
+C55	Ek tröve da trov.	I test the sample.	test_sample	Tröv and trov remain different words.
+C56	Ek merke da trov me markum.	I label the sample with a mark.	instrument	Me governs oblique.
+C57	Da gred af stalmenum sere ne vitet.	The support-stone grade is not known.	uncertainty	Explicit lack of knowledge; not a failed grade.
+C58	Da trov sere tör, vis.	The sample is dry, by observation.	evidence	Particle states the claimed basis.
+C59	Ek tönke ke da trov sere tör.	I think the sample is dry.	reported_belief	Thought complement rather than asserted measurement.
+C60	Da egg sere na da eggkelum.	The egg is inside the egg compartment.	reproduction	Egg distinct from compartment.
+C61	Da ner sere na da nerkelum.	The child is in the nursery.	care_location	No claim that the child is itself a geode.
+C62	Ek ruke da ner.	I care for and protect the child.	care_action	Protective caregiver role.
+C63	Ek sele da ner me selum.	I feed the child with nourishment.	feeding	Recipient is direct object; food is me phrase.
+C64	Da ner halte da handhamar.	The child holds the hand hammer.	body_action	No unselected digit count.
+C65	Ek vele vas.	I want water.	need	Bare mass noun.
+C66	Ek ete da röt.	I eat the tuber.	food	Food object of eten; functional crop analog rather than an Earth species.
+C67	Ek like da sombsel.	I like the fungal food.	preference	Enjoyment outside industrial register.
+C68	Ek elske du.	I love you.	affection	Direct object pronoun.
+C69	Ek sorge.	I grieve.	emotion	Intransitive feeling verb.
+C70	Da ner spele.	The child plays.	play	No object required.
+C71	Vir sange da sang.	We sing the song.	music	Related verb and noun stems.
+C72	Ek have neng men.	I have no stone.	negative_quantity	Neng already makes a negative quantity.
+C73	Tor kelar sere her.	Two chambers are here.	count	Numeral selects plural count noun.
+C74	Ek take tor kapar af vasum.	I take two vessel-units of water.	measure	Capacity unit and mass-noun complement.
+C75	Da kel sere höl ak dypp.	The chamber is high and deeply covered.	altitude_cover	Two independent spatial properties with contextual datums.
+C76	Ek gare solvard.	I travel sunward.	direction	Adverb, not preposition requiring a case.
+C77	Ek gare dor da gangum.	I travel through the tunnel.	route	Through-preposition distinct from door noun.
+C78	Vite du se da vas drave?	Do you know whether the water flows?	nested_question	Main inversion; dependent subject-first order.
+C79	Ek vele leren Korvar.	I want to learn Common Dwarven.	learning	Shared-subject infinitive.
+C80	Ek läre Korvar til da nerum.	I teach Common Dwarven to the child.	teaching	Content object; learner as explicit recipient.
+C81	Hei. Mage du helpen ek?	Hello. Can you help me?	greeting	Modal + infinitive + direct object.
+C82	Ja. Hvat vele du?	Yes. What do you want?	response	Yes response distinct from clause negation.
+C83	Ek vele tor menekar.	I want two dressed stone pieces.	trade_request	Bounded result noun, counted plural.
+C84	Ek give di til duum.	I give these to you.	demonstrative	Di resumes the previously requested plural stones.
+C85	Takk. Ek fere betalen.	Thanks. I will pay.	trade_close	Payment amount is contextually recoverable.
+C86	Farvel.	Farewell.	farewell	Conventional social formula.
+C87	Eks helm sere na da bergum.	My home is inside the mountain.	connected_home	Opening of the high-home passage.
+C88	Da kel sere höl, dar da kammeel sere kurt.	The chamber is high, but the rock cover is shallow.	connected_home	Literal cover thickness is short; elevation is a separate quantity.
+C89	Da drav dreve da rad.	The water flow powers the wheel.	connected_home	Industrial setting without universal electricity.
+C90	Vir have sombsel ak rötar.	We have fungal food and tubers.	connected_home	Food sources; no assertion of underground primary production.
+C91	Na da nerkelum sove da ner.	The child sleeps in the nursery.	connected_home	Location-first main clause.
+C92	Nu vare ek me da rukkorum.	Now I speak with the caregiver.	connected_home	Care role with explicit oblique phrase.
+C93	Ek have durfinrak.	I have a piece of dark fine-grained rock.	connected_sample	Count reading of the natural rock category.
+C94	Da rak sere darn ak spröd.	The rock is scratch-resistant and brittle.	connected_sample	Distinct physical properties.
+C95	Da gred af stalmenum sere ne vitet.	Its support-stone grade is not known.	connected_sample	Contextual referent, explicit unknown grade.
+C96	Ek fere tröven da trov.	I will test the sample.	connected_sample	Future action, not a fabricated result.
+C97	Eft fere ek skriven da döm.	Afterward I will write the decision.	connected_sample	Time constituent before finite auxiliary.
+C98	Nu mole vir ventren.	Now we must wait.	connected_sample	Positive obligation in a connected technical exchange.

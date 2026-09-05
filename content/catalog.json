@@ -1,0 +1,162 @@
+[
+  {
+    "id": "erde",
+    "title": "Erde",
+    "category": "worlds",
+    "description": "A reoriented planetary geography and an independent history of human and hobbit lineages.",
+    "kind": "World guide",
+    "file": "erde.md"
+  },
+  {
+    "id": "dverghamar",
+    "title": "Dverghamar",
+    "category": "worlds",
+    "description": "Permanent day, permanent night, and the twilight landscapes that sustain a living world.",
+    "kind": "World guide",
+    "file": "dverghamar.md"
+  },
+  {
+    "id": "hamarkorar",
+    "title": "The Hamarkorar",
+    "category": "peoples",
+    "description": "A diversified native dwarven genus, shaped by stone, climate and a six-limbed ancestry.",
+    "kind": "World guide",
+    "file": "hamarkorar.md"
+  },
+  {
+    "id": "thals",
+    "title": "The Thals",
+    "category": "peoples",
+    "description": "Erde’s surviving Neanderthal descendants and their later refuge on Dverghamar.",
+    "kind": "World guide",
+    "file": "thals.md"
+  },
+  {
+    "id": "otherworld",
+    "title": "The Otherworld and living worlds",
+    "category": "cosmology",
+    "description": "Crossings, spirits, souls and the continuing relationships that sustain planetary personhood.",
+    "kind": "World guide",
+    "file": "otherworld.md"
+  },
+  {
+    "id": "korvar",
+    "title": "Korvar and the language family",
+    "category": "language",
+    "description": "A common linguistic foundation with five regional traditions and literal, productive roots.",
+    "kind": "World guide",
+    "file": "korvar.md"
+  },
+  {
+    "id": "erde-atlas",
+    "title": "Maps of Erde",
+    "category": "maps",
+    "description": "Five sheets explore orientation, latitude, relief, ancestry and regional contact.",
+    "kind": "Atlas",
+    "file": "erde-atlas.md"
+  },
+  {
+    "id": "dverghamar-atlas",
+    "title": "Maps of Dverghamar",
+    "category": "maps",
+    "description": "Eight sheets explore twilight geometry, water, habitats and underground settlement.",
+    "kind": "Atlas",
+    "file": "dverghamar-atlas.md"
+  },
+  {
+    "id": "erde-reference",
+    "title": "Erde: history and lineage decisions",
+    "category": "worlds",
+    "description": "The detailed worldbuilding ledger, including regional histories and explicit revisions.",
+    "kind": "Decision reference",
+    "file": "erde-reference.md"
+  },
+  {
+    "id": "dverghamar-reference",
+    "title": "Dverghamar: scientific canon",
+    "category": "worlds",
+    "description": "Stellar setting, geology, atmosphere, food webs, settlement and the limits of the current model.",
+    "kind": "Decision reference",
+    "file": "dverghamar-reference.md"
+  },
+  {
+    "id": "evolution-reference",
+    "title": "Dwarven evolutionary history",
+    "category": "peoples",
+    "description": "Fourteen stages connect planetary formation, early life, six limbs and the native dwarven radiation.",
+    "kind": "Decision reference",
+    "file": "evolution-reference.md"
+  },
+  {
+    "id": "cosmology-reference",
+    "title": "Cosmology and planetary spirits",
+    "category": "cosmology",
+    "description": "The developed Otherworld and soul framework, with consent, integration and preservation rules.",
+    "kind": "Decision reference",
+    "file": "cosmology-reference.md"
+  },
+  {
+    "id": "language-foundation",
+    "title": "Identity, sound and word formation",
+    "category": "language",
+    "description": "From the complete language reference edition 1.1.",
+    "kind": "Language reference",
+    "file": "language-foundation.md"
+  },
+  {
+    "id": "language-grammar",
+    "title": "The common grammar",
+    "category": "language",
+    "description": "From the complete language reference edition 1.1.",
+    "kind": "Language reference",
+    "file": "language-grammar.md"
+  },
+  {
+    "id": "language-materials",
+    "title": "Stone and material vocabulary",
+    "category": "language",
+    "description": "From the complete language reference edition 1.1.",
+    "kind": "Language reference",
+    "file": "language-materials.md"
+  },
+  {
+    "id": "language-family",
+    "title": "Five regional languages",
+    "category": "language",
+    "description": "From the complete language reference edition 1.1.",
+    "kind": "Language reference",
+    "file": "language-family.md"
+  },
+  {
+    "id": "language-writing",
+    "title": "Writing, numbers and everyday use",
+    "category": "language",
+    "description": "From the complete language reference edition 1.1.",
+    "kind": "Language reference",
+    "file": "language-writing.md"
+  },
+  {
+    "id": "language-examples",
+    "title": "Korvar in use",
+    "category": "language",
+    "description": "Ninety-eight translated examples, including everyday exchanges and connected passages.",
+    "kind": "Language reference",
+    "file": "language-examples.md"
+  },
+  {
+    "id": "map-methods",
+    "title": "Atlas methods and limitations",
+    "category": "maps",
+    "description": "Coordinate conventions, source scope and the distinction between selected geometry and schematic placement.",
+    "kind": "Atlas reference",
+    "file": "map-methods.md"
+  },
+  {
+    "id": "wildlife-questions",
+    "title": "Wildlife and open biological questions",
+    "category": "peoples",
+    "description": "The branching map for future wildlife, reproductive details and unresolved biological design.",
+    "kind": "Open questions",
+    "file": "wildlife-questions.md"
+  }
+]

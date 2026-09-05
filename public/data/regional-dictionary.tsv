@@ -1,0 +1,572 @@
+common	pos	meaning	massif	ridge	basin	night	warm
+kam	N	continuous bedrock; rock in place	kam	kam	kam	kam	kam
+rak	N	natural rock material or an unworked rock piece	rak	rak	rak	rak	rak
+men	N	stone selected as material for shaping	men	men	men	men	men
+hamar	N	crag; large exposed rock mass; inherited hammer sense	hamar	hamar	hamar	hamar	amar
+kor	N	person	kor	kor	kor	kor	kor
+kel	N	sheltered interior; chamber	kel	kel	kel	kel	kel
+stal	N	supporting frame or load-bearing arrangement	stal	stal	stal	stal	stal
+klak	N	fitted stone piece; the close joint it forms	klak	klak	klak	klak	klak
+var	N	speech; an utterance	var	var	var	far	var
+drav	N	water flow considered as current or supply	drav	drav	drav	drav	drav
+ner	N	dependent young individual	ner	ner	ner	ner	ner
+lut	N	usable warmth	lut	lut	lut	lut	lut
+sel	N	nourishment; food provision	sel	sel	sel	sel	sel
+grem	N	sustained physical effort against resistance	grem	grem	grem	grem	grem
+menkor	N	member of a reserved narrower native people; exact regional, cultural or species assignment open	menkor	menkor	menkor	menkor	menkor
+kelir	N	interior-dweller	kelir	kelir	kelir	kelir	kelir
+menir	N	stoneworker	menir	menir	menir	menir	menir
+kelkor	N	member or resident of a chamber-household	kelkor	kelkor	kelkor	kelkor	kelkor
+korvar	N	public/common speech; Common Dwarven	korvar	korvar	korvar	korvar	korvar
+menkorvar	N	reserved name for a possible Menkor community language	menkorvar	menkorvar	menkorvar	menkorvar	menkorvar
+karnir	N	builder	karnir	karnir	karnir	karnir	karnir
+menek	N	dressed stone piece	menek	menek	menek	menek	menek
+menet	N	stoneworking workshop	menet	menet	menet	menet	menet
+menad	N	stoneworking as an activity or craft	menad	menad	menad	menat	menad
+karnad	N	building activity	karnad	karnad	karnad	karnat	karnad
+nerkel	N	nursery chamber	nerkel	nerkel	nerkel	nerkel	nerkel
+menkel	N	chamber made or lined with worked stone	menkel	menkel	menkel	menkel	menkel
+dravkel	N	water chamber; cistern	dravkel	dravkel	dravkel	dravkel	dravkel
+lutkel	N	warming chamber	lutkel	lutkel	lutkel	lutkel	lutkel
+handhamar	N	hand hammer	handhamar	handhamar	handhamar	handhamar	andhamar
+dravhamar	N	water-powered hammer	dravhamar	dravhamar	dravhamar	dravhamar	dravhamar
+rakhamar	N	hammer for breaking rock	rakhamar	rakhamar	rakhamar	rakhamar	rakhamar
+menhamar	N	stone-dressing hammer	menhamar	menhamar	menhamar	menhamar	menhamar
+kamhamar	N	bedrock-cutting percussion mechanism	kamhamar	kamhamar	kamhamar	kamhamar	kamhamar
+hamarkel	N	chamber within a crag	hamarkel	hamarkel	hamarkel	hamarkel	amarkel
+kamkel	N	chamber excavated in bedrock	kamkel	kamkel	kamkel	kamkel	kamkel
+rakstal	N	retained-rock support structure	rakstal	rakstal	rakstal	rakstal	rakstal
+klakmen	N	stone selected for closely fitted masonry	klakmen	klakmen	klakmen	klakmen	klakmen
+dur	ADJ	dark in visible color	dur	dur	dur	dur	dur
+bel	ADJ	pale or light in visible color	bel	bel	bel	bel	bel
+rod	ADJ	red or rusty-red in color	rod	rod	rod	rot	rod
+gral	ADJ	gray in color	gral	gral	gral	gral	gral
+blav	ADJ	blue in color	blav	blav	blav	blav	blav
+grön	ADJ	green in color	grön	gren	grön	gron	gren
+fin	ADJ	fine-grained; individual grains not readily resolved by eye	fin	fin	fin	fin	fin
+gröl	ADJ	coarse-grained; grains readily individually visible	gröl	grel	gröl	grol	grel
+darn	ADJ	resistant to scratching by the stated comparator	darn	darn	darn	darn	darn
+möl	ADJ	readily scratched or indented by the stated comparator	möl	mel	möl	mol	mel
+treg	ADJ	resisting crack propagation under the stated impact	treg	treg	treg	trek	treg
+spröd	ADJ	readily fractured into pieces under impact	spröd	spred	spröd	sprot	spred
+glad	ADJ	smooth-surfaced	glad	glad	glad	glat	glad
+skarf	ADJ	sharp-edged	skarf	skarf	skarf	skarf	skarf
+rög	ADJ	rough-surfaced	rög	reg	rög	rok	reg
+vaat	ADJ	wet	vaat	vaat	vaat	faat	vaat
+tör	ADJ	dry at observation	tör	ter	tör	tor	ter
+tett	ADJ	closely packed; apparently dense	tett	tett	tett	tett	tett
+hol	ADJ	hollow	hol	hol	hol	hol	ol
+por	N	pore; small void	por	por	por	por	por
+gren	N	grain within a material	gren	gren	gren	gren	gren
+kris	N	crystal; visibly ordered crystal body	kris	kris	kris	kris	kris
+lag	N	layer or bed	lag	lag	lag	lak	lag
+band	N	band distinguished by texture or composition	band	band	band	bant	band
+flak	N	thin plate or flake	flak	flak	flak	flak	flak
+splet	N	fracture or split	splet	splet	splet	splet	splet
+riss	N	narrow crack	riss	riss	riss	riss	riss
+rund	ADJ	rounded	rund	rund	rund	runt	rund
+kant	ADJ	angular in outline	kant	kant	kant	kant	kant
+glim	ADJ	reflective; sparkling on the observed face	glim	glim	glim	glim	glim
+glas	N	glass; noncrystalline glassy material	glas	glas	glas	glas	glas
+sal	N	soluble mineral salt; salt deposit	sal	sal	sal	sal	sal
+gisp	N	soft sulfate stone of the identified gypsum family	gisp	gisp	gisp	gisp	gisp
+kalm	N	identified carbonate-rich mineral material	kalm	kalm	kalm	kalm	kalm
+kvir	N	identified quartz-family silica crystal material	kvir	kvir	kvir	kvir	kvir
+jern	N	iron as a metal	jern	jern	jern	jern	jern
+kubr	N	copper as a metal	kubr	kubr	kubr	kubr	kubr
+tin	N	tin as a metal	tin	tin	tin	tin	tin
+bly	N	lead as a metal	bly	bli	bly	blu	bli
+sulv	N	identified sulfur-bearing mineral matter	sulv	sulv	sulv	sulv	sulv
+mal	N	mineral-bearing material worth processing under stated conditions	mal	mal	mal	mal	mal
+kol	N	carbon-rich combustible material	kol	kol	kol	kol	kol
+dul	N	loose mineral earth; unconsolidated ground material	dul	dul	dul	dul	dul
+sarn	N	sand-sized loose grains	sarn	sarn	sarn	sarn	sarn
+silm	N	silt-sized loose mineral grains	silm	silm	silm	silm	silm
+lem	N	clay-rich fine earth with stated plastic behavior	lem	lem	lem	lem	lem
+grust	N	gravel; loose small stones	grust	grust	grust	grust	grust
+skel	N	shell; enclosing shell-like layer	skel	shel	skel	skel	skel
+esk	N	ash-sized particulate deposit	esk	esk	esk	esk	esk
+jörm	N	biologically active soil used by rooted producers	jörm	jerm	jörm	jorm	jerm
+slik	N	wet deposited sediment; mud slurry	slik	slik	slik	slik	slik
+brak	N	broken rock debris; rubble	brak	brak	brak	brak	brak
+veir	N	mineral-filled fracture or vein	veir	veir	veir	feir	veir
+eld	N	flame; combustion fire	eld	eld	eld	elt	eld
+smelt	N	melted material	smelt	smelt	smelt	smelt	smelt
+trykk	N	pressure or imposed compressive loading	trykk	trikk	trykk	trukk	trikk
+last	N	mechanical load	last	last	last	last	last
+vörk	N	mass measurement in the standard register	vörk	verk	vörk	fork	verk
+rom	N	volume; occupied three-dimensional space	rom	rom	rom	rom	rom
+mer	ADV	more; comparative marker	mer	mer	mer	mer	mer
+mest	ADV	most; superlative marker	mest	mest	mest	mest	mest
+mer	N	conventional unit of length	mer	mer	mer	mer	mer
+kap	N	standardized vessel unit of capacity	kap	kap	kap	kap	kap
+vek	N	conventional unit of mass	vek	vek	vek	fek	vek
+tik	N	short counted time unit	tik	tik	tik	tik	tik
+takt	N	scheduled work/rest time cycle	takt	takt	takt	takt	takt
+tid	N	time; duration	tid	tid	tid	tit	tid
+sek	N	ordered sequence; numbered series	sek	sek	sek	sek	sek
+tal	PART	reported; evidence marker	tal	tal	tal	tal	tal
+vis	PART	observed; evidence marker	vis	vis	vis	fis	vis
+ren	PART	inferred; evidence marker	ren	ren	ren	ren	ren
+vas	N	water	vas	brin	löm	ilm	es
+is	N	ice	is	is	is	is	is
+sjö	N	lake	sjö	sje	sjö	sjo	sje
+bek	N	small river or stream channel	bek	bek	bek	bek	bek
+dal	N	valley	dal	dal	dal	dal	dal
+rygg	N	ridge	rygg	rigg	rygg	rugk	rigg
+berg	N	mountain or mountain body	berg	berg	berg	berk	berg
+bas	N	closed or open topographic basin	bas	bas	bas	bas	bas
+sol	N	star as the visible source of daylight	sol	sol	sol	sol	sol
+natt	N	permanent dark-side environment	natt	natt	natt	natt	natt
+skum	N	twilight or low-angle illuminated belt environment	skum	skum	skum	skum	skum
+vindr	N	wind; moving air outdoors	vindr	vindr	vindr	findr	vindr
+luft	N	air; gaseous atmosphere in a space	luft	luft	luft	luft	luft
+damp	N	vapor or steam in the stated context	damp	damp	damp	damp	damp
+rök	N	smoke	rök	rek	rök	rok	rek
+gas	N	gas as a material state or gaseous substance	gas	gas	gas	gas	gas
+stöv	N	suspended or settled fine dust	stöv	stev	stöv	stov	stev
+reg	N	rule; agreed instruction	reg	reg	reg	rek	reg
+veg	N	route; passage used for travel	veg	trenn	dravveg	fek	veg
+bröv	N	bridge	bröv	brev	bröv	brov	brev
+trepp	N	stair or stepped passage	trepp	trepp	trepp	trepp	trepp
+dor	N	door; closable entrance	dor	dor	dor	dor	dor
+vegn	N	wall	vegn	vegn	vegn	fegn	vegn
+gulm	N	floor	gulm	gulm	gulm	gulm	gulm
+tekk	N	roof or overhead covering	tekk	tekk	tekk	tekk	tekk
+söl	N	pillar	söl	sel	söl	sol	sel
+gang	N	tunnel or corridor	gang	gang	gang	gank	gang
+brunn	N	well or vertical water access	brunn	brunn	brunn	brunn	brunn
+sjakt	N	excavated shaft	sjakt	sjakt	sjakt	sjakt	sjakt
+rad	N	wheel	rad	rad	rad	rat	rad
+tarn	N	tooth; gear tooth in compounds	tarn	tarn	tarn	tarn	tarn
+aks	N	rotating axle or shaft	aks	aks	aks	aks	aks
+relm	N	transmission belt or strap	relm	relm	relm	relm	relm
+kavrel	N	cable or heavy flexible line	kavrel	kavrel	kavrel	kavrel	kavrel
+porm	N	pump	porm	porm	porm	porm	porm
+vent	N	valve or controllable flow opening	vent	vent	vent	fent	vent
+röl	N	pipe; enclosed conduit	röl	rel	röl	rol	rel
+sil	N	sieve or filter	sil	sil	sil	sil	sil
+falm	N	air-moving fan	falm	falm	falm	falm	falm
+motor	N	engine or motor converting a supplied energy source to motion	motor	motor	modor	motor	motor
+kravt	N	usable power in technical rate-of-work sense	kravt	kravt	kravt	kravt	kravt
+ener	N	energy; capacity accounted for through work and heat transfer	ener	ener	ener	ener	ener
+gnist	N	electric discharge spark; electricity in early ordinary usage	gnist	gnist	gnist	gnist	gnist
+traad	N	wire or thread	traad	traad	traad	traat	traad
+spenn	N	electrical potential difference in technical usage	spenn	spenn	spenn	spenn	spenn
+straum	N	electric current in technical usage	straum	straum	straum	straum	straum
+mot	N	electrical resistance in technical usage	mot	mot	mot	mot	mot
+skelm	N	rail guiding a vehicle	skelm	shelm	skelm	skelm	skelm
+vögn	N	wagon or rail carriage	vögn	vegn	vögn	fogn	vegn
+sivar	N	deliberately transmitted sign or signal	sivar	sivar	sivar	sivar	sivar
+mark	N	written mark; identifying label	mark	mark	mark	mark	mark
+bök	N	bound record or book	bök	bek	bök	bok	bek
+blet	N	sheet; leaflike flat piece	blet	blet	blet	blet	blet
+pren	N	writing implement	pren	pren	pren	pren	pren
+keldar	N	map	keldar	keldar	keldar	keldar	keldar
+narv	N	name	narv	narv	narv	narv	narv
+orn	N	word or lexical item	orn	orn	orn	orn	orn
+lym	N	sound	lym	lim	lym	lum	lim
+stav	N	script letter; straight rod in a separate physical sense	stav	stav	stav	stav	stav
+glos	N	defined meaning in a glossary	glos	glos	glos	glos	glos
+gred	N	tested grade or specified class	gred	gred	gred	gret	gred
+tröv	N	test or trial	tröv	trev	tröv	pran	trev
+trov	N	sample or specimen	trov	trov	trov	trov	trov
+meel	N	measured magnitude; target dimension	meel	meel	meel	meel	meel
+fevn	N	error; mismatch with a stated requirement	fevn	fevn	fevn	fevn	fevn
+del	N	part; share	del	del	del	del	del
+hand	N	hand	hand	hand	hand	hant	and
+arn	N	arm	arn	arn	arn	arn	arn
+fot	N	foot	fot	fot	fot	fot	fot
+delm	N	leg	delm	delm	delm	delm	delm
+ög	N	eye	ög	eg	ög	ok	eg
+hör	N	ear	hör	her	hör	hor	er
+mur	N	mouth	mur	mur	mur	mur	mur
+hul	N	outer skin or body covering	hul	hul	hul	hul	ul
+bern	N	internal skeletal support element	bern	bern	bern	bern	bern
+brol	N	circulating nutritive/respiratory fluid	brol	brol	brol	brol	brol
+hjar	N	pumping circulatory organ	hjar	hjar	hjar	hjar	jar
+lun	N	gas-exchange organ in a broad functional translation	lun	lun	lun	lun	lun
+egg	N	true reproductive egg	egg	egg	egg	egk	egg
+egghul	N	egg membrane	egghul	egghul	egghul	egghul	egghul
+eggskel	N	egg's own shell	eggskel	eggshel	eggskel	eggskel	eggskel
+nerskel	N	constructed protective brood casing	nerskel	nershel	nerskel	nerskel	nerskel
+nerpor	N	managed ventilation pore in a brood casing	nerpor	nerpor	nerpor	nerpor	nerpor
+nerstal	N	structural framework of a brood casing	nerstal	nerstal	nerstal	nerstal	nerstal
+neret	N	dedicated incubation/care site	neret	neret	neret	neret	neret
+rinn	N	reproductive parent	rinn	rinn	rinn	rinn	rinn
+rukkor	N	caregiver responsible for protection and maintenance	rukkor	rukkor	rukkor	rukkor	rukkor
+selkor	N	person providing nourishment	selkor	selkor	selkor	selkor	selkor
+fost	N	fostered young or fostering relationship	fost	fost	fost	fost	fost
+fröm	N	friend	närkor	meld	brek	hunn	dril
+felag	N	cooperating group or association	felag	felag	felag	felak	felag
+helm	N	home; one's place of residence	kelheim	bergkel	helm	lutheim	skuggkel
+seld	N	sleeping platform or bed	seld	seld	seld	selt	seld
+duk	N	cloth; flexible woven covering	duk	duk	duk	duk	duk
+kläd	N	clothing	kläd	kläd	kläd	klet	kläd
+mard	N	prepared meal	selmat	mard	salm	nurm	nerm
+röt	N	storage root or tuber as food	röt	ret	röt	rot	ret
+somb	N	fungus-like decomposer or its cultivated food body	somb	somb	somb	somp	somb
+grölm	N	cultivated crop	grölm	grelm	grölm	grolm	grelm
+frö	N	dispersal/reproductive propagule of a cultivated producer	frö	fre	frö	fro	fre
+grö	N	edible green producer tissue	grö	gre	grö	gro	gre
+fesk	N	aquatic swimming animal used as food	fesk	fesk	fesk	fesk	fesk
+dyl	N	animal	dyl	dil	dyl	dul	dil
+mik	N	microscopic living organism	mik	mik	mik	mik	mik
+lir	N	life; living state	lir	lir	lir	lir	lir
+rest	N	remainder; residue	rest	rest	rest	rest	rest
+skarn	N	discarded waste requiring handling	skarn	skarn	skarn	skarn	skarn
+prid	N	agreed price	prid	prid	prid	prit	prid
+byt	N	exchange; traded lot	byt	bit	byt	but	bit
+myrk	N	token used as currency	myrk	mirk	myrk	murk	mirk
+felagkor	N	member of a cooperating work group	felagkor	felagkor	felagkor	felagkor	felagkor
+döm	N	judgment or decision	döm	dem	döm	dom	dem
+rett	ADJ	correct or conforming to the stated rule	rett	rett	rett	rett	rett
+fri	ADJ	free; unconfined or uncommitted in the stated respect	fri	fri	fri	fri	fri
+när	ADJ	near	när	när	när	ner	när
+fjär	ADJ	far	fjär	fjär	fjär	fjer	fjär
+storr	ADJ	large	storr	storr	storr	storr	storr
+lenn	ADJ	small	lenn	lenn	lenn	lenn	lenn
+larn	ADJ	long	larn	larn	larn	larn	larn
+kurt	ADJ	short in length or duration	kurt	kurt	kurt	kurt	kurt
+höl	ADJ	high in elevation	höl	hel	höl	upik	el
+dypp	ADJ	deep beneath a specified surface	dypp	dipp	dypp	dupp	dipp
+keld	ADJ	cold	keld	keld	keld	kelt	keld
+helt	ADJ	hot	helt	helt	helt	helt	elt
+nyr	ADJ	new	nyr	nir	nyr	nur	nir
+galm	ADJ	old	galm	galm	galm	galm	galm
+göd	ADJ	good for the stated purpose	göd	ged	göd	got	ged
+ond	ADJ	bad or harmful in the stated respect	ond	ond	ond	ont	ond
+gläd	ADJ	glad; pleased	gläd	gläd	gläd	glet	gläd
+sorg	N	sadness; grief	sorg	sorg	sorg	sork	sorg
+räld	ADJ	afraid	räld	räld	räld	relt	räld
+arg	ADJ	angry	arg	arg	arg	ark	arg
+trölt	ADJ	tired	trölt	trelt	trölt	trolt	trelt
+suld	N	hunger	suld	suld	suld	sult	suld
+törs	N	thirst	törs	ters	törs	tors	ters
+röm	N	rest; quiet interval	still	hild	röm	filt	sall
+spel	N	game; play	spel	spel	spel	spel	spel
+sang	N	song	sang	sang	sang	sank	sang
+dans	N	dance	dans	dans	dans	dans	dans
+geev	N	gift	geev	geev	geev	geev	geev
+mern	N	memory; remembered item	mern	mern	mern	mern	mern
+tönk	N	thought; considered idea	tönk	tenk	tönk	tonk	tenk
+viss	ADJ	certain according to the speaker	viss	viss	viss	fiss	viss
+ting	N	thing; unspecified object	ting	ting	ting	tink	ting
+seren	V	be; exist as or have a stated property	seren	seren	seren	seren	seran
+haven	V	have; possess; perfect auxiliary	haven	haven	haven	haven	avan
+veren	V	become; event-passive auxiliary	veren	veren	veren	feren	veran
+karnen	V	build by joining parts into a stable whole	karnen	karnen	karnen	karnen	karnan
+menen	V	dress or work stone	menen	menen	menen	menen	menan
+varen	V	speak; say	varen	varen	varen	faren	varan
+selen	V	feed; provide nourishment to	selen	selen	selen	selen	selan
+eten	V	eat	eten	eten	eden	eten	etan
+driken	V	drink	driken	driken	drigen	driken	drikan
+gremen	V	exert sustained physical effort	gremen	gremen	gremen	gremen	greman
+helpen	V	help	helpen	helpen	helpen	helpen	elpan
+kopen	V	buy	kopen	kopen	koben	kopen	kopan
+salen	V	sell	salen	salen	salen	salen	salan
+byten	V	exchange	byten	biten	byden	buten	bitan
+given	V	give	given	given	given	given	givan
+taken	V	take	taken	taken	tagen	taken	takan
+bären	V	carry	bären	bären	bären	beren	bäran
+seten	V	set or place	seten	seten	seden	seten	setan
+open	V	open	open	open	oben	open	opan
+luken	V	close	luken	luken	lugen	luken	lukan
+stanen	V	stop; cease moving or operating	stanen	stanen	stanen	stanen	stanan
+stopen	V	stop an object or process	stopen	stopen	stoben	stopen	stopan
+dreven	V	drive or power a mechanism	dreven	dreven	dreven	dreven	drevan
+pomen	V	pump	pomen	pomen	pomen	pomen	poman
+silen	V	filter	silen	silen	silen	silen	silan
+venten	V	ventilate or regulate an air flow	venten	venten	venten	fenten	ventan
+branen	V	burn; consume by combustion	branen	branen	branen	branen	branan
+smelten	V	melt a material	smelten	smelten	smelten	smelten	smeltan
+kölen	V	cool	kölen	kelen	kölen	kolen	kelan
+luten	V	warm something to a useful temperature	luten	luten	luden	luten	lutan
+rissen	V	crack or split an object	rissen	rissen	rissen	rissen	rissan
+tröven	V	test under stated conditions	tröven	treven	tröven	pranen	trevan
+meelen	V	measure	meelen	meelen	meelen	meelen	meelan
+merken	V	mark; label	merken	merken	merken	merken	merkan
+skriven	V	write	skriven	skriven	skriven	skriven	skrivan
+lesen	V	read	lesen	lesen	lesen	lesen	lesan
+hören	V	hear	hören	heren	hören	horen	eran
+seen	V	see	seen	seen	seen	seen	sean
+viten	V	know a fact or answer	viten	viten	viden	fiten	vitan
+kennen	V	know or be familiar with a person/place	kennen	kennen	kennen	kennen	kennan
+tönken	V	think; consider	tönken	tenken	tönken	tonken	tenkan
+mernen	V	remember	mernen	mernen	mernen	mernen	mernan
+leren	V	learn	leren	leren	leren	leren	leran
+lären	V	teach	lären	lären	lären	tiren	läran
+spören	V	ask	spören	frägen	spören	sporen	frägan
+svaren	V	answer	svaren	svaren	svaren	svaren	svaran
+feren	V	move forward; prospective future auxiliary	feren	feren	feren	feren	feran
+komen	V	come	komen	komen	komen	komen	koman
+garen	V	go; travel	vaden	garen	segen	garen	garan
+klimen	V	climb	klimen	klimen	klimen	klimen	kliman
+löpen	V	run	löpen	lepen	löben	lopen	lepan
+svimen	V	swim	svimen	svimen	svimen	svimen	sviman
+soven	V	sleep	soven	soven	soven	soven	sovan
+vaken	V	wake; become awake	vaken	vaken	vagen	faken	vakan
+vilen	V	rest	vilen	vilen	vilen	filen	vilan
+leven	V	live; be alive	leven	leven	leven	leven	levan
+döen	V	die	döen	deen	döen	doen	dean
+voksen	V	grow; increase in body size	voksen	voksen	voksen	foksen	voksan
+ruken	V	protect and maintain care of	ruken	ruken	rugen	ruken	rukan
+halten	V	hold; keep physically in place	halten	halten	halten	halten	altan
+vasken	V	wash	vasken	vashen	vasken	fasken	vaskan
+sorgen	V	grieve; feel sadness	sorgen	sorgen	sorgen	sorgen	sorgan
+lahen	V	laugh	lahen	lahen	lahen	lahen	lahan
+liken	V	like; enjoy	liken	liken	ligen	liken	likan
+elsken	V	love	elsken	elshen	elsken	elsken	elskan
+frykten	V	fear	frykten	frikten	frykten	frukten	friktan
+haapen	V	hope	haapen	haapen	haaben	haapen	aapan
+spelen	V	play	spelen	spelen	spelen	spelen	spelan
+sangen	V	sing	sangen	sangen	sangen	sangen	sangan
+dansen	V	dance	dansen	dansen	dansen	dansen	dansan
+velen	V	want	velen	velen	velen	felen	velan
+magen	V	be able to	magen	magen	magen	magen	magan
+molen	V	be required or obliged to	molen	molen	molen	molen	molan
+loven	V	permit	loven	loven	loven	loven	lovan
+bannen	V	prohibit	bannen	bannen	bannen	bannen	bannan
+stilen	V	remain silent	stilen	stilen	stilen	stilen	stilan
+begnen	V	begin an activity	begnen	begnen	begnen	begnen	begnan
+telen	V	finish an activity or object	telen	telen	telen	telen	telan
+ventren	V	wait	ventren	ventren	ventren	fentren	ventran
+betalen	V	pay	betalen	betalen	bedalen	betalen	betalan
+ek	PRON	I	ek	ek	ek	ek	ek
+du	PRON	you singular	du	du	du	du	du
+sa	PRON	third-person singular	sa	sa	sa	sa	sa
+vir	PRON	we	vir	vir	vir	fir	vir
+jir	PRON	you plural	jir	jir	jir	jir	jir
+sar	PRON	they plural	sar	sar	sar	sar	sar
+si	PRON	clause-local reflexive	si	si	si	si	si
+di	DET	this or these; proximal demonstrative	di	di	di	di	di
+dan	DET	that or those; distal demonstrative	dan	dan	dan	dan	dan
+da	DET	the	da	da	da	da	da
+ald	DET	all	ald	ald	ald	alt	ald
+sum	DET	some	sum	sum	sum	sum	sum
+neng	DET	no; none as a quantity	neng	neng	neng	nenk	neng
+tel	ADJ	complete; whole	tel	tel	tel	tel	tel
+sam	ADJ	same; equal	sam	sam	sam	sam	sam
+as	CONJ	as; equal-comparison linker	as	as	as	as	as
+ak	CONJ	and	ak	ak	ak	ak	ak
+el	CONJ	or	el	el	el	el	el
+dar	CONJ	but	dar	dar	dar	dar	dar
+ke	CONJ	that introducing a statement clause	ke	ke	ke	ke	ke
+se	CONJ	whether introducing a content question	se	se	se	se	se
+vel	CONJ	if	vel	vel	vel	fel	vel
+den	CONJ	because	den	den	den	den	den
+tan	CONJ	when introducing a time clause	tan	tan	tan	tan	tan
+bis	CONJ	until	bis	bis	bis	bis	bis
+sav	CONJ	although	sav	sav	sav	sav	sav
+ri	REL	relative clause linker	ri	ki	ri	ri	ri
+te	PART	purpose or infinitive linker	te	te	te	te	te
+tem	PART	as for; explicit outside-clause topic	tem	tem	tem	tem	tem
+ne	PART	clause negation; not	ne	ne	ne	ne	ne
+vu	PART	counterfactual operator	vu	vu	vu	fu	vu
+mut	PART	reciprocal marker after a plural object pronoun	mut	mut	mut	mut	mut
+vis	N	an observation as a recorded item	vis	vis	vis	fis	vis
+ja	RESP	yes	ja	ja	ja	ja	ja
+no	RESP	no as an answer	no	no	no	no	no
+bitte	PART	please	bitte	bitte	bitte	bitte	bitte
+takk	N	thanks; gratitude	takk	takk	takk	takk	takk
+hei	RESP	hello; greeting	hei	hei	hei	hei	ei
+farvel	RESP	farewell	farvel	farvel	farvel	farvel	farvel
+nu	ADV	now	nu	nu	nu	nu	nu
+jev	ADV	already	jev	jev	jev	jev	jev
+nal	ADV	still	nal	nal	nal	nal	nal
+rev	ADV	again	rev	rev	rev	rev	rev
+oft	ADV	often	oft	oft	oft	oft	oft
+ven	ADV	perhaps	ven	ven	ven	fen	ven
+för	ADV	before; earlier	för	fer	för	for	fer
+eft	ADV	after; later	eft	eft	eft	eft	eft
+her	ADV	here	her	her	her	her	er
+hor	Q	where	hor	hor	hor	hor	or
+van	Q	when	van	van	van	fan	van
+hve	Q	who	hve	hve	hve	hve	ve
+hvat	Q	what	hvat	hvat	hvat	hvat	vat
+virke	Q	why	virke	virke	virke	firke	virke
+ham	Q	how	ham	ham	ham	ham	am
+na	PREP	inside; within at rest	na	na	na	na	na
+in	PREP	into	in	in	in	in	in
+ut	PREP	out of	ut	ut	ut	ut	ut
+su	PREP	on	su	su	su	su	su
+un	PREP	beneath	un	un	un	un	un
+til	PREP	to; toward; recipient	til	til	til	til	til
+fra	PREP	from; source	fra	fra	fra	fra	fra
+me	PREP	with; by means of	me	me	me	me	me
+af	PREP	of; association; passive agent	af	af	af	af	af
+an	PREP	beside	an	an	an	an	an
+dor	PREP	through	dor	dor	dor	dor	dor
+up	ADV	up	up	up	up	up	up
+ned	ADV	down	ned	ned	ned	net	ned
+vard	BOUND	toward a named direction or reference	vard	vard	vard	fart	vard
+solvard	ADV	sunward	solvard	solvard	solvard	solvart	solvard
+nattvard	ADV	nightward	nattvard	nattvard	nattvard	nattvart	nattvard
+kamvard	ADV	farther into rock	kamvard	kamvard	kamvard	kamvart	kamvard
+utvard	ADV	toward exterior exposure	utvard	utvard	utvard	utvart	utvard
+upvard	ADV	upward	upvard	upvard	upvard	upvart	upvard
+nedvard	ADV	downward	nedvard	nedvard	nedvard	nedvart	nedvard
+nul	NUM	zero	nul	nul	nul	nul	nul
+en	NUM	one	en	en	en	en	en
+tor	NUM	two	tor	tor	tor	tor	tor
+trel	NUM	three	trel	trel	trel	trel	trel
+fadur	NUM	four	fadur	fadur	fadur	fadur	fadhur
+fim	NUM	five	fim	fim	fim	fim	fim
+sek	NUM	six	sek	sek	sek	sek	sek
+siv	NUM	seven	siv	siv	siv	siv	siv
+okt	NUM	eight	okt	okt	okt	okt	okt
+niv	NUM	nine	niv	niv	niv	niv	niv
+dek	NUM	ten	dek	dek	dek	dek	dek
+hund	NUM	hundred	hund	hund	hund	hunt	und
+tus	NUM	thousand	tus	tus	tus	tus	tus
+mil	NUM	million	mil	mil	mil	mil	mil
+punkt	N	decimal point; geometric point in a distinct sense	punkt	punkt	punkt	punkt	punkt
+av	PART	over; ratio/fraction separator	av	av	av	av	av
+plus	PART	plus	plus	plus	plus	plus	plus
+minus	PART	minus; negative sign	minus	minus	minus	minus	minus
+ram	N	fixed reference datum or frame	ram	ram	ram	ram	ram
+dekad	N	ten-unit group or decade of a stated count	dekad	dekad	degad	dekat	dekad
+svel	N	swelling in response to wetting or another specified cause	svel	svel	svel	svel	svel
+svelen	V	swell; increase bulk in response to specified conditions	svelen	svelen	svelen	svelen	svelan
+lös	N	dissolution in a specified liquid	lös	los	lös	los	los
+lösen	V	dissolve a material in a stated liquid	lösen	losen	lösen	losen	losan
+väv	N	interconnected mesh or cellular framework	väv	väv	väv	fev	väv
+skumljus	N	usable twilight illumination	skumljus	skumljus	skumljus	skumljus	skumljus
+ljus	N	light; illumination	ljus	ljus	ljus	ljus	ljus
+skugg	N	shadow cast by terrain or an object	skugg	skugg	skugg	skugk	skugg
+dröp	N	liquid droplet	dröp	drep	dröp	drop	drep
+revn	N	open fissure; wider rock discontinuity	revn	revn	revn	revn	revn
+glid	N	slip along a surface	glid	glid	glid	glit	glid
+gliden	V	slide along a surface	gliden	gliden	gliden	gliden	glidhan
+klem	N	clamp or gripping fixture	klem	klem	klem	klem	klem
+klemmen	V	clamp or grip an object	klemmen	klemmen	klemmen	klemmen	klemman
+sper	N	barrier preventing passage or flow	sper	sper	sper	sper	sper
+speren	V	block a passage or flow	speren	speren	speren	speren	speran
+tröm	N	flow rate as a measured quantity	tröm	trem	tröm	trom	trem
+hölram	N	elevation reference datum	hölram	helram	hölram	holram	elram
+kammeel	N	thickness of rock cover above a point	kammeel	kammeel	kammeel	kammeel	kammeel
+luftmeel	N	measured air quantity or condition with parameter specified	luftmeel	luftmeel	luftmeel	luftmeel	luftmeel
+durfinrak	N	dark fine-grained rock	durfinrak	durfinrak	durfinrak	durfinrak	durfinrak
+belfinrak	N	pale fine-grained rock	belfinrak	belfinrak	belfinrak	belfinrak	belfinrak
+durgrölrak	N	dark coarse-grained rock	durgrölrak	durgrelrak	durgrölrak	durgrolrak	durgrelrak
+belgrölrak	N	pale coarse-grained rock	belgrölrak	belgrelrak	belgrölrak	belgrolrak	belgrelrak
+gralrak	N	gray rock	gralrak	gralrak	gralrak	gralrak	gralrak
+rodrak	N	red-stained or red-colored rock	rodrak	rodrak	rodrak	rodrak	rodrak
+grönrak	N	green-colored rock	grönrak	grenrak	grönrak	gronrak	grenrak
+darnrak	N	rock with stated scratch resistance	darnrak	darnrak	darnrak	darnrak	darnrak
+mölrak	N	readily scratched or indented rock	mölrak	melrak	mölrak	molrak	melrak
+tregrak	N	rock resistant to crack propagation under the stated impact	tregrak	tregrak	tregrak	tregrak	tregrak
+sprödrak	N	rock readily fractured by impact	sprödrak	spredrak	sprödrak	sprodrak	spredrak
+flakrak	N	rock splitting or occurring in thin plates	flakrak	flakrak	flakrak	flakrak	flakrak
+lagrak	N	distinctly layered rock	lagrak	lagrak	lagrak	lagrak	lagrak
+bandrak	N	visibly banded rock	bandrak	bandrak	bandrak	bandrak	bandrak
+grenrak	N	rock visibly made of separate grains	grenrak	grenrak	grenrak	grenrak	grenrak
+krisrak	N	rock with conspicuous interlocking crystals	krisrak	krisrak	krisrak	krisrak	krisrak
+glasrak	N	glassy rock	glasrak	glasrak	glasrak	glasrak	glasrak
+porrak	N	rock containing conspicuous pores or vesicles	porrak	porrak	porrak	porrak	porrak
+tettkam	N	apparently close-packed bedrock	tettkam	tettkam	tettkam	tettkam	tettkam
+risskam	N	bedrock with narrow fractures	risskam	risskam	risskam	risskam	risskam
+revnkam	N	bedrock with open fissures	revnkam	revnkam	revnkam	revnkam	revnkam
+veirkam	N	veined bedrock	veirkam	veirkam	veirkam	feirkam	veirkam
+glimrak	N	rock with sparkling reflective surfaces	glimrak	glimrak	glimrak	glimrak	glimrak
+rundrak	N	rounded stone	rundrak	rundrak	rundrak	rundrak	rundrak
+kantrak	N	angular rock piece	kantrak	kantrak	kantrak	kantrak	kantrak
+gladrak	N	smooth-surfaced stone	gladrak	gladrak	gladrak	gladrak	gladrak
+rögrak	N	rough-surfaced stone	rögrak	regrak	rögrak	rograk	regrak
+holrak	N	rock enclosing a cavity	holrak	holrak	holrak	holrak	olrak
+holkrisrak	N	cavity-bearing rock with internal crystals	holkrisrak	holkrisrak	holkrisrak	holkrisrak	olkrisrak
+sarnrak	N	rock composed of cemented sand-sized grains	sarnrak	sarnrak	sarnrak	sarnrak	sarnrak
+silmrak	N	rock dominated by silt-sized grains	silmrak	silmrak	silmrak	silmrak	silmrak
+lemrak	N	clay-rich mudrock	lemrak	lemrak	lemrak	lemrak	lemrak
+grustrak	N	rock with abundant gravel-sized clasts	grustrak	grustrak	grustrak	grustrak	grustrak
+rundgrustrak	N	rock with rounded gravel-sized clasts	rundgrustrak	rundgrustrak	rundgrustrak	rundgrustrak	rundgrustrak
+kantgrustrak	N	rock with angular gravel-sized clasts	kantgrustrak	kantgrustrak	kantgrustrak	kantgrustrak	kantgrustrak
+eskrak	N	consolidated ash-rich rock	eskrak	eskrak	eskrak	eskrak	eskrak
+kalmrak	N	identified carbonate-rich rock	kalmrak	kalmrak	kalmrak	kalmrak	kalmrak
+kriskalmrak	N	carbonate-rich rock with conspicuous recrystallized texture	kriskalmrak	kriskalmrak	kriskalmrak	kriskalmrak	kriskalmrak
+kvirrak	N	quartz-rich rock	kvirrak	kvirrak	kvirrak	kvirrak	kvirrak
+gisprak	N	gypsum-family rock	gisprak	gisprak	gisprak	gisprak	gisprak
+salrak	N	salt-rich consolidated rock	salrak	salrak	salrak	salrak	salrak
+sulvrak	N	identified sulfur-bearing rock	sulvrak	sulvrak	sulvrak	sulvrak	sulvrak
+jernmal	N	material currently workable as an iron ore	jernmal	jernmal	jernmal	jernmal	jernmal
+kubrmal	N	material currently workable as a copper ore	kubrmal	kubrmal	kubrmal	kubrmal	kubrmal
+salbas	N	basin containing extensive salt deposits	salbas	salbas	salbas	salbas	salbas
+esklag	N	ash layer	esklag	esklag	esklag	esklak	esklag
+sallag	N	salt layer	sallag	sallag	sallag	sallak	sallag
+isbrak	N	rock debris associated with ice movement	isbrak	isbrak	isbrak	isbrak	isbrak
+sarnlem	N	clay-rich earth with a substantial sand fraction	sarnlem	sarnlem	sarnlem	sarnlem	sarnlem
+silmdul	N	loose earth dominated by silt-sized material	silmdul	silmdul	silmdul	silmdul	silmdul
+sarndul	N	loose earth dominated by sand-sized material	sarndul	sarndul	sarndul	sarndul	sarndul
+lemdul	N	clay-rich loose earth	lemdul	lemdul	lemdul	lemdul	lemdul
+grustdul	N	gravel-rich loose earth	grustdul	grustdul	grustdul	grustdul	grustdul
+saldul	N	salt-bearing loose earth	saldul	saldul	saldul	saldul	saldul
+eskdul	N	ash-rich loose earth	eskdul	eskdul	eskdul	eskdul	eskdul
+vaatdul	N	wet loose earth	vaatdul	vaatdul	vaatdul	faatdul	vaatdul
+tördul	N	dry loose earth	tördul	terdul	tördul	tordul	terdul
+svellem	N	clay-rich earth shown to swell under the stated wetting conditions	svellem	svellem	svellem	svellem	svellem
+tettlem	N	densely packed clay-rich earth	tettlem	tettlem	tettlem	tettlem	tettlem
+jörmsarn	N	sand used as part of growing soil	jörmsarn	jermsarn	jörmsarn	jormsarn	jermsarn
+seljörm	N	cultivation soil managed for food production	seljörm	seljerm	seljörm	seljorm	seljerm
+skarnjörm	N	soil containing processed organic waste	skarnjörm	skarnjerm	skarnjörm	skarnjorm	skarnjerm
+durmen	N	dark stone selected for shaping	durmen	durmen	durmen	durmen	durmen
+belmen	N	pale stone selected for shaping	belmen	belmen	belmen	belmen	belmen
+darnmen	N	scratch-resistant stone selected for shaping	darnmen	darnmen	darnmen	darnmen	darnmen
+mölmen	N	soft stone selected for shaping	mölmen	melmen	mölmen	molmen	melmen
+flakmen	N	thin-splitting stone selected for slabs or plates	flakmen	flakmen	flakmen	flakmen	flakmen
+tekkmen	N	stone selected for roofing	tekkmen	tekkmen	tekkmen	tekkmen	tekkmen
+stalmen	N	stone selected for a supporting structure	stalmen	stalmen	stalmen	stalmen	stalmen
+silmen	N	stone selected as a filter medium	silmen	silmen	silmen	silmen	silmen
+nermen	N	stone selected for brood-nursery construction	nermen	nermen	nermen	nermen	nermen
+porig	ADJ	containing pores	porig	porig	porig	porik	porig
+rissig	ADJ	containing cracks	rissig	rissig	rissig	rissik	rissig
+salig	ADJ	containing mineral salt	salig	salig	salig	salik	salig
+dravrad	N	water wheel	dravrad	dravrad	dravrad	dravrat	dravrad
+tarnrad	N	toothed gear wheel	tarnrad	tarnrad	tarnrad	tarnrat	tarnrad
+luftporm	N	air pump	luftporm	luftporm	luftporm	luftporm	luftporm
+vasporm	N	water pump	vasporm	vasporm	vasporm	fasporm	vasporm
+luftvent	N	air-control valve	luftvent	luftvent	luftvent	luftvent	luftvent
+vasvent	N	water-control valve	vasvent	vasvent	vasvent	fasvent	vasvent
+luftsil	N	air filter	luftsil	luftsil	luftsil	luftsil	luftsil
+vassil	N	water filter	vassil	vassil	vassil	fassil	vassil
+eldmotor	N	combustion engine	eldmotor	eldmotor	eldmodor	eldmotor	eldmotor
+gnistmotor	N	electric motor	gnistmotor	gnistmotor	gnistmodor	gnistmotor	gnistmotor
+lutbytek	N	heat-exchange device	lutbytek	lutbitek	lutbydek	lutbutek	lutbitek
+lutröl	N	heat-transfer pipe	lutröl	lutrel	lutröl	lutrol	lutrel
+skelmveg	N	rail route	skelmveg	shelmveg	skelmveg	skelmvek	skelmveg
+luftväv	N	porous framework distributing air	luftväv	luftväv	luftväv	luftvev	luftväv
+nersil	N	filter element serving a nursery casing	nersil	nersil	nersil	nersil	nersil
+eggkel	N	compartment containing the true egg within a nursery	eggkel	eggkel	eggkel	eggkel	eggkel
+selröl	N	feeding conduit in a nursery apparatus	selröl	selrel	selröl	selrol	selrel
+ljuskel	N	chamber admitting or supplied with light	ljuskel	ljushel	ljuskel	ljuskel	ljuskel
+rötkel	N	tuber-growing or tuber-storage chamber, qualified by context	rötkel	retkel	rötkel	rotkel	retkel
+sombkel	N	fungal-crop chamber	sombkel	sombkel	sombkel	sombkel	sombkel
+brankol	N	charred organic fuel; charcoal-like material	brankol	brankol	brankol	brankol	brankol
+sombsel	N	food derived from cultivated fungus-like organisms	sombsel	sombsel	sombsel	sombsel	sombsel
+ljusgrölm	N	crop grown with admitted light	ljusgrölm	ljusgrelm	ljusgrölm	ljusgrolm	ljusgrelm
+smeltrak	N	rock interpreted as solidified from melt	smeltrak	smeltrak	smeltrak	smeltrak	smeltrak
+lagad	N	deposition and accumulation in layers	lagad	lagad	lagad	lagat	lagad
+lagadrak	N	rock interpreted as lithified deposited material	lagadrak	lagadrak	lagadrak	lagadrak	lagadrak
+verrak	N	rock interpreted as transformed in the solid state	verrak	verrak	verrak	ferrak	verrak
+hamarveg	N	route along or through a crag	hamarveg	hamarveg	hamarveg	hamarvek	amarveg
+gnisthamar	N	electrically powered hammer	gnisthamar	gnisthamar	gnisthamar	gnisthamar	gnisthamar
+kamvar	N	massif-network language; bedrock speech	kamvar	kamvar	kamvar	kamvar	kamvar
+hamarvar	N	ridge-network language; crag speech	hamarvar	hamarvar	hamarvar	hamarvar	amarvar
+dravvar	N	basin-network language; water-flow speech	dravvar	dravvar	dravvar	dravvar	dravvar
+nattvar	N	cold-edge-network language; dark-side speech	nattvar	nattvar	nattvar	nattvar	nattvar
+solvar	N	warm-margin-network language; starward speech	solvar	solvar	solvar	solvar	solvar
+förvar	N	earlier speech; controlled late-parent model	förvar	fervar	förvar	forvar	fervar
+stavmark	N	native letter-mark script	stavmark	stavmark	stavmark	stavmark	stavmark
+orv	N	orbital circuit	orv	orv	orv	orv	orv
+orvtid	N	orbital period	orvtid	orvtid	orvtid	orvtit	orvtid
+draven	V	flow as a water current	draven	draven	draven	draven	dravan
+vinst	ADJ	left relative to the body's forward orientation	vinst	vinst	vinst	finst	vinst
+höst	ADJ	right relative to the body's forward orientation	höst	hest	höst	host	est
+uparn	N	upper arm of one of the two upper limbs	uparn	uparn	ubarn	uparn	uparn
+nedarn	N	lower arm of one of the two lower limbs	nedarn	nedarn	nedarn	nedarn	nedharn
+uphand	N	hand belonging to an upper limb pair	uphand	uphand	uphand	uphant	uphand
+nedhand	N	hand belonging to a lower limb pair	nedhand	nedhand	nedhand	nedhant	nedhand
+vinsthand	N	a hand on the left side of the body	vinsthand	vinsthand	vinsthand	finsthant	vinsthand
+hösthand	N	a hand on the right side of the body	hösthand	hesthand	hösthand	hosthant	esthand
+hamarkor	N	member of the native dwarven peoples; dwarf	hamarkor	hamarkor	hamarkor	hamarkor	amarkor
+hamarkorvar	N	the Dwarven language family collectively	hamarkorvar	hamarkorvar	hamarkorvar	hamarkorvar	amarkorvar
+rakkor	N	member of a reserved regional native people	rakkor	rakkor	rakkor	rakkor	rakkor

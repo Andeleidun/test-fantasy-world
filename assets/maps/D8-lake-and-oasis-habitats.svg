@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="720pt" viewBox="0 0 1152 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-05T07:22:15.375466</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720 
+L 1152 720 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #f7f5ef"/>
+  </g>
+  <g id="axes_1">
+   <g id="FillBetweenPolyCollection_1">
+    <defs>
+     <path id="m12551f4709" d="M 69.12 -513.6 
+L 69.12 -237.6 
+L 552.96 -237.6 
+L 552.96 -513.6 
+L 552.96 -513.6 
+L 69.12 -513.6 
+z
+" style="stroke: #6b8896"/>
+    </defs>
+    <g clip-path="url(#p80e17fbc2d)">
+     <use xlink:href="#m12551f4709" x="0" y="720" style="fill: #6b8896; stroke: #6b8896"/>
+    </g>
+   </g>
+   <g id="FillBetweenPolyCollection_2">
+    <defs>
+     <path id="m7540eba1ef" d="M 69.12 -513.6 
+L 69.12 -436.32 
+L 552.96 -436.32 
+L 552.96 -513.6 
+L 552.96 -513.6 
+L 69.12 -513.6 
+z
+" style="stroke: #aad2dd"/>
+    </defs>
+    <g clip-path="url(#p80e17fbc2d)">
+     <use xlink:href="#m7540eba1ef" x="0" y="720" style="fill: #aad2dd; stroke: #aad2dd"/>
+    </g>
+   </g>
+   <g id="FillBetweenPolyCollection_3">
+    <defs>
+     <path id="m9f310c171b" d="M 69.12 -557.76 
+L 69.12 -237.6 
+L 127.1808 -237.6 
+L 175.5648 -237.6 
+L 441.6768 -237.6 
+L 504.576 -237.6 
+L 552.96 -237.6 
+L 552.96 -552.24 
+L 552.96 -552.24 
+L 504.576 -486 
+L 441.6768 -270.72 
+L 175.5648 -270.72 
+L 127.1808 -491.52 
+L 69.12 -557.76 
+z
+" style="stroke: #bdb4a5"/>
+    </defs>
+    <g clip-path="url(#p80e17fbc2d)">
+     <use xlink:href="#m9f310c171b" x="0" y="720" style="fill: #bdb4a5; stroke: #bdb4a5"/>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 69.12 283.68 
+L 552.96 283.68 
+" clip-path="url(#p80e17fbc2d)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #f7f5ef; stroke-width: 1.5"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="311.04" y="173.28" transform="rotate(-0 311.04 173.28)">DEEP STRATIFIED LAKE</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(195.716172 221.682406)">Light + oxygenated surface/coastal water</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(240.292813 234)">Main large-animal habitat</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(245.192969 337.602406)">Often anoxic deep layer</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(219.764063 349.92)">Microbial processing and detritus</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(238.309531 410.482187)">Mixing depends on each lake</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(237.373594 421.68)">and exceptional disturbances</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 248.1408 258.08127 
+Q 248.1408 289.198865 248.1408 318.080393 
+" clip-path="url(#p80e17fbc2d)" style="fill: none; stroke: #233c43; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 250.5408 313.280393 
+L 248.1408 318.080393 
+L 245.7408 313.280393 
+z
+" clip-path="url(#p80e17fbc2d)" style="fill: #233c43; stroke: #233c43; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 383.616 258.08127 
+Q 383.616 289.198865 383.616 318.080393 
+" clip-path="url(#p80e17fbc2d)" style="fill: none; stroke: #233c43; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 386.016 313.280393 
+L 383.616 318.080393 
+L 381.216 313.280393 
+z
+" clip-path="url(#p80e17fbc2d)" style="fill: #233c43; stroke: #233c43; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="FillBetweenPolyCollection_4">
+    <defs>
+     <path id="m5b0a9bd20a" d="M 616.32 -568.8 
+L 616.32 -237.6 
+L 1082.88 -237.6 
+L 1082.88 -568.8 
+L 1082.88 -568.8 
+L 616.32 -568.8 
+z
+" style="stroke: #b5ac9a"/>
+    </defs>
+    <g clip-path="url(#p210514c124)">
+     <use xlink:href="#m5b0a9bd20a" x="0" y="720" style="fill: #b5ac9a; stroke: #b5ac9a"/>
+    </g>
+   </g>
+   <g id="FillBetweenPolyCollection_5">
+    <defs>
+     <path id="mcb87778b38" d="M 616.32 -568.8 
+L 616.32 -458.4 
+L 1082.88 -458.4 
+L 1082.88 -568.8 
+L 1082.88 -568.8 
+L 616.32 -568.8 
+z
+" style="stroke: #ddebf0"/>
+    </defs>
+    <g clip-path="url(#p210514c124)">
+     <use xlink:href="#mcb87778b38" x="0" y="720" style="fill: #ddebf0; stroke: #ddebf0"/>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 821.6064 369.24 
+C 856.87035 369.24 890.694728 364.296213 915.630106 355.49745 
+C 940.565484 346.698688 954.576 334.763329 954.576 322.32 
+C 954.576 309.876671 940.565484 297.941312 915.630106 289.14255 
+C 890.694728 280.343787 856.87035 275.4 821.6064 275.4 
+C 786.34245 275.4 752.518072 280.343787 727.582694 289.14255 
+C 702.647316 297.941312 688.6368 309.876671 688.6368 322.32 
+C 688.6368 334.763329 702.647316 346.698688 727.582694 355.49745 
+C 752.518072 364.296213 786.34245 369.24 821.6064 369.24 
+z
+" clip-path="url(#p210514c124)" style="fill: #9bbcc5; stroke: #247fa1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 807.6096 482.4 
+L 784.2816 399.6 
+L 807.6096 360.96 
+" clip-path="url(#p210514c124)" style="fill: none; stroke: #b45939; stroke-width: 4; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="849.6" y="176.04" transform="rotate(-0 849.6 176.04)">ISOLATED GEOTHERMAL OASIS</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(780.449213 307.242406)">Local microbes</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(754.503822 319.56)">Sparse small consumers</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="924.2496" y="247.8" transform="rotate(-0 924.2496 247.8)">Slow oxidant delivery</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="830.9376" y="441" transform="rotate(-0 830.9376 441)">Geological heat + reductants</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(999.298294 356.401969)">Rare flood</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(997.432903 366.48)">connection</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 789.373779 436.284298 
+Q 798.278823 395.45806 806.707339 356.816523 
+" clip-path="url(#p210514c124)" style="fill: none; stroke: #b45939; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 803.339543 360.994794 
+L 806.707339 356.816523 
+L 808.029279 362.017722 
+z
+" clip-path="url(#p210514c124)" style="fill: #b45939; stroke: #b45939; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 895.842378 186.277471 
+Q 884.59183 239.520807 873.803564 290.576383 
+" clip-path="url(#p210514c124)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #52738e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 877.144064 286.376256 
+L 873.803564 290.576383 
+L 872.447763 285.383907 
+z
+" clip-path="url(#p210514c124)" style="fill: #52738e; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #52738e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 954.231006 316.595493 
+Q 1005.896726 311.28009 1055.338119 306.193527 
+" clip-path="url(#p210514c124)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #247fa1; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 1050.317705 304.297363 
+L 1055.338119 306.193527 
+L 1050.808939 309.07216 
+z
+" clip-path="url(#p210514c124)" style="fill: #247fa1; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #247fa1; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">ANDEL'S SONG / FIELD ATLAS</text>
+  </g>
+  <g id="text_11">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DWARVEN PLANET  /  D8</text>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="51.84" y="76.32" transform="rotate(-0 51.84 76.32)">Hidden habitats: deep lake and ice-bound oasis</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="104.4" transform="rotate(-0 51.84 104.4)">Two sectional habitat maps with very different energy supplies and carrying capacities.</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="695.52" transform="rotate(-0 51.84 695.52)">SCHEMATIC SECTIONS: no common horizontal or vertical scale. Layer depths and oasis dimensions are unselected. [35-38]</text>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="695.52" transform="rotate(-0 1100.16 695.52)">D8</text>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="69.12" y="569.958281" transform="rotate(-0 69.12 569.958281)">Lake scale and fauna</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(69.12 590.458359)">Largest lakes: 50,000-150,000 km2. Common large</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(69.12 604.210652)">species: 2-5 m; rare forms may reach 1-3 tonnes,</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(69.12 617.962945)">where food and oxygen budgets permit.</text>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="616.32" y="569.958281" transform="rotate(-0 616.32 569.958281)">Oasis scale and fauna</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 590.458359)">Finger-length and smaller consumers only in</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 604.210652)">sufficiently productive oases; poorer systems may</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 617.962945)">contain microbes alone. Heat maintains habitat but is</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 631.715238)">not food.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p80e17fbc2d">
+   <rect x="69.12" y="151.2" width="483.84" height="331.2"/>
+  </clipPath>
+  <clipPath id="p210514c124">
+   <rect x="616.32" y="151.2" width="466.56" height="331.2"/>
+  </clipPath>
+ </defs>
+</svg>

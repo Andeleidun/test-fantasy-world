@@ -1,0 +1,3 @@
+# Generated SVG paths retain their original spacing; TSV trailing tabs are empty fields.
+*.svg whitespace=-blank-at-eol
+*.tsv whitespace=-blank-at-eol

@@ -1,0 +1,119 @@
+[
+  {
+    "code": "E1",
+    "title": "Orientation comparison",
+    "world": "Erde",
+    "stem": "E1-orientation-comparison",
+    "description": "Compare Earth reference coastlines with their mathematical rotation into Erde's selected spin frame.",
+    "provenance": "33; 38; Natural Earth land",
+    "reading": "Earth-reference land geometry is rotated into the chosen Erde frame. This is an orientation scaffold; it does not calculate the effects of an alternate geological history on shorelines."
+  },
+  {
+    "code": "E2",
+    "title": "Latitude and climate potential",
+    "world": "Erde",
+    "stem": "E2-latitude-and-climate-potential",
+    "description": "New-latitude forcing bands with reference sites; separates geometric constraints from unmodeled regional climates.",
+    "provenance": "33; 38; Natural Earth land",
+    "reading": "The same land geometry is compared with new latitude bands. The bands represent solar-forcing potential, not a climate simulation or a finished biome map."
+  },
+  {
+    "code": "E3",
+    "title": "Relief and passages",
+    "world": "Erde",
+    "stem": "E3-relief-and-passages",
+    "description": "An approximate mountain and passage scaffold for planning isolation, rain shadows, and migration.",
+    "provenance": "20; 24; 33; 38; modern reference mountain axes",
+    "reading": "Approximate mountain and passage axes suggest where elevation and barriers could shape movement. Relief and routes are illustrative rather than surveyed."
+  },
+  {
+    "code": "E4",
+    "title": "Ancestry and dispersal",
+    "world": "Erde",
+    "stem": "E4-ancestry-and-dispersal",
+    "description": "Locate the selected African ancestry, Sunda radiation, Sahul branch, and early American migration without inventing political borders.",
+    "provenance": "33; 38",
+    "reading": "Ancestry and dispersal overlays connect the African stem, Sunda radiation, Sahul branch and early American migration. They are historical scenarios rather than exact tracks."
+  },
+  {
+    "code": "E5",
+    "title": "American contact landscape",
+    "world": "Erde",
+    "stem": "E5-american-contact-landscape",
+    "description": "Defined-epoch map of the five First American regional complexes and the northern successor outcome.",
+    "provenance": "33 paragraphs 148-178; 38",
+    "reading": "The five First American regional complexes are shown at the atlas\u2019s defined epoch. The northern successor outcome does not erase independent southern histories."
+  },
+  {
+    "code": "D1",
+    "title": "Day night and twilight ring",
+    "world": "Dverghamar",
+    "stem": "D1-day-night-and-twilight-ring",
+    "description": "Orthographic views show that the terminator is a great circle, with the provisional habitable envelope around it.",
+    "provenance": "35 paragraphs 12-40; 38",
+    "reading": "The star-facing and dark hemispheres meet along a great-circle terminator. The marked habitable envelope is provisional; the terminator itself is not a guaranteed biological boundary."
+  },
+  {
+    "code": "D2",
+    "title": "Climate and surface life",
+    "world": "Dverghamar",
+    "stem": "D2-climate-and-surface-life",
+    "description": "Global target-envelope map with thermal ranges and the distinction between photic habitat and a mostly dark fringe.",
+    "provenance": "35 paragraphs 34-41, 71-78; 38",
+    "reading": "The central dayside is hot, the deep nightside cold, and the twilight region intermediate. The lit habitat and the mostly dark fringe have different energy constraints."
+  },
+  {
+    "code": "D3",
+    "title": "Ecological provinces",
+    "world": "Dverghamar",
+    "stem": "D3-ecological-provinces",
+    "description": "A scaled hypothetical sector showing fragmented wet provinces, mountain passes, salt barriers, terminal brines, and large lakes.",
+    "provenance": "35 paragraphs 37-48; 37",
+    "reading": "A hypothetical twilight sector contains wet provinces separated by rain shadows and salt basins. Passes and river valleys connect habitats; this is not a selected continent."
+  },
+  {
+    "code": "D4",
+    "title": "Water circulation",
+    "world": "Dverghamar",
+    "stem": "D4-water-circulation",
+    "description": "A process map connecting river catchments and lakes to evaporation, precipitation, ice storage, and conditional slow return.",
+    "provenance": "35 paragraphs 20, 23, 42-48; 38",
+    "reading": "Water evaporates, condenses and returns through precipitation, rivers, aquifers and ice storage. Slow return from nightside storage is conditional and remains a model requirement."
+  },
+  {
+    "code": "D5",
+    "title": "Mountain settlements and depth",
+    "world": "Dverghamar",
+    "stem": "D5-mountain-settlements-and-depth",
+    "description": "A shared vertical datum makes mountain-city altitude distinct from rock cover and lowland mine depth.",
+    "provenance": "35 paragraphs 95-107; 38",
+    "reading": "Mountain-city altitude is measured above surrounding terrain; rock cover is measured to the overlying surface. High-altitude rooms can have shallow cover, while lowland mines can be much deeper."
+  },
+  {
+    "code": "D6",
+    "title": "Dwarven habitat preferences",
+    "world": "Dverghamar",
+    "stem": "D6-dwarven-habitat-preferences",
+    "description": "Ecological placement of five dwarf species and the deep-massif subspecies, with no invented territorial boundaries.",
+    "provenance": "35 paragraphs 129-141; 36; 37",
+    "reading": "Five native dwarf species and a deep-massif subspecies occupy overlapping ecological settings. The diagram specifies habitat tendencies, not ethnic territories or political borders."
+  },
+  {
+    "code": "D7",
+    "title": "City resource catchment",
+    "world": "Dverghamar",
+    "stem": "D7-city-resource-catchment",
+    "description": "An illustrative site map of hydropower, agriculture, ventilation, transit, and waste flows supporting underground settlement.",
+    "provenance": "35 paragraphs 88-112; 38",
+    "reading": "A subsurface settlement depends on river power, farms, air exchange, transport and waste handling. The illustrative catchment makes those surface relationships visible."
+  },
+  {
+    "code": "D8",
+    "title": "Lake and oasis habitats",
+    "world": "Dverghamar",
+    "stem": "D8-lake-and-oasis-habitats",
+    "description": "Compare an oxygenated lake food web above anoxic depths with a chemically powered, isolated subglacial oasis.",
+    "provenance": "35 paragraphs 44-48, 74-87; 38",
+    "reading": "Large lakes can sustain oxygenated surface food webs above anoxic depths. Isolated subglacial oases rely on geological reductants and slow oxidant delivery, supporting far smaller consumers."
+  }
+]
