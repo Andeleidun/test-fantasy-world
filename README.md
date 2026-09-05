@@ -2,7 +2,7 @@
 
 A minimal, accessible worldbuilding guide for Erde and Dverghamar. It contains geography, ecology, peoples, language, maps and relevant cosmology. Plot, character dossiers and private author notes are outside its scope.
 
-The site has 20 articles and reference pages, 13 existing atlas sheets, the Stavmark writing chart, a 571-record Korvar dictionary and 98 translated language examples. The home page and topic indexes provide a shorter route through the longer decision ledgers.
+The site has 21 public articles and reference pages, 13 existing atlas sheets, the Stavmark writing chart, a 571-record Korvar dictionary and 98 translated language examples. The public edition presents the setting in subject-based articles. Original working documents retain their detailed decision history separately. A light/dark toggle follows the device preference initially and remembers a reader’s choice when browser storage is available.
 
 ## Run locally
 
@@ -28,12 +28,14 @@ The workflow follows [GitHub’s custom Pages workflow guidance](https://docs.gi
 
 ## Edit the lore
 
-- Edit article Markdown in `content/`. Register new articles in `content/catalog.json` with a unique ID, title, category, description, kind and Markdown filename.
-- Categories are `worlds`, `peoples`, `cosmology`, `language` and `maps`.
-- Edit `content/lexicon.json` for dictionary records and `content/maps.json` for atlas captions and text explanations.
-- Keep the downloadable TSV reference data in `public/data/` consistent with vocabulary changes.
-- Place public assets in `assets/` or `public/`. Only approved public material belongs here.
-- Source provenance and publication boundaries are in `content/SOURCES.md`. This is a publication snapshot, not an automatic Drive sync. Explicit current decisions take precedence over older working proposals.
+- Edit reader-facing Markdown in `content/public/`. Register articles in `content/public/catalog.json` with a unique ID, title, category, description, kind and Markdown filename. Each document has a title and uses relative `.md` article links, which the build translates to website routes.
+- Categories are `worlds`, `peoples`, `cosmology`, `language` and `maps`. Keep existing IDs stable to preserve links.
+- Edit `content/public/lexicon.json` for public vocabulary and `content/public/maps.json` for map captions. Preserve dictionary row order because row anchors are stable links.
+- Public downloads live in `content/public/data/`. The build generates the Common dictionary from the public lexicon; update its source TSV copy and regional meanings when editing vocabulary. Tests check that the downloads match.
+- Shared illustrations and application files live in `assets/`. The build copies only approved public article/data inputs and these assets into `dist/`.
+- Original working Markdown, catalogs and data remain in `content/` and `public/data/`. They are not website inputs. This is an editorial split within a public repository, not an access-control boundary.
+- `content/public/README.md` maps articles to working sources. `content/SOURCES.md` records import provenance. Changes to Drive documents do not automatically update this publication.
+- The implementation plan and review record are in `docs/PUBLIC-EDITION-PLAN.md` and `docs/PUBLIC-EDITION-REVIEW.md`.
 
 Raw HTML in Markdown is disabled. The build generates complete HTML pages, heading anchors, a local search index and relative links that work beneath the repository prefix. No framework, client-side router, remote fonts, analytics, external API or runtime account is required.
 
@@ -45,10 +47,10 @@ npx playwright install --with-deps chromium
 npm run test:e2e
 ```
 
-Build checks cover internal links, section fragments, duplicate IDs, search destinations and the worldbuilding-only scope. Browser checks cover keyboard skip navigation, search and recovery from a failed request, dictionary filtering, no-JavaScript reading, horizontal overflow, and automated WCAG A/AA checks at 1440, 390 and 320 pixels. Automated checks do not replace a full manual accessibility audit or assistive-technology testing.
+Build checks cover internal links, section fragments, duplicate IDs, search destinations and the worldbuilding-only scope. Browser checks cover keyboard skip navigation, search and recovery from a failed request, dictionary filtering, no-JavaScript reading, horizontal overflow, theme persistence, system preferences, blocked storage, print appearance, search races, pagination, and automated WCAG A/AA checks in light and dark themes at 1440, 390 and 320 pixels. Automated checks do not replace a full manual accessibility audit or assistive-technology testing.
 
 ## Implementation
 
-`scripts/build.mjs` renders Markdown at build time using Markdown-it. `assets/app.js` progressively enhances search and dictionary filtering. `assets/styles.css` contains the responsive layout, high-contrast focus styles, reduced-motion treatment and print styles. All articles and dictionary rows remain available with JavaScript disabled. Map captions explain the principal relationships and link to full-size SVG sheets.
+`scripts/build.mjs` renders Markdown at build time using Markdown-it. `assets/theme.js` applies saved appearance before styling; `assets/app.js` enhances the theme control, search and dictionary filtering. `assets/styles.css` contains the responsive layout, high-contrast focus styles, reduced-motion treatment and print styles. All articles and dictionary rows remain available with JavaScript disabled. Map captions explain the principal relationships and link to full-size SVG sheets.
 
 Worldbuilding content and original illustrations retain their owner’s rights; no blanket open-source license is assigned. Third-party land geometry is credited in `content/SOURCES.md`.

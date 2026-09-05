@@ -1,0 +1,170 @@
+[
+  {
+    "id": "erde",
+    "title": "Erde",
+    "category": "worlds",
+    "description": "Continental geography, human and hobbit lineages, and the histories of regional communities.",
+    "kind": "World guide",
+    "file": "erde.md"
+  },
+  {
+    "id": "dverghamar",
+    "title": "Dverghamar",
+    "category": "worlds",
+    "description": "Permanent day and night, twilight ecosystems and homes within the mountains.",
+    "kind": "World guide",
+    "file": "dverghamar.md"
+  },
+  {
+    "id": "hamarkorar",
+    "title": "The Hamarkorar",
+    "category": "peoples",
+    "description": "A diversified native dwarven genus, shaped by stone, climate and a six-limbed ancestry.",
+    "kind": "World guide",
+    "file": "hamarkorar.md"
+  },
+  {
+    "id": "thals",
+    "title": "The Thals",
+    "category": "peoples",
+    "description": "Erde’s surviving Neanderthal descendants and their later refuge on Dverghamar.",
+    "kind": "World guide",
+    "file": "thals.md"
+  },
+  {
+    "id": "otherworld",
+    "title": "The Otherworld and living worlds",
+    "category": "cosmology",
+    "description": "Crossings, spirits, souls and the continuing relationships that sustain planetary personhood.",
+    "kind": "World guide",
+    "file": "otherworld.md"
+  },
+  {
+    "id": "korvar",
+    "title": "Korvar and the language family",
+    "category": "language",
+    "description": "A common linguistic foundation with five regional traditions and literal, productive roots.",
+    "kind": "World guide",
+    "file": "korvar.md"
+  },
+  {
+    "id": "erde-atlas",
+    "title": "Maps of Erde",
+    "category": "maps",
+    "description": "Five sheets explore orientation, latitude, relief, ancestry and regional contact.",
+    "kind": "Atlas",
+    "file": "erde-atlas.md"
+  },
+  {
+    "id": "dverghamar-atlas",
+    "title": "Maps of Dverghamar",
+    "category": "maps",
+    "description": "Eight sheets explore twilight geometry, water, habitats and underground settlement.",
+    "kind": "Atlas",
+    "file": "dverghamar-atlas.md"
+  },
+  {
+    "id": "erde-reference",
+    "title": "Erde: peoples and regional histories",
+    "category": "worlds",
+    "description": "Deep ancestry, First American communities, contact and learned magical traditions.",
+    "kind": "History",
+    "file": "erde-reference.md"
+  },
+  {
+    "id": "dverghamar-reference",
+    "title": "Dverghamar: climate, geology and settlement",
+    "category": "worlds",
+    "description": "The physical world, its food web and the landscapes supporting underground homes.",
+    "kind": "World reference",
+    "file": "dverghamar-reference.md"
+  },
+  {
+    "id": "familiar-magic",
+    "title": "Familiars and shapeshifting",
+    "category": "cosmology",
+    "description": "Mutual bonds, learned forms, bodily repair and the limits of transformation.",
+    "kind": "Magic reference",
+    "file": "familiar-magic.md"
+  },
+  {
+    "id": "evolution-reference",
+    "title": "Native dwarven evolutionary history",
+    "category": "peoples",
+    "description": "From early aquatic life to six limbs, four arms and the diversified Hamarkorar.",
+    "kind": "Natural history",
+    "file": "evolution-reference.md"
+  },
+  {
+    "id": "cosmology-reference",
+    "title": "Spirits, souls and living worlds",
+    "category": "cosmology",
+    "description": "Crossings, afterlife domains, planetary awareness and the relationships sustaining them.",
+    "kind": "Cosmology reference",
+    "file": "cosmology-reference.md"
+  },
+  {
+    "id": "language-foundation",
+    "title": "Identity, sounds and word formation",
+    "category": "language",
+    "description": "People-names, pronunciation, literal roots and the formation of new words.",
+    "kind": "Language reference",
+    "file": "language-foundation.md"
+  },
+  {
+    "id": "language-grammar",
+    "title": "The common grammar",
+    "category": "language",
+    "description": "Nouns, verbs, questions and sentence patterns in shared Korvar.",
+    "kind": "Language reference",
+    "file": "language-grammar.md"
+  },
+  {
+    "id": "language-materials",
+    "title": "Stone and material vocabulary",
+    "category": "language",
+    "description": "Words for grain, texture, rock, soil, construction and care.",
+    "kind": "Language reference",
+    "file": "language-materials.md"
+  },
+  {
+    "id": "language-family",
+    "title": "Five regional languages",
+    "category": "language",
+    "description": "Shared ancestry and distinctive sounds, inflections and everyday speech.",
+    "kind": "Language reference",
+    "file": "language-family.md"
+  },
+  {
+    "id": "language-writing",
+    "title": "Writing, numbers and everyday use",
+    "category": "language",
+    "description": "Stavmark signs, counting, measurements, greetings and reading practice.",
+    "kind": "Language reference",
+    "file": "language-writing.md"
+  },
+  {
+    "id": "language-examples",
+    "title": "Korvar in use",
+    "category": "language",
+    "description": "Ninety-eight translated examples, including everyday exchanges and connected passages.",
+    "kind": "Language reference",
+    "file": "language-examples.md"
+  },
+  {
+    "id": "map-methods",
+    "title": "Reading the atlas",
+    "category": "maps",
+    "description": "Coordinates, scales and the meaning of schematic landscapes.",
+    "kind": "Atlas guide",
+    "file": "map-methods.md"
+  },
+  {
+    "id": "wildlife-questions",
+    "title": "Habitats and wildlife",
+    "category": "peoples",
+    "description": "The established ecological communities and the organisms still taking shape.",
+    "kind": "Natural history",
+    "file": "wildlife-questions.md"
+  }
+]

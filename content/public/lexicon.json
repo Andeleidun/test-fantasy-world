@@ -1,0 +1,4570 @@
+[
+  {
+    "lemma": "kam",
+    "pos": "N",
+    "meaning": "continuous bedrock; rock in place",
+    "domain": "material",
+    "parts": "",
+    "notes": "Does not identify mineral composition."
+  },
+  {
+    "lemma": "rak",
+    "pos": "N",
+    "meaning": "natural rock material or an unworked rock piece",
+    "domain": "material",
+    "parts": "",
+    "notes": "Count use denotes a piece; mass use denotes material."
+  },
+  {
+    "lemma": "men",
+    "pos": "N",
+    "meaning": "stone selected as material for shaping",
+    "domain": "material",
+    "parts": "",
+    "notes": "Workability is an intended use, not a guarantee of strength."
+  },
+  {
+    "lemma": "hamar",
+    "pos": "N",
+    "meaning": "crag; large exposed rock mass; inherited hammer sense",
+    "domain": "land",
+    "parts": "",
+    "notes": "Use handhamar for an unambiguous hand tool."
+  },
+  {
+    "lemma": "kor",
+    "pos": "N",
+    "meaning": "person",
+    "domain": "social",
+    "parts": "",
+    "notes": "Applies to persons beyond native dwarf ancestry."
+  },
+  {
+    "lemma": "kel",
+    "pos": "N",
+    "meaning": "sheltered interior; chamber",
+    "domain": "settlement",
+    "parts": "",
+    "notes": "Does not entail great depth."
+  },
+  {
+    "lemma": "stal",
+    "pos": "N",
+    "meaning": "supporting frame or load-bearing arrangement",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "klak",
+    "pos": "N",
+    "meaning": "fitted stone piece; the close joint it forms",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Piece and joint senses are conventionally related."
+  },
+  {
+    "lemma": "var",
+    "pos": "N",
+    "meaning": "speech; an utterance",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "drav",
+    "pos": "N",
+    "meaning": "water flow considered as current or supply",
+    "domain": "water",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ner",
+    "pos": "N",
+    "meaning": "dependent young individual",
+    "domain": "care",
+    "parts": "",
+    "notes": "Does not fix exact age or developmental anatomy."
+  },
+  {
+    "lemma": "lut",
+    "pos": "N",
+    "meaning": "usable warmth",
+    "domain": "thermal",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sel",
+    "pos": "N",
+    "meaning": "nourishment; food provision",
+    "domain": "food",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "grem",
+    "pos": "N",
+    "meaning": "sustained physical effort against resistance",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "menkor",
+    "pos": "N",
+    "meaning": "member of a reserved narrower native people; exact regional, cultural or species assignment open",
+    "domain": "identity",
+    "parts": "men+kor",
+    "notes": "A local, cultural or species-specific people-name. The specific community has not yet been described."
+  },
+  {
+    "lemma": "kelir",
+    "pos": "N",
+    "meaning": "interior-dweller",
+    "domain": "identity",
+    "parts": "kel+-ir",
+    "notes": "Lexicalized habitat participant."
+  },
+  {
+    "lemma": "menir",
+    "pos": "N",
+    "meaning": "stoneworker",
+    "domain": "industry",
+    "parts": "men+-ir",
+    "notes": "Occupation, not an ethnonym."
+  },
+  {
+    "lemma": "kelkor",
+    "pos": "N",
+    "meaning": "member or resident of a chamber-household",
+    "domain": "social",
+    "parts": "kel+kor",
+    "notes": ""
+  },
+  {
+    "lemma": "korvar",
+    "pos": "N",
+    "meaning": "public/common speech; Common Dwarven",
+    "domain": "language",
+    "parts": "kor+var",
+    "notes": "Capitalized when naming the standard."
+  },
+  {
+    "lemma": "menkorvar",
+    "pos": "N",
+    "meaning": "reserved name for a possible Menkor community language",
+    "domain": "language",
+    "parts": "menkor+var",
+    "notes": "A possible Menkor community-language name; no separate established language is implied."
+  },
+  {
+    "lemma": "karnir",
+    "pos": "N",
+    "meaning": "builder",
+    "domain": "industry",
+    "parts": "karn+-ir",
+    "notes": ""
+  },
+  {
+    "lemma": "menek",
+    "pos": "N",
+    "meaning": "dressed stone piece",
+    "domain": "material",
+    "parts": "men+-ek",
+    "notes": ""
+  },
+  {
+    "lemma": "menet",
+    "pos": "N",
+    "meaning": "stoneworking workshop",
+    "domain": "industry",
+    "parts": "men+-et",
+    "notes": ""
+  },
+  {
+    "lemma": "menad",
+    "pos": "N",
+    "meaning": "stoneworking as an activity or craft",
+    "domain": "industry",
+    "parts": "men+-ad",
+    "notes": ""
+  },
+  {
+    "lemma": "karnad",
+    "pos": "N",
+    "meaning": "building activity",
+    "domain": "industry",
+    "parts": "karn+-ad",
+    "notes": ""
+  },
+  {
+    "lemma": "nerkel",
+    "pos": "N",
+    "meaning": "nursery chamber",
+    "domain": "care",
+    "parts": "ner+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "menkel",
+    "pos": "N",
+    "meaning": "chamber made or lined with worked stone",
+    "domain": "settlement",
+    "parts": "men+kel",
+    "notes": "Does not imply a naturally self-supporting cavern."
+  },
+  {
+    "lemma": "dravkel",
+    "pos": "N",
+    "meaning": "water chamber; cistern",
+    "domain": "water",
+    "parts": "drav+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "lutkel",
+    "pos": "N",
+    "meaning": "warming chamber",
+    "domain": "thermal",
+    "parts": "lut+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "handhamar",
+    "pos": "N",
+    "meaning": "hand hammer",
+    "domain": "industry",
+    "parts": "hand+hamar",
+    "notes": "Default precise tool word."
+  },
+  {
+    "lemma": "dravhamar",
+    "pos": "N",
+    "meaning": "water-powered hammer",
+    "domain": "industry",
+    "parts": "drav+hamar",
+    "notes": "Names power source; mechanism may vary."
+  },
+  {
+    "lemma": "rakhamar",
+    "pos": "N",
+    "meaning": "hammer for breaking rock",
+    "domain": "industry",
+    "parts": "rak+hamar",
+    "notes": "Purpose compound."
+  },
+  {
+    "lemma": "menhamar",
+    "pos": "N",
+    "meaning": "stone-dressing hammer",
+    "domain": "industry",
+    "parts": "men+hamar",
+    "notes": "Purpose compound."
+  },
+  {
+    "lemma": "kamhamar",
+    "pos": "N",
+    "meaning": "bedrock-cutting percussion mechanism",
+    "domain": "industry",
+    "parts": "kam+hamar",
+    "notes": "May be powered; not automatically handheld."
+  },
+  {
+    "lemma": "hamarkel",
+    "pos": "N",
+    "meaning": "chamber within a crag",
+    "domain": "settlement",
+    "parts": "hamar+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "kamkel",
+    "pos": "N",
+    "meaning": "chamber excavated in bedrock",
+    "domain": "settlement",
+    "parts": "kam+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "rakstal",
+    "pos": "N",
+    "meaning": "retained-rock support structure",
+    "domain": "industry",
+    "parts": "rak+stal",
+    "notes": "Actual stability requires site assessment."
+  },
+  {
+    "lemma": "klakmen",
+    "pos": "N",
+    "meaning": "stone selected for closely fitted masonry",
+    "domain": "industry",
+    "parts": "klak+men",
+    "notes": ""
+  },
+  {
+    "lemma": "dur",
+    "pos": "ADJ",
+    "meaning": "dark in visible color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bel",
+    "pos": "ADJ",
+    "meaning": "pale or light in visible color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rod",
+    "pos": "ADJ",
+    "meaning": "red or rusty-red in color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gral",
+    "pos": "ADJ",
+    "meaning": "gray in color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "blav",
+    "pos": "ADJ",
+    "meaning": "blue in color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "grön",
+    "pos": "ADJ",
+    "meaning": "green in color",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fin",
+    "pos": "ADJ",
+    "meaning": "fine-grained; individual grains not readily resolved by eye",
+    "domain": "property",
+    "parts": "",
+    "notes": "A field descriptor, not a universal size threshold."
+  },
+  {
+    "lemma": "gröl",
+    "pos": "ADJ",
+    "meaning": "coarse-grained; grains readily individually visible",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "darn",
+    "pos": "ADJ",
+    "meaning": "resistant to scratching by the stated comparator",
+    "domain": "property",
+    "parts": "",
+    "notes": "Hardness differs from toughness and bulk strength."
+  },
+  {
+    "lemma": "möl",
+    "pos": "ADJ",
+    "meaning": "readily scratched or indented by the stated comparator",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "treg",
+    "pos": "ADJ",
+    "meaning": "resisting crack propagation under the stated impact",
+    "domain": "property",
+    "parts": "",
+    "notes": "Field toughness descriptor; test conditions matter."
+  },
+  {
+    "lemma": "spröd",
+    "pos": "ADJ",
+    "meaning": "readily fractured into pieces under impact",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "glad",
+    "pos": "ADJ",
+    "meaning": "smooth-surfaced",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skarf",
+    "pos": "ADJ",
+    "meaning": "sharp-edged",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rög",
+    "pos": "ADJ",
+    "meaning": "rough-surfaced",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vaat",
+    "pos": "ADJ",
+    "meaning": "wet",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tör",
+    "pos": "ADJ",
+    "meaning": "dry at observation",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tett",
+    "pos": "ADJ",
+    "meaning": "closely packed; apparently dense",
+    "domain": "property",
+    "parts": "",
+    "notes": "Does not prove impermeability."
+  },
+  {
+    "lemma": "hol",
+    "pos": "ADJ",
+    "meaning": "hollow",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "por",
+    "pos": "N",
+    "meaning": "pore; small void",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gren",
+    "pos": "N",
+    "meaning": "grain within a material",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "kris",
+    "pos": "N",
+    "meaning": "crystal; visibly ordered crystal body",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lag",
+    "pos": "N",
+    "meaning": "layer or bed",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "band",
+    "pos": "N",
+    "meaning": "band distinguished by texture or composition",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "flak",
+    "pos": "N",
+    "meaning": "thin plate or flake",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "splet",
+    "pos": "N",
+    "meaning": "fracture or split",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "riss",
+    "pos": "N",
+    "meaning": "narrow crack",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rund",
+    "pos": "ADJ",
+    "meaning": "rounded",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "kant",
+    "pos": "ADJ",
+    "meaning": "angular in outline",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "glim",
+    "pos": "ADJ",
+    "meaning": "reflective; sparkling on the observed face",
+    "domain": "property",
+    "parts": "",
+    "notes": "Shine alone does not identify a metal."
+  },
+  {
+    "lemma": "glas",
+    "pos": "N",
+    "meaning": "glass; noncrystalline glassy material",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sal",
+    "pos": "N",
+    "meaning": "soluble mineral salt; salt deposit",
+    "domain": "material",
+    "parts": "",
+    "notes": "Not all salts are edible."
+  },
+  {
+    "lemma": "gisp",
+    "pos": "N",
+    "meaning": "soft sulfate stone of the identified gypsum family",
+    "domain": "material",
+    "parts": "",
+    "notes": "Specialist identification, not any white soft rock."
+  },
+  {
+    "lemma": "kalm",
+    "pos": "N",
+    "meaning": "identified carbonate-rich mineral material",
+    "domain": "material",
+    "parts": "",
+    "notes": "May include different carbonate minerals."
+  },
+  {
+    "lemma": "kvir",
+    "pos": "N",
+    "meaning": "identified quartz-family silica crystal material",
+    "domain": "material",
+    "parts": "",
+    "notes": "Specialist mineral category."
+  },
+  {
+    "lemma": "jern",
+    "pos": "N",
+    "meaning": "iron as a metal",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Not any red mineral or magnetic grain."
+  },
+  {
+    "lemma": "kubr",
+    "pos": "N",
+    "meaning": "copper as a metal",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tin",
+    "pos": "N",
+    "meaning": "tin as a metal",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bly",
+    "pos": "N",
+    "meaning": "lead as a metal",
+    "domain": "industry",
+    "parts": "",
+    "notes": "A material term, not a biological safety judgment."
+  },
+  {
+    "lemma": "sulv",
+    "pos": "N",
+    "meaning": "identified sulfur-bearing mineral matter",
+    "domain": "material",
+    "parts": "",
+    "notes": "Does not alone distinguish sulfide from sulfate."
+  },
+  {
+    "lemma": "mal",
+    "pos": "N",
+    "meaning": "mineral-bearing material worth processing under stated conditions",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Economic ore category; not a fixed mineral species."
+  },
+  {
+    "lemma": "kol",
+    "pos": "N",
+    "meaning": "carbon-rich combustible material",
+    "domain": "fuel",
+    "parts": "",
+    "notes": "Does not assert Earth-style coal deposits."
+  },
+  {
+    "lemma": "dul",
+    "pos": "N",
+    "meaning": "loose mineral earth; unconsolidated ground material",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sarn",
+    "pos": "N",
+    "meaning": "sand-sized loose grains",
+    "domain": "material",
+    "parts": "",
+    "notes": "Shared technical register may attach explicit size limits."
+  },
+  {
+    "lemma": "silm",
+    "pos": "N",
+    "meaning": "silt-sized loose mineral grains",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lem",
+    "pos": "N",
+    "meaning": "clay-rich fine earth with stated plastic behavior",
+    "domain": "material",
+    "parts": "",
+    "notes": "Field category; not every clay swells."
+  },
+  {
+    "lemma": "grust",
+    "pos": "N",
+    "meaning": "gravel; loose small stones",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skel",
+    "pos": "N",
+    "meaning": "shell; enclosing shell-like layer",
+    "domain": "care",
+    "parts": "",
+    "notes": "Use qualified terms to distinguish egg and nursery casing."
+  },
+  {
+    "lemma": "esk",
+    "pos": "N",
+    "meaning": "ash-sized particulate deposit",
+    "domain": "material",
+    "parts": "",
+    "notes": "Context distinguishes volcanic and combustion ash."
+  },
+  {
+    "lemma": "jörm",
+    "pos": "N",
+    "meaning": "biologically active soil used by rooted producers",
+    "domain": "food",
+    "parts": "",
+    "notes": "Does not assert terrestrial soil organisms."
+  },
+  {
+    "lemma": "slik",
+    "pos": "N",
+    "meaning": "wet deposited sediment; mud slurry",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "brak",
+    "pos": "N",
+    "meaning": "broken rock debris; rubble",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "veir",
+    "pos": "N",
+    "meaning": "mineral-filled fracture or vein",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "eld",
+    "pos": "N",
+    "meaning": "flame; combustion fire",
+    "domain": "thermal",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "smelt",
+    "pos": "N",
+    "meaning": "melted material",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "trykk",
+    "pos": "N",
+    "meaning": "pressure or imposed compressive loading",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Must state quantity, unit and context."
+  },
+  {
+    "lemma": "last",
+    "pos": "N",
+    "meaning": "mechanical load",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vörk",
+    "pos": "N",
+    "meaning": "mass measurement in the standard register",
+    "domain": "measure",
+    "parts": "",
+    "notes": "Distinct from gravitational force, which is a kind of last."
+  },
+  {
+    "lemma": "rom",
+    "pos": "N",
+    "meaning": "volume; occupied three-dimensional space",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mer",
+    "pos": "ADV",
+    "meaning": "more; comparative marker",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Homonym with length-unit noun is explicitly registered."
+  },
+  {
+    "lemma": "mest",
+    "pos": "ADV",
+    "meaning": "most; superlative marker",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mer",
+    "pos": "N",
+    "meaning": "conventional unit of length",
+    "domain": "measure",
+    "parts": "",
+    "notes": "Calibration must be supplied; not an Earth meter by assertion."
+  },
+  {
+    "lemma": "kap",
+    "pos": "N",
+    "meaning": "standardized vessel unit of capacity",
+    "domain": "measure",
+    "parts": "",
+    "notes": "Calibration must be supplied."
+  },
+  {
+    "lemma": "vek",
+    "pos": "N",
+    "meaning": "conventional unit of mass",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tik",
+    "pos": "N",
+    "meaning": "short counted time unit",
+    "domain": "measure",
+    "parts": "",
+    "notes": "Defined by an agreed clock; no Earth second asserted."
+  },
+  {
+    "lemma": "takt",
+    "pos": "N",
+    "meaning": "scheduled work/rest time cycle",
+    "domain": "time",
+    "parts": "",
+    "notes": "Not a sunrise-to-sunrise cycle."
+  },
+  {
+    "lemma": "tid",
+    "pos": "N",
+    "meaning": "time; duration",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sek",
+    "pos": "N",
+    "meaning": "ordered sequence; numbered series",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tal",
+    "pos": "PART",
+    "meaning": "reported; evidence marker",
+    "domain": "language",
+    "parts": "",
+    "notes": "Does not certify truth."
+  },
+  {
+    "lemma": "vis",
+    "pos": "PART",
+    "meaning": "observed; evidence marker",
+    "domain": "language",
+    "parts": "",
+    "notes": "Claimed observation only."
+  },
+  {
+    "lemma": "ren",
+    "pos": "PART",
+    "meaning": "inferred; evidence marker",
+    "domain": "language",
+    "parts": "",
+    "notes": "Inference can be wrong."
+  },
+  {
+    "lemma": "vas",
+    "pos": "N",
+    "meaning": "water",
+    "domain": "water",
+    "parts": "",
+    "notes": "Potability is a separate determination."
+  },
+  {
+    "lemma": "is",
+    "pos": "N",
+    "meaning": "ice",
+    "domain": "water",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sjö",
+    "pos": "N",
+    "meaning": "lake",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bek",
+    "pos": "N",
+    "meaning": "small river or stream channel",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dal",
+    "pos": "N",
+    "meaning": "valley",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rygg",
+    "pos": "N",
+    "meaning": "ridge",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "berg",
+    "pos": "N",
+    "meaning": "mountain or mountain body",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bas",
+    "pos": "N",
+    "meaning": "closed or open topographic basin",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sol",
+    "pos": "N",
+    "meaning": "star as the visible source of daylight",
+    "domain": "sky",
+    "parts": "",
+    "notes": "In local ordinary reference, Dverghamar's star."
+  },
+  {
+    "lemma": "natt",
+    "pos": "N",
+    "meaning": "permanent dark-side environment",
+    "domain": "sky",
+    "parts": "",
+    "notes": "Not a recurring solar night."
+  },
+  {
+    "lemma": "skum",
+    "pos": "N",
+    "meaning": "twilight or low-angle illuminated belt environment",
+    "domain": "sky",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vindr",
+    "pos": "N",
+    "meaning": "wind; moving air outdoors",
+    "domain": "air",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "luft",
+    "pos": "N",
+    "meaning": "air; gaseous atmosphere in a space",
+    "domain": "air",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "damp",
+    "pos": "N",
+    "meaning": "vapor or steam in the stated context",
+    "domain": "air",
+    "parts": "",
+    "notes": "Visible white plumes often contain droplets; not all gas is visible."
+  },
+  {
+    "lemma": "rök",
+    "pos": "N",
+    "meaning": "smoke",
+    "domain": "air",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gas",
+    "pos": "N",
+    "meaning": "gas as a material state or gaseous substance",
+    "domain": "air",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "stöv",
+    "pos": "N",
+    "meaning": "suspended or settled fine dust",
+    "domain": "air",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "reg",
+    "pos": "N",
+    "meaning": "rule; agreed instruction",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "veg",
+    "pos": "N",
+    "meaning": "route; passage used for travel",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bröv",
+    "pos": "N",
+    "meaning": "bridge",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "trepp",
+    "pos": "N",
+    "meaning": "stair or stepped passage",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dor",
+    "pos": "N",
+    "meaning": "door; closable entrance",
+    "domain": "settlement",
+    "parts": "",
+    "notes": "Also a through-preposition; syntax distinguishes it."
+  },
+  {
+    "lemma": "vegn",
+    "pos": "N",
+    "meaning": "wall",
+    "domain": "settlement",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gulm",
+    "pos": "N",
+    "meaning": "floor",
+    "domain": "settlement",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tekk",
+    "pos": "N",
+    "meaning": "roof or overhead covering",
+    "domain": "settlement",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "söl",
+    "pos": "N",
+    "meaning": "pillar",
+    "domain": "settlement",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gang",
+    "pos": "N",
+    "meaning": "tunnel or corridor",
+    "domain": "settlement",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "brunn",
+    "pos": "N",
+    "meaning": "well or vertical water access",
+    "domain": "water",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sjakt",
+    "pos": "N",
+    "meaning": "excavated shaft",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rad",
+    "pos": "N",
+    "meaning": "wheel",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tarn",
+    "pos": "N",
+    "meaning": "tooth; gear tooth in compounds",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "aks",
+    "pos": "N",
+    "meaning": "rotating axle or shaft",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "relm",
+    "pos": "N",
+    "meaning": "transmission belt or strap",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "kavrel",
+    "pos": "N",
+    "meaning": "cable or heavy flexible line",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "porm",
+    "pos": "N",
+    "meaning": "pump",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vent",
+    "pos": "N",
+    "meaning": "valve or controllable flow opening",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "röl",
+    "pos": "N",
+    "meaning": "pipe; enclosed conduit",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sil",
+    "pos": "N",
+    "meaning": "sieve or filter",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "falm",
+    "pos": "N",
+    "meaning": "air-moving fan",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "motor",
+    "pos": "N",
+    "meaning": "engine or motor converting a supplied energy source to motion",
+    "domain": "industry",
+    "parts": "",
+    "notes": "An industrial loan-shaped term; source must be qualified."
+  },
+  {
+    "lemma": "kravt",
+    "pos": "N",
+    "meaning": "usable power in technical rate-of-work sense",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Distinguish energy and force in calculations."
+  },
+  {
+    "lemma": "ener",
+    "pos": "N",
+    "meaning": "energy; capacity accounted for through work and heat transfer",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Technical term; not an additional food source."
+  },
+  {
+    "lemma": "gnist",
+    "pos": "N",
+    "meaning": "electric discharge spark; electricity in early ordinary usage",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Technical compounds disambiguate circuit quantities."
+  },
+  {
+    "lemma": "traad",
+    "pos": "N",
+    "meaning": "wire or thread",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "spenn",
+    "pos": "N",
+    "meaning": "electrical potential difference in technical usage",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "straum",
+    "pos": "N",
+    "meaning": "electric current in technical usage",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Water current is drav."
+  },
+  {
+    "lemma": "mot",
+    "pos": "N",
+    "meaning": "electrical resistance in technical usage",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skelm",
+    "pos": "N",
+    "meaning": "rail guiding a vehicle",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vögn",
+    "pos": "N",
+    "meaning": "wagon or rail carriage",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sivar",
+    "pos": "N",
+    "meaning": "deliberately transmitted sign or signal",
+    "domain": "language",
+    "parts": "",
+    "notes": "Does not imply digital encoding."
+  },
+  {
+    "lemma": "mark",
+    "pos": "N",
+    "meaning": "written mark; identifying label",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bök",
+    "pos": "N",
+    "meaning": "bound record or book",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "blet",
+    "pos": "N",
+    "meaning": "sheet; leaflike flat piece",
+    "domain": "language",
+    "parts": "",
+    "notes": "Context distinguishes writing sheet and producer leaf analog."
+  },
+  {
+    "lemma": "pren",
+    "pos": "N",
+    "meaning": "writing implement",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "keldar",
+    "pos": "N",
+    "meaning": "map",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "narv",
+    "pos": "N",
+    "meaning": "name",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "orn",
+    "pos": "N",
+    "meaning": "word or lexical item",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lym",
+    "pos": "N",
+    "meaning": "sound",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "stav",
+    "pos": "N",
+    "meaning": "script letter; straight rod in a separate physical sense",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "glos",
+    "pos": "N",
+    "meaning": "defined meaning in a glossary",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gred",
+    "pos": "N",
+    "meaning": "tested grade or specified class",
+    "domain": "industry",
+    "parts": "",
+    "notes": "The relevant test must be identified."
+  },
+  {
+    "lemma": "tröv",
+    "pos": "N",
+    "meaning": "test or trial",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "trov",
+    "pos": "N",
+    "meaning": "sample or specimen",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Distinct vowel from tröv, test."
+  },
+  {
+    "lemma": "meel",
+    "pos": "N",
+    "meaning": "measured magnitude; target dimension",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fevn",
+    "pos": "N",
+    "meaning": "error; mismatch with a stated requirement",
+    "domain": "language",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "del",
+    "pos": "N",
+    "meaning": "part; share",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hand",
+    "pos": "N",
+    "meaning": "hand",
+    "domain": "body",
+    "parts": "",
+    "notes": "No digit count is implied."
+  },
+  {
+    "lemma": "arn",
+    "pos": "N",
+    "meaning": "arm",
+    "domain": "body",
+    "parts": "",
+    "notes": "Dwarves have four; upper/lower are independent adjectives."
+  },
+  {
+    "lemma": "fot",
+    "pos": "N",
+    "meaning": "foot",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "delm",
+    "pos": "N",
+    "meaning": "leg",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ög",
+    "pos": "N",
+    "meaning": "eye",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hör",
+    "pos": "N",
+    "meaning": "ear",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mur",
+    "pos": "N",
+    "meaning": "mouth",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hul",
+    "pos": "N",
+    "meaning": "outer skin or body covering",
+    "domain": "body",
+    "parts": "",
+    "notes": "Exact native covering remains unspecified."
+  },
+  {
+    "lemma": "bern",
+    "pos": "N",
+    "meaning": "internal skeletal support element",
+    "domain": "body",
+    "parts": "",
+    "notes": "No human mineral chemistry asserted."
+  },
+  {
+    "lemma": "brol",
+    "pos": "N",
+    "meaning": "circulating nutritive/respiratory fluid",
+    "domain": "body",
+    "parts": "",
+    "notes": "Does not fix pigment."
+  },
+  {
+    "lemma": "hjar",
+    "pos": "N",
+    "meaning": "pumping circulatory organ",
+    "domain": "body",
+    "parts": "",
+    "notes": "Detailed respiratory/circulatory anatomy remains open."
+  },
+  {
+    "lemma": "lun",
+    "pos": "N",
+    "meaning": "gas-exchange organ in a broad functional translation",
+    "domain": "body",
+    "parts": "",
+    "notes": "Not a claim of human lung microanatomy."
+  },
+  {
+    "lemma": "egg",
+    "pos": "N",
+    "meaning": "true reproductive egg",
+    "domain": "care",
+    "parts": "",
+    "notes": "Separate from the constructed nursery."
+  },
+  {
+    "lemma": "egghul",
+    "pos": "N",
+    "meaning": "egg membrane",
+    "domain": "care",
+    "parts": "egg+hul",
+    "notes": ""
+  },
+  {
+    "lemma": "eggskel",
+    "pos": "N",
+    "meaning": "egg's own shell",
+    "domain": "care",
+    "parts": "egg+skel",
+    "notes": ""
+  },
+  {
+    "lemma": "nerskel",
+    "pos": "N",
+    "meaning": "constructed protective brood casing",
+    "domain": "care",
+    "parts": "ner+skel",
+    "notes": "Not the egg shell."
+  },
+  {
+    "lemma": "nerpor",
+    "pos": "N",
+    "meaning": "managed ventilation pore in a brood casing",
+    "domain": "care",
+    "parts": "ner+por",
+    "notes": ""
+  },
+  {
+    "lemma": "nerstal",
+    "pos": "N",
+    "meaning": "structural framework of a brood casing",
+    "domain": "care",
+    "parts": "ner+stal",
+    "notes": ""
+  },
+  {
+    "lemma": "neret",
+    "pos": "N",
+    "meaning": "dedicated incubation/care site",
+    "domain": "care",
+    "parts": "ner+-et",
+    "notes": "Lexicalized place derivation."
+  },
+  {
+    "lemma": "rinn",
+    "pos": "N",
+    "meaning": "reproductive parent",
+    "domain": "care",
+    "parts": "",
+    "notes": "Sex or reproductive role can be specified without assuming household structure."
+  },
+  {
+    "lemma": "rukkor",
+    "pos": "N",
+    "meaning": "caregiver responsible for protection and maintenance",
+    "domain": "care",
+    "parts": "ruk+kor",
+    "notes": "Care role; distinct from the verb veren, become."
+  },
+  {
+    "lemma": "selkor",
+    "pos": "N",
+    "meaning": "person providing nourishment",
+    "domain": "care",
+    "parts": "sel+kor",
+    "notes": ""
+  },
+  {
+    "lemma": "fost",
+    "pos": "N",
+    "meaning": "fostered young or fostering relationship",
+    "domain": "care",
+    "parts": "",
+    "notes": "Role is specified by context; not necessarily adoption law."
+  },
+  {
+    "lemma": "fröm",
+    "pos": "N",
+    "meaning": "friend",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "felag",
+    "pos": "N",
+    "meaning": "cooperating group or association",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "helm",
+    "pos": "N",
+    "meaning": "home; one's place of residence",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "seld",
+    "pos": "N",
+    "meaning": "sleeping platform or bed",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "duk",
+    "pos": "N",
+    "meaning": "cloth; flexible woven covering",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "kläd",
+    "pos": "N",
+    "meaning": "clothing",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mard",
+    "pos": "N",
+    "meaning": "prepared meal",
+    "domain": "food",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "röt",
+    "pos": "N",
+    "meaning": "storage root or tuber as food",
+    "domain": "food",
+    "parts": "",
+    "notes": "Functional analog, not an Earth potato species."
+  },
+  {
+    "lemma": "somb",
+    "pos": "N",
+    "meaning": "fungus-like decomposer or its cultivated food body",
+    "domain": "food",
+    "parts": "",
+    "notes": "Ecological translation; detailed taxonomy remains open."
+  },
+  {
+    "lemma": "grölm",
+    "pos": "N",
+    "meaning": "cultivated crop",
+    "domain": "food",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "frö",
+    "pos": "N",
+    "meaning": "dispersal/reproductive propagule of a cultivated producer",
+    "domain": "food",
+    "parts": "",
+    "notes": "Does not commit all producers to seed-plant anatomy."
+  },
+  {
+    "lemma": "grö",
+    "pos": "N",
+    "meaning": "edible green producer tissue",
+    "domain": "food",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fesk",
+    "pos": "N",
+    "meaning": "aquatic swimming animal used as food",
+    "domain": "food",
+    "parts": "",
+    "notes": "Not Earth vertebrate membership."
+  },
+  {
+    "lemma": "dyl",
+    "pos": "N",
+    "meaning": "animal",
+    "domain": "ecology",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mik",
+    "pos": "N",
+    "meaning": "microscopic living organism",
+    "domain": "ecology",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lir",
+    "pos": "N",
+    "meaning": "life; living state",
+    "domain": "ecology",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rest",
+    "pos": "N",
+    "meaning": "remainder; residue",
+    "domain": "ecology",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skarn",
+    "pos": "N",
+    "meaning": "discarded waste requiring handling",
+    "domain": "ecology",
+    "parts": "",
+    "notes": "Coined everyday sense; not the Earth petrological term skarn."
+  },
+  {
+    "lemma": "prid",
+    "pos": "N",
+    "meaning": "agreed price",
+    "domain": "trade",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "byt",
+    "pos": "N",
+    "meaning": "exchange; traded lot",
+    "domain": "trade",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "myrk",
+    "pos": "N",
+    "meaning": "token used as currency",
+    "domain": "trade",
+    "parts": "",
+    "notes": "No universal coinage or metal standard assumed."
+  },
+  {
+    "lemma": "felagkor",
+    "pos": "N",
+    "meaning": "member of a cooperating work group",
+    "domain": "social",
+    "parts": "felag+kor",
+    "notes": "Literal association term."
+  },
+  {
+    "lemma": "döm",
+    "pos": "N",
+    "meaning": "judgment or decision",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rett",
+    "pos": "ADJ",
+    "meaning": "correct or conforming to the stated rule",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fri",
+    "pos": "ADJ",
+    "meaning": "free; unconfined or uncommitted in the stated respect",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "när",
+    "pos": "ADJ",
+    "meaning": "near",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fjär",
+    "pos": "ADJ",
+    "meaning": "far",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "storr",
+    "pos": "ADJ",
+    "meaning": "large",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lenn",
+    "pos": "ADJ",
+    "meaning": "small",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "larn",
+    "pos": "ADJ",
+    "meaning": "long",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "kurt",
+    "pos": "ADJ",
+    "meaning": "short in length or duration",
+    "domain": "property",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "höl",
+    "pos": "ADJ",
+    "meaning": "high in elevation",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dypp",
+    "pos": "ADJ",
+    "meaning": "deep beneath a specified surface",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "keld",
+    "pos": "ADJ",
+    "meaning": "cold",
+    "domain": "thermal",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "helt",
+    "pos": "ADJ",
+    "meaning": "hot",
+    "domain": "thermal",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "nyr",
+    "pos": "ADJ",
+    "meaning": "new",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "galm",
+    "pos": "ADJ",
+    "meaning": "old",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "göd",
+    "pos": "ADJ",
+    "meaning": "good for the stated purpose",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ond",
+    "pos": "ADJ",
+    "meaning": "bad or harmful in the stated respect",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gläd",
+    "pos": "ADJ",
+    "meaning": "glad; pleased",
+    "domain": "emotion",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sorg",
+    "pos": "N",
+    "meaning": "sadness; grief",
+    "domain": "emotion",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "räld",
+    "pos": "ADJ",
+    "meaning": "afraid",
+    "domain": "emotion",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "arg",
+    "pos": "ADJ",
+    "meaning": "angry",
+    "domain": "emotion",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "trölt",
+    "pos": "ADJ",
+    "meaning": "tired",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "suld",
+    "pos": "N",
+    "meaning": "hunger",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "törs",
+    "pos": "N",
+    "meaning": "thirst",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "röm",
+    "pos": "N",
+    "meaning": "rest; quiet interval",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "spel",
+    "pos": "N",
+    "meaning": "game; play",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sang",
+    "pos": "N",
+    "meaning": "song",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dans",
+    "pos": "N",
+    "meaning": "dance",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "geev",
+    "pos": "N",
+    "meaning": "gift",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mern",
+    "pos": "N",
+    "meaning": "memory; remembered item",
+    "domain": "mind",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tönk",
+    "pos": "N",
+    "meaning": "thought; considered idea",
+    "domain": "mind",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "viss",
+    "pos": "ADJ",
+    "meaning": "certain according to the speaker",
+    "domain": "mind",
+    "parts": "",
+    "notes": "Not a truth guarantee."
+  },
+  {
+    "lemma": "ting",
+    "pos": "N",
+    "meaning": "thing; unspecified object",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "seren",
+    "pos": "V",
+    "meaning": "be; exist as or have a stated property",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Copula with noun/adjective/participle; regular sere, serte."
+  },
+  {
+    "lemma": "haven",
+    "pos": "V",
+    "meaning": "have; possess; perfect auxiliary",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Noun object, or participle plus complements."
+  },
+  {
+    "lemma": "veren",
+    "pos": "V",
+    "meaning": "become; event-passive auxiliary",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Predicate complement or participle; do not derive caregiver from this sense."
+  },
+  {
+    "lemma": "karnen",
+    "pos": "V",
+    "meaning": "build by joining parts into a stable whole",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Direct object: what is built."
+  },
+  {
+    "lemma": "menen",
+    "pos": "V",
+    "meaning": "dress or work stone",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Direct object: stone or stone object."
+  },
+  {
+    "lemma": "varen",
+    "pos": "V",
+    "meaning": "speak; say",
+    "domain": "language",
+    "parts": "",
+    "notes": "Intransitive; ke content clause; recipient til + oblique."
+  },
+  {
+    "lemma": "selen",
+    "pos": "V",
+    "meaning": "feed; provide nourishment to",
+    "domain": "care",
+    "parts": "",
+    "notes": "Direct object: recipient; food me + oblique."
+  },
+  {
+    "lemma": "eten",
+    "pos": "V",
+    "meaning": "eat",
+    "domain": "food",
+    "parts": "",
+    "notes": "Food object optional."
+  },
+  {
+    "lemma": "driken",
+    "pos": "V",
+    "meaning": "drink",
+    "domain": "food",
+    "parts": "",
+    "notes": "Liquid object optional."
+  },
+  {
+    "lemma": "gremen",
+    "pos": "V",
+    "meaning": "exert sustained physical effort",
+    "domain": "body",
+    "parts": "",
+    "notes": "Intransitive; task te + infinitive."
+  },
+  {
+    "lemma": "helpen",
+    "pos": "V",
+    "meaning": "help",
+    "domain": "social",
+    "parts": "",
+    "notes": "Person object; task te + infinitive."
+  },
+  {
+    "lemma": "kopen",
+    "pos": "V",
+    "meaning": "buy",
+    "domain": "trade",
+    "parts": "",
+    "notes": "Goods object; seller fra + oblique."
+  },
+  {
+    "lemma": "salen",
+    "pos": "V",
+    "meaning": "sell",
+    "domain": "trade",
+    "parts": "",
+    "notes": "Goods object; buyer til + oblique."
+  },
+  {
+    "lemma": "byten",
+    "pos": "V",
+    "meaning": "exchange",
+    "domain": "trade",
+    "parts": "",
+    "notes": "Goods object; counter-goods me + oblique."
+  },
+  {
+    "lemma": "given",
+    "pos": "V",
+    "meaning": "give",
+    "domain": "social",
+    "parts": "",
+    "notes": "Thing object; recipient til + oblique."
+  },
+  {
+    "lemma": "taken",
+    "pos": "V",
+    "meaning": "take",
+    "domain": "body",
+    "parts": "",
+    "notes": "Thing object; source fra + oblique. Distinct from tekk, roof."
+  },
+  {
+    "lemma": "bären",
+    "pos": "V",
+    "meaning": "carry",
+    "domain": "body",
+    "parts": "",
+    "notes": "Thing/person object."
+  },
+  {
+    "lemma": "seten",
+    "pos": "V",
+    "meaning": "set or place",
+    "domain": "body",
+    "parts": "",
+    "notes": "Thing object plus location/direction phrase."
+  },
+  {
+    "lemma": "open",
+    "pos": "V",
+    "meaning": "open",
+    "domain": "industry",
+    "parts": "",
+    "notes": "stem op."
+  },
+  {
+    "lemma": "luken",
+    "pos": "V",
+    "meaning": "close",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Thing object."
+  },
+  {
+    "lemma": "stanen",
+    "pos": "V",
+    "meaning": "stop; cease moving or operating",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Intransitive; use stopen for deliberately stopping an object."
+  },
+  {
+    "lemma": "stopen",
+    "pos": "V",
+    "meaning": "stop an object or process",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Direct object."
+  },
+  {
+    "lemma": "dreven",
+    "pos": "V",
+    "meaning": "drive or power a mechanism",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Mechanism object; source me + oblique."
+  },
+  {
+    "lemma": "pomen",
+    "pos": "V",
+    "meaning": "pump",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Fluid object; destination in/til + oblique."
+  },
+  {
+    "lemma": "silen",
+    "pos": "V",
+    "meaning": "filter",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Material object; filter me + oblique."
+  },
+  {
+    "lemma": "venten",
+    "pos": "V",
+    "meaning": "ventilate or regulate an air flow",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Space object; distinct from waiting."
+  },
+  {
+    "lemma": "branen",
+    "pos": "V",
+    "meaning": "burn; consume by combustion",
+    "domain": "thermal",
+    "parts": "",
+    "notes": "Fuel object optional; no underground exhaust assumption."
+  },
+  {
+    "lemma": "smelten",
+    "pos": "V",
+    "meaning": "melt a material",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Material object; intransitive state expressed with veren + smelt."
+  },
+  {
+    "lemma": "kölen",
+    "pos": "V",
+    "meaning": "cool",
+    "domain": "thermal",
+    "parts": "",
+    "notes": "object optional in ordinary use."
+  },
+  {
+    "lemma": "luten",
+    "pos": "V",
+    "meaning": "warm something to a useful temperature",
+    "domain": "thermal",
+    "parts": "",
+    "notes": "Object; temperature specification as needed."
+  },
+  {
+    "lemma": "rissen",
+    "pos": "V",
+    "meaning": "crack or split an object",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Object; intransitive cracking uses veren rissig."
+  },
+  {
+    "lemma": "tröven",
+    "pos": "V",
+    "meaning": "test under stated conditions",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Sample/object; method me + oblique."
+  },
+  {
+    "lemma": "meelen",
+    "pos": "V",
+    "meaning": "measure",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "merken",
+    "pos": "V",
+    "meaning": "mark; label",
+    "domain": "language",
+    "parts": "",
+    "notes": "Object plus mark me + oblique."
+  },
+  {
+    "lemma": "skriven",
+    "pos": "V",
+    "meaning": "write",
+    "domain": "language",
+    "parts": "",
+    "notes": "Text object; surface su + oblique."
+  },
+  {
+    "lemma": "lesen",
+    "pos": "V",
+    "meaning": "read",
+    "domain": "language",
+    "parts": "",
+    "notes": "Text object."
+  },
+  {
+    "lemma": "hören",
+    "pos": "V",
+    "meaning": "hear",
+    "domain": "body",
+    "parts": "",
+    "notes": "Sound object or ke clause."
+  },
+  {
+    "lemma": "seen",
+    "pos": "V",
+    "meaning": "see",
+    "domain": "body",
+    "parts": "",
+    "notes": "Stem se, present see; vowel sequence retained."
+  },
+  {
+    "lemma": "viten",
+    "pos": "V",
+    "meaning": "know a fact or answer",
+    "domain": "mind",
+    "parts": "",
+    "notes": "ke/se/interrogative complement; object for known fact."
+  },
+  {
+    "lemma": "kennen",
+    "pos": "V",
+    "meaning": "know or be familiar with a person/place",
+    "domain": "mind",
+    "parts": "",
+    "notes": "Direct object; differs from propositional viten."
+  },
+  {
+    "lemma": "tönken",
+    "pos": "V",
+    "meaning": "think; consider",
+    "domain": "mind",
+    "parts": "",
+    "notes": "Object or ke clause."
+  },
+  {
+    "lemma": "mernen",
+    "pos": "V",
+    "meaning": "remember",
+    "domain": "mind",
+    "parts": "",
+    "notes": "Object or ke clause."
+  },
+  {
+    "lemma": "leren",
+    "pos": "V",
+    "meaning": "learn",
+    "domain": "language",
+    "parts": "",
+    "notes": "Content object; source fra + oblique."
+  },
+  {
+    "lemma": "lären",
+    "pos": "V",
+    "meaning": "teach",
+    "domain": "language",
+    "parts": "",
+    "notes": "Content object; learner til + oblique."
+  },
+  {
+    "lemma": "spören",
+    "pos": "V",
+    "meaning": "ask",
+    "domain": "language",
+    "parts": "",
+    "notes": "Question se/wh clause; addressee til + oblique."
+  },
+  {
+    "lemma": "svaren",
+    "pos": "V",
+    "meaning": "answer",
+    "domain": "language",
+    "parts": "",
+    "notes": "Content object or ke clause; addressee til + oblique."
+  },
+  {
+    "lemma": "feren",
+    "pos": "V",
+    "meaning": "move forward; prospective future auxiliary",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Intransitive direction phrase; auxiliary takes infinitive."
+  },
+  {
+    "lemma": "komen",
+    "pos": "V",
+    "meaning": "come",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Destination til/in + oblique."
+  },
+  {
+    "lemma": "garen",
+    "pos": "V",
+    "meaning": "go; travel",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Route dor + oblique; destination til + oblique."
+  },
+  {
+    "lemma": "klimen",
+    "pos": "V",
+    "meaning": "climb",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Surface su + oblique; destination til + oblique."
+  },
+  {
+    "lemma": "löpen",
+    "pos": "V",
+    "meaning": "run",
+    "domain": "travel",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "svimen",
+    "pos": "V",
+    "meaning": "swim",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "soven",
+    "pos": "V",
+    "meaning": "sleep",
+    "domain": "body",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "vaken",
+    "pos": "V",
+    "meaning": "wake; become awake",
+    "domain": "body",
+    "parts": "",
+    "notes": "Intransitive; causing wakefulness requires explicit paraphrase."
+  },
+  {
+    "lemma": "vilen",
+    "pos": "V",
+    "meaning": "rest",
+    "domain": "body",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "leven",
+    "pos": "V",
+    "meaning": "live; be alive",
+    "domain": "ecology",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "döen",
+    "pos": "V",
+    "meaning": "die",
+    "domain": "ecology",
+    "parts": "",
+    "notes": "stem dö."
+  },
+  {
+    "lemma": "voksen",
+    "pos": "V",
+    "meaning": "grow; increase in body size",
+    "domain": "ecology",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "ruken",
+    "pos": "V",
+    "meaning": "protect and maintain care of",
+    "domain": "care",
+    "parts": "",
+    "notes": "Person or nursery object; source of rukor caregiver."
+  },
+  {
+    "lemma": "halten",
+    "pos": "V",
+    "meaning": "hold; keep physically in place",
+    "domain": "body",
+    "parts": "",
+    "notes": "Direct object."
+  },
+  {
+    "lemma": "vasken",
+    "pos": "V",
+    "meaning": "wash",
+    "domain": "body",
+    "parts": "",
+    "notes": "Direct object."
+  },
+  {
+    "lemma": "sorgen",
+    "pos": "V",
+    "meaning": "grieve; feel sadness",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "Intransitive; cause af + oblique."
+  },
+  {
+    "lemma": "lahen",
+    "pos": "V",
+    "meaning": "laugh",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "no ch phoneme in Common."
+  },
+  {
+    "lemma": "liken",
+    "pos": "V",
+    "meaning": "like; enjoy",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "Direct object or infinitive activity."
+  },
+  {
+    "lemma": "elsken",
+    "pos": "V",
+    "meaning": "love",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "Direct object."
+  },
+  {
+    "lemma": "frykten",
+    "pos": "V",
+    "meaning": "fear",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "Direct object or ke clause."
+  },
+  {
+    "lemma": "haapen",
+    "pos": "V",
+    "meaning": "hope",
+    "domain": "emotion",
+    "parts": "",
+    "notes": "ke clause or te + infinitive."
+  },
+  {
+    "lemma": "spelen",
+    "pos": "V",
+    "meaning": "play",
+    "domain": "social",
+    "parts": "",
+    "notes": "Game object optional."
+  },
+  {
+    "lemma": "sangen",
+    "pos": "V",
+    "meaning": "sing",
+    "domain": "social",
+    "parts": "",
+    "notes": "Song/text object optional."
+  },
+  {
+    "lemma": "dansen",
+    "pos": "V",
+    "meaning": "dance",
+    "domain": "social",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "velen",
+    "pos": "V",
+    "meaning": "want",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Thing object or shared-subject infinitive."
+  },
+  {
+    "lemma": "magen",
+    "pos": "V",
+    "meaning": "be able to",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Infinitive; ability rather than epistemic possibility."
+  },
+  {
+    "lemma": "molen",
+    "pos": "V",
+    "meaning": "be required or obliged to",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Infinitive."
+  },
+  {
+    "lemma": "loven",
+    "pos": "V",
+    "meaning": "permit",
+    "domain": "social",
+    "parts": "",
+    "notes": "Activity infinitive or ke clause with explicit subject."
+  },
+  {
+    "lemma": "bannen",
+    "pos": "V",
+    "meaning": "prohibit",
+    "domain": "social",
+    "parts": "",
+    "notes": "Activity infinitive or ke clause with explicit subject."
+  },
+  {
+    "lemma": "stilen",
+    "pos": "V",
+    "meaning": "remain silent",
+    "domain": "social",
+    "parts": "",
+    "notes": "Intransitive."
+  },
+  {
+    "lemma": "begnen",
+    "pos": "V",
+    "meaning": "begin an activity",
+    "domain": "time",
+    "parts": "",
+    "notes": "Infinitive."
+  },
+  {
+    "lemma": "telen",
+    "pos": "V",
+    "meaning": "finish an activity or object",
+    "domain": "time",
+    "parts": "",
+    "notes": "Infinitive or direct object."
+  },
+  {
+    "lemma": "ventren",
+    "pos": "V",
+    "meaning": "wait",
+    "domain": "time",
+    "parts": "",
+    "notes": "Intransitive; expected event te ke clause."
+  },
+  {
+    "lemma": "betalen",
+    "pos": "V",
+    "meaning": "pay",
+    "domain": "trade",
+    "parts": "",
+    "notes": "amount object, recipient til + oblique."
+  },
+  {
+    "lemma": "ek",
+    "pos": "PRON",
+    "meaning": "I",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "du",
+    "pos": "PRON",
+    "meaning": "you singular",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sa",
+    "pos": "PRON",
+    "meaning": "third-person singular",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vir",
+    "pos": "PRON",
+    "meaning": "we",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "jir",
+    "pos": "PRON",
+    "meaning": "you plural",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sar",
+    "pos": "PRON",
+    "meaning": "they plural",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "si",
+    "pos": "PRON",
+    "meaning": "clause-local reflexive",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Genitive sis; oblique sium."
+  },
+  {
+    "lemma": "di",
+    "pos": "DET",
+    "meaning": "this or these; proximal demonstrative",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Also standalone pronoun: dis, dium."
+  },
+  {
+    "lemma": "dan",
+    "pos": "DET",
+    "meaning": "that or those; distal demonstrative",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Also comparative conjunction than."
+  },
+  {
+    "lemma": "da",
+    "pos": "DET",
+    "meaning": "the",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Invariant definite article."
+  },
+  {
+    "lemma": "ald",
+    "pos": "DET",
+    "meaning": "all",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sum",
+    "pos": "DET",
+    "meaning": "some",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "neng",
+    "pos": "DET",
+    "meaning": "no; none as a quantity",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tel",
+    "pos": "ADJ",
+    "meaning": "complete; whole",
+    "domain": "property",
+    "parts": "",
+    "notes": "Related to telen finish."
+  },
+  {
+    "lemma": "sam",
+    "pos": "ADJ",
+    "meaning": "same; equal",
+    "domain": "property",
+    "parts": "",
+    "notes": "Also equative marker."
+  },
+  {
+    "lemma": "as",
+    "pos": "CONJ",
+    "meaning": "as; equal-comparison linker",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ak",
+    "pos": "CONJ",
+    "meaning": "and",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "el",
+    "pos": "CONJ",
+    "meaning": "or",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dar",
+    "pos": "CONJ",
+    "meaning": "but",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Also deictic/existential adverb there."
+  },
+  {
+    "lemma": "ke",
+    "pos": "CONJ",
+    "meaning": "that introducing a statement clause",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "se",
+    "pos": "CONJ",
+    "meaning": "whether introducing a content question",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Homonymous with the stem of seen."
+  },
+  {
+    "lemma": "vel",
+    "pos": "CONJ",
+    "meaning": "if",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Distinct from verb velen; grammatical position resolves it."
+  },
+  {
+    "lemma": "den",
+    "pos": "CONJ",
+    "meaning": "because",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tan",
+    "pos": "CONJ",
+    "meaning": "when introducing a time clause",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bis",
+    "pos": "CONJ",
+    "meaning": "until",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sav",
+    "pos": "CONJ",
+    "meaning": "although",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ri",
+    "pos": "REL",
+    "meaning": "relative clause linker",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "te",
+    "pos": "PART",
+    "meaning": "purpose or infinitive linker",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tem",
+    "pos": "PART",
+    "meaning": "as for; explicit outside-clause topic",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ne",
+    "pos": "PART",
+    "meaning": "clause negation; not",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vu",
+    "pos": "PART",
+    "meaning": "counterfactual operator",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mut",
+    "pos": "PART",
+    "meaning": "reciprocal marker after a plural object pronoun",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vis",
+    "pos": "N",
+    "meaning": "an observation as a recorded item",
+    "domain": "language",
+    "parts": "",
+    "notes": "Homonym of evidence particle, same semantic family."
+  },
+  {
+    "lemma": "ja",
+    "pos": "RESP",
+    "meaning": "yes",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "no",
+    "pos": "RESP",
+    "meaning": "no as an answer",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "bitte",
+    "pos": "PART",
+    "meaning": "please",
+    "domain": "social",
+    "parts": "",
+    "notes": "Courtesy form; one deliberately familiar loan-shaped item."
+  },
+  {
+    "lemma": "takk",
+    "pos": "N",
+    "meaning": "thanks; gratitude",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hei",
+    "pos": "RESP",
+    "meaning": "hello; greeting",
+    "domain": "social",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "farvel",
+    "pos": "RESP",
+    "meaning": "farewell",
+    "domain": "social",
+    "parts": "",
+    "notes": "Lexical greeting; not a rule assigning farewell to every fer/vel compound."
+  },
+  {
+    "lemma": "nu",
+    "pos": "ADV",
+    "meaning": "now",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "jev",
+    "pos": "ADV",
+    "meaning": "already",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "nal",
+    "pos": "ADV",
+    "meaning": "still",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "rev",
+    "pos": "ADV",
+    "meaning": "again",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "oft",
+    "pos": "ADV",
+    "meaning": "often",
+    "domain": "time",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ven",
+    "pos": "ADV",
+    "meaning": "perhaps",
+    "domain": "mind",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "för",
+    "pos": "ADV",
+    "meaning": "before; earlier",
+    "domain": "time",
+    "parts": "",
+    "notes": "prepositional use takes oblique."
+  },
+  {
+    "lemma": "eft",
+    "pos": "ADV",
+    "meaning": "after; later",
+    "domain": "time",
+    "parts": "",
+    "notes": "Prepositional use takes oblique."
+  },
+  {
+    "lemma": "her",
+    "pos": "ADV",
+    "meaning": "here",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hor",
+    "pos": "Q",
+    "meaning": "where",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "van",
+    "pos": "Q",
+    "meaning": "when",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hve",
+    "pos": "Q",
+    "meaning": "who",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Can take genitive -s or oblique -um."
+  },
+  {
+    "lemma": "hvat",
+    "pos": "Q",
+    "meaning": "what",
+    "domain": "grammar",
+    "parts": "",
+    "notes": "Can take genitive -s or oblique -um."
+  },
+  {
+    "lemma": "virke",
+    "pos": "Q",
+    "meaning": "why",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ham",
+    "pos": "Q",
+    "meaning": "how",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "na",
+    "pos": "PREP",
+    "meaning": "inside; within at rest",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "in",
+    "pos": "PREP",
+    "meaning": "into",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ut",
+    "pos": "PREP",
+    "meaning": "out of",
+    "domain": "space",
+    "parts": "",
+    "notes": "Standalone ut is an outvard command/adverb."
+  },
+  {
+    "lemma": "su",
+    "pos": "PREP",
+    "meaning": "on",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "un",
+    "pos": "PREP",
+    "meaning": "beneath",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "til",
+    "pos": "PREP",
+    "meaning": "to; toward; recipient",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fra",
+    "pos": "PREP",
+    "meaning": "from; source",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "me",
+    "pos": "PREP",
+    "meaning": "with; by means of",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "af",
+    "pos": "PREP",
+    "meaning": "of; association; passive agent",
+    "domain": "grammar",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "an",
+    "pos": "PREP",
+    "meaning": "beside",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dor",
+    "pos": "PREP",
+    "meaning": "through",
+    "domain": "space",
+    "parts": "",
+    "notes": "Homonym of entrance noun."
+  },
+  {
+    "lemma": "up",
+    "pos": "ADV",
+    "meaning": "up",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ned",
+    "pos": "ADV",
+    "meaning": "down",
+    "domain": "space",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "vard",
+    "pos": "BOUND",
+    "meaning": "toward a named direction or reference",
+    "domain": "space",
+    "parts": "",
+    "notes": "Productive directional suffix."
+  },
+  {
+    "lemma": "solvard",
+    "pos": "ADV",
+    "meaning": "sunward",
+    "domain": "space",
+    "parts": "sol+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "nattvard",
+    "pos": "ADV",
+    "meaning": "nightward",
+    "domain": "space",
+    "parts": "natt+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "kamvard",
+    "pos": "ADV",
+    "meaning": "farther into rock",
+    "domain": "space",
+    "parts": "kam+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "utvard",
+    "pos": "ADV",
+    "meaning": "toward exterior exposure",
+    "domain": "space",
+    "parts": "ut+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "upvard",
+    "pos": "ADV",
+    "meaning": "upward",
+    "domain": "space",
+    "parts": "up+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "nedvard",
+    "pos": "ADV",
+    "meaning": "downward",
+    "domain": "space",
+    "parts": "ned+vard",
+    "notes": ""
+  },
+  {
+    "lemma": "nul",
+    "pos": "NUM",
+    "meaning": "zero",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "en",
+    "pos": "NUM",
+    "meaning": "one",
+    "domain": "number",
+    "parts": "",
+    "notes": "Only numeral; not an indefinite article in this standard."
+  },
+  {
+    "lemma": "tor",
+    "pos": "NUM",
+    "meaning": "two",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "trel",
+    "pos": "NUM",
+    "meaning": "three",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fadur",
+    "pos": "NUM",
+    "meaning": "four",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "fim",
+    "pos": "NUM",
+    "meaning": "five",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "sek",
+    "pos": "NUM",
+    "meaning": "six",
+    "domain": "number",
+    "parts": "",
+    "notes": "Homonym of sequence noun; numeric context distinguishes it."
+  },
+  {
+    "lemma": "siv",
+    "pos": "NUM",
+    "meaning": "seven",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "okt",
+    "pos": "NUM",
+    "meaning": "eight",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "niv",
+    "pos": "NUM",
+    "meaning": "nine",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dek",
+    "pos": "NUM",
+    "meaning": "ten",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hund",
+    "pos": "NUM",
+    "meaning": "hundred",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "tus",
+    "pos": "NUM",
+    "meaning": "thousand",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "mil",
+    "pos": "NUM",
+    "meaning": "million",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "punkt",
+    "pos": "N",
+    "meaning": "decimal point; geometric point in a distinct sense",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "av",
+    "pos": "PART",
+    "meaning": "over; ratio/fraction separator",
+    "domain": "number",
+    "parts": "",
+    "notes": "Not the association preposition af."
+  },
+  {
+    "lemma": "plus",
+    "pos": "PART",
+    "meaning": "plus",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "minus",
+    "pos": "PART",
+    "meaning": "minus; negative sign",
+    "domain": "number",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "ram",
+    "pos": "N",
+    "meaning": "fixed reference datum or frame",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dekad",
+    "pos": "N",
+    "meaning": "ten-unit group or decade of a stated count",
+    "domain": "number",
+    "parts": "dek+-ad",
+    "notes": "Lexicalized count grouping; not automatically ten Earth years."
+  },
+  {
+    "lemma": "svel",
+    "pos": "N",
+    "meaning": "swelling in response to wetting or another specified cause",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "svelen",
+    "pos": "V",
+    "meaning": "swell; increase bulk in response to specified conditions",
+    "domain": "material",
+    "parts": "",
+    "notes": "Intransitive; identify cause and sample."
+  },
+  {
+    "lemma": "lös",
+    "pos": "N",
+    "meaning": "dissolution in a specified liquid",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "lösen",
+    "pos": "V",
+    "meaning": "dissolve a material in a stated liquid",
+    "domain": "material",
+    "parts": "",
+    "notes": "Material object; liquid me + oblique."
+  },
+  {
+    "lemma": "väv",
+    "pos": "N",
+    "meaning": "interconnected mesh or cellular framework",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skumljus",
+    "pos": "N",
+    "meaning": "usable twilight illumination",
+    "domain": "ecology",
+    "parts": "skum+ljus",
+    "notes": ""
+  },
+  {
+    "lemma": "ljus",
+    "pos": "N",
+    "meaning": "light; illumination",
+    "domain": "ecology",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "skugg",
+    "pos": "N",
+    "meaning": "shadow cast by terrain or an object",
+    "domain": "land",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "dröp",
+    "pos": "N",
+    "meaning": "liquid droplet",
+    "domain": "water",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "revn",
+    "pos": "N",
+    "meaning": "open fissure; wider rock discontinuity",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "glid",
+    "pos": "N",
+    "meaning": "slip along a surface",
+    "domain": "material",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "gliden",
+    "pos": "V",
+    "meaning": "slide along a surface",
+    "domain": "travel",
+    "parts": "",
+    "notes": "Intransitive; surface su + oblique."
+  },
+  {
+    "lemma": "klem",
+    "pos": "N",
+    "meaning": "clamp or gripping fixture",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "klemmen",
+    "pos": "V",
+    "meaning": "clamp or grip an object",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Stem klemm; fixture noun klem is a related lexical form."
+  },
+  {
+    "lemma": "sper",
+    "pos": "N",
+    "meaning": "barrier preventing passage or flow",
+    "domain": "industry",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "speren",
+    "pos": "V",
+    "meaning": "block a passage or flow",
+    "domain": "industry",
+    "parts": "",
+    "notes": "Direct object."
+  },
+  {
+    "lemma": "tröm",
+    "pos": "N",
+    "meaning": "flow rate as a measured quantity",
+    "domain": "measure",
+    "parts": "",
+    "notes": ""
+  },
+  {
+    "lemma": "hölram",
+    "pos": "N",
+    "meaning": "elevation reference datum",
+    "domain": "measure",
+    "parts": "höl+ram",
+    "notes": ""
+  },
+  {
+    "lemma": "kammeel",
+    "pos": "N",
+    "meaning": "thickness of rock cover above a point",
+    "domain": "measure",
+    "parts": "kam+meel",
+    "notes": ""
+  },
+  {
+    "lemma": "luftmeel",
+    "pos": "N",
+    "meaning": "measured air quantity or condition with parameter specified",
+    "domain": "measure",
+    "parts": "luft+meel",
+    "notes": "not a single universal air-quality score."
+  },
+  {
+    "lemma": "durfinrak",
+    "pos": "N",
+    "meaning": "dark fine-grained rock",
+    "domain": "material",
+    "parts": "dur+fin+rak",
+    "notes": "Common basalt-like material may fit; color and grain alone do not identify basalt."
+  },
+  {
+    "lemma": "belfinrak",
+    "pos": "N",
+    "meaning": "pale fine-grained rock",
+    "domain": "material",
+    "parts": "bel+fin+rak",
+    "notes": "May include several volcanic, sedimentary or altered materials."
+  },
+  {
+    "lemma": "durgrölrak",
+    "pos": "N",
+    "meaning": "dark coarse-grained rock",
+    "domain": "material",
+    "parts": "dur+gröl+rak",
+    "notes": "Some gabbro-like rocks fit; composition requires identification."
+  },
+  {
+    "lemma": "belgrölrak",
+    "pos": "N",
+    "meaning": "pale coarse-grained rock",
+    "domain": "material",
+    "parts": "bel+gröl+rak",
+    "notes": "Some granite-like rocks fit; neither all granites nor only granites."
+  },
+  {
+    "lemma": "gralrak",
+    "pos": "N",
+    "meaning": "gray rock",
+    "domain": "material",
+    "parts": "gral+rak",
+    "notes": "Color category only."
+  },
+  {
+    "lemma": "rodrak",
+    "pos": "N",
+    "meaning": "red-stained or red-colored rock",
+    "domain": "material",
+    "parts": "rod+rak",
+    "notes": "Redness is not proof of an economically recoverable iron deposit."
+  },
+  {
+    "lemma": "grönrak",
+    "pos": "N",
+    "meaning": "green-colored rock",
+    "domain": "material",
+    "parts": "grön+rak",
+    "notes": "Does not prove copper content or a metamorphic grade."
+  },
+  {
+    "lemma": "darnrak",
+    "pos": "N",
+    "meaning": "rock with stated scratch resistance",
+    "domain": "material",
+    "parts": "darn+rak",
+    "notes": "May still be brittle, fractured or unsuitable under load."
+  },
+  {
+    "lemma": "mölrak",
+    "pos": "N",
+    "meaning": "readily scratched or indented rock",
+    "domain": "material",
+    "parts": "möl+rak",
+    "notes": "Property measured against a stated comparator."
+  },
+  {
+    "lemma": "tregrak",
+    "pos": "N",
+    "meaning": "rock resistant to crack propagation under the stated impact",
+    "domain": "material",
+    "parts": "treg+rak",
+    "notes": "A field toughness description, not a structural certification."
+  },
+  {
+    "lemma": "sprödrak",
+    "pos": "N",
+    "meaning": "rock readily fractured by impact",
+    "domain": "material",
+    "parts": "spröd+rak",
+    "notes": "Distinct from scratch hardness."
+  },
+  {
+    "lemma": "flakrak",
+    "pos": "N",
+    "meaning": "rock splitting or occurring in thin plates",
+    "domain": "material",
+    "parts": "flak+rak",
+    "notes": "May include shale-like or slate-like rocks; genesis is not implied."
+  },
+  {
+    "lemma": "lagrak",
+    "pos": "N",
+    "meaning": "distinctly layered rock",
+    "domain": "material",
+    "parts": "lag+rak",
+    "notes": "Sedimentary beds and other layering require further distinction."
+  },
+  {
+    "lemma": "bandrak",
+    "pos": "N",
+    "meaning": "visibly banded rock",
+    "domain": "material",
+    "parts": "band+rak",
+    "notes": "Gneiss-like banding is one possible instance."
+  },
+  {
+    "lemma": "grenrak",
+    "pos": "N",
+    "meaning": "rock visibly made of separate grains",
+    "domain": "material",
+    "parts": "gren+rak",
+    "notes": "Texture term."
+  },
+  {
+    "lemma": "krisrak",
+    "pos": "N",
+    "meaning": "rock with conspicuous interlocking crystals",
+    "domain": "material",
+    "parts": "kris+rak",
+    "notes": "Not all crystals are visible; not a complete genetic class."
+  },
+  {
+    "lemma": "glasrak",
+    "pos": "N",
+    "meaning": "glassy rock",
+    "domain": "material",
+    "parts": "glas+rak",
+    "notes": "Obsidian-like material is a possible local instance."
+  },
+  {
+    "lemma": "porrak",
+    "pos": "N",
+    "meaning": "rock containing conspicuous pores or vesicles",
+    "domain": "material",
+    "parts": "por+rak",
+    "notes": "Pore connectivity and permeability must be checked separately."
+  },
+  {
+    "lemma": "tettkam",
+    "pos": "N",
+    "meaning": "apparently close-packed bedrock",
+    "domain": "material",
+    "parts": "tett+kam",
+    "notes": "May contain hidden fractures and transmissive joints."
+  },
+  {
+    "lemma": "risskam",
+    "pos": "N",
+    "meaning": "bedrock with narrow fractures",
+    "domain": "material",
+    "parts": "riss+kam",
+    "notes": "Engineering description; scale and orientation matter."
+  },
+  {
+    "lemma": "revnkam",
+    "pos": "N",
+    "meaning": "bedrock with open fissures",
+    "domain": "material",
+    "parts": "revn+kam",
+    "notes": "Does not by itself describe current water flow."
+  },
+  {
+    "lemma": "veirkam",
+    "pos": "N",
+    "meaning": "veined bedrock",
+    "domain": "material",
+    "parts": "veir+kam",
+    "notes": "The vein mineral must be separately identified."
+  },
+  {
+    "lemma": "glimrak",
+    "pos": "N",
+    "meaning": "rock with sparkling reflective surfaces",
+    "domain": "material",
+    "parts": "glim+rak",
+    "notes": "Mica-like minerals can sparkle without being metal ore."
+  },
+  {
+    "lemma": "rundrak",
+    "pos": "N",
+    "meaning": "rounded stone",
+    "domain": "material",
+    "parts": "rund+rak",
+    "notes": "Shape alone does not prove river transport."
+  },
+  {
+    "lemma": "kantrak",
+    "pos": "N",
+    "meaning": "angular rock piece",
+    "domain": "material",
+    "parts": "kant+rak",
+    "notes": "Shape category; source history needs evidence."
+  },
+  {
+    "lemma": "gladrak",
+    "pos": "N",
+    "meaning": "smooth-surfaced stone",
+    "domain": "material",
+    "parts": "glad+rak",
+    "notes": ""
+  },
+  {
+    "lemma": "rögrak",
+    "pos": "N",
+    "meaning": "rough-surfaced stone",
+    "domain": "material",
+    "parts": "rög+rak",
+    "notes": ""
+  },
+  {
+    "lemma": "holrak",
+    "pos": "N",
+    "meaning": "rock enclosing a cavity",
+    "domain": "material",
+    "parts": "hol+rak",
+    "notes": "A natural geode may fit; not automatically a brood casing."
+  },
+  {
+    "lemma": "holkrisrak",
+    "pos": "N",
+    "meaning": "cavity-bearing rock with internal crystals",
+    "domain": "material",
+    "parts": "hol+kris+rak",
+    "notes": "Literal natural-geode descriptor; nursery construction is distinct."
+  },
+  {
+    "lemma": "sarnrak",
+    "pos": "N",
+    "meaning": "rock composed of cemented sand-sized grains",
+    "domain": "material",
+    "parts": "sarn+rak",
+    "notes": "Sandstone-like field class; cement and composition vary."
+  },
+  {
+    "lemma": "silmrak",
+    "pos": "N",
+    "meaning": "rock dominated by silt-sized grains",
+    "domain": "material",
+    "parts": "silm+rak",
+    "notes": "Siltstone-like field class."
+  },
+  {
+    "lemma": "lemrak",
+    "pos": "N",
+    "meaning": "clay-rich mudrock",
+    "domain": "material",
+    "parts": "lem+rak",
+    "notes": "Swelling behavior and layering require separate terms."
+  },
+  {
+    "lemma": "grustrak",
+    "pos": "N",
+    "meaning": "rock with abundant gravel-sized clasts",
+    "domain": "material",
+    "parts": "grust+rak",
+    "notes": "Rounded versus angular clasts are separate descriptors."
+  },
+  {
+    "lemma": "rundgrustrak",
+    "pos": "N",
+    "meaning": "rock with rounded gravel-sized clasts",
+    "domain": "material",
+    "parts": "rund+grust+rak",
+    "notes": "Conglomerate-like texture."
+  },
+  {
+    "lemma": "kantgrustrak",
+    "pos": "N",
+    "meaning": "rock with angular gravel-sized clasts",
+    "domain": "material",
+    "parts": "kant+grust+rak",
+    "notes": "Breccia-like texture; no single origin implied."
+  },
+  {
+    "lemma": "eskrak",
+    "pos": "N",
+    "meaning": "consolidated ash-rich rock",
+    "domain": "material",
+    "parts": "esk+rak",
+    "notes": "Volcanic ash provenance must be established before interpreting it as tuff-like."
+  },
+  {
+    "lemma": "kalmrak",
+    "pos": "N",
+    "meaning": "identified carbonate-rich rock",
+    "domain": "material",
+    "parts": "kalm+rak",
+    "notes": "Limestone-like and dolostone-like materials are not automatically distinguished."
+  },
+  {
+    "lemma": "kriskalmrak",
+    "pos": "N",
+    "meaning": "carbonate-rich rock with conspicuous recrystallized texture",
+    "domain": "material",
+    "parts": "kris+kalm+rak",
+    "notes": "Marble-like identification needs texture and geological context."
+  },
+  {
+    "lemma": "kvirrak",
+    "pos": "N",
+    "meaning": "quartz-rich rock",
+    "domain": "material",
+    "parts": "kvir+rak",
+    "notes": "Could include several origins; does not alone mean quartzite."
+  },
+  {
+    "lemma": "gisprak",
+    "pos": "N",
+    "meaning": "gypsum-family rock",
+    "domain": "material",
+    "parts": "gisp+rak",
+    "notes": "composition category."
+  },
+  {
+    "lemma": "salrak",
+    "pos": "N",
+    "meaning": "salt-rich consolidated rock",
+    "domain": "material",
+    "parts": "sal+rak",
+    "notes": "Identified soluble mineral deposits, not a food label."
+  },
+  {
+    "lemma": "sulvrak",
+    "pos": "N",
+    "meaning": "identified sulfur-bearing rock",
+    "domain": "material",
+    "parts": "sulv+rak",
+    "notes": "Sulfide/sulfate distinction and mineral species remain necessary."
+  },
+  {
+    "lemma": "jernmal",
+    "pos": "N",
+    "meaning": "material currently workable as an iron ore",
+    "domain": "industry",
+    "parts": "jern+mal",
+    "notes": "Grade, process and price affect ore status."
+  },
+  {
+    "lemma": "kubrmal",
+    "pos": "N",
+    "meaning": "material currently workable as a copper ore",
+    "domain": "industry",
+    "parts": "kubr+mal",
+    "notes": "Shine or green color alone is insufficient."
+  },
+  {
+    "lemma": "salbas",
+    "pos": "N",
+    "meaning": "basin containing extensive salt deposits",
+    "domain": "land",
+    "parts": "sal+bas",
+    "notes": "A closed evaporative basin may have this condition."
+  },
+  {
+    "lemma": "esklag",
+    "pos": "N",
+    "meaning": "ash layer",
+    "domain": "material",
+    "parts": "esk+lag",
+    "notes": "Volcanic versus combustion origin must be stated."
+  },
+  {
+    "lemma": "sallag",
+    "pos": "N",
+    "meaning": "salt layer",
+    "domain": "material",
+    "parts": "sal+lag",
+    "notes": "no undocumented l-to-r sound change."
+  },
+  {
+    "lemma": "isbrak",
+    "pos": "N",
+    "meaning": "rock debris associated with ice movement",
+    "domain": "material",
+    "parts": "is+brak",
+    "notes": "Broad transported-debris term; not a claim of one precise till fabric."
+  },
+  {
+    "lemma": "sarnlem",
+    "pos": "N",
+    "meaning": "clay-rich earth with a substantial sand fraction",
+    "domain": "material",
+    "parts": "sarn+lem",
+    "notes": "Texture mixture, not an automatic engineering grade."
+  },
+  {
+    "lemma": "silmdul",
+    "pos": "N",
+    "meaning": "loose earth dominated by silt-sized material",
+    "domain": "material",
+    "parts": "silm+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "sarndul",
+    "pos": "N",
+    "meaning": "loose earth dominated by sand-sized material",
+    "domain": "material",
+    "parts": "sarn+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "lemdul",
+    "pos": "N",
+    "meaning": "clay-rich loose earth",
+    "domain": "material",
+    "parts": "lem+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "grustdul",
+    "pos": "N",
+    "meaning": "gravel-rich loose earth",
+    "domain": "material",
+    "parts": "grust+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "saldul",
+    "pos": "N",
+    "meaning": "salt-bearing loose earth",
+    "domain": "material",
+    "parts": "sal+dul",
+    "notes": "Crop tolerance depends on salts and concentrations."
+  },
+  {
+    "lemma": "eskdul",
+    "pos": "N",
+    "meaning": "ash-rich loose earth",
+    "domain": "material",
+    "parts": "esk+dul",
+    "notes": "Fresh ash is not automatically fertile or safe."
+  },
+  {
+    "lemma": "vaatdul",
+    "pos": "N",
+    "meaning": "wet loose earth",
+    "domain": "material",
+    "parts": "vaat+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "tördul",
+    "pos": "N",
+    "meaning": "dry loose earth",
+    "domain": "material",
+    "parts": "tör+dul",
+    "notes": ""
+  },
+  {
+    "lemma": "svellem",
+    "pos": "N",
+    "meaning": "clay-rich earth shown to swell under the stated wetting conditions",
+    "domain": "material",
+    "parts": "svel+lem",
+    "notes": "Observed behavior; no inference that every clay swells."
+  },
+  {
+    "lemma": "tettlem",
+    "pos": "N",
+    "meaning": "densely packed clay-rich earth",
+    "domain": "material",
+    "parts": "tett+lem",
+    "notes": "Does not guarantee a durable watertight seal."
+  },
+  {
+    "lemma": "jörmsarn",
+    "pos": "N",
+    "meaning": "sand used as part of growing soil",
+    "domain": "food",
+    "parts": "jörm+sarn",
+    "notes": "Not a claim that sand alone supplies plant nutrition."
+  },
+  {
+    "lemma": "seljörm",
+    "pos": "N",
+    "meaning": "cultivation soil managed for food production",
+    "domain": "food",
+    "parts": "sel+jörm",
+    "notes": "Water and nutrient budgets remain necessary."
+  },
+  {
+    "lemma": "skarnjörm",
+    "pos": "N",
+    "meaning": "soil containing processed organic waste",
+    "domain": "food",
+    "parts": "skarn+jörm",
+    "notes": "Treatment suitability is separate from the name."
+  },
+  {
+    "lemma": "durmen",
+    "pos": "N",
+    "meaning": "dark stone selected for shaping",
+    "domain": "material",
+    "parts": "dur+men",
+    "notes": ""
+  },
+  {
+    "lemma": "belmen",
+    "pos": "N",
+    "meaning": "pale stone selected for shaping",
+    "domain": "material",
+    "parts": "bel+men",
+    "notes": ""
+  },
+  {
+    "lemma": "darnmen",
+    "pos": "N",
+    "meaning": "scratch-resistant stone selected for shaping",
+    "domain": "material",
+    "parts": "darn+men",
+    "notes": ""
+  },
+  {
+    "lemma": "mölmen",
+    "pos": "N",
+    "meaning": "soft stone selected for shaping",
+    "domain": "material",
+    "parts": "möl+men",
+    "notes": ""
+  },
+  {
+    "lemma": "flakmen",
+    "pos": "N",
+    "meaning": "thin-splitting stone selected for slabs or plates",
+    "domain": "industry",
+    "parts": "flak+men",
+    "notes": ""
+  },
+  {
+    "lemma": "tekkmen",
+    "pos": "N",
+    "meaning": "stone selected for roofing",
+    "domain": "industry",
+    "parts": "tekk+men",
+    "notes": "engineering grade must be specified."
+  },
+  {
+    "lemma": "stalmen",
+    "pos": "N",
+    "meaning": "stone selected for a supporting structure",
+    "domain": "industry",
+    "parts": "stal+men",
+    "notes": "A purpose designation, not certified load capacity."
+  },
+  {
+    "lemma": "silmen",
+    "pos": "N",
+    "meaning": "stone selected as a filter medium",
+    "domain": "industry",
+    "parts": "sil+men",
+    "notes": "Pore size, chemistry and service conditions require testing."
+  },
+  {
+    "lemma": "nermen",
+    "pos": "N",
+    "meaning": "stone selected for brood-nursery construction",
+    "domain": "care",
+    "parts": "ner+men",
+    "notes": "Requires species-specific suitability and physical design; not embryo food."
+  },
+  {
+    "lemma": "porig",
+    "pos": "ADJ",
+    "meaning": "containing pores",
+    "domain": "property",
+    "parts": "por+-ig",
+    "notes": "Does not imply connected pores."
+  },
+  {
+    "lemma": "rissig",
+    "pos": "ADJ",
+    "meaning": "containing cracks",
+    "domain": "property",
+    "parts": "riss+-ig",
+    "notes": ""
+  },
+  {
+    "lemma": "salig",
+    "pos": "ADJ",
+    "meaning": "containing mineral salt",
+    "domain": "property",
+    "parts": "sal+-ig",
+    "notes": "Coined literal Dwarven sense, unrelated to similar Earth words."
+  },
+  {
+    "lemma": "dravrad",
+    "pos": "N",
+    "meaning": "water wheel",
+    "domain": "industry",
+    "parts": "drav+rad",
+    "notes": ""
+  },
+  {
+    "lemma": "tarnrad",
+    "pos": "N",
+    "meaning": "toothed gear wheel",
+    "domain": "industry",
+    "parts": "tarn+rad",
+    "notes": ""
+  },
+  {
+    "lemma": "luftporm",
+    "pos": "N",
+    "meaning": "air pump",
+    "domain": "industry",
+    "parts": "luft+porm",
+    "notes": ""
+  },
+  {
+    "lemma": "vasporm",
+    "pos": "N",
+    "meaning": "water pump",
+    "domain": "industry",
+    "parts": "vas+porm",
+    "notes": ""
+  },
+  {
+    "lemma": "luftvent",
+    "pos": "N",
+    "meaning": "air-control valve",
+    "domain": "industry",
+    "parts": "luft+vent",
+    "notes": ""
+  },
+  {
+    "lemma": "vasvent",
+    "pos": "N",
+    "meaning": "water-control valve",
+    "domain": "industry",
+    "parts": "vas+vent",
+    "notes": ""
+  },
+  {
+    "lemma": "luftsil",
+    "pos": "N",
+    "meaning": "air filter",
+    "domain": "industry",
+    "parts": "luft+sil",
+    "notes": ""
+  },
+  {
+    "lemma": "vassil",
+    "pos": "N",
+    "meaning": "water filter",
+    "domain": "industry",
+    "parts": "vas+sil",
+    "notes": "Filtration does not automatically remove every dissolved contaminant."
+  },
+  {
+    "lemma": "eldmotor",
+    "pos": "N",
+    "meaning": "combustion engine",
+    "domain": "industry",
+    "parts": "eld+motor",
+    "notes": "Fuel, oxidant supply and exhaust must be managed."
+  },
+  {
+    "lemma": "gnistmotor",
+    "pos": "N",
+    "meaning": "electric motor",
+    "domain": "industry",
+    "parts": "gnist+motor",
+    "notes": "Does not imply digital control."
+  },
+  {
+    "lemma": "lutbytek",
+    "pos": "N",
+    "meaning": "heat-exchange device",
+    "domain": "industry",
+    "parts": "lut+byt+-ek",
+    "notes": "Conventional bounded result of exchanging heat."
+  },
+  {
+    "lemma": "lutröl",
+    "pos": "N",
+    "meaning": "heat-transfer pipe",
+    "domain": "industry",
+    "parts": "lut+röl",
+    "notes": ""
+  },
+  {
+    "lemma": "skelmveg",
+    "pos": "N",
+    "meaning": "rail route",
+    "domain": "travel",
+    "parts": "skelm+veg",
+    "notes": ""
+  },
+  {
+    "lemma": "luftväv",
+    "pos": "N",
+    "meaning": "porous framework distributing air",
+    "domain": "industry",
+    "parts": "luft+väv",
+    "notes": "May use cellular geometry; does not imply every opening is hexagonal."
+  },
+  {
+    "lemma": "nersil",
+    "pos": "N",
+    "meaning": "filter element serving a nursery casing",
+    "domain": "care",
+    "parts": "ner+sil",
+    "notes": ""
+  },
+  {
+    "lemma": "eggkel",
+    "pos": "N",
+    "meaning": "compartment containing the true egg within a nursery",
+    "domain": "care",
+    "parts": "egg+kel",
+    "notes": ""
+  },
+  {
+    "lemma": "selröl",
+    "pos": "N",
+    "meaning": "feeding conduit in a nursery apparatus",
+    "domain": "care",
+    "parts": "sel+röl",
+    "notes": "An engineered channel, not assumed native feeding anatomy."
+  },
+  {
+    "lemma": "ljuskel",
+    "pos": "N",
+    "meaning": "chamber admitting or supplied with light",
+    "domain": "food",
+    "parts": "ljus+kel",
+    "notes": "Specify source; not necessarily electrically lit."
+  },
+  {
+    "lemma": "rötkel",
+    "pos": "N",
+    "meaning": "tuber-growing or tuber-storage chamber, qualified by context",
+    "domain": "food",
+    "parts": "röt+kel",
+    "notes": "Growing requires lit producer surfaces; storage does not."
+  },
+  {
+    "lemma": "sombkel",
+    "pos": "N",
+    "meaning": "fungal-crop chamber",
+    "domain": "food",
+    "parts": "somb+kel",
+    "notes": "Requires organic substrate; fungi do not create free calories."
+  },
+  {
+    "lemma": "brankol",
+    "pos": "N",
+    "meaning": "charred organic fuel; charcoal-like material",
+    "domain": "fuel",
+    "parts": "bran+kol",
+    "notes": "Does not depend on coal geology."
+  },
+  {
+    "lemma": "sombsel",
+    "pos": "N",
+    "meaning": "food derived from cultivated fungus-like organisms",
+    "domain": "food",
+    "parts": "somb+sel",
+    "notes": ""
+  },
+  {
+    "lemma": "ljusgrölm",
+    "pos": "N",
+    "meaning": "crop grown with admitted light",
+    "domain": "food",
+    "parts": "ljus+grölm",
+    "notes": "Light source and growing conditions must be specified."
+  },
+  {
+    "lemma": "smeltrak",
+    "pos": "N",
+    "meaning": "rock interpreted as solidified from melt",
+    "domain": "material",
+    "parts": "smelt+rak",
+    "notes": "Broad specialist origin class; an interpretation, not a visible texture alone."
+  },
+  {
+    "lemma": "lagad",
+    "pos": "N",
+    "meaning": "deposition and accumulation in layers",
+    "domain": "material",
+    "parts": "lag+-ad",
+    "notes": "Lexicalized process derivation."
+  },
+  {
+    "lemma": "lagadrak",
+    "pos": "N",
+    "meaning": "rock interpreted as lithified deposited material",
+    "domain": "material",
+    "parts": "lagad+rak",
+    "notes": "Broad specialist origin class."
+  },
+  {
+    "lemma": "verrak",
+    "pos": "N",
+    "meaning": "rock interpreted as transformed in the solid state",
+    "domain": "material",
+    "parts": "ver+rak",
+    "notes": "Controlled specialist term; ver is the become/change verb stem."
+  },
+  {
+    "lemma": "hamarveg",
+    "pos": "N",
+    "meaning": "route along or through a crag",
+    "domain": "travel",
+    "parts": "hamar+veg",
+    "notes": "Specify the route relationship when introducing a new place."
+  },
+  {
+    "lemma": "gnisthamar",
+    "pos": "N",
+    "meaning": "electrically powered hammer",
+    "domain": "industry",
+    "parts": "gnist+hamar",
+    "notes": "Limited industrial technology, not ubiquitous equipment."
+  },
+  {
+    "lemma": "kamvar",
+    "pos": "N",
+    "meaning": "massif-network language; bedrock speech",
+    "domain": "language",
+    "parts": "kam+var",
+    "notes": "Capitalized language name."
+  },
+  {
+    "lemma": "hamarvar",
+    "pos": "N",
+    "meaning": "ridge-network language; crag speech",
+    "domain": "language",
+    "parts": "hamar+var",
+    "notes": "Capitalized language name."
+  },
+  {
+    "lemma": "dravvar",
+    "pos": "N",
+    "meaning": "basin-network language; water-flow speech",
+    "domain": "language",
+    "parts": "drav+var",
+    "notes": "Capitalized language name."
+  },
+  {
+    "lemma": "nattvar",
+    "pos": "N",
+    "meaning": "cold-edge-network language; dark-side speech",
+    "domain": "language",
+    "parts": "natt+var",
+    "notes": "Not a far-nightside isolated-oasis language."
+  },
+  {
+    "lemma": "solvar",
+    "pos": "N",
+    "meaning": "warm-margin-network language; starward speech",
+    "domain": "language",
+    "parts": "sol+var",
+    "notes": "Capitalized language name."
+  },
+  {
+    "lemma": "förvar",
+    "pos": "N",
+    "meaning": "earlier speech; reconstructed common source of the family",
+    "domain": "language",
+    "parts": "för+var",
+    "notes": "The history and vocabulary of this earlier speech are approximate."
+  },
+  {
+    "lemma": "stavmark",
+    "pos": "N",
+    "meaning": "native letter-mark script",
+    "domain": "language",
+    "parts": "stav+mark",
+    "notes": "The native writing system."
+  },
+  {
+    "lemma": "orv",
+    "pos": "N",
+    "meaning": "orbital circuit",
+    "domain": "time",
+    "parts": "",
+    "notes": "Not a recurring solar day."
+  },
+  {
+    "lemma": "orvtid",
+    "pos": "N",
+    "meaning": "orbital period",
+    "domain": "time",
+    "parts": "orv+tid",
+    "notes": ""
+  },
+  {
+    "lemma": "draven",
+    "pos": "V",
+    "meaning": "flow as a water current",
+    "domain": "water",
+    "parts": "",
+    "notes": "Intransitive; contrasts with dreven power or drive."
+  },
+  {
+    "lemma": "vinst",
+    "pos": "ADJ",
+    "meaning": "left relative to the body's forward orientation",
+    "domain": "body",
+    "parts": "",
+    "notes": "Specify observer or body reference for external objects."
+  },
+  {
+    "lemma": "höst",
+    "pos": "ADJ",
+    "meaning": "right relative to the body's forward orientation",
+    "domain": "body",
+    "parts": "",
+    "notes": "Independent of sunward/nightward coordinates."
+  },
+  {
+    "lemma": "uparn",
+    "pos": "N",
+    "meaning": "upper arm of one of the two upper limbs",
+    "domain": "body",
+    "parts": "up+arn",
+    "notes": "Does not prescribe joint geometry."
+  },
+  {
+    "lemma": "nedarn",
+    "pos": "N",
+    "meaning": "lower arm of one of the two lower limbs",
+    "domain": "body",
+    "parts": "ned+arn",
+    "notes": "Here lower refers to limb pair, not forearm segment."
+  },
+  {
+    "lemma": "uphand",
+    "pos": "N",
+    "meaning": "hand belonging to an upper limb pair",
+    "domain": "body",
+    "parts": "up+hand",
+    "notes": ""
+  },
+  {
+    "lemma": "nedhand",
+    "pos": "N",
+    "meaning": "hand belonging to a lower limb pair",
+    "domain": "body",
+    "parts": "ned+hand",
+    "notes": ""
+  },
+  {
+    "lemma": "vinsthand",
+    "pos": "N",
+    "meaning": "a hand on the left side of the body",
+    "domain": "body",
+    "parts": "vinst+hand",
+    "notes": "Upper/lower pair can be stated separately."
+  },
+  {
+    "lemma": "hösthand",
+    "pos": "N",
+    "meaning": "a hand on the right side of the body",
+    "domain": "body",
+    "parts": "höst+hand",
+    "notes": "Upper/lower pair can be stated separately."
+  },
+  {
+    "lemma": "hamarkor",
+    "pos": "N",
+    "meaning": "member of the native dwarven peoples; dwarf",
+    "domain": "identity",
+    "parts": "hamar+kor",
+    "notes": "General native people-name: crag or great-rock-mass person. Includes all native dwarven species and the deep-massif subspecies."
+  },
+  {
+    "lemma": "hamarkorvar",
+    "pos": "N",
+    "meaning": "the Dwarven language family collectively",
+    "domain": "language",
+    "parts": "hamarkor+var",
+    "notes": "Family umbrella; Korvar is the common standard and Hamarvar retains its regional meaning."
+  },
+  {
+    "lemma": "rakkor",
+    "pos": "N",
+    "meaning": "member of a reserved regional native people",
+    "domain": "identity",
+    "parts": "rak+kor",
+    "notes": "Regional people-name. The specific community has not yet been described."
+  }
+]

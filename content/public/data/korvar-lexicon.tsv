@@ -1,0 +1,572 @@
+lemma	pos	meaning	domain	parts	notes
+kam	N	continuous bedrock; rock in place	material		Does not identify mineral composition.
+rak	N	natural rock material or an unworked rock piece	material		Count use denotes a piece; mass use denotes material.
+men	N	stone selected as material for shaping	material		Workability is an intended use, not a guarantee of strength.
+hamar	N	crag; large exposed rock mass; inherited hammer sense	land		Use handhamar for an unambiguous hand tool.
+kor	N	person	social		Applies to persons beyond native dwarf ancestry.
+kel	N	sheltered interior; chamber	settlement		Does not entail great depth.
+stal	N	supporting frame or load-bearing arrangement	industry		
+klak	N	fitted stone piece; the close joint it forms	industry		Piece and joint senses are conventionally related.
+var	N	speech; an utterance	language		
+drav	N	water flow considered as current or supply	water		
+ner	N	dependent young individual	care		Does not fix exact age or developmental anatomy.
+lut	N	usable warmth	thermal		
+sel	N	nourishment; food provision	food		
+grem	N	sustained physical effort against resistance	body		
+menkor	N	member of a reserved narrower native people; exact regional, cultural or species assignment open	identity	men+kor	A local, cultural or species-specific people-name. The specific community has not yet been described.
+kelir	N	interior-dweller	identity	kel+-ir	Lexicalized habitat participant.
+menir	N	stoneworker	industry	men+-ir	Occupation, not an ethnonym.
+kelkor	N	member or resident of a chamber-household	social	kel+kor	
+korvar	N	public/common speech; Common Dwarven	language	kor+var	Capitalized when naming the standard.
+menkorvar	N	reserved name for a possible Menkor community language	language	menkor+var	A possible Menkor community-language name; no separate established language is implied.
+karnir	N	builder	industry	karn+-ir	
+menek	N	dressed stone piece	material	men+-ek	
+menet	N	stoneworking workshop	industry	men+-et	
+menad	N	stoneworking as an activity or craft	industry	men+-ad	
+karnad	N	building activity	industry	karn+-ad	
+nerkel	N	nursery chamber	care	ner+kel	
+menkel	N	chamber made or lined with worked stone	settlement	men+kel	Does not imply a naturally self-supporting cavern.
+dravkel	N	water chamber; cistern	water	drav+kel	
+lutkel	N	warming chamber	thermal	lut+kel	
+handhamar	N	hand hammer	industry	hand+hamar	Default precise tool word.
+dravhamar	N	water-powered hammer	industry	drav+hamar	Names power source; mechanism may vary.
+rakhamar	N	hammer for breaking rock	industry	rak+hamar	Purpose compound.
+menhamar	N	stone-dressing hammer	industry	men+hamar	Purpose compound.
+kamhamar	N	bedrock-cutting percussion mechanism	industry	kam+hamar	May be powered; not automatically handheld.
+hamarkel	N	chamber within a crag	settlement	hamar+kel	
+kamkel	N	chamber excavated in bedrock	settlement	kam+kel	
+rakstal	N	retained-rock support structure	industry	rak+stal	Actual stability requires site assessment.
+klakmen	N	stone selected for closely fitted masonry	industry	klak+men	
+dur	ADJ	dark in visible color	property		
+bel	ADJ	pale or light in visible color	property		
+rod	ADJ	red or rusty-red in color	property		
+gral	ADJ	gray in color	property		
+blav	ADJ	blue in color	property		
+grön	ADJ	green in color	property		
+fin	ADJ	fine-grained; individual grains not readily resolved by eye	property		A field descriptor, not a universal size threshold.
+gröl	ADJ	coarse-grained; grains readily individually visible	property		
+darn	ADJ	resistant to scratching by the stated comparator	property		Hardness differs from toughness and bulk strength.
+möl	ADJ	readily scratched or indented by the stated comparator	property		
+treg	ADJ	resisting crack propagation under the stated impact	property		Field toughness descriptor; test conditions matter.
+spröd	ADJ	readily fractured into pieces under impact	property		
+glad	ADJ	smooth-surfaced	property		
+skarf	ADJ	sharp-edged	property		
+rög	ADJ	rough-surfaced	property		
+vaat	ADJ	wet	property		
+tör	ADJ	dry at observation	property		
+tett	ADJ	closely packed; apparently dense	property		Does not prove impermeability.
+hol	ADJ	hollow	property		
+por	N	pore; small void	material		
+gren	N	grain within a material	material		
+kris	N	crystal; visibly ordered crystal body	material		
+lag	N	layer or bed	material		
+band	N	band distinguished by texture or composition	material		
+flak	N	thin plate or flake	material		
+splet	N	fracture or split	material		
+riss	N	narrow crack	material		
+rund	ADJ	rounded	property		
+kant	ADJ	angular in outline	property		
+glim	ADJ	reflective; sparkling on the observed face	property		Shine alone does not identify a metal.
+glas	N	glass; noncrystalline glassy material	material		
+sal	N	soluble mineral salt; salt deposit	material		Not all salts are edible.
+gisp	N	soft sulfate stone of the identified gypsum family	material		Specialist identification, not any white soft rock.
+kalm	N	identified carbonate-rich mineral material	material		May include different carbonate minerals.
+kvir	N	identified quartz-family silica crystal material	material		Specialist mineral category.
+jern	N	iron as a metal	industry		Not any red mineral or magnetic grain.
+kubr	N	copper as a metal	industry		
+tin	N	tin as a metal	industry		
+bly	N	lead as a metal	industry		A material term, not a biological safety judgment.
+sulv	N	identified sulfur-bearing mineral matter	material		Does not alone distinguish sulfide from sulfate.
+mal	N	mineral-bearing material worth processing under stated conditions	industry		Economic ore category; not a fixed mineral species.
+kol	N	carbon-rich combustible material	fuel		Does not assert Earth-style coal deposits.
+dul	N	loose mineral earth; unconsolidated ground material	material		
+sarn	N	sand-sized loose grains	material		Shared technical register may attach explicit size limits.
+silm	N	silt-sized loose mineral grains	material		
+lem	N	clay-rich fine earth with stated plastic behavior	material		Field category; not every clay swells.
+grust	N	gravel; loose small stones	material		
+skel	N	shell; enclosing shell-like layer	care		Use qualified terms to distinguish egg and nursery casing.
+esk	N	ash-sized particulate deposit	material		Context distinguishes volcanic and combustion ash.
+jörm	N	biologically active soil used by rooted producers	food		Does not assert terrestrial soil organisms.
+slik	N	wet deposited sediment; mud slurry	material		
+brak	N	broken rock debris; rubble	material		
+veir	N	mineral-filled fracture or vein	material		
+eld	N	flame; combustion fire	thermal		
+smelt	N	melted material	material		
+trykk	N	pressure or imposed compressive loading	industry		Must state quantity, unit and context.
+last	N	mechanical load	industry		
+vörk	N	mass measurement in the standard register	measure		Distinct from gravitational force, which is a kind of last.
+rom	N	volume; occupied three-dimensional space	measure		
+mer	ADV	more; comparative marker	grammar		Homonym with length-unit noun is explicitly registered.
+mest	ADV	most; superlative marker	grammar		
+mer	N	conventional unit of length	measure		Calibration must be supplied; not an Earth meter by assertion.
+kap	N	standardized vessel unit of capacity	measure		Calibration must be supplied.
+vek	N	conventional unit of mass	measure		
+tik	N	short counted time unit	measure		Defined by an agreed clock; no Earth second asserted.
+takt	N	scheduled work/rest time cycle	time		Not a sunrise-to-sunrise cycle.
+tid	N	time; duration	time		
+sek	N	ordered sequence; numbered series	language		
+tal	PART	reported; evidence marker	language		Does not certify truth.
+vis	PART	observed; evidence marker	language		Claimed observation only.
+ren	PART	inferred; evidence marker	language		Inference can be wrong.
+vas	N	water	water		Potability is a separate determination.
+is	N	ice	water		
+sjö	N	lake	land		
+bek	N	small river or stream channel	land		
+dal	N	valley	land		
+rygg	N	ridge	land		
+berg	N	mountain or mountain body	land		
+bas	N	closed or open topographic basin	land		
+sol	N	star as the visible source of daylight	sky		In local ordinary reference, Dverghamar's star.
+natt	N	permanent dark-side environment	sky		Not a recurring solar night.
+skum	N	twilight or low-angle illuminated belt environment	sky		
+vindr	N	wind; moving air outdoors	air		
+luft	N	air; gaseous atmosphere in a space	air		
+damp	N	vapor or steam in the stated context	air		Visible white plumes often contain droplets; not all gas is visible.
+rök	N	smoke	air		
+gas	N	gas as a material state or gaseous substance	air		
+stöv	N	suspended or settled fine dust	air		
+reg	N	rule; agreed instruction	social		
+veg	N	route; passage used for travel	travel		
+bröv	N	bridge	travel		
+trepp	N	stair or stepped passage	travel		
+dor	N	door; closable entrance	settlement		Also a through-preposition; syntax distinguishes it.
+vegn	N	wall	settlement		
+gulm	N	floor	settlement		
+tekk	N	roof or overhead covering	settlement		
+söl	N	pillar	settlement		
+gang	N	tunnel or corridor	settlement		
+brunn	N	well or vertical water access	water		
+sjakt	N	excavated shaft	industry		
+rad	N	wheel	industry		
+tarn	N	tooth; gear tooth in compounds	body		
+aks	N	rotating axle or shaft	industry		
+relm	N	transmission belt or strap	industry		
+kavrel	N	cable or heavy flexible line	industry		
+porm	N	pump	industry		
+vent	N	valve or controllable flow opening	industry		
+röl	N	pipe; enclosed conduit	industry		
+sil	N	sieve or filter	industry		
+falm	N	air-moving fan	industry		
+motor	N	engine or motor converting a supplied energy source to motion	industry		An industrial loan-shaped term; source must be qualified.
+kravt	N	usable power in technical rate-of-work sense	industry		Distinguish energy and force in calculations.
+ener	N	energy; capacity accounted for through work and heat transfer	industry		Technical term; not an additional food source.
+gnist	N	electric discharge spark; electricity in early ordinary usage	industry		Technical compounds disambiguate circuit quantities.
+traad	N	wire or thread	industry		
+spenn	N	electrical potential difference in technical usage	industry		
+straum	N	electric current in technical usage	industry		Water current is drav.
+mot	N	electrical resistance in technical usage	industry		
+skelm	N	rail guiding a vehicle	travel		
+vögn	N	wagon or rail carriage	travel		
+sivar	N	deliberately transmitted sign or signal	language		Does not imply digital encoding.
+mark	N	written mark; identifying label	language		
+bök	N	bound record or book	language		
+blet	N	sheet; leaflike flat piece	language		Context distinguishes writing sheet and producer leaf analog.
+pren	N	writing implement	language		
+keldar	N	map	language		
+narv	N	name	language		
+orn	N	word or lexical item	language		
+lym	N	sound	language		
+stav	N	script letter; straight rod in a separate physical sense	language		
+glos	N	defined meaning in a glossary	language		
+gred	N	tested grade or specified class	industry		The relevant test must be identified.
+tröv	N	test or trial	industry		
+trov	N	sample or specimen	industry		Distinct vowel from tröv, test.
+meel	N	measured magnitude; target dimension	measure		
+fevn	N	error; mismatch with a stated requirement	language		
+del	N	part; share	social		
+hand	N	hand	body		No digit count is implied.
+arn	N	arm	body		Dwarves have four; upper/lower are independent adjectives.
+fot	N	foot	body		
+delm	N	leg	body		
+ög	N	eye	body		
+hör	N	ear	body		
+mur	N	mouth	body		
+hul	N	outer skin or body covering	body		Exact native covering remains unspecified.
+bern	N	internal skeletal support element	body		No human mineral chemistry asserted.
+brol	N	circulating nutritive/respiratory fluid	body		Does not fix pigment.
+hjar	N	pumping circulatory organ	body		Detailed respiratory/circulatory anatomy remains open.
+lun	N	gas-exchange organ in a broad functional translation	body		Not a claim of human lung microanatomy.
+egg	N	true reproductive egg	care		Separate from the constructed nursery.
+egghul	N	egg membrane	care	egg+hul	
+eggskel	N	egg's own shell	care	egg+skel	
+nerskel	N	constructed protective brood casing	care	ner+skel	Not the egg shell.
+nerpor	N	managed ventilation pore in a brood casing	care	ner+por	
+nerstal	N	structural framework of a brood casing	care	ner+stal	
+neret	N	dedicated incubation/care site	care	ner+-et	Lexicalized place derivation.
+rinn	N	reproductive parent	care		Sex or reproductive role can be specified without assuming household structure.
+rukkor	N	caregiver responsible for protection and maintenance	care	ruk+kor	Care role; distinct from the verb veren, become.
+selkor	N	person providing nourishment	care	sel+kor	
+fost	N	fostered young or fostering relationship	care		Role is specified by context; not necessarily adoption law.
+fröm	N	friend	social		
+felag	N	cooperating group or association	social		
+helm	N	home; one's place of residence	social		
+seld	N	sleeping platform or bed	social		
+duk	N	cloth; flexible woven covering	social		
+kläd	N	clothing	social		
+mard	N	prepared meal	food		
+röt	N	storage root or tuber as food	food		Functional analog, not an Earth potato species.
+somb	N	fungus-like decomposer or its cultivated food body	food		Ecological translation; detailed taxonomy remains open.
+grölm	N	cultivated crop	food		
+frö	N	dispersal/reproductive propagule of a cultivated producer	food		Does not commit all producers to seed-plant anatomy.
+grö	N	edible green producer tissue	food		
+fesk	N	aquatic swimming animal used as food	food		Not Earth vertebrate membership.
+dyl	N	animal	ecology		
+mik	N	microscopic living organism	ecology		
+lir	N	life; living state	ecology		
+rest	N	remainder; residue	ecology		
+skarn	N	discarded waste requiring handling	ecology		Coined everyday sense; not the Earth petrological term skarn.
+prid	N	agreed price	trade		
+byt	N	exchange; traded lot	trade		
+myrk	N	token used as currency	trade		No universal coinage or metal standard assumed.
+felagkor	N	member of a cooperating work group	social	felag+kor	Literal association term.
+döm	N	judgment or decision	social		
+rett	ADJ	correct or conforming to the stated rule	social		
+fri	ADJ	free; unconfined or uncommitted in the stated respect	social		
+när	ADJ	near	space		
+fjär	ADJ	far	space		
+storr	ADJ	large	property		
+lenn	ADJ	small	property		
+larn	ADJ	long	property		
+kurt	ADJ	short in length or duration	property		
+höl	ADJ	high in elevation	space		
+dypp	ADJ	deep beneath a specified surface	space		
+keld	ADJ	cold	thermal		
+helt	ADJ	hot	thermal		
+nyr	ADJ	new	time		
+galm	ADJ	old	time		
+göd	ADJ	good for the stated purpose	social		
+ond	ADJ	bad or harmful in the stated respect	social		
+gläd	ADJ	glad; pleased	emotion		
+sorg	N	sadness; grief	emotion		
+räld	ADJ	afraid	emotion		
+arg	ADJ	angry	emotion		
+trölt	ADJ	tired	body		
+suld	N	hunger	body		
+törs	N	thirst	body		
+röm	N	rest; quiet interval	body		
+spel	N	game; play	social		
+sang	N	song	social		
+dans	N	dance	social		
+geev	N	gift	social		
+mern	N	memory; remembered item	mind		
+tönk	N	thought; considered idea	mind		
+viss	ADJ	certain according to the speaker	mind		Not a truth guarantee.
+ting	N	thing; unspecified object	grammar		
+seren	V	be; exist as or have a stated property	grammar		Copula with noun/adjective/participle; regular sere, serte.
+haven	V	have; possess; perfect auxiliary	grammar		Noun object, or participle plus complements.
+veren	V	become; event-passive auxiliary	grammar		Predicate complement or participle; do not derive caregiver from this sense.
+karnen	V	build by joining parts into a stable whole	industry		Direct object: what is built.
+menen	V	dress or work stone	industry		Direct object: stone or stone object.
+varen	V	speak; say	language		Intransitive; ke content clause; recipient til + oblique.
+selen	V	feed; provide nourishment to	care		Direct object: recipient; food me + oblique.
+eten	V	eat	food		Food object optional.
+driken	V	drink	food		Liquid object optional.
+gremen	V	exert sustained physical effort	body		Intransitive; task te + infinitive.
+helpen	V	help	social		Person object; task te + infinitive.
+kopen	V	buy	trade		Goods object; seller fra + oblique.
+salen	V	sell	trade		Goods object; buyer til + oblique.
+byten	V	exchange	trade		Goods object; counter-goods me + oblique.
+given	V	give	social		Thing object; recipient til + oblique.
+taken	V	take	body		Thing object; source fra + oblique. Distinct from tekk, roof.
+bären	V	carry	body		Thing/person object.
+seten	V	set or place	body		Thing object plus location/direction phrase.
+open	V	open	industry		stem op.
+luken	V	close	industry		Thing object.
+stanen	V	stop; cease moving or operating	industry		Intransitive; use stopen for deliberately stopping an object.
+stopen	V	stop an object or process	industry		Direct object.
+dreven	V	drive or power a mechanism	industry		Mechanism object; source me + oblique.
+pomen	V	pump	industry		Fluid object; destination in/til + oblique.
+silen	V	filter	industry		Material object; filter me + oblique.
+venten	V	ventilate or regulate an air flow	industry		Space object; distinct from waiting.
+branen	V	burn; consume by combustion	thermal		Fuel object optional; no underground exhaust assumption.
+smelten	V	melt a material	industry		Material object; intransitive state expressed with veren + smelt.
+kölen	V	cool	thermal		object optional in ordinary use.
+luten	V	warm something to a useful temperature	thermal		Object; temperature specification as needed.
+rissen	V	crack or split an object	industry		Object; intransitive cracking uses veren rissig.
+tröven	V	test under stated conditions	industry		Sample/object; method me + oblique.
+meelen	V	measure	measure		
+merken	V	mark; label	language		Object plus mark me + oblique.
+skriven	V	write	language		Text object; surface su + oblique.
+lesen	V	read	language		Text object.
+hören	V	hear	body		Sound object or ke clause.
+seen	V	see	body		Stem se, present see; vowel sequence retained.
+viten	V	know a fact or answer	mind		ke/se/interrogative complement; object for known fact.
+kennen	V	know or be familiar with a person/place	mind		Direct object; differs from propositional viten.
+tönken	V	think; consider	mind		Object or ke clause.
+mernen	V	remember	mind		Object or ke clause.
+leren	V	learn	language		Content object; source fra + oblique.
+lären	V	teach	language		Content object; learner til + oblique.
+spören	V	ask	language		Question se/wh clause; addressee til + oblique.
+svaren	V	answer	language		Content object or ke clause; addressee til + oblique.
+feren	V	move forward; prospective future auxiliary	travel		Intransitive direction phrase; auxiliary takes infinitive.
+komen	V	come	travel		Destination til/in + oblique.
+garen	V	go; travel	travel		Route dor + oblique; destination til + oblique.
+klimen	V	climb	travel		Surface su + oblique; destination til + oblique.
+löpen	V	run	travel		
+svimen	V	swim	travel		Intransitive.
+soven	V	sleep	body		Intransitive.
+vaken	V	wake; become awake	body		Intransitive; causing wakefulness requires explicit paraphrase.
+vilen	V	rest	body		
+leven	V	live; be alive	ecology		Intransitive.
+döen	V	die	ecology		stem dö.
+voksen	V	grow; increase in body size	ecology		Intransitive.
+ruken	V	protect and maintain care of	care		Person or nursery object; source of rukor caregiver.
+halten	V	hold; keep physically in place	body		Direct object.
+vasken	V	wash	body		Direct object.
+sorgen	V	grieve; feel sadness	emotion		Intransitive; cause af + oblique.
+lahen	V	laugh	emotion		no ch phoneme in Common.
+liken	V	like; enjoy	emotion		Direct object or infinitive activity.
+elsken	V	love	emotion		Direct object.
+frykten	V	fear	emotion		Direct object or ke clause.
+haapen	V	hope	emotion		ke clause or te + infinitive.
+spelen	V	play	social		Game object optional.
+sangen	V	sing	social		Song/text object optional.
+dansen	V	dance	social		Intransitive.
+velen	V	want	grammar		Thing object or shared-subject infinitive.
+magen	V	be able to	grammar		Infinitive; ability rather than epistemic possibility.
+molen	V	be required or obliged to	grammar		Infinitive.
+loven	V	permit	social		Activity infinitive or ke clause with explicit subject.
+bannen	V	prohibit	social		Activity infinitive or ke clause with explicit subject.
+stilen	V	remain silent	social		Intransitive.
+begnen	V	begin an activity	time		Infinitive.
+telen	V	finish an activity or object	time		Infinitive or direct object.
+ventren	V	wait	time		Intransitive; expected event te ke clause.
+betalen	V	pay	trade		amount object, recipient til + oblique.
+ek	PRON	I	grammar		
+du	PRON	you singular	grammar		
+sa	PRON	third-person singular	grammar		
+vir	PRON	we	grammar		
+jir	PRON	you plural	grammar		
+sar	PRON	they plural	grammar		
+si	PRON	clause-local reflexive	grammar		Genitive sis; oblique sium.
+di	DET	this or these; proximal demonstrative	grammar		Also standalone pronoun: dis, dium.
+dan	DET	that or those; distal demonstrative	grammar		Also comparative conjunction than.
+da	DET	the	grammar		Invariant definite article.
+ald	DET	all	grammar		
+sum	DET	some	grammar		
+neng	DET	no; none as a quantity	grammar		
+tel	ADJ	complete; whole	property		Related to telen finish.
+sam	ADJ	same; equal	property		Also equative marker.
+as	CONJ	as; equal-comparison linker	grammar		
+ak	CONJ	and	grammar		
+el	CONJ	or	grammar		
+dar	CONJ	but	grammar		Also deictic/existential adverb there.
+ke	CONJ	that introducing a statement clause	grammar		
+se	CONJ	whether introducing a content question	grammar		Homonymous with the stem of seen.
+vel	CONJ	if	grammar		Distinct from verb velen; grammatical position resolves it.
+den	CONJ	because	grammar		
+tan	CONJ	when introducing a time clause	grammar		
+bis	CONJ	until	grammar		
+sav	CONJ	although	grammar		
+ri	REL	relative clause linker	grammar		
+te	PART	purpose or infinitive linker	grammar		
+tem	PART	as for; explicit outside-clause topic	grammar		
+ne	PART	clause negation; not	grammar		
+vu	PART	counterfactual operator	grammar		
+mut	PART	reciprocal marker after a plural object pronoun	grammar		
+vis	N	an observation as a recorded item	language		Homonym of evidence particle, same semantic family.
+ja	RESP	yes	grammar		
+no	RESP	no as an answer	grammar		
+bitte	PART	please	social		Courtesy form; one deliberately familiar loan-shaped item.
+takk	N	thanks; gratitude	social		
+hei	RESP	hello; greeting	social		
+farvel	RESP	farewell	social		Lexical greeting; not a rule assigning farewell to every fer/vel compound.
+nu	ADV	now	time		
+jev	ADV	already	time		
+nal	ADV	still	time		
+rev	ADV	again	time		
+oft	ADV	often	time		
+ven	ADV	perhaps	mind		
+för	ADV	before; earlier	time		prepositional use takes oblique.
+eft	ADV	after; later	time		Prepositional use takes oblique.
+her	ADV	here	space		
+hor	Q	where	grammar		
+van	Q	when	grammar		
+hve	Q	who	grammar		Can take genitive -s or oblique -um.
+hvat	Q	what	grammar		Can take genitive -s or oblique -um.
+virke	Q	why	grammar		
+ham	Q	how	grammar		
+na	PREP	inside; within at rest	space		
+in	PREP	into	space		
+ut	PREP	out of	space		Standalone ut is an outvard command/adverb.
+su	PREP	on	space		
+un	PREP	beneath	space		
+til	PREP	to; toward; recipient	space		
+fra	PREP	from; source	space		
+me	PREP	with; by means of	space		
+af	PREP	of; association; passive agent	grammar		
+an	PREP	beside	space		
+dor	PREP	through	space		Homonym of entrance noun.
+up	ADV	up	space		
+ned	ADV	down	space		
+vard	BOUND	toward a named direction or reference	space		Productive directional suffix.
+solvard	ADV	sunward	space	sol+vard	
+nattvard	ADV	nightward	space	natt+vard	
+kamvard	ADV	farther into rock	space	kam+vard	
+utvard	ADV	toward exterior exposure	space	ut+vard	
+upvard	ADV	upward	space	up+vard	
+nedvard	ADV	downward	space	ned+vard	
+nul	NUM	zero	number		
+en	NUM	one	number		Only numeral; not an indefinite article in this standard.
+tor	NUM	two	number		
+trel	NUM	three	number		
+fadur	NUM	four	number		
+fim	NUM	five	number		
+sek	NUM	six	number		Homonym of sequence noun; numeric context distinguishes it.
+siv	NUM	seven	number		
+okt	NUM	eight	number		
+niv	NUM	nine	number		
+dek	NUM	ten	number		
+hund	NUM	hundred	number		
+tus	NUM	thousand	number		
+mil	NUM	million	number		
+punkt	N	decimal point; geometric point in a distinct sense	number		
+av	PART	over; ratio/fraction separator	number		Not the association preposition af.
+plus	PART	plus	number		
+minus	PART	minus; negative sign	number		
+ram	N	fixed reference datum or frame	measure		
+dekad	N	ten-unit group or decade of a stated count	number	dek+-ad	Lexicalized count grouping; not automatically ten Earth years.
+svel	N	swelling in response to wetting or another specified cause	material		
+svelen	V	swell; increase bulk in response to specified conditions	material		Intransitive; identify cause and sample.
+lös	N	dissolution in a specified liquid	material		
+lösen	V	dissolve a material in a stated liquid	material		Material object; liquid me + oblique.
+väv	N	interconnected mesh or cellular framework	industry		
+skumljus	N	usable twilight illumination	ecology	skum+ljus	
+ljus	N	light; illumination	ecology		
+skugg	N	shadow cast by terrain or an object	land		
+dröp	N	liquid droplet	water		
+revn	N	open fissure; wider rock discontinuity	material		
+glid	N	slip along a surface	material		
+gliden	V	slide along a surface	travel		Intransitive; surface su + oblique.
+klem	N	clamp or gripping fixture	industry		
+klemmen	V	clamp or grip an object	industry		Stem klemm; fixture noun klem is a related lexical form.
+sper	N	barrier preventing passage or flow	industry		
+speren	V	block a passage or flow	industry		Direct object.
+tröm	N	flow rate as a measured quantity	measure		
+hölram	N	elevation reference datum	measure	höl+ram	
+kammeel	N	thickness of rock cover above a point	measure	kam+meel	
+luftmeel	N	measured air quantity or condition with parameter specified	measure	luft+meel	not a single universal air-quality score.
+durfinrak	N	dark fine-grained rock	material	dur+fin+rak	Common basalt-like material may fit; color and grain alone do not identify basalt.
+belfinrak	N	pale fine-grained rock	material	bel+fin+rak	May include several volcanic, sedimentary or altered materials.
+durgrölrak	N	dark coarse-grained rock	material	dur+gröl+rak	Some gabbro-like rocks fit; composition requires identification.
+belgrölrak	N	pale coarse-grained rock	material	bel+gröl+rak	Some granite-like rocks fit; neither all granites nor only granites.
+gralrak	N	gray rock	material	gral+rak	Color category only.
+rodrak	N	red-stained or red-colored rock	material	rod+rak	Redness is not proof of an economically recoverable iron deposit.
+grönrak	N	green-colored rock	material	grön+rak	Does not prove copper content or a metamorphic grade.
+darnrak	N	rock with stated scratch resistance	material	darn+rak	May still be brittle, fractured or unsuitable under load.
+mölrak	N	readily scratched or indented rock	material	möl+rak	Property measured against a stated comparator.
+tregrak	N	rock resistant to crack propagation under the stated impact	material	treg+rak	A field toughness description, not a structural certification.
+sprödrak	N	rock readily fractured by impact	material	spröd+rak	Distinct from scratch hardness.
+flakrak	N	rock splitting or occurring in thin plates	material	flak+rak	May include shale-like or slate-like rocks; genesis is not implied.
+lagrak	N	distinctly layered rock	material	lag+rak	Sedimentary beds and other layering require further distinction.
+bandrak	N	visibly banded rock	material	band+rak	Gneiss-like banding is one possible instance.
+grenrak	N	rock visibly made of separate grains	material	gren+rak	Texture term.
+krisrak	N	rock with conspicuous interlocking crystals	material	kris+rak	Not all crystals are visible; not a complete genetic class.
+glasrak	N	glassy rock	material	glas+rak	Obsidian-like material is a possible local instance.
+porrak	N	rock containing conspicuous pores or vesicles	material	por+rak	Pore connectivity and permeability must be checked separately.
+tettkam	N	apparently close-packed bedrock	material	tett+kam	May contain hidden fractures and transmissive joints.
+risskam	N	bedrock with narrow fractures	material	riss+kam	Engineering description; scale and orientation matter.
+revnkam	N	bedrock with open fissures	material	revn+kam	Does not by itself describe current water flow.
+veirkam	N	veined bedrock	material	veir+kam	The vein mineral must be separately identified.
+glimrak	N	rock with sparkling reflective surfaces	material	glim+rak	Mica-like minerals can sparkle without being metal ore.
+rundrak	N	rounded stone	material	rund+rak	Shape alone does not prove river transport.
+kantrak	N	angular rock piece	material	kant+rak	Shape category; source history needs evidence.
+gladrak	N	smooth-surfaced stone	material	glad+rak	
+rögrak	N	rough-surfaced stone	material	rög+rak	
+holrak	N	rock enclosing a cavity	material	hol+rak	A natural geode may fit; not automatically a brood casing.
+holkrisrak	N	cavity-bearing rock with internal crystals	material	hol+kris+rak	Literal natural-geode descriptor; nursery construction is distinct.
+sarnrak	N	rock composed of cemented sand-sized grains	material	sarn+rak	Sandstone-like field class; cement and composition vary.
+silmrak	N	rock dominated by silt-sized grains	material	silm+rak	Siltstone-like field class.
+lemrak	N	clay-rich mudrock	material	lem+rak	Swelling behavior and layering require separate terms.
+grustrak	N	rock with abundant gravel-sized clasts	material	grust+rak	Rounded versus angular clasts are separate descriptors.
+rundgrustrak	N	rock with rounded gravel-sized clasts	material	rund+grust+rak	Conglomerate-like texture.
+kantgrustrak	N	rock with angular gravel-sized clasts	material	kant+grust+rak	Breccia-like texture; no single origin implied.
+eskrak	N	consolidated ash-rich rock	material	esk+rak	Volcanic ash provenance must be established before interpreting it as tuff-like.
+kalmrak	N	identified carbonate-rich rock	material	kalm+rak	Limestone-like and dolostone-like materials are not automatically distinguished.
+kriskalmrak	N	carbonate-rich rock with conspicuous recrystallized texture	material	kris+kalm+rak	Marble-like identification needs texture and geological context.
+kvirrak	N	quartz-rich rock	material	kvir+rak	Could include several origins; does not alone mean quartzite.
+gisprak	N	gypsum-family rock	material	gisp+rak	composition category.
+salrak	N	salt-rich consolidated rock	material	sal+rak	Identified soluble mineral deposits, not a food label.
+sulvrak	N	identified sulfur-bearing rock	material	sulv+rak	Sulfide/sulfate distinction and mineral species remain necessary.
+jernmal	N	material currently workable as an iron ore	industry	jern+mal	Grade, process and price affect ore status.
+kubrmal	N	material currently workable as a copper ore	industry	kubr+mal	Shine or green color alone is insufficient.
+salbas	N	basin containing extensive salt deposits	land	sal+bas	A closed evaporative basin may have this condition.
+esklag	N	ash layer	material	esk+lag	Volcanic versus combustion origin must be stated.
+sallag	N	salt layer	material	sal+lag	no undocumented l-to-r sound change.
+isbrak	N	rock debris associated with ice movement	material	is+brak	Broad transported-debris term; not a claim of one precise till fabric.
+sarnlem	N	clay-rich earth with a substantial sand fraction	material	sarn+lem	Texture mixture, not an automatic engineering grade.
+silmdul	N	loose earth dominated by silt-sized material	material	silm+dul	
+sarndul	N	loose earth dominated by sand-sized material	material	sarn+dul	
+lemdul	N	clay-rich loose earth	material	lem+dul	
+grustdul	N	gravel-rich loose earth	material	grust+dul	
+saldul	N	salt-bearing loose earth	material	sal+dul	Crop tolerance depends on salts and concentrations.
+eskdul	N	ash-rich loose earth	material	esk+dul	Fresh ash is not automatically fertile or safe.
+vaatdul	N	wet loose earth	material	vaat+dul	
+tördul	N	dry loose earth	material	tör+dul	
+svellem	N	clay-rich earth shown to swell under the stated wetting conditions	material	svel+lem	Observed behavior; no inference that every clay swells.
+tettlem	N	densely packed clay-rich earth	material	tett+lem	Does not guarantee a durable watertight seal.
+jörmsarn	N	sand used as part of growing soil	food	jörm+sarn	Not a claim that sand alone supplies plant nutrition.
+seljörm	N	cultivation soil managed for food production	food	sel+jörm	Water and nutrient budgets remain necessary.
+skarnjörm	N	soil containing processed organic waste	food	skarn+jörm	Treatment suitability is separate from the name.
+durmen	N	dark stone selected for shaping	material	dur+men	
+belmen	N	pale stone selected for shaping	material	bel+men	
+darnmen	N	scratch-resistant stone selected for shaping	material	darn+men	
+mölmen	N	soft stone selected for shaping	material	möl+men	
+flakmen	N	thin-splitting stone selected for slabs or plates	industry	flak+men	
+tekkmen	N	stone selected for roofing	industry	tekk+men	engineering grade must be specified.
+stalmen	N	stone selected for a supporting structure	industry	stal+men	A purpose designation, not certified load capacity.
+silmen	N	stone selected as a filter medium	industry	sil+men	Pore size, chemistry and service conditions require testing.
+nermen	N	stone selected for brood-nursery construction	care	ner+men	Requires species-specific suitability and physical design; not embryo food.
+porig	ADJ	containing pores	property	por+-ig	Does not imply connected pores.
+rissig	ADJ	containing cracks	property	riss+-ig	
+salig	ADJ	containing mineral salt	property	sal+-ig	Coined literal Dwarven sense, unrelated to similar Earth words.
+dravrad	N	water wheel	industry	drav+rad	
+tarnrad	N	toothed gear wheel	industry	tarn+rad	
+luftporm	N	air pump	industry	luft+porm	
+vasporm	N	water pump	industry	vas+porm	
+luftvent	N	air-control valve	industry	luft+vent	
+vasvent	N	water-control valve	industry	vas+vent	
+luftsil	N	air filter	industry	luft+sil	
+vassil	N	water filter	industry	vas+sil	Filtration does not automatically remove every dissolved contaminant.
+eldmotor	N	combustion engine	industry	eld+motor	Fuel, oxidant supply and exhaust must be managed.
+gnistmotor	N	electric motor	industry	gnist+motor	Does not imply digital control.
+lutbytek	N	heat-exchange device	industry	lut+byt+-ek	Conventional bounded result of exchanging heat.
+lutröl	N	heat-transfer pipe	industry	lut+röl	
+skelmveg	N	rail route	travel	skelm+veg	
+luftväv	N	porous framework distributing air	industry	luft+väv	May use cellular geometry; does not imply every opening is hexagonal.
+nersil	N	filter element serving a nursery casing	care	ner+sil	
+eggkel	N	compartment containing the true egg within a nursery	care	egg+kel	
+selröl	N	feeding conduit in a nursery apparatus	care	sel+röl	An engineered channel, not assumed native feeding anatomy.
+ljuskel	N	chamber admitting or supplied with light	food	ljus+kel	Specify source; not necessarily electrically lit.
+rötkel	N	tuber-growing or tuber-storage chamber, qualified by context	food	röt+kel	Growing requires lit producer surfaces; storage does not.
+sombkel	N	fungal-crop chamber	food	somb+kel	Requires organic substrate; fungi do not create free calories.
+brankol	N	charred organic fuel; charcoal-like material	fuel	bran+kol	Does not depend on coal geology.
+sombsel	N	food derived from cultivated fungus-like organisms	food	somb+sel	
+ljusgrölm	N	crop grown with admitted light	food	ljus+grölm	Light source and growing conditions must be specified.
+smeltrak	N	rock interpreted as solidified from melt	material	smelt+rak	Broad specialist origin class; an interpretation, not a visible texture alone.
+lagad	N	deposition and accumulation in layers	material	lag+-ad	Lexicalized process derivation.
+lagadrak	N	rock interpreted as lithified deposited material	material	lagad+rak	Broad specialist origin class.
+verrak	N	rock interpreted as transformed in the solid state	material	ver+rak	Controlled specialist term; ver is the become/change verb stem.
+hamarveg	N	route along or through a crag	travel	hamar+veg	Specify the route relationship when introducing a new place.
+gnisthamar	N	electrically powered hammer	industry	gnist+hamar	Limited industrial technology, not ubiquitous equipment.
+kamvar	N	massif-network language; bedrock speech	language	kam+var	Capitalized language name.
+hamarvar	N	ridge-network language; crag speech	language	hamar+var	Capitalized language name.
+dravvar	N	basin-network language; water-flow speech	language	drav+var	Capitalized language name.
+nattvar	N	cold-edge-network language; dark-side speech	language	natt+var	Not a far-nightside isolated-oasis language.
+solvar	N	warm-margin-network language; starward speech	language	sol+var	Capitalized language name.
+förvar	N	earlier speech; reconstructed common source of the family	language	för+var	The history and vocabulary of this earlier speech are approximate.
+stavmark	N	native letter-mark script	language	stav+mark	The native writing system.
+orv	N	orbital circuit	time		Not a recurring solar day.
+orvtid	N	orbital period	time	orv+tid	
+draven	V	flow as a water current	water		Intransitive; contrasts with dreven power or drive.
+vinst	ADJ	left relative to the body's forward orientation	body		Specify observer or body reference for external objects.
+höst	ADJ	right relative to the body's forward orientation	body		Independent of sunward/nightward coordinates.
+uparn	N	upper arm of one of the two upper limbs	body	up+arn	Does not prescribe joint geometry.
+nedarn	N	lower arm of one of the two lower limbs	body	ned+arn	Here lower refers to limb pair, not forearm segment.
+uphand	N	hand belonging to an upper limb pair	body	up+hand	
+nedhand	N	hand belonging to a lower limb pair	body	ned+hand	
+vinsthand	N	a hand on the left side of the body	body	vinst+hand	Upper/lower pair can be stated separately.
+hösthand	N	a hand on the right side of the body	body	höst+hand	Upper/lower pair can be stated separately.
+hamarkor	N	member of the native dwarven peoples; dwarf	identity	hamar+kor	General native people-name: crag or great-rock-mass person. Includes all native dwarven species and the deep-massif subspecies.
+hamarkorvar	N	the Dwarven language family collectively	language	hamarkor+var	Family umbrella; Korvar is the common standard and Hamarvar retains its regional meaning.
+rakkor	N	member of a reserved regional native people	identity	rak+kor	Regional people-name. The specific community has not yet been described.

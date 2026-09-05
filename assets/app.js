@@ -1,5 +1,30 @@
 const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
+const themeToggle = document.querySelector('#theme-toggle');
+if (themeToggle) {
+  const systemTheme = matchMedia('(prefers-color-scheme: dark)');
+  const root = document.documentElement;
+  const updateThemeButton = () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : systemTheme.matches;
+    themeToggle.setAttribute('aria-pressed', String(dark));
+  };
+  themeToggle.hidden = false;
+  updateThemeButton();
+  themeToggle.addEventListener('click', () => {
+    const next = themeToggle.getAttribute('aria-pressed') === 'true' ? 'light' : 'dark';
+    root.dataset.theme = next;
+    try { localStorage.setItem('world-guide-theme', next); } catch { /* Keep this page usable. */ }
+    updateThemeButton();
+  });
+  systemTheme.addEventListener('change', updateThemeButton);
+  addEventListener('storage', event => {
+    if (event.key !== 'world-guide-theme' && event.key !== null) return;
+    if (event.newValue === 'dark' || event.newValue === 'light') root.dataset.theme = event.newValue;
+    else delete root.dataset.theme;
+    updateThemeButton();
+  });
+}
+
 const dictionary = document.querySelector('#dictionary');
 if (dictionary) {
   const input = document.querySelector('#dictionary-query');
@@ -32,7 +57,7 @@ if (form) {
     const next = matches.slice(shown, shown + 20);
     for (const match of next) {
       const li = document.createElement('li');
-      const label = document.createElement('span'); label.className = 'eyebrow'; label.textContent = match.category;
+      const label = document.createElement('span'); label.className = 'eyebrow'; label.textContent = { worlds: 'Worlds', peoples: 'Peoples', cosmology: 'Cosmology', language: 'Language', maps: 'Maps' }[match.category] || match.category;
       const h2 = document.createElement('h2');
       const a = document.createElement('a'); a.href = match.href; a.textContent = match.title;
       h2.append(a);
@@ -58,12 +83,12 @@ if (form) {
     if (!raw && !selected) { status.textContent = 'Enter a word or phrase to explore the lore.'; return; }
     status.textContent = 'Searching the lore…';
     try {
-      indexPromise ||= fetch('search-index.json').then(response => { if (!response.ok) throw new Error('Search unavailable'); return response.json(); }).catch(error => { indexPromise = undefined; throw error; });
+      indexPromise ||= fetch('search-index.json').then(response => { if (!response.ok) throw new Error('Search unavailable'); return response.json(); }).then(items => items.map(item => ({ ...item, normalizedTitle: normalize(item.title), haystack: normalize(item.title + ' ' + item.text) }))).catch(error => { indexPromise = undefined; throw error; });
       const index = await indexPromise;
       if (request !== sequence) return;
       const terms = normalize(raw).split(/\s+/).filter(Boolean);
-      matches = index.filter(item => (!selected || item.category === selected) && terms.every(term => normalize(item.title + ' ' + item.text).includes(term)));
-      const score = item => terms.reduce((sum, term) => sum + (normalize(item.title).includes(term) ? 1 : 0), 0);
+      matches = index.filter(item => (!selected || item.category === selected) && terms.every(term => item.haystack.includes(term)));
+      const score = item => terms.reduce((sum, term) => sum + (item.normalizedTitle.includes(term) ? 1 : 0), 0);
       matches.sort((a,b) => score(b) - score(a) || a.title.localeCompare(b.title));
       shown = 0; appendResults();
     } catch {
@@ -71,7 +96,7 @@ if (form) {
     }
   }
   form.addEventListener('submit', event => { event.preventDefault(); clearTimeout(timer); search(); });
-  query.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(search, 250); });
+  query.addEventListener('input', () => { ++sequence; clearTimeout(timer); results.replaceChildren(); more.hidden = true; status.textContent = 'Waiting for your search…'; timer = setTimeout(search, 250); });
   category.addEventListener('change', () => { clearTimeout(timer); search(); });
   more.addEventListener('click', () => {
     const previous = results.children.length;
