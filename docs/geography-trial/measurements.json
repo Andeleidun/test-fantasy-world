@@ -1,0 +1,185 @@
+{
+  "modest": {
+    "angle_degrees": -4,
+    "euler_pole_native_lon_lat": [
+      -100,
+      60
+    ],
+    "basin_displacement_km": 392.9472479672999,
+    "coastal_vertex_displacement_km_min_max": [
+      278.80300446527303,
+      443.1291917948136
+    ],
+    "max_coastal_latitude_change_degrees": 1.4756149524747766,
+    "south_block_area_km2": 17911719.356595032,
+    "south_block_area_change_percent": 0.0,
+    "all_land_valid": true,
+    "north_to_south_land_component": true,
+    "hinge_axis_length_km": 3233.542030041835,
+    "constructed_belt_width_km_min_max": [
+      141.2603171457136,
+      290.9452106227623
+    ],
+    "old_margin_removed_km2": 527132.0099024343,
+    "surviving_fragment_area_km2": 59760.707259595496,
+    "new_belt_gross_area_km2": 738557.2197258562,
+    "global_mapped_land_area_change_percent": 0.07028587638662209,
+    "population_locators_native": {
+      "Coastal rim": [
+        -15.896956431435791,
+        31.60015082440655
+      ],
+      "Great Watersheds": [
+        -46.6985307324065,
+        26.145362404953726
+      ],
+      "Highland Spine": [
+        -115.39879970892163,
+        7.891007570539044
+      ],
+      "Equatorial Basin": [
+        -99.53884430961274,
+        -2.0668142970185097
+      ]
+    },
+    "locators_on_land": {
+      "Coastal rim": true,
+      "Great Watersheds": true,
+      "Highland Spine": true,
+      "Equatorial Basin": true
+    },
+    "protected_land_footprints_retained": {
+      "watershed_core": true,
+      "basin_core": true
+    },
+    "island_to_island_shortest_outline_gaps_km": [
+      201.28993951006166,
+      210.54830734073215,
+      196.99163114981,
+      312.73368999214733
+    ],
+    "new_belt_width_is_not_usable_habitat_width": true
+  },
+  "medium": {
+    "angle_degrees": -6,
+    "euler_pole_native_lon_lat": [
+      -100,
+      60
+    ],
+    "basin_displacement_km": 589.3880006025314,
+    "coastal_vertex_displacement_km_min_max": [
+      418.14002882567735,
+      664.6925358149307
+    ],
+    "max_coastal_latitude_change_degrees": 2.242205784030345,
+    "south_block_area_km2": 17911719.356595036,
+    "south_block_area_change_percent": 2.220446049250313e-14,
+    "all_land_valid": true,
+    "north_to_south_land_component": true,
+    "hinge_axis_length_km": 3168.965853217171,
+    "constructed_belt_width_km_min_max": [
+      141.2603171457136,
+      290.9452106227623
+    ],
+    "old_margin_removed_km2": 527132.0099024343,
+    "surviving_fragment_area_km2": 59760.707259595496,
+    "new_belt_gross_area_km2": 725540.4457507583,
+    "global_mapped_land_area_change_percent": 0.07066203234322721,
+    "population_locators_native": {
+      "Coastal rim": [
+        -15.896956431435791,
+        31.60015082440655
+      ],
+      "Great Watersheds": [
+        -46.6985307324065,
+        26.145362404953726
+      ],
+      "Highland Spine": [
+        -116.99541277786254,
+        8.169946278807863
+      ],
+      "Equatorial Basin": [
+        -101.30696152119201,
+        -2.0594334090969144
+      ]
+    },
+    "locators_on_land": {
+      "Coastal rim": true,
+      "Great Watersheds": true,
+      "Highland Spine": true,
+      "Equatorial Basin": true
+    },
+    "protected_land_footprints_retained": {
+      "watershed_core": true,
+      "basin_core": true
+    },
+    "island_to_island_shortest_outline_gaps_km": [
+      201.28993951006166,
+      210.54830734073215,
+      196.99163114981,
+      312.73368999214733
+    ],
+    "new_belt_width_is_not_usable_habitat_width": true
+  },
+  "stronger": {
+    "angle_degrees": -8,
+    "euler_pole_native_lon_lat": [
+      -100,
+      60
+    ],
+    "basin_displacement_km": 785.7892399689861,
+    "coastal_vertex_displacement_km_min_max": [
+      557.3996239535053,
+      886.2543741872679
+    ],
+    "max_coastal_latitude_change_degrees": 3.0270370324341496,
+    "south_block_area_km2": 17911719.356595032,
+    "south_block_area_change_percent": 0.0,
+    "all_land_valid": true,
+    "north_to_south_land_component": true,
+    "hinge_axis_length_km": 3151.170874118308,
+    "constructed_belt_width_km_min_max": [
+      141.2603171457136,
+      290.9452106227622
+    ],
+    "old_margin_removed_km2": 527132.0099024343,
+    "surviving_fragment_area_km2": 59760.707259595496,
+    "new_belt_gross_area_km2": 723297.1066149196,
+    "global_mapped_land_area_change_percent": 0.07355612100332642,
+    "population_locators_native": {
+      "Coastal rim": [
+        -15.896956431435791,
+        31.60015082440655
+      ],
+      "Great Watersheds": [
+        -46.6985307324065,
+        26.145362404953726
+      ],
+      "Highland Spine": [
+        -118.58821656534596,
+        8.475501180973806
+      ],
+      "Equatorial Basin": [
+        -103.07465516461843,
+        -2.021206391817175
+      ]
+    },
+    "locators_on_land": {
+      "Coastal rim": true,
+      "Great Watersheds": true,
+      "Highland Spine": true,
+      "Equatorial Basin": true
+    },
+    "protected_land_footprints_retained": {
+      "watershed_core": true,
+      "basin_core": true
+    },
+    "island_to_island_shortest_outline_gaps_km": [
+      201.28993951006166,
+      210.54830734073215,
+      196.99163114981,
+      312.73368999214733
+    ],
+    "new_belt_width_is_not_usable_habitat_width": true
+  }
+}

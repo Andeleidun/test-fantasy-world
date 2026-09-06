@@ -1,6 +1,6 @@
 # Erde geographic divergence proposal
 
-Status: authorial proposal for discussion, not adopted geography. No public coastline or named continent changes are made by this document. Earth names below identify source geometry only.
+Status: authorial proposal for discussion, not adopted geography. The first recommendation has now been tried and evaluated in [the offset-continent trial](geography-trial/README.md). No public coastline or named continent changes are made by this document. Earth names below identify source geometry only.
 
 ## Goal and recommendation
 
