@@ -1,0 +1,44 @@
+{
+  "small": {
+    "removed_land_km2": 20406.37718940267,
+    "removed_fraction_of_prior_global_land_percent": 0.013848043648819579,
+    "axis_length_over_previously_exposed_land_km": 326.0864626793724,
+    "valid_geometry": true,
+    "all_four_region_locators_same_land_component": true,
+    "hinge_unchanged": true,
+    "sampled_basin_core_loss_km2": 0.0,
+    "minimum_distance_to_sampled_basin_core_km_local_projection": 1626.3563316707919,
+    "minimum_distance_to_schematic_highland_axis_km_local_projection": 2353.6905761918165,
+    "new_sea_is_one_connected_shape": true,
+    "mouth_center_was_water": true,
+    "inland_head_was_land": true
+  },
+  "moderate": {
+    "removed_land_km2": 58108.55675134344,
+    "removed_fraction_of_prior_global_land_percent": 0.03943325279121082,
+    "axis_length_over_previously_exposed_land_km": 566.6862480146699,
+    "valid_geometry": true,
+    "all_four_region_locators_same_land_component": true,
+    "hinge_unchanged": true,
+    "sampled_basin_core_loss_km2": 0.0,
+    "minimum_distance_to_sampled_basin_core_km_local_projection": 1370.1344455671035,
+    "minimum_distance_to_schematic_highland_axis_km_local_projection": 2185.7075149918787,
+    "new_sea_is_one_connected_shape": true,
+    "mouth_center_was_water": true,
+    "inland_head_was_land": true
+  },
+  "deep": {
+    "removed_land_km2": 126836.80773561037,
+    "removed_fraction_of_prior_global_land_percent": 0.08607317376804224,
+    "axis_length_over_previously_exposed_land_km": 870.1007405787842,
+    "valid_geometry": true,
+    "all_four_region_locators_same_land_component": true,
+    "hinge_unchanged": true,
+    "sampled_basin_core_loss_km2": 0.0,
+    "minimum_distance_to_sampled_basin_core_km_local_projection": 1049.4530817828459,
+    "minimum_distance_to_schematic_highland_axis_km_local_projection": 2014.1479057664408,
+    "new_sea_is_one_connected_shape": true,
+    "mouth_center_was_water": true,
+    "inland_head_was_land": true
+  }
+}

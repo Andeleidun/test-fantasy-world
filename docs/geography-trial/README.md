@@ -101,3 +101,7 @@ The published atlas generator does not read this trial geometry. No web-app code
 - [USGS: arc accretion and collision](https://pubs.usgs.gov/publication/70210694): documents arc accretion/underthrusting as a geological mechanism. It does not establish the dimensions or rates of the proposed hinge.
 - [Sentman et al., 2018: Central American Seaway and circulation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018PA003364): illustrates that circulation responses to gateway changes depend on the model and background climate. An assumed Earth-like climate response should not be assigned to Erde.
 - [Kaifu et al., 2020: Palaeolithic water crossings](https://www.nature.com/articles/s41598-020-76831-7): supports considering visibility, currents and deliberate voyaging instead of treating island separation alone as evidence of access. The study does not establish the capabilities of Erde's much earlier fictional populations.
+
+## Follow-up
+
+The [coastal reshaping trial](../coast-trial/README.md) tests an additional gulf while retaining this medium-offset base. Its evaluation recommends deferring that gulf unless its regional maritime setting is independently wanted.
