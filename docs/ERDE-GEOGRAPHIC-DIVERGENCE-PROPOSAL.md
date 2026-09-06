@@ -2,6 +2,12 @@
 
 Status: authorial proposal for discussion, not adopted geography. The first recommendation has now been tried and evaluated in [the offset-continent trial](geography-trial/README.md). No public coastline or named continent changes are made by this document. Earth names below identify source geometry only.
 
+## Subsequent scope correction
+
+The user subsequently required substantial body and coastline changes across **all six continental groups**, with historical connections and isolation preserved throughout their relevant periods. This supersedes the limited paired-continent-first scope below. The [worldwide outline study](global-geography-trial/README.md) and [historical acceptance ledger](global-geography-trial/HISTORICAL-CONSTRAINTS.md) record the new candidate and its unresolved gates. The earlier relocated hinge is not included in that candidate because its required earlier history has not been demonstrated.
+
+The study is not adopted geography. A modern connection, or an unchanged patch of coastline, does not validate a historical route.
+
 ## Goal and recommendation
 
 Make Erde’s continental silhouettes and relative arrangement less immediately recognizable while preserving the geological and ecological conditions supporting its established population histories. Use modest differences in plate trajectories, regional rifting, collision geometry and coastal subsidence over tens of millions of years. Preserve the functional geography of migrations, refuges and resource networks; exact source-coordinate locations may change.
@@ -87,4 +93,4 @@ For both established paired-continent founding events, the conservative choice i
 - [Kaifu et al., 2020: Palaeolithic voyage for invisible islands beyond the horizon](https://www.nature.com/articles/s41598-020-76831-7): visibility and currents affect maritime feasibility, and accidental drift cannot simply be assumed to explain settlement. Its Earth routes and human capabilities do not validate the much earlier fictional migrations.
 - [British Antarctic Survey: closure of the Panama Seaway](https://www.bas.ac.uk/data/our-data/publication/closure-of-the-panama-seaway-during-the-pliocene-implications-for-climate-and-northern-hemisphere-glaciation/): ocean gateways can affect circulation and climate. It does not predict the direction or magnitude of effects on Erde.
 
-No physical reconstruction or climate simulation has yet been executed for these candidates. The next useful decision concerns how strongly to alter the continental pair and its hinge, not exact island coordinates or final place names.
+No physical reconstruction or climate simulation has yet been executed for these candidates. The original paired-continent-first next step has been superseded by the worldwide study and its historical acceptance ledger linked above.

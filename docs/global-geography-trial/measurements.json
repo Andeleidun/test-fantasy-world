@@ -1,0 +1,100 @@
+{
+  "status": "design and geometry checks only; not geological or ecological validation",
+  "global_land_area_km2": 153519377.9045776,
+  "baseline_land_area_km2": 147255224.8364065,
+  "land_area_change_percent": 4.2539428228304255,
+  "candidate_land_fraction_percent": 30.097950800348208,
+  "valid_land": true,
+  "anchors_on_land": {
+    "paired_north": true,
+    "paired_south": true,
+    "watersheds": true,
+    "equatorial_basin": true,
+    "highland_spine": true,
+    "ancestral_refuge": true,
+    "west_contact": true,
+    "east_contact": true,
+    "shelf_cradle": true,
+    "shelf_humans": true,
+    "highland_islanders": true
+  },
+  "paired_land_connection": true,
+  "present_day_approach_continuity": {
+    "eastern_hinterland_to_west_and_east_cores": true,
+    "western_approach_to_paired_interiors": true,
+    "ancestral_refuge_to_exit_and_western_core": true,
+    "eastern_core_to_shelf_mainland": true
+  },
+  "historical_control_sectors": [
+    {
+      "role": "external continental approach",
+      "radius_km": 750
+    },
+    {
+      "role": "eastern approach hinterland",
+      "radius_km": 1100
+    },
+    {
+      "role": "paired continental hinge",
+      "radius_km": 1100
+    },
+    {
+      "role": "hinge northern hinterland",
+      "radius_km": 750
+    },
+    {
+      "role": "ancestral coastal refuge",
+      "radius_km": 350
+    },
+    {
+      "role": "ancestral continental exit",
+      "radius_km": 650
+    },
+    {
+      "role": "shelf cradle",
+      "radius_km": 650
+    },
+    {
+      "role": "deep-water island radiation",
+      "radius_km": 1050
+    },
+    {
+      "role": "highland and shelf approach",
+      "radius_km": 800
+    }
+  ],
+  "guard_land_symmetric_difference_km2": 3.9226282708380973,
+  "guard_land_area_km2": 7111734.723206881,
+  "continents": {
+    "C1": {
+      "candidate_body_area_km2": 25233370.959756568,
+      "baseline_partition_area_km2": 24134270.451675285,
+      "footprint_intersection_over_union": 0.6290939129597886
+    },
+    "C2": {
+      "candidate_body_area_km2": 19446950.701719593,
+      "baseline_partition_area_km2": 17911719.356595032,
+      "footprint_intersection_over_union": 0.531145134410687
+    },
+    "C3": {
+      "candidate_body_area_km2": 53837495.55855381,
+      "baseline_partition_area_km2": 52939976.037270516,
+      "footprint_intersection_over_union": 0.7244732815915941
+    },
+    "C4": {
+      "candidate_body_area_km2": 30098967.027319375,
+      "baseline_partition_area_km2": 29937070.838670824,
+      "footprint_intersection_over_union": 0.6390209943966645
+    },
+    "C5": {
+      "candidate_body_area_km2": 7906713.869355002,
+      "baseline_partition_area_km2": 7719491.543313308,
+      "footprint_intersection_over_union": 0.533605733923924
+    },
+    "C6": {
+      "candidate_body_area_km2": 11803072.52774638,
+      "baseline_partition_area_km2": 12236267.094544308,
+      "footprint_intersection_over_union": 0.4812756558541253
+    }
+  }
+}
