@@ -1,6 +1,7 @@
-"""Build public Erde atlas variants; retain original authorial sheets unchanged."""
+"""Redraw public Erde sheets in an equal-area projection with public terminology."""
 from pathlib import Path
-from copy import deepcopy
+from tempfile import TemporaryDirectory
+from erde_geometry import render_erde_maps
 import json
 import xml.etree.ElementTree as ET
 
@@ -16,6 +17,7 @@ captions=[
  ('E4','erde-ancestry-and-dispersal','Ancestry and dispersal','Ancient human and hobbit populations branch and move between continental and island habitats.','Arrows combine movements from different periods. Shared ancestry and overlapping routes do not establish one culture or a political boundary.'),
  ('E5','erde-regional-contact','Regional contact','Five regional population complexes and their successor communities about five thousand years before the present.','The Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin retain self-sustaining networks. Coastal and mountain-rim communities continue through mixed successors.')]
 replacements={
+ 'ancestral network':'population network',
  'ANDEL\'S SONG / FIELD ATLAS':'ERDE / WORLD ATLAS',
  'Bering: 23.6N':'Approach: 23.6N','Dakar reference: 40.9S':'Coastal site: 40.9S','Sunda: about 10S':'Island shelf: about 10S','Antarctic landmass':'Continental land',
  'A map of solar forcing zones, not a forecast of rainfall, ice, or vegetation.':'Latitude, solar input and the local conditions that shape habitats.',
@@ -49,37 +51,19 @@ replacements={
  'Four self-sustaining First American complexes':'Four self-sustaining regional complexes',
  'At this epoch, complexes 2-5 retain independent population networks. The former Boreal Rim is represented by':'At this epoch, complexes 2-5 retain independent population networks. The coastal and mountain rim continues through',
 }
+generated=TemporaryDirectory(prefix='erde-atlas-')
+render_erde_maps(generated.name)
 originals=json.loads(Path('content/maps.json').read_text())
 public=json.loads(Path('content/public/maps.json').read_text())
 for code,stem,title,description,reading in captions:
  old=next(m for m in originals if m['code']==code)
- source=ET.parse(folder/(old['stem']+'.svg')).getroot()
- if code=='E1':
-  # Reuse only Erde's projected land geometry. The Earth comparison and construction commentary stay authorial.
-  root=ET.Element('{'+SVG+'}svg',{'viewBox':'0 0 1152 720','width':'1152','height':'720','role':'img','aria-labelledby':'title desc'})
-  ET.SubElement(root,'{'+SVG+'}title',{'id':'title'}).text='Erde: lands and seas'
-  ET.SubElement(root,'{'+SVG+'}desc',{'id':'desc'}).text='Continental land and seas in a rectangular latitude-longitude view. No political borders are shown.'
-  defs=ET.SubElement(root,'{'+SVG+'}defs')
-  for definition in source.findall('.//s:defs',ns):
-   for child in definition:defs.append(deepcopy(child))
-  ET.SubElement(root,'{'+SVG+'}rect',{'width':'1152','height':'720','fill':'#f7f5ef'})
-  axis=deepcopy(source.find('.//s:g[@id="axes_2"]',ns))
-  for parent in list(axis.iter()):
-   for child in list(parent):
-    if child.tag=='{'+SVG+'}defs':parent.remove(child)
-  # Keep coordinate labels, removing the old reference-continent annotation groups.
-  for child in list(axis):
-   if child.get('id','').startswith('text_'):axis.remove(child)
-  group=ET.SubElement(root,'{'+SVG+'}g',{'transform':'translate(-1060 -220) scale(1.9)'})
-  group.append(axis)
-  for x,y,size,weight,text in [(52,42,12,'normal','ERDE / WORLD ATLAS'),(52,91,29,'bold','Lands and seas'),(52,121,13,'normal','Continental geography and the seas connecting its shores.'),(52,668,12,'normal','Latitude and longitude locate the land. Regional maps provide finer detail.'),(52,694,11,'normal','Coastlines are broad outlines; no political borders are shown.')]:
-   ET.SubElement(root,'{'+SVG+'}text',{'x':str(x),'y':str(y),'font-family':'DejaVu Sans, sans-serif','font-size':str(size),'font-weight':weight,'fill':'#243c43'}).text=text
- else:
-  root=source
-  for t in root.findall('.//s:text',ns):
-   if t.text in replacements:t.text=replacements[t.text]
-  ET.SubElement(root,'{'+SVG+'}title').text=title+' of Erde'
-  ET.SubElement(root,'{'+SVG+'}desc').text=description+' '+reading
+ source=ET.parse(Path(generated.name)/(old['stem']+'.svg')).getroot()
+ root=source
+ for t in root.findall('.//s:text',ns):
+  if t.text in replacements:t.text=replacements[t.text]
+ root.set('role','img');root.set('aria-labelledby','map-title map-description')
+ ET.SubElement(root,'{'+SVG+'}title',{'id':'map-title'}).text=title+' of Erde'
+ ET.SubElement(root,'{'+SVG+'}desc',{'id':'map-description'}).text=description+' Equal-area view. '+reading
  ET.ElementTree(root).write(folder/(stem+'.svg'),encoding='utf-8',xml_declaration=True)
  item=next(m for m in public if m['code']==code)
  item.update(stem=stem,title=title,description=description,reading=reading,legacyStem=old['stem'])
@@ -89,3 +73,5 @@ for m in public:
  if m['world']=='Erde':s+='- ['+m['code']+' · '+m['title']+'](../../assets/maps/'+m['stem']+'.svg): '+m['reading']+'\n'
 p.write_text(s)
 print('Prepared five public atlas variants')
+
+generated.cleanup()

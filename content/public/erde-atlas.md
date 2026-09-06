@@ -6,6 +6,8 @@ The atlas shows Erde’s lands and seas, broad latitude zones, mountain passages
 
 Regional maps show broad patterns rather than surveyed boundaries. Migration routes summarize movement over long periods, and a shared ancestral history does not make every community along a route one people. The contact sheet depicts about five thousand years before Erde’s present; the dispersal sheet includes much older movements.
 
+All five sheets use an equal-area view, keeping the relative sizes of land and sea consistent from the equator to the poles. Shapes are balanced across the world, with some distortion near the map’s edges.
+
 Open any sheet for a full-size view. [Reading the atlas](map-methods.md) explains the scale, symbols and limits of each kind of map.
 
 ## Map sheets

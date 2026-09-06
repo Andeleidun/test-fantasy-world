@@ -14,7 +14,9 @@ A schematic lake, settlement or province is an example, not a newly named canoni
 
 ## Reading Erde’s geography
 
-Erde’s maps use latitude and longitude to locate land, seas and routes. Rectangular views are equidistant cylindrical projections: they preserve some useful relationships while distorting area and distance toward the poles.
+Erde’s five geographic sheets use an equal-area projection: land and sea retain their correct relative sizes across the map, including at high latitudes. The curved meridians give a balanced view of continental shapes. The regional contact sheet is a closer view in the same projection.
+
+No flat map can preserve size, shape, distance and direction everywhere. Shapes still distort, especially near the outer edges; distances and bearings should not be measured with one uniform scale. Latitude and longitude locate features consistently across all five sheets.
 
 Latitude bands describe differences in solar input. Rainfall, vegetation and ice also depend on altitude, circulation, coastlines and local conditions. A colored band is therefore not a complete habitat description.
 
@@ -40,7 +42,7 @@ The dwarf habitat sheet shows overlapping ecological tendencies, not species ter
 
 ## Historical time
 
-Erde’s dispersal sheet combines stages that are not necessarily contemporary. The early continental founding interval is roughly 650,000–450,000 years ago. The regional contact sheet depicts about five thousand years before Erde’s present, following a later later human founding movement around 35,000–20,000 years ago.
+Erde’s dispersal sheet combines stages that are not necessarily contemporary. The early continental founding interval is roughly 650,000–450,000 years ago. The regional contact sheet depicts about five thousand years before Erde’s present, following a later human founding movement around 35,000–20,000 years ago.
 
 At the contact sheet’s epoch, the Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin communities remain self-sustaining. The coastal and mountain-rim complex continues through multiple mixed successors. The sheets combine long histories at a broad scale; local timelines can differ.
 
