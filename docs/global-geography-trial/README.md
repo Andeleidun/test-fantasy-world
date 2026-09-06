@@ -4,6 +4,10 @@ Status: **authorial silhouette candidate, not adopted geography or a validated h
 
 The additional acceptance rule is binding: **a modern junction cannot compensate for a broken historical connection. A replacement must work during the original migration interval and retain the necessary intervening isolation.** Unknown historical feasibility is not a pass. See the [history and acceptance ledger](HISTORICAL-CONSTRAINTS.md).
 
+## Geological validation result
+
+The [completed geological review](GEOLOGICAL-VALIDATION.md) recovers the original Drive framework and tests ten inherited locations at twelve epochs in two named plate models. It supports the late-Cenozoic polar core, identifies older latitude claims requiring revision, and quantifies substantial land redistribution hidden by the modest net area increase. The exact candidate **does not yet pass historical validation**: its crustal-block, gateway, relief and habitat histories remain incomplete. The new calculations are reproducible from saved inputs and API responses.
+
 ## Visual comparison
 
 ![Previous and candidate silhouettes in the same Equal Earth projection](01-world-silhouettes.png)

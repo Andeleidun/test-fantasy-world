@@ -82,3 +82,7 @@ The new pole coordinates, the Bering and Dakar reference latitudes, the kilomete
 - [Natural Earth 1:110m physical land](https://www.naturalearthdata.com/downloads/110m-physical-vectors/), public-domain cartographic data. Land archive: `https://naturalearth.s3.amazonaws.com/110m_physical/ne_110m_land.zip`.
 
 The unresolved phrase "3-5% of the wet core" is not assigned a spatial layer. The source conversation did not identify its measured quantity.
+
+## Later worldwide-design validation
+
+The authorial [geological validation review](../docs/global-geography-trial/GEOLOGICAL-VALIDATION.md) recovers the underlying framework and Proposal 4 history cited as sources 20 and 24 above. It adds sample paleolatitude checks from two explicit plate models and reviews the separate worldwide coastline candidate. These results do not replace the published atlas or validate its schematic migration arrows as dated physical routes.

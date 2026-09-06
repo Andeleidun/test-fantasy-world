@@ -1,0 +1,4986 @@
+{
+  "status": "inherited-scaffold sample test, not a candidate plate reconstruction",
+  "reference_frame": "native north at source 0N 150W; anchor_plate_id=0 for each explicit model",
+  "samples": {
+    "C1_interior": [
+      -100,
+      50
+    ],
+    "C2_interior": [
+      -60,
+      -10
+    ],
+    "C3_west": [
+      25,
+      55
+    ],
+    "C3_east": [
+      110,
+      35
+    ],
+    "shelf_cradle": [
+      110,
+      0
+    ],
+    "C4_core": [
+      30,
+      0
+    ],
+    "ancestral_refuge": [
+      -16,
+      15
+    ],
+    "ancestral_exit": [
+      32,
+      30
+    ],
+    "C5_interior": [
+      130,
+      -25
+    ],
+    "C6_interior": [
+      80,
+      -75
+    ]
+  },
+  "records": [
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 0,
+      "cache_file": "paleolocation-responses/MERDITH2021-0Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -100.0,
+            50.0
+          ],
+          "native_paleolatitude_degrees": 24.404497337885637,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -60.0,
+            -10.0
+          ],
+          "native_paleolatitude_degrees": 3.4550548589149987e-15,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            25.0,
+            55.0
+          ],
+          "native_paleolatitude_degrees": -34.84747730208129,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            110.0,
+            35.0
+          ],
+          "native_paleolatitude_degrees": -8.17773276583954,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            110.0,
+            0.0
+          ],
+          "native_paleolatitude_degrees": -10.0,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            30.0,
+            0.0
+          ],
+          "native_paleolatitude_degrees": -90.0,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -16.0,
+            15.0
+          ],
+          "native_paleolatitude_degrees": -42.14340056520386,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            32.0,
+            30.0
+          ],
+          "native_paleolatitude_degrees": -59.93960128837238,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            130.0,
+            -25.0
+          ],
+          "native_paleolatitude_degrees": 9.054778951838198,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            80.0,
+            -75.0
+          ],
+          "native_paleolatitude_degrees": -9.576578515569942,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 2,
+      "cache_file": "paleolocation-responses/MERDITH2021-2Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -98.2131,
+            50.2243
+          ],
+          "native_paleolatitude_degrees": 23.313545080034437,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -59.5316,
+            -10.5324
+          ],
+          "native_paleolatitude_degrees": -0.4605080842280862,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            24.431,
+            54.1685
+          ],
+          "native_paleolatitude_degrees": -35.63647067777832,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            109.4681,
+            35.388
+          ],
+          "native_paleolatitude_degrees": -8.569768907657881,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            110.0774,
+            0.3926
+          ],
+          "native_paleolatitude_degrees": -9.922364700290101,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            30.0035,
+            -0.9789
+          ],
+          "native_paleolatitude_degrees": -89.02109374360592,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -15.892,
+            14.0234
+          ],
+          "native_paleolatitude_degrees": -42.47509532451031,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            31.7489,
+            29.035
+          ],
+          "native_paleolatitude_degrees": -60.916956086697304,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            130.0867,
+            -25.675
+          ],
+          "native_paleolatitude_degrees": 9.081899543958995,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            83.185,
+            -75.0755
+          ],
+          "native_paleolatitude_degrees": -8.87794717082248,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 23,
+      "cache_file": "paleolocation-responses/MERDITH2021-23Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -84.7276,
+            49.4428
+          ],
+          "native_paleolatitude_degrees": 15.782394017112232,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -53.1604,
+            -15.4548
+          ],
+          "native_paleolatitude_degrees": -6.591169076237501,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            20.4093,
+            50.0732
+          ],
+          "native_paleolatitude_degrees": -39.259809780922346,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            106.9781,
+            38.834
+          ],
+          "native_paleolatitude_degrees": -10.108880704596848,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            112.631,
+            3.8213
+          ],
+          "native_paleolatitude_degrees": -7.352526328423447,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            30.1732,
+            -6.5788
+          ],
+          "native_paleolatitude_degrees": -83.41893050246689,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -15.4603,
+            8.2567
+          ],
+          "native_paleolatitude_degrees": -43.95816702326974,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            30.4171,
+            23.4806
+          ],
+          "native_paleolatitude_degrees": -66.51590541420016,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            129.9606,
+            -34.1633
+          ],
+          "native_paleolatitude_degrees": 8.22860929720219,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            97.5289,
+            -73.5275
+          ],
+          "native_paleolatitude_degrees": -6.221920300040418,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 66,
+      "cache_file": "paleolocation-responses/MERDITH2021-66Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -58.7358,
+            54.7164
+          ],
+          "native_paleolatitude_degrees": -0.7301927698134064,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -39.9212,
+            -14.9972
+          ],
+          "native_paleolatitude_degrees": -19.36703886264501,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            27.691,
+            44.6232
+          ],
+          "native_paleolatitude_degrees": -45.32968404807996,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            108.5235,
+            36.7094
+          ],
+          "native_paleolatitude_degrees": -9.178257648786078,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            118.5349,
+            1.9364
+          ],
+          "native_paleolatitude_degrees": -1.4642631735324876,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            29.2508,
+            -17.3711
+          ],
+          "native_paleolatitude_degrees": -72.61324897775764,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -13.104,
+            5.8796
+          ],
+          "native_paleolatitude_degrees": -46.574907897631135,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            33.5273,
+            12.3911
+          ],
+          "native_paleolatitude_degrees": -77.12418636122038,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            135.5096,
+            -50.8105
+          ],
+          "native_paleolatitude_degrees": 9.72773755214102,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            100.7151,
+            -79.7668
+          ],
+          "native_paleolatitude_degrees": -3.36366682075475,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 100,
+      "cache_file": "paleolocation-responses/MERDITH2021-100Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -47.4958,
+            52.8367
+          ],
+          "native_paleolatitude_degrees": -7.515359929679661,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -25.241,
+            -11.4501
+          ],
+          "native_paleolatitude_degrees": -33.97141024848977,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            37.7705,
+            48.0019
+          ],
+          "native_paleolatitude_degrees": -41.5261613789353,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            122.6103,
+            38.6124
+          ],
+          "native_paleolatitude_degrees": 2.039375494149535,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            129.9662,
+            2.7312
+          ],
+          "native_paleolatitude_degrees": 9.954763774488171,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            27.4536,
+            -18.1775
+          ],
+          "native_paleolatitude_degrees": -71.65097797599607,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -10.2247,
+            11.9598
+          ],
+          "native_paleolatitude_degrees": -48.32636424325257,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            37.131,
+            10.3247
+          ],
+          "native_paleolatitude_degrees": -77.47409019367501,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            126.7839,
+            -58.211
+          ],
+          "native_paleolatitude_degrees": 3.5676694004270297,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            58.2937,
+            -72.7385
+          ],
+          "native_paleolatitude_degrees": -15.146167449867217,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 150,
+      "cache_file": "paleolocation-responses/MERDITH2021-150Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -22.8961,
+            43.503
+          ],
+          "native_paleolatitude_degrees": -25.948892320379272,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -18.5347,
+            -11.8763
+          ],
+          "native_paleolatitude_degrees": -40.39038793447704,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            46.2302,
+            39.0106
+          ],
+          "native_paleolatitude_degrees": -48.25041292931489,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            130.5672,
+            40.6162
+          ],
+          "native_paleolatitude_degrees": 8.002017425562467,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            145.5955,
+            6.6735
+          ],
+          "native_paleolatitude_degrees": 25.409683737263816,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            21.7416,
+            -27.3351
+          ],
+          "native_paleolatitude_degrees": -61.536913827697866,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -6.3189,
+            10.9071
+          ],
+          "native_paleolatitude_degrees": -52.29569723514342,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            38.4498,
+            -2.0118
+          ],
+          "native_paleolatitude_degrees": -81.31569969294488,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            105.7969,
+            -62.1328
+          ],
+          "native_paleolatitude_degrees": -6.585573760336474,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            41.8392,
+            -63.098
+          ],
+          "native_paleolatitude_degrees": -26.285266466470834,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 200,
+      "cache_file": "paleolocation-responses/MERDITH2021-200Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -29.658,
+            24.1936
+          ],
+          "native_paleolatitude_degrees": -27.43810178467772,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -16.3333,
+            -18.8717
+          ],
+          "native_paleolatitude_degrees": -40.794390026761675,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            26.6798,
+            48.4319
+          ],
+          "native_paleolatitude_degrees": -41.48286528547699,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            158.8019,
+            58.7952
+          ],
+          "native_paleolatitude_degrees": 18.944734464346887,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            142.9961,
+            17.5235
+          ],
+          "native_paleolatitude_degrees": 21.872285022358422,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            27.1325,
+            -21.7532
+          ],
+          "native_paleolatitude_degrees": -68.06771166886764,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -11.159,
+            6.4327
+          ],
+          "native_paleolatitude_degrees": -48.430032806048786,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            35.544,
+            7.0425
+          ],
+          "native_paleolatitude_degrees": -81.04579970043366,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            94.1912,
+            -42.4857
+          ],
+          "native_paleolatitude_degrees": -18.727124304135565,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            55.2157,
+            -45.5144
+          ],
+          "native_paleolatitude_degrees": -39.342719340240784,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 250,
+      "cache_file": "paleolocation-responses/MERDITH2021-250Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -20.9521,
+            23.2756
+          ],
+          "native_paleolatitude_degrees": -35.35913245175829,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -24.1257,
+            -21.3863
+          ],
+          "native_paleolatitude_degrees": -33.06965117974333,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            35.2116,
+            31.0984
+          ],
+          "native_paleolatitude_degrees": -58.51113211538475,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            121.4796,
+            35.2716
+          ],
+          "native_paleolatitude_degrees": 1.2079360525521918,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            116.3349,
+            -40.6343
+          ],
+          "native_paleolatitude_degrees": -2.780571759022319,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            19.2205,
+            -38.1596
+          ],
+          "native_paleolatitude_degrees": -50.571522987708605,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -9.9029,
+            0.3714
+          ],
+          "native_paleolatitude_degrees": -50.095660522887016,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            35.1606,
+            -11.7996
+          ],
+          "native_paleolatitude_degrees": -77.13591905615552,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            111.0516,
+            -59.1058
+          ],
+          "native_paleolatitude_degrees": -4.580818120006319,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            49.2801,
+            -66.4037
+          ],
+          "native_paleolatitude_degrees": -22.19994356651562,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 300,
+      "cache_file": "paleolocation-responses/MERDITH2021-300Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -22.3644,
+            12.7658
+          ],
+          "native_paleolatitude_degrees": -36.55136811787517,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -33.2123,
+            -30.7712
+          ],
+          "native_paleolatitude_degrees": -22.782691026889506,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            29.4173,
+            17.9356
+          ],
+          "native_paleolatitude_degrees": -72.0552480420433,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            120.4466,
+            33.3263
+          ],
+          "native_paleolatitude_degrees": 0.37315783852497364,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            14.7848,
+            -51.7475
+          ],
+          "native_paleolatitude_degrees": -36.685759628285204,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -14.8025,
+            -11.389
+          ],
+          "native_paleolatitude_degrees": -44.07253761678736,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            32.1572,
+            -24.8793
+          ],
+          "native_paleolatitude_degrees": -65.0332854840691,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            128.0778,
+            -56.2824
+          ],
+          "native_paleolatitude_degrees": 4.473691167534605,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            73.4236,
+            -76.5897
+          ],
+          "native_paleolatitude_degrees": -9.697336837781378,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 450,
+      "cache_file": "paleolocation-responses/MERDITH2021-450Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -116.292,
+            -1.5161
+          ],
+          "native_paleolatitude_degrees": 56.26194589266993,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -170.3539,
+            -41.1975
+          ],
+          "native_paleolatitude_degrees": 44.866935576853905,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            -54.2428,
+            -30.2629
+          ],
+          "native_paleolatitude_degrees": -4.970489207263786,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            55.8306,
+            -11.5319
+          ],
+          "native_paleolatitude_degrees": -61.87443990304063,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            133.3698,
+            -43.9049
+          ],
+          "native_paleolatitude_degrees": 9.590369719541693,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -147.8562,
+            -63.3991
+          ],
+          "native_paleolatitude_degrees": 26.580819424944295,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            92.3985,
+            -62.455
+          ],
+          "native_paleolatitude_degrees": -12.37210051466697,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            105.9763,
+            9.4409
+          ],
+          "native_paleolatitude_degrees": -13.829948733702073,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            124.1222,
+            -11.8749
+          ],
+          "native_paleolatitude_degrees": 4.03383407159431,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 600,
+      "cache_file": "paleolocation-responses/MERDITH2021-600Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -164.9821,
+            -14.7525
+          ],
+          "native_paleolatitude_degrees": 69.09318948181287,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            176.041,
+            -42.2817
+          ],
+          "native_paleolatitude_degrees": 37.85433025846407,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            -148.5082,
+            -59.1809
+          ],
+          "native_paleolatitude_degrees": 30.807515417350057,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            90.8523,
+            37.9971
+          ],
+          "native_paleolatitude_degrees": -22.570862586594355,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            70.9062,
+            -32.2503
+          ],
+          "native_paleolatitude_degrees": -39.73101965010518,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            11.9878,
+            -58.6517
+          ],
+          "native_paleolatitude_degrees": -29.652783014427783,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            41.8094,
+            -17.736
+          ],
+          "native_paleolatitude_degrees": -68.79783119753493,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            112.0799,
+            12.2038
+          ],
+          "native_paleolatitude_degrees": -7.740010917125804,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            96.9998,
+            -2.3911
+          ],
+          "native_paleolatitude_degrees": -22.97902604866515,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MERDITH2021",
+      "age_Ma": 1000,
+      "cache_file": "paleolocation-responses/MERDITH2021-1000Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            137.4516,
+            5.0424
+          ],
+          "native_paleolatitude_degrees": 17.38190522048957,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            120.5102,
+            -22.3506
+          ],
+          "native_paleolatitude_degrees": 0.47186993851251213,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            145.0967,
+            -40.4903
+          ],
+          "native_paleolatitude_degrees": 18.818463842513566,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            169.1703,
+            36.7933
+          ],
+          "native_paleolatitude_degrees": 37.29589386068365,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            51.5465,
+            -31.7503
+          ],
+          "native_paleolatitude_degrees": -52.272215672889665,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": false
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": false
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            133.7514,
+            41.7072
+          ],
+          "native_paleolatitude_degrees": 10.222033737171339,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            -11.9079,
+            11.9751
+          ],
+          "native_paleolatitude_degrees": -46.72096476503906,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 0,
+      "cache_file": "paleolocation-responses/MULLER2022-0Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -100.0,
+            50.0
+          ],
+          "native_paleolatitude_degrees": 24.404497337885637,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -60.0,
+            -10.0
+          ],
+          "native_paleolatitude_degrees": 3.4550548589149987e-15,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            25.0,
+            55.0
+          ],
+          "native_paleolatitude_degrees": -34.84747730208129,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            110.0,
+            35.0
+          ],
+          "native_paleolatitude_degrees": -8.17773276583954,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            110.0,
+            0.0
+          ],
+          "native_paleolatitude_degrees": -10.0,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            30.0,
+            0.0
+          ],
+          "native_paleolatitude_degrees": -90.0,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -16.0,
+            15.0
+          ],
+          "native_paleolatitude_degrees": -42.14340056520386,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            32.0,
+            30.0
+          ],
+          "native_paleolatitude_degrees": -59.93960128837238,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            130.0,
+            -25.0
+          ],
+          "native_paleolatitude_degrees": 9.054778951838198,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            80.0,
+            -75.0
+          ],
+          "native_paleolatitude_degrees": -9.576578515569942,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 2,
+      "cache_file": "paleolocation-responses/MULLER2022-2Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -99.7763,
+            50.0467
+          ],
+          "native_paleolatitude_degrees": 24.258283430410533,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -59.8931,
+            -10.1111
+          ],
+          "native_paleolatitude_degrees": -0.10523975425469814,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            24.3995,
+            55.003
+          ],
+          "native_paleolatitude_degrees": -34.80573868279081,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            109.5698,
+            35.1227
+          ],
+          "native_paleolatitude_degrees": -8.515361325012057,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            109.5749,
+            0.1228
+          ],
+          "native_paleolatitude_degrees": -10.425075787949623,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            29.4929,
+            -0.1794
+          ],
+          "native_paleolatitude_degrees": -89.46210230560555,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -16.4723,
+            14.8768
+          ],
+          "native_paleolatitude_degrees": -41.729897339749144,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            31.4905,
+            29.8206
+          ],
+          "native_paleolatitude_degrees": -60.14559584102994,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            129.2317,
+            -26.2202
+          ],
+          "native_paleolatitude_degrees": 8.274730536576087,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            79.3837,
+            -74.9021
+          ],
+          "native_paleolatitude_degrees": -9.762402896251064,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 23,
+      "cache_file": "paleolocation-responses/MULLER2022-23Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -96.3194,
+            50.4911
+          ],
+          "native_paleolatitude_degrees": 22.136302154213734,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -57.1402,
+            -11.3621
+          ],
+          "native_paleolatitude_degrees": -2.803707572960891,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            19.308,
+            54.9566
+          ],
+          "native_paleolatitude_degrees": -34.34869672759027,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            105.9317,
+            36.1972
+          ],
+          "native_paleolatitude_degrees": -11.31258996542432,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            107.9059,
+            0.8563
+          ],
+          "native_paleolatitude_degrees": -12.092728932073644,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            24.9783,
+            -2.1352
+          ],
+          "native_paleolatitude_degrees": -84.54428106743616,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -20.5175,
+            13.9067
+          ],
+          "native_paleolatitude_degrees": -38.112310397672104,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            27.2505,
+            27.8456
+          ],
+          "native_paleolatitude_degrees": -62.029795731542116,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            122.1984,
+            -38.3411
+          ],
+          "native_paleolatitude_degrees": 1.724111684661257,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            72.9647,
+            -74.1676
+          ],
+          "native_paleolatitude_degrees": -11.516239981481501,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 66,
+      "cache_file": "paleolocation-responses/MULLER2022-66Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -79.8191,
+            53.5503
+          ],
+          "native_paleolatitude_degrees": 11.620959019845515,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -47.2756,
+            -12.3692
+          ],
+          "native_paleolatitude_degrees": -12.424258299293,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            17.3289,
+            53.1176
+          ],
+          "native_paleolatitude_degrees": -35.842383648483896,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            105.6389,
+            38.4082
+          ],
+          "native_paleolatitude_degrees": -11.207291230019562,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            109.5361,
+            2.6047
+          ],
+          "native_paleolatitude_degrees": -10.452967546305997,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            20.0481,
+            -8.8497
+          ],
+          "native_paleolatitude_degrees": -76.71214567609005,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -23.407,
+            11.7353
+          ],
+          "native_paleolatitude_degrees": -35.708830184242714,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            24.2059,
+            20.9317
+          ],
+          "native_paleolatitude_degrees": -68.31591192613408,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            115.5435,
+            -51.8595
+          ],
+          "native_paleolatitude_degrees": -2.750580708072662,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            61.4313,
+            -74.386
+          ],
+          "native_paleolatitude_degrees": -13.277111743019844,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 100,
+      "cache_file": "paleolocation-responses/MULLER2022-100Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -59.163,
+            49.147
+          ],
+          "native_paleolatitude_degrees": -0.5474877700128654,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -40.7468,
+            -15.8933
+          ],
+          "native_paleolatitude_degrees": -18.489954484924397,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            19.1969,
+            44.6677
+          ],
+          "native_paleolatitude_degrees": -44.31410460982116,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            104.4072,
+            41.5592
+          ],
+          "native_paleolatitude_degrees": -11.603294633207598,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            114.5529,
+            6.1903
+          ],
+          "native_paleolatitude_degrees": -5.415244040934045,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            13.2852,
+            -21.935
+          ],
+          "native_paleolatitude_degrees": -62.67476609930731,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -25.3672,
+            7.3111
+          ],
+          "native_paleolatitude_degrees": -34.311674512207865,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            21.4575,
+            7.0381
+          ],
+          "native_paleolatitude_degrees": -78.94824883503206,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            116.3788,
+            -54.786
+          ],
+          "native_paleolatitude_degrees": -2.087171388060615,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            58.1594,
+            -74.033
+          ],
+          "native_paleolatitude_degrees": -14.035570674189659,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 150,
+      "cache_file": "paleolocation-responses/MULLER2022-150Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -41.5974,
+            37.1731
+          ],
+          "native_paleolatitude_degrees": -14.569120862066224,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -36.6947,
+            -18.1564
+          ],
+          "native_paleolatitude_degrees": -22.081915599373485,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            23.1797,
+            36.8613
+          ],
+          "native_paleolatitude_degrees": -52.60127953336722,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            109.6886,
+            46.3945
+          ],
+          "native_paleolatitude_degrees": -7.091423953641738,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            127.0457,
+            12.9495
+          ],
+          "native_paleolatitude_degrees": 6.8656394178104705,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            6.0637,
+            -31.4632
+          ],
+          "native_paleolatitude_degrees": -51.22553990739773,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -25.0129,
+            4.9429
+          ],
+          "native_paleolatitude_degrees": -34.83810703102785,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            20.393,
+            -4.6999
+          ],
+          "native_paleolatitude_degrees": -79.31468203779404,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            95.0097,
+            -57.566
+          ],
+          "native_paleolatitude_degrees": -13.095781741359113,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            35.98,
+            -64.8122
+          ],
+          "native_paleolatitude_degrees": -25.041254093171855,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 200,
+      "cache_file": "paleolocation-responses/MULLER2022-200Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -33.1236,
+            28.1776
+          ],
+          "native_paleolatitude_degrees": -23.483939639240226,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -35.5171,
+            -16.7438
+          ],
+          "native_paleolatitude_degrees": -23.381480054778773,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            25.797,
+            34.3336
+          ],
+          "native_paleolatitude_degrees": -55.44144439200163,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            119.3854,
+            51.5193
+          ],
+          "native_paleolatitude_degrees": -0.3824309584375606,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            125.9186,
+            8.9874
+          ],
+          "native_paleolatitude_degrees": 5.845680904487685,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            5.9581,
+            -33.3385
+          ],
+          "native_paleolatitude_degrees": -49.72603269382436,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -22.0537,
+            5.373
+          ],
+          "native_paleolatitude_degrees": -37.75025522954254,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            22.5596,
+            -7.621
+          ],
+          "native_paleolatitude_degrees": -79.3645890518942,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            90.5564,
+            -60.5651
+          ],
+          "native_paleolatitude_degrees": -13.97938055815145,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            29.5606,
+            -62.8177
+          ],
+          "native_paleolatitude_degrees": -27.181434757749678,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 250,
+      "cache_file": "paleolocation-responses/MULLER2022-250Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -31.963,
+            19.6649
+          ],
+          "native_paleolatitude_degrees": -26.27163696495825,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -33.2855,
+            -25.0853
+          ],
+          "native_paleolatitude_degrees": -24.02548238199278,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            22.5327,
+            30.956
+          ],
+          "native_paleolatitude_degrees": -58.24319786996437,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            111.1271,
+            39.552
+          ],
+          "native_paleolatitude_degrees": -6.830276582992538,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            106.7857,
+            -36.3962
+          ],
+          "native_paleolatitude_degrees": -10.602997219262761,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": true
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            12.4511,
+            -39.2671
+          ],
+          "native_paleolatitude_degrees": -47.57595577820655,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -19.9383,
+            -2.7016
+          ],
+          "native_paleolatitude_degrees": -40.00816945960652,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            25.9621,
+            -11.8154
+          ],
+          "native_paleolatitude_degrees": -77.52296278611117,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            102.5533,
+            -54.9389
+          ],
+          "native_paleolatitude_degrees": -9.91753695287779,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            48.257,
+            -65.0725
+          ],
+          "native_paleolatitude_degrees": -23.594097019050057,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 300,
+      "cache_file": "paleolocation-responses/MULLER2022-300Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -31.0388,
+            19.5106
+          ],
+          "native_paleolatitude_degrees": -27.155907822667213,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -32.5885,
+            -25.2327
+          ],
+          "native_paleolatitude_degrees": -24.610694791261526,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            23.3795,
+            30.6442
+          ],
+          "native_paleolatitude_degrees": -58.716886453830064,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            123.3408,
+            33.2389
+          ],
+          "native_paleolatitude_degrees": 2.7937434729330795,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            13.2062,
+            -39.5683
+          ],
+          "native_paleolatitude_degrees": -47.56038626209126,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            -19.1228,
+            -2.9092
+          ],
+          "native_paleolatitude_degrees": -40.81331860616375,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            26.7861,
+            -12.1287
+          ],
+          "native_paleolatitude_degrees": -77.45887820602904,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            103.8109,
+            -55.0245
+          ],
+          "native_paleolatitude_degrees": -9.19646377081159,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            49.3137,
+            -65.3677
+          ],
+          "native_paleolatitude_degrees": -23.162295001270163,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 450,
+      "cache_file": "paleolocation-responses/MULLER2022-450Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -65.7733,
+            -7.6257
+          ],
+          "native_paleolatitude_degrees": 5.72207041224259,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -8.2857,
+            -47.2827
+          ],
+          "native_paleolatitude_degrees": -32.17335637348972,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            -17.0541,
+            39.7361
+          ],
+          "native_paleolatitude_degrees": -31.595793792307752,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            99.9629,
+            13.5587
+          ],
+          "native_paleolatitude_degrees": -19.455799505500973,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            52.3395,
+            -45.5974
+          ],
+          "native_paleolatitude_degrees": -40.32948155033235,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            1.4609,
+            -22.685
+          ],
+          "native_paleolatitude_degrees": -54.147785004512414,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            50.2054,
+            -15.6972
+          ],
+          "native_paleolatitude_degrees": -64.61673830378977,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            129.3924,
+            -32.6331
+          ],
+          "native_paleolatitude_degrees": 7.899348502151502,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            102.8251,
+            -53.08
+          ],
+          "native_paleolatitude_degrees": -10.217202447544578,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 600,
+      "cache_file": "paleolocation-responses/MULLER2022-600Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -76.2887,
+            -46.7493
+          ],
+          "native_paleolatitude_degrees": 11.080083275554445,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -26.6893,
+            -52.3114
+          ],
+          "native_paleolatitude_degrees": -19.618229477473818,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            -24.9281,
+            -24.7865
+          ],
+          "native_paleolatitude_degrees": -31.444290411990984,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            139.7199,
+            -15.2439
+          ],
+          "native_paleolatitude_degrees": 18.998908232951262,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            64.0314,
+            -14.8694
+          ],
+          "native_paleolatitude_degrees": -53.22373973470425,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": [
+            25.1858,
+            12.0127
+          ],
+          "native_paleolatitude_degrees": -77.07170820932049,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": [
+            72.793,
+            13.8026
+          ],
+          "native_paleolatitude_degrees": -45.44872338520958,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": true
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            125.3901,
+            -44.8563
+          ],
+          "native_paleolatitude_degrees": 3.8181151381775997,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            100.2834,
+            -36.062
+          ],
+          "native_paleolatitude_degrees": -15.826289074555179,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    },
+    {
+      "model": "MULLER2022",
+      "age_Ma": 1000,
+      "cache_file": "paleolocation-responses/MULLER2022-1000Ma.json",
+      "samples": [
+        {
+          "sample": "C1_interior",
+          "present_reference_lonlat": [
+            -100,
+            50
+          ],
+          "paleo_reference_lonlat": [
+            -68.1109,
+            -61.1182
+          ],
+          "native_paleolatitude_degrees": 3.9075562188757273,
+          "properties": {
+            "valid_time": [
+              3900.0,
+              "distant future"
+            ],
+            "pid": 101
+          },
+          "usable": true
+        },
+        {
+          "sample": "C2_interior",
+          "present_reference_lonlat": [
+            -60,
+            -10
+          ],
+          "paleo_reference_lonlat": [
+            -12.6883,
+            -50.1516
+          ],
+          "native_paleolatitude_degrees": -28.098674645000614,
+          "properties": {
+            "valid_time": [
+              1780.0,
+              0.0
+            ],
+            "pid": 201
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_west",
+          "present_reference_lonlat": [
+            25,
+            55
+          ],
+          "paleo_reference_lonlat": [
+            -26.4055,
+            -24.7239
+          ],
+          "native_paleolatitude_degrees": -30.171608603337475,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 302
+          },
+          "usable": true
+        },
+        {
+          "sample": "C3_east",
+          "present_reference_lonlat": [
+            110,
+            35
+          ],
+          "paleo_reference_lonlat": [
+            -121.694,
+            -34.391
+          ],
+          "native_paleolatitude_degrees": 46.596350576805946,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              0.0
+            ],
+            "pid": 601
+          },
+          "usable": true
+        },
+        {
+          "sample": "shelf_cradle",
+          "present_reference_lonlat": [
+            110,
+            0
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              250.0,
+              "distant future"
+            ],
+            "pid": 614
+          },
+          "usable": false
+        },
+        {
+          "sample": "C4_core",
+          "present_reference_lonlat": [
+            30,
+            0
+          ],
+          "paleo_reference_lonlat": [
+            51.2926,
+            -16.0526
+          ],
+          "native_paleolatitude_degrees": -63.56088804293954,
+          "properties": {
+            "valid_time": [
+              1375.0,
+              0.0
+            ],
+            "pid": 712
+          },
+          "usable": true
+        },
+        {
+          "sample": "ancestral_refuge",
+          "present_reference_lonlat": [
+            -16,
+            15
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 714
+          },
+          "usable": false
+        },
+        {
+          "sample": "ancestral_exit",
+          "present_reference_lonlat": [
+            32,
+            30
+          ],
+          "paleo_reference_lonlat": null,
+          "native_paleolatitude_degrees": null,
+          "properties": {
+            "valid_time": [
+              600.0,
+              "distant future"
+            ],
+            "pid": 715
+          },
+          "usable": false
+        },
+        {
+          "sample": "C5_interior",
+          "present_reference_lonlat": [
+            130,
+            -25
+          ],
+          "paleo_reference_lonlat": [
+            -144.2814,
+            -57.5108
+          ],
+          "native_paleolatitude_degrees": 32.307800507410555,
+          "properties": {
+            "valid_time": [
+              3600.0,
+              0.0
+            ],
+            "pid": 8011
+          },
+          "usable": true
+        },
+        {
+          "sample": "C6_interior",
+          "present_reference_lonlat": [
+            80,
+            -75
+          ],
+          "paleo_reference_lonlat": [
+            114.757,
+            26.2739
+          ],
+          "native_paleolatitude_degrees": -4.700047037419149,
+          "properties": {
+            "valid_time": [
+              2600.0,
+              "distant future"
+            ],
+            "pid": 8031
+          },
+          "usable": true
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Model reference-frame choice materially affects transformed palaeolatitudes.",
+    "Static plate-assigned point reconstructions do not recover elevations, shorelines, complete continental occupancy or climate.",
+    "Candidate margin changes have no assigned block motions; these probes do not validate their histories.",
+    "Agreement at sampled epochs does not establish continuous conditions between them."
+  ]
+}

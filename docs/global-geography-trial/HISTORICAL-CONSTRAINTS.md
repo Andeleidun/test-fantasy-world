@@ -2,6 +2,10 @@
 
 Status: authorial requirements and reconstruction plan. **No row below is certified by the modern outline.** The user's historical-continuity condition applies to every continent, their approaches, ecological provinces and surrounding islands. A candidate that breaks a required historical relationship is rejected unless a viable substitution is demonstrated for that period.
 
+## Validation follow-through
+
+The [geological validation review](GEOLOGICAL-VALIDATION.md) has now retrieved source documents 20, 24 and the relevant corrections in 38, run inherited-paleolatitude probes and checked candidate geometry and timescales. Its requirement-by-requirement dispositions supersede any assumption that this ledger itself certifies a route. The older project does contain a qualitative geological history; it does not contain an already validated reconstruction of these new outlines.
+
 ## Source precedence and scope
 
 Read [Erde reference](../../content/erde-reference.md), especially “Macroclade divergence,” “Eastern erectus branching and American radiation,” the later principal-founding decisions, and their explicit supersessions. Read the [public reference](../../content/public/erde-reference.md) for the current presentation. Earth names here identify authorial source regions only; these are fictional Erde histories, not claims about Earth's archaeology.

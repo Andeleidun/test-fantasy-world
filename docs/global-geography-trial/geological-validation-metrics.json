@@ -1,0 +1,363 @@
+{
+  "status": "necessary conditions only; historical validity not established",
+  "candidate_sha256": "fa3396f5db4ba78508221efe2c93ac523a9da11c5e9491c0c9ec1c30e97e8918",
+  "reference_sha256": "1c2c62390063dccd036dc8a36e1cd81317288e68f03a62a1e6c79e4e8562342a",
+  "candidate_valid": true,
+  "world_mask_area_km2": {
+    "reference": 147255224.83640793,
+    "candidate": 153519377.9045776,
+    "new_land_locations": 37558181.46703923,
+    "former_land_locations": 31289754.755609307,
+    "retained_land_locations": 115965637.07115191,
+    "gross_location_change": 68847936.22264853,
+    "area_partition_residual_km2": 4273.6432602368295
+  },
+  "gross_change_percent_of_reference_land_area": 46.754155106641974,
+  "southern_latitude_cap_land": {
+    "50": {
+      "reference_land_km2": 31376802.721261796,
+      "candidate_land_km2": 30309448.57253261
+    },
+    "60": {
+      "reference_land_km2": 23122317.1124047,
+      "candidate_land_km2": 21386999.309169747
+    },
+    "70": {
+      "reference_land_km2": 13312575.007571828,
+      "candidate_land_km2": 12296418.754689343
+    }
+  },
+  "C2_finite_offset_scale_test": {
+    "basin": {
+      "offset_km": 589.3880006025313,
+      "mean_rate_cm_year_if_20_Myr": 2.9469400030126565,
+      "mean_rate_cm_year_if_40_Myr": 1.4734700015063282,
+      "mean_rate_cm_year_if_650_kyr": 90.67507701577405
+    },
+    "old_hinge_south": {
+      "offset_km": 488.5313625671867,
+      "mean_rate_cm_year_if_20_Myr": 2.4426568128359336,
+      "mean_rate_cm_year_if_40_Myr": 1.2213284064179668,
+      "mean_rate_cm_year_if_650_kyr": 75.15867116418256
+    },
+    "southern_body": {
+      "offset_km": 547.9969036174585,
+      "mean_rate_cm_year_if_20_Myr": 2.739984518087293,
+      "mean_rate_cm_year_if_40_Myr": 1.3699922590436464,
+      "mean_rate_cm_year_if_650_kyr": 84.30721594114746
+    }
+  },
+  "unremapped_atlas_relief_vertices": {
+    "paired_southern_spine": [
+      {
+        "reference_coordinates": [
+          -75,
+          5
+        ],
+        "native_coordinates": [
+          -84.82456077283008,
+          14.941587611545897
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -76,
+          -10
+        ],
+        "native_coordinates": [
+          -100.39437466276236,
+          15.75055692159769
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -69,
+          -30
+        ],
+        "native_coordinates": [
+          -120.30829356733594,
+          7.786158320147026
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -72,
+          -50
+        ],
+        "native_coordinates": [
+          -140.62210710264438,
+          7.680161874371739
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": false
+      }
+    ],
+    "paired_northern_cordillera": [
+      {
+        "reference_coordinates": [
+          -145,
+          61
+        ],
+        "native_coordinates": [
+          -2.765878351003005,
+          28.879215731248557
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -124,
+          48
+        ],
+        "native_coordinates": [
+          -21.539702479112474,
+          36.97099174320105
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -112,
+          35
+        ],
+        "native_coordinates": [
+          -41.32373501486804,
+          40.20322060024057
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          -103,
+          22
+        ],
+        "native_coordinates": [
+          -61.082152347957916,
+          39.22281760875885
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      }
+    ],
+    "continental_collision_belt": [
+      {
+        "reference_coordinates": [
+          0,
+          43
+        ],
+        "native_coordinates": [
+          -28.19951313269831,
+          -39.299260493352925
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          25,
+          39
+        ],
+        "native_coordinates": [
+          -6.143004778091472,
+          -50.73153388794045
+        ],
+        "reference_on_land": false,
+        "candidate_on_land_without_remapping": false
+      },
+      {
+        "reference_coordinates": [
+          45,
+          35
+        ],
+        "native_coordinates": [
+          20.285920706660676,
+          -52.30155366912351
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          70,
+          34
+        ],
+        "native_coordinates": [
+          43.620566102458525,
+          -39.42589039847497
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          88,
+          29
+        ],
+        "native_coordinates": [
+          56.83019452498477,
+          -27.611754336345097
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          100,
+          27
+        ],
+        "native_coordinates": [
+          61.532314711366986,
+          -17.74265346140633
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      }
+    ],
+    "polar_continent_highlands": [
+      {
+        "reference_coordinates": [
+          35,
+          12
+        ],
+        "native_coordinates": [
+          22.29537197465422,
+          -77.0141152976222
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": false
+      },
+      {
+        "reference_coordinates": [
+          37,
+          0
+        ],
+        "native_coordinates": [
+          90.0,
+          -82.99999999999997
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          33,
+          -15
+        ],
+        "native_coordinates": [
+          168.94810433361,
+          -74.70969586765891
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      }
+    ],
+    "island_highlands": [
+      {
+        "reference_coordinates": [
+          132,
+          -4
+        ],
+        "native_coordinates": [
+          94.08906254782994,
+          11.970335188368177
+        ],
+        "reference_on_land": false,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          141,
+          -5
+        ],
+        "native_coordinates": [
+          95.35372605719334,
+          20.916330413500024
+        ],
+        "reference_on_land": true,
+        "candidate_on_land_without_remapping": true
+      },
+      {
+        "reference_coordinates": [
+          149,
+          -7
+        ],
+        "native_coordinates": [
+          97.99131303536633,
+          28.76353878570334
+        ],
+        "reference_on_land": false,
+        "candidate_on_land_without_remapping": false
+      }
+    ]
+  },
+  "ice_volume_sensitivity_not_prediction": [
+    {
+      "sea_level_fall_m": 50,
+      "water_removed_km3_fixed_ocean_area": 17827325.15341471,
+      "ice_volume_change_km3_density_917": 19440921.65039772,
+      "mean_ice_thickness_change_km_over_candidate_land_south_60": 0.9090065122909674
+    },
+    {
+      "sea_level_fall_m": 100,
+      "water_removed_km3_fixed_ocean_area": 35654650.30682942,
+      "ice_volume_change_km3_density_917": 38881843.30079544,
+      "mean_ice_thickness_change_km_over_candidate_land_south_60": 1.8180130245819348
+    },
+    {
+      "sea_level_fall_m": 150,
+      "water_removed_km3_fixed_ocean_area": 53481975.460244134,
+      "ice_volume_change_km3_density_917": 58322764.95119317,
+      "mean_ice_thickness_change_km_over_candidate_land_south_60": 2.7270195368729024
+    }
+  ],
+  "vertical_motion_sensitivity_m": [
+    {
+      "rate_mm_year": 0.05,
+      "duration_Myr": 0.65,
+      "vertical_change_m": 32.5
+    },
+    {
+      "rate_mm_year": 0.05,
+      "duration_Myr": 1.9,
+      "vertical_change_m": 95.0
+    },
+    {
+      "rate_mm_year": 0.1,
+      "duration_Myr": 0.65,
+      "vertical_change_m": 65.0
+    },
+    {
+      "rate_mm_year": 0.1,
+      "duration_Myr": 1.9,
+      "vertical_change_m": 190.0
+    },
+    {
+      "rate_mm_year": 0.5,
+      "duration_Myr": 0.65,
+      "vertical_change_m": 325.0
+    },
+    {
+      "rate_mm_year": 0.5,
+      "duration_Myr": 1.9,
+      "vertical_change_m": 950.0
+    }
+  ],
+  "limitations": [
+    "Land-mask changes are locations, not volumes of continental crust created or destroyed.",
+    "Planar clipping inserts vertices on longitude/latitude segments; subsequent geodesic area accounting has a small nonzero partition residual. Round gross areas to 0.1 million km2.",
+    "No time-indexed plate boundaries, block rotations, palaeoelevations or sea levels are supplied.",
+    "Relief samples check reuse of an old overlay only; they do not prove loss of a physical mountain range.",
+    "Latitude caps measure possible land substrate, not ice-covered area or habitable area.",
+    "Ice budgets neglect changing ocean area, isostasy, geoid, seawater density, thermal expansion and floating-ice effects.",
+    "Vertical-motion rates and sea-level scenarios are sensitivity inputs, not selected Erde parameters."
+  ]
+}
