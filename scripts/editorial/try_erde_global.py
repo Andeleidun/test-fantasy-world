@@ -3,6 +3,7 @@ not simulated plate histories. Keep original and earlier candidate maps separate
 """
 from pathlib import Path
 import json
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
@@ -13,7 +14,7 @@ from shapely.ops import unary_union, transform
 from pyproj import Geod
 from erde_geometry import FRAME,GEO,GLOBE,PROJECTION,C,tr
 
-ROOT=Path(__file__).resolve().parents[2];OUT=ROOT/'docs/global-geography-trial';OUT.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parents[2];OUT=Path(os.environ.get('ERDE_TRIAL_OUTPUT', ROOT/'docs/global-geography-trial'));OUT.mkdir(exist_ok=True)
 R=6371008.8;GEOD=Geod(a=R,b=R)
 def parts(g):
     if g.is_empty:return []
@@ -117,7 +118,9 @@ for c in native:
 (OUT/'design-controls.json').write_text(json.dumps({'status':'authorial design controls, not reconstructed plate boundaries','reference_frame_vertices':controls,'sixth_continent_polar_radius_degrees':'17 + 5 cos(2λ+0.4) + 3 sin(3λ−1) + 1.3 cos(7λ)','paired_offset':{'pole_native':[-100,60],'angle_degrees':-6},'new_outline_sizing':sizing,'anchors_native':anchors,'historical_control_sectors':[{'role':label,'reference_center':pos,'radius_km':radius} for label,pos,radius in guard_specs]},indent=2)+'\n')
 features=[{'type':'Feature','properties':{'group':'worldwide candidate','status':'authorial; historical and ecological validity conditional'},'geometry':mapping(land)}]
 (OUT/'candidate-geography.geojson').write_text(json.dumps({'type':'FeatureCollection','features':features},separators=(',',':'))+'\n')
-if __import__('os').environ.get('ERDE_GEOMETRY_ONLY'):
+if os.environ.get('ERDE_EXPORT_COMPONENTS'):
+    (OUT/'components.geojson').write_text(json.dumps({'type':'FeatureCollection','features':[{'type':'Feature','properties':{'group':c,'kind':'body'},'geometry':mapping(g)} for c,g in native.items()]+[{'type':'Feature','properties':{'group':c,'kind':'reference'},'geometry':mapping(g)} for c,g in old.items()]+[{'type':'Feature','properties':{'group':'islands','kind':'islands'},'geometry':mapping(make_valid(unary_union([*islands,guardland])))}]},separators=(',',':'))+'\n')
+if os.environ.get('ERDE_GEOMETRY_ONLY'):
     print(json.dumps(metrics,indent=2));raise SystemExit
 plt.rcParams.update({'svg.hashsalt':'erde-worldwide-v1','font.size':11})
 def save(f,name):

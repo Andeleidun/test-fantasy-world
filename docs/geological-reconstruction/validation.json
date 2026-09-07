@@ -1,0 +1,249 @@
+{
+  "status": "bounded geometric and parametric validation; full historical acceptance remains conditional",
+  "chosen_margin_search_radius_km": 250,
+  "variants": [
+    {
+      "margin_search_radius_km": 250,
+      "checks": {
+        "valid_geometry": true,
+        "paired_interiors_connected": true,
+        "western_refuge_route_on_land": true,
+        "mainland_shelf_approach_connected": true,
+        "all_core_centers_in_basement_domain": true
+      },
+      "target_footprint_IoU": {
+        "C1": 0.9258510702439743,
+        "C2": 0.7718178975984964,
+        "C3": 0.9688286075063276,
+        "C4": 0.8441974273124391,
+        "C5": 0.8167610309567598,
+        "C6": 0.8490028427649993
+      },
+      "minimum_target_IoU": 0.7718178975984964,
+      "geometry_pass": true,
+      "note": "Radius is a design constraint, not a geophysical measurement."
+    },
+    {
+      "margin_search_radius_km": 450,
+      "checks": {
+        "valid_geometry": true,
+        "paired_interiors_connected": true,
+        "western_refuge_route_on_land": true,
+        "mainland_shelf_approach_connected": true,
+        "all_core_centers_in_basement_domain": true
+      },
+      "target_footprint_IoU": {
+        "C1": 0.9751262199776333,
+        "C2": 0.8150312769025733,
+        "C3": 0.9915239915596408,
+        "C4": 0.8869382846315066,
+        "C5": 0.8958432214562634,
+        "C6": 0.934607973630351
+      },
+      "minimum_target_IoU": 0.8150312769025733,
+      "geometry_pass": true,
+      "note": "Radius is a design constraint, not a geophysical measurement."
+    },
+    {
+      "margin_search_radius_km": 700,
+      "checks": {
+        "valid_geometry": true,
+        "paired_interiors_connected": true,
+        "western_refuge_route_on_land": true,
+        "mainland_shelf_approach_connected": true,
+        "all_core_centers_in_basement_domain": true
+      },
+      "target_footprint_IoU": {
+        "C1": 0.990241433075466,
+        "C2": 0.8601810196746805,
+        "C3": 0.9952173406603142,
+        "C4": 0.9251800314822881,
+        "C5": 0.9718336464560741,
+        "C6": 0.9907089875028506
+      },
+      "minimum_target_IoU": 0.8601810196746805,
+      "geometry_pass": true,
+      "note": "Radius is a design constraint, not a geophysical measurement."
+    }
+  ],
+  "arc_status": "passes present full-mask no-land-shortcut check; voyage and dated widths remain conditional",
+  "full_mask_shelf_to_highland_land_shortcut": false,
+  "material_block_checks": {
+    "maximum_fractional_area_drift": 9.005791694605136e-07,
+    "dated_nucleus_overlap_checks": [
+      {
+        "age_Ma": 0.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 2.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 5.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 23.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 50.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 66.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 100.0,
+        "overlap_km2": 0.0
+      },
+      {
+        "age_Ma": 150.0,
+        "overlap_km2": 0.0
+      }
+    ],
+    "scope": "Only six 200-km-radius inherited parcels; external margins and composite-continent block circuits remain unvalidated"
+  },
+  "relief_paths": [
+    {
+      "name": "revised highland spine",
+      "whole_polyline_on_land": true,
+      "length_km": 4297.8754751823635,
+      "maximum_absolute_native_latitude": 14.941587611545897,
+      "elevation_m": [
+        2200,
+        4000,
+        4300,
+        3500,
+        2400
+      ],
+      "established_by_Ma": 5,
+      "elevation_status": "authored profile, not terrain simulation"
+    },
+    {
+      "name": "highland to basin headwaters",
+      "whole_polyline_on_land": true,
+      "length_km": 2832.977392721714,
+      "maximum_absolute_native_latitude": 12.901421715734475,
+      "elevation_m": [
+        4000,
+        1600,
+        700,
+        250,
+        90,
+        20
+      ],
+      "established_by_Ma": 3,
+      "elevation_status": "authored profile, not terrain simulation"
+    },
+    {
+      "name": "western ancestral route",
+      "whole_polyline_on_land": true,
+      "length_km": 5297.115367387957,
+      "maximum_absolute_native_latitude": 47.042113484239216,
+      "elevation_m": [
+        120,
+        100,
+        150,
+        180,
+        250,
+        240,
+        300,
+        400,
+        350
+      ],
+      "established_by_Ma": 6,
+      "elevation_status": "authored profile, not terrain simulation"
+    }
+  ],
+  "crossing_audit": [
+    {
+      "valid_endpoints": true,
+      "lowstand": false,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 345.7286843618863,
+      "land_shortcut": false,
+      "component_hops": 5,
+      "gap_lengths_projected_km": [
+        20.01785057759511,
+        20.003100409722137,
+        20.008508016978702,
+        150.86754836088707,
+        345.7286843618863
+      ],
+      "island_area_km2": [
+        797490.7679404871,
+        91351.759272452,
+        104134.30457419205,
+        1123549.3241568194,
+        33133.72199973675,
+        5229032.019522728
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    },
+    {
+      "valid_endpoints": true,
+      "lowstand": true,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 20.00195462910653,
+      "land_shortcut": false,
+      "component_hops": 1,
+      "gap_lengths_projected_km": [
+        20.00195462910653
+      ],
+      "island_area_km2": [
+        1233954.8254252379,
+        7588242.536824086
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    }
+  ],
+  "sill_and_emergence_checks_pass": true,
+  "rotation_check_max_error_degrees": 4.3184388062458834e-05,
+  "public_atlas_changed": false,
+  "unresolved": [
+    "Ancient marginal crust and a globally closed plate-boundary reconstruction",
+    "Dated full-route terrain, rainfall, ice margins and freshwater",
+    "Voyage success, repeated founding and restricted gene flow",
+    "Wildlife-specific dispersal and vicariance",
+    "Timing and frequency of actual sea-level openings"
+  ],
+  "global_land_accounting": {
+    "reference_km2": 147255224.83640793,
+    "revised_km2": 138420730.79784903,
+    "new_emergent_locations_km2": 21906584.906189803,
+    "drowned_reference_locations_km2": 30739692.570873167
+  },
+  "all_historical_requirements_pass": false,
+  "checks_after_all_geometry_edits": {
+    "valid_geometry": true,
+    "western_refuge_route_on_land": true,
+    "all_relief_paths_on_land": true,
+    "required_island_sites_separate_at_high_and_lowstand": true,
+    "residual_lowstand_water_gap_between_0_and_30_km": true
+  }
+}
