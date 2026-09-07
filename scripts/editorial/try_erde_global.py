@@ -81,9 +81,13 @@ for c,(center,factor) in sizing.items():
 terrane_sources={
  'JX1_ISTHMIAN_TERRANE':outline([(-99,19),(-94,23),(-87,22),(-81,18),(-76,13),(-71,10),(-72,5),(-77,4),(-82,7),(-86,11),(-92,13),(-98,15)],1),
  'C4_MARGINAL_CORRIDOR':outline([(-24,14),(-26,20),(-23,28),(-18,35),(-12,40),(-6,43),(0,44),(8,43),(5,38),(-2,35),(-8,31),(-13,27),(-16,21),(-17,16)],1),
- 'C5_SHELF_HEAD':outline([(105,3),(110,4),(113,2),(113,-1),(111,-4),(107,-2)],1),
- 'EASTERN_STEPPING_TERRANE_A':outline([(113.21,-1.33),(113.33,-1.21),(113.45,-1.33),(113.33,-1.45)],1),
- 'EASTERN_STEPPING_TERRANE_B':outline([(113.54,-1.66),(113.66,-1.54),(113.78,-1.66),(113.66,-1.78)],1)}
+ # The shelf head's western root intentionally overlaps the resized C3 margin.
+ # Its eastern nose is unchanged so the deep-water stepping route remains intact.
+ 'C5_SHELF_HEAD':outline([(98,7),(104,6),(109,4),(113,2),(113,-1),(111,-4),(106,-3),(101,0)],1),
+ # Small old terrane islands shorten repeated founder crossings without creating
+ # a lowstand land bridge. B is slightly larger to support a stronger catchment.
+ 'EASTERN_STEPPING_TERRANE_A':outline([(113.19,-1.33),(113.33,-1.19),(113.47,-1.33),(113.33,-1.47)],1),
+ 'EASTERN_STEPPING_TERRANE_B':outline([(113.50,-1.66),(113.66,-1.50),(113.82,-1.66),(113.66,-1.82)],1)}
 terranes={name:make_valid(FRAME.project_geometry(g,GEO)) for name,g in terrane_sources.items()}
 land=make_valid(unary_union([*native.values(),*islands,*terranes.values()]))
 
