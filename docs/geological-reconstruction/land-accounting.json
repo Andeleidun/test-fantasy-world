@@ -1,0 +1,56 @@
+[
+  {
+    "group": "C1",
+    "emergent_land_km2": 23362531.485589705,
+    "retained_land_km2": 19064156.732334346,
+    "new_emergent_locations_km2": 4298507.18669835,
+    "drowned_reference_locations_km2": 5070121.1989666,
+    "target_IoU": 0.9258510702439743,
+    "original_reference_IoU": 0.6704990964907562
+  },
+  {
+    "group": "C2",
+    "emergent_land_km2": 14830042.965308795,
+    "retained_land_km2": 13253858.69726729,
+    "new_emergent_locations_km2": 1576059.628065277,
+    "drowned_reference_locations_km2": 4657856.791995141,
+    "target_IoU": 0.7718178975984964,
+    "original_reference_IoU": 0.6801114348596171
+  },
+  {
+    "group": "C3",
+    "emergent_land_km2": 52667559.58774918,
+    "retained_land_km2": 44964910.645263344,
+    "new_emergent_locations_km2": 7699617.128517316,
+    "drowned_reference_locations_km2": 7974185.576088093,
+    "target_IoU": 0.9688286075063276,
+    "original_reference_IoU": 0.7415215158974126
+  },
+  {
+    "group": "C4",
+    "emergent_land_km2": 25761198.731147625,
+    "retained_land_km2": 23526536.913768563,
+    "new_emergent_locations_km2": 2239678.015856181,
+    "drowned_reference_locations_km2": 6411568.248663066,
+    "target_IoU": 0.8441974273124391,
+    "original_reference_IoU": 0.7311422537536163
+  },
+  {
+    "group": "C5",
+    "emergent_land_km2": 6458044.168497124,
+    "retained_land_km2": 5437102.6299178945,
+    "new_emergent_locations_km2": 1020968.5232905103,
+    "drowned_reference_locations_km2": 2282375.5282231574,
+    "target_IoU": 0.8167610309567598,
+    "original_reference_IoU": 0.6220623302317742
+  },
+  {
+    "group": "C6",
+    "emergent_land_km2": 10020841.94590738,
+    "retained_land_km2": 7810529.651733373,
+    "new_emergent_locations_km2": 2210310.766688046,
+    "drowned_reference_locations_km2": 4425735.842204926,
+    "target_IoU": 0.8490028427649993,
+    "original_reference_IoU": 0.5406491829500605
+  }
+]

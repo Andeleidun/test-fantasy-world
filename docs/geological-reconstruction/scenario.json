@@ -1,0 +1,297 @@
+{
+  "status": "authored feasibility scenario; parameters are not observations or climate predictions",
+  "sea_level_envelope_m": [
+    -125,
+    15
+  ],
+  "local_sea_level_uncertainty_m": 15,
+  "continental_histories": {
+    "C1": {
+      "parent_nucleus_pid": 101,
+      "older_than_150Ma": "Inherited nucleus and continental-margin basement",
+      "150_to_66Ma": "Divergent rift margins; newly emergent lobes require marginal continental basement",
+      "66_to_5Ma": "Accretion and foreland subsidence build a curved convergent margin",
+      "by_2Ma": "Interior drainage, western mountain rim and approach plains precede early settlement",
+      "constraint": "Do not infer terrestrial access from a plate boundary or nucleus point"
+    },
+    "C2": {
+      "parent_nucleus_pid": 201,
+      "older_than_150Ma": "Inherited shield and marginal basement before paired-ocean opening",
+      "150_to_66Ma": "Asymmetric rifting and submerged outer basins replace the long taper",
+      "66_to_5Ma": "Oblique active-margin highlands and east-draining foreland develop",
+      "by_2Ma": "Hinge and highland-headwater continuity required; no extra rigid six-degree offset",
+      "constraint": "New western mountain axis must follow the shortened body, not the old atlas axis"
+    },
+    "C3": {
+      "parent_nucleus_pid": 601,
+      "additional_nuclei": [
+        302,
+        614
+      ],
+      "older_than_150Ma": "Composite continent; constituent blocks retain separate collision ancestries",
+      "150_to_66Ma": "Rift embayments and terrane docking modify external peninsulas",
+      "66_to_5Ma": "Inherited southern collisions and later interior uplift establish west/east habitat filters",
+      "by_2Ma": "Mainland route to shelf cradle and external gateway exists",
+      "constraint": "The eastern core rotation is not a rotation of the whole composite continent"
+    },
+    "C4": {
+      "parent_nucleus_pid": 712,
+      "additional_nuclei": [
+        714,
+        715
+      ],
+      "older_than_150Ma": "Inherited polar-continent nuclei; earlier polar occupancy varies with frame",
+      "150_to_66Ma": "Peripheral stretching and subsidence create embayments",
+      "66_to_5Ma": "High-latitude core; progressive glaciation conditional on forcing; western arc accretes 15\u20138 Ma",
+      "by_2Ma": "Western neck emerged by 6 Ma; low-relief coastal plain and peripheral refuges selected",
+      "constraint": "Closing the western marine gateway changes circulation; retain other marine outlets"
+    },
+    "C5": {
+      "parent_nucleus_pid": 8011,
+      "older_than_150Ma": "Inherited continental basement and breakup neighborhood",
+      "150_to_66Ma": "Asymmetric extension changes outline and leaves submerged marginal crust",
+      "66_to_5Ma": "Outer-margin subsidence; highland collision and arc accretion",
+      "by_2Ma": "Shelf-arc fragments emerge by 3\u20135 Ma and foothill relief by 3 Ma",
+      "constraint": "Shortened crossings remain water barriers; arrival is not proof of viable colonization"
+    },
+    "C6": {
+      "parent_nucleus_pid": 8031,
+      "older_than_150Ma": "Inherited continental core, not a permanently equatorial refuge",
+      "150_to_66Ma": "Inherited breakup order with alternative marginal subsidence",
+      "66_to_5Ma": "Increasing low-latitude exposure and island separation; forest expansion conditional on rainfall",
+      "by_2Ma": "Distinct watershed and endemic-island histories remain required",
+      "constraint": "No specific fauna assigned an invented Earth-like fossil history"
+    }
+  },
+  "gateways": [
+    {
+      "id": "external paired-continent shelf",
+      "requirement": "cyclic_shelf",
+      "sill_history_Ma_m": [
+        [
+          0,
+          -60
+        ],
+        [
+          0.65,
+          -60
+        ],
+        [
+          2,
+          -55
+        ]
+      ],
+      "check_ages_Ma": [
+        0.65,
+        0.55,
+        0.45,
+        0.035,
+        0.0275,
+        0.02
+      ],
+      "substrate_present_by_Ma": 20,
+      "vertical_uncertainty_m": 25,
+      "notes": "Possible exposure at deep lowstands; no actual opening timetable or founder rate inferred"
+    },
+    {
+      "id": "western ancestral neck",
+      "requirement": "permanent_land",
+      "sill_history_Ma_m": [
+        [
+          0,
+          240
+        ],
+        [
+          1,
+          260
+        ],
+        [
+          2,
+          300
+        ]
+      ],
+      "check_ages_Ma": [
+        2,
+        1.9,
+        1.7,
+        0.8,
+        0.3
+      ],
+      "substrate_present_by_Ma": 6,
+      "vertical_uncertainty_m": 60,
+      "notes": "Forearc accretion 15\u20138 Ma and emergence by 6 Ma; a new western terrestrial substitute, not use of the old cold exit"
+    },
+    {
+      "id": "shelf-cradle shallow platforms",
+      "requirement": "cyclic_shelf",
+      "sill_history_Ma_m": [
+        [
+          0,
+          -45
+        ],
+        [
+          1,
+          -40
+        ],
+        [
+          2,
+          -35
+        ]
+      ],
+      "check_ages_Ma": [
+        1.9,
+        1.7,
+        1.4,
+        1
+      ],
+      "substrate_present_by_Ma": 30,
+      "vertical_uncertainty_m": 20,
+      "notes": "Repeated relative sea-level changes allow connection and fragmentation; selected platform has older carbonate substrate"
+    },
+    {
+      "id": "shelf-arc deep channels",
+      "requirement": "persistent_water",
+      "sill_history_Ma_m": [
+        [
+          0,
+          -600
+        ],
+        [
+          1,
+          -650
+        ],
+        [
+          2,
+          -700
+        ]
+      ],
+      "check_ages_Ma": [
+        1.4,
+        1,
+        0.8,
+        0.6,
+        0.35,
+        0.15
+      ],
+      "substrate_present_by_Ma": 5,
+      "vertical_uncertainty_m": 100,
+      "notes": "Tectonic channels stay marine; widths require a mapped route, not an assumed universal safe distance"
+    },
+    {
+      "id": "paired internal hinge",
+      "requirement": "permanent_land",
+      "sill_history_Ma_m": [
+        [
+          0,
+          350
+        ],
+        [
+          1,
+          330
+        ],
+        [
+          2,
+          300
+        ]
+      ],
+      "check_ages_Ma": [
+        0.65,
+        0.45,
+        0.035,
+        0.005
+      ],
+      "substrate_present_by_Ma": 3.5,
+      "vertical_uncertainty_m": 70,
+      "notes": "Arc consolidation 12\u20135 Ma; broad valley passes exist by 3.5 Ma; volcanic activity does not eliminate all refuge nodes"
+    },
+    {
+      "id": "highland foothill access",
+      "requirement": "permanent_land",
+      "sill_history_Ma_m": [
+        [
+          0,
+          400
+        ],
+        [
+          1,
+          350
+        ],
+        [
+          2,
+          280
+        ]
+      ],
+      "check_ages_Ma": [
+        0.8,
+        0.65,
+        0.5
+      ],
+      "substrate_present_by_Ma": 3,
+      "vertical_uncertainty_m": 70,
+      "notes": "Foothills and older arc substrate predate occupation; this is a route low point, not peak mountain height"
+    },
+    {
+      "id": "Flores-like isolation",
+      "requirement": "persistent_water",
+      "sill_history_Ma_m": [
+        [
+          0,
+          -850
+        ],
+        [
+          1,
+          -800
+        ],
+        [
+          2,
+          -700
+        ]
+      ],
+      "check_ages_Ma": [
+        1.4,
+        1,
+        0.6,
+        0.15
+      ],
+      "substrate_present_by_Ma": 5,
+      "vertical_uncertainty_m": 120,
+      "notes": "Do not replace deep barrier with a shallow causeway when making H-E access easier"
+    },
+    {
+      "id": "Luzon-like isolation",
+      "requirement": "persistent_water",
+      "sill_history_Ma_m": [
+        [
+          0,
+          -1000
+        ],
+        [
+          1,
+          -950
+        ],
+        [
+          2,
+          -900
+        ]
+      ],
+      "check_ages_Ma": [
+        1,
+        0.8,
+        0.35,
+        0.15
+      ],
+      "substrate_present_by_Ma": 8,
+      "vertical_uncertainty_m": 120,
+      "notes": "Island age and terrain remain independent requirements"
+    }
+  ],
+  "ancestral_substitution": {
+    "old_route": "mandatory eastern exit near native 60S",
+    "replacement": "western forearc neck and coast from native roughly 42S to western continental core",
+    "formation": "accretion 15\u20138 Ma; continuous bedrock emerged by 6 Ma",
+    "required_by_Ma": 2.0,
+    "ecology": "maritime lowland shrub/woodland, riparian refuges and seasonal resources are required hypotheses",
+    "isolation": "ancestral dispersal allowed; later west/east population boundaries remain ecological and demographic, not universal water barriers",
+    "ocean_consequence": "western marine closure must be tested with retained eastern outlets; no assumption of unchanged Mediterranean-like circulation"
+  }
+}

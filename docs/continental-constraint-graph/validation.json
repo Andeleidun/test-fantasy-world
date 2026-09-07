@@ -1,0 +1,668 @@
+{
+  "schema_pass": true,
+  "errors": [],
+  "chronology": {
+    "feasible": true,
+    "derived_windows": {
+      "E_EXIT_READY": {
+        "youngest_Ma_BP": 1.7,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_CRADLE_READY": {
+        "youngest_Ma_BP": 1.7,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_SOURCE_ARRIVAL": {
+        "youngest_Ma_BP": 1.7,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_EARLY_ISLAND_READY": {
+        "youngest_Ma_BP": 1.0,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_EARLY_ISLAND_FOUND": {
+        "youngest_Ma_BP": 1.0,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_LATE_ISLAND_READY": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_LATE_ISLAND_FOUND": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_BL_SPLIT": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 1.4,
+        "oldest_exclusive": true
+      },
+      "E_HE_BRANCH": {
+        "youngest_Ma_BP": 0.6,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_HA_BRANCH": {
+        "youngest_Ma_BP": 0.45,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_HE_READY": {
+        "youngest_Ma_BP": 0.6,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_FOOTHILLS_READY": {
+        "youngest_Ma_BP": 0.5,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_BP_SPLIT": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.8,
+        "oldest_exclusive": false
+      },
+      "E_APPROACH_READY": {
+        "youngest_Ma_BP": 0.45,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_HINGE_READY": {
+        "youngest_Ma_BP": 0.02,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_SOUTH_EARLY": {
+        "youngest_Ma_BP": 0.02,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.65,
+        "oldest_exclusive": true
+      },
+      "E_LIMITED_CONTACT": {
+        "youngest_Ma_BP": 0.02,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.65,
+        "oldest_exclusive": true
+      },
+      "E_SISTER_CORES": {
+        "youngest_Ma_BP": 0.0,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": null,
+        "oldest_exclusive": false
+      },
+      "E_MARITIME_NETWORK": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.7,
+        "oldest_exclusive": true
+      },
+      "E_WATERSHEDS_CONTACT": {
+        "youngest_Ma_BP": 0.0,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": true
+      },
+      "E_HINGE_CONTACT": {
+        "youngest_Ma_BP": 0.0,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": true
+      },
+      "E_SPINE_CONTACT": {
+        "youngest_Ma_BP": 0.0,
+        "youngest_exclusive": true,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": true
+      },
+      "E_BASIN_CONTACT": {
+        "youngest_Ma_BP": 0.0,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": true
+      },
+      "E_MACRO_SPLIT": {
+        "youngest_Ma_BP": 1.7,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 1.9,
+        "oldest_exclusive": false
+      },
+      "E_BF_SPLIT": {
+        "youngest_Ma_BP": 1.0,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 1.4,
+        "oldest_exclusive": false
+      },
+      "E_HE_FOUND": {
+        "youngest_Ma_BP": 0.6,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 1.0,
+        "oldest_exclusive": false
+      },
+      "E_BP_ARRIVAL": {
+        "youngest_Ma_BP": 0.5,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.8,
+        "oldest_exclusive": false
+      },
+      "E_HA_FOUND": {
+        "youngest_Ma_BP": 0.45,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.65,
+        "oldest_exclusive": false
+      },
+      "E_VOYAGES": {
+        "youngest_Ma_BP": 0.3,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.7,
+        "oldest_exclusive": false
+      },
+      "E_BM_SPLIT": {
+        "youngest_Ma_BP": 0.15,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.35,
+        "oldest_exclusive": false
+      },
+      "E_LATE_FOUND": {
+        "youngest_Ma_BP": 0.02,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": false
+      },
+      "E_RIM_SUCCESSOR": {
+        "youngest_Ma_BP": 0.005,
+        "youngest_exclusive": false,
+        "oldest_Ma_BP": 0.035,
+        "oldest_exclusive": true
+      }
+    },
+    "scope": "Existential event chronology only; no chosen dates, durations, terrain or migration success."
+  },
+  "requirements": {
+    "H01": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [],
+      "review_status": "unvalidated"
+    },
+    "H02": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SOURCE"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H03": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SHELF"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H04": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SHELF"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H05": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SHELF"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H06": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_PAIR"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H07": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_PAIR"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H08": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SOURCE"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H09": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_SHELF"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H10": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_PAIR"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H11": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [
+        "A_PAIR"
+      ],
+      "review_status": "unvalidated"
+    },
+    "H12": {
+      "accepted": false,
+      "blocking_dependencies": [
+        "D_BIOTA",
+        "D_BLOCKS",
+        "D_CLIMATE",
+        "D_DEMOGRAPHY",
+        "D_DISEASE",
+        "D_ICE",
+        "D_OCEAN",
+        "D_RELIEF",
+        "D_ROUTES",
+        "D_SEA",
+        "D_TOPOLOGY",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "unselected_architectures": [],
+      "review_status": "unvalidated"
+    }
+  },
+  "dependency_impact": {
+    "D_BLOCKS": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_TOPOLOGY": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_RELIEF": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_OCEAN": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_CLIMATE": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_ICE": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_SEA": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_WATER": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_ROUTES": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_VOYAGES": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_DEMOGRAPHY": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_BIOTA": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ],
+    "D_SILHOUETTES": [],
+    "D_DISEASE": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06",
+      "H07",
+      "H08",
+      "H09",
+      "H10",
+      "H11",
+      "H12"
+    ]
+  },
+  "historical_acceptance": false,
+  "limits": [
+    "Physical feedback cycles are allowed, not temporal precedence cycles.",
+    "Alternatives are not conjoined or certified by this validator.",
+    "Existential events do not prove repeated openings or process duration."
+  ],
+  "graph_sha256": "84636ea76d38a4f3112780f535dcdc781eede02fe7cb5c71392bfd72fa4bdfd4",
+  "negative_and_scope_controls": {
+    "reject_substrate_younger_than_cradle": true,
+    "reject_reversed_inherited_branch_order": true,
+    "reject_equal_time_for_strict_precedence": true,
+    "reject_missing_historical_requirement": true,
+    "reject_dangling_gateway_reference": true,
+    "physical_feedback_does_not_cause_temporal_failure": true,
+    "unknown_physics_never_passes_acceptance": true,
+    "unselected_or_routes_remain_unresolved": true,
+    "undated_ancient_event_keeps_unbounded_oldest_age": true,
+    "no_fabricated_settlement_order": true
+  }
+}

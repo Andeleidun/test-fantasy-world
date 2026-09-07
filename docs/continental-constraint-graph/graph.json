@@ -1,0 +1,1849 @@
+{
+  "schema_version": 1,
+  "status": "Authorial constraint specification; no historical acceptance claimed",
+  "age_convention": "Ma before present, larger means older. Null upper bound means unknown, not infinity as a physical claim.",
+  "scope": "Requirements bind; exact Earth rotations, margins and junctions are optional priors. Existing conditional geometry is preserved.",
+  "sources": [
+    {
+      "id": "S_USER",
+      "kind": "user_decision",
+      "locator": "Conversation, 2026-09-07: dated constraint graph; rotations and novel peninsulas permitted; bounded analysis before edits",
+      "precedence": "Overrides earlier exact-geometry preservation choices, not established population history"
+    },
+    {
+      "id": "S_CANON",
+      "kind": "adopted_lore",
+      "locator": "../../content/erde-reference.md",
+      "precedence": "Later explicit decisions override earlier alternatives within this document"
+    },
+    {
+      "id": "S_LEDGER",
+      "kind": "requirement_index",
+      "locator": "../global-geography-trial/HISTORICAL-CONSTRAINTS.md",
+      "precedence": "H01\u2013H12 relationships retained; candidate-action geometry is revisable"
+    },
+    {
+      "id": "S_STUDY",
+      "kind": "conditional_scenario",
+      "locator": "../geological-reconstruction/README.md",
+      "precedence": "Measurements apply only to the tested geometry and authored parameters"
+    },
+    {
+      "id": "S_PLAN",
+      "kind": "new_authorial_design",
+      "locator": "README.md",
+      "precedence": "Proposed implementation and deductions, not previously adopted physical history"
+    },
+    {
+      "id": "S_PLATES",
+      "kind": "scientific_method",
+      "locator": "https://www.gplates.org/docs/pygplates/pygplates_primer",
+      "precedence": "Method, not evidence of fictional planet history"
+    },
+    {
+      "id": "S_TERRAIN",
+      "kind": "scientific_method",
+      "locator": "https://www.gplates.org/docs/pygplates/sample-code/pygplates_reconstruct_crustal_thickness_and_tectonic_subsidence",
+      "precedence": "Method, not supplied Erde terrain"
+    },
+    {
+      "id": "S_TIME",
+      "kind": "scientific_method",
+      "locator": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TIME.2021.1",
+      "precedence": "Difference-constraint method, not inferred event dates"
+    }
+  ],
+  "continents": [
+    {
+      "id": "C1",
+      "label": "Northern paired continent",
+      "obligation": "External approach, rim, interior watersheds and northern hinge approach",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "C2",
+      "label": "Southern paired continent",
+      "obligation": "Hinge, bent highland axis, headwater descent and equatorial catchment",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "C3",
+      "label": "Composite mainland",
+      "obligation": "Western/eastern cores, ancestral route, shelf cradle and external approach",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "C4",
+      "label": "Polar continent",
+      "obligation": "Productive peripheral ancestral refuges and viable exit; ice interior is not the refuge",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "C5",
+      "label": "Shelf-adjacent continent",
+      "obligation": "Shelf-human habitat, highland approach and selective marine separation",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "C6",
+      "label": "Equatorial continent",
+      "obligation": "Independent crustal and wildlife history, equatorial ecology and ocean gateways",
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY",
+        "D_CLIMATE",
+        "D_BIOTA",
+        "D_SILHOUETTES"
+      ],
+      "sources": [
+        "S_USER",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "E_EXIT_READY",
+      "label": "Ancestral exit has usable substrate and approach",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_CRADLE_READY",
+      "label": "Mainland\u2013shelf cradle and source-to-cradle route exist",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_SOURCE_ARRIVAL",
+      "label": "Ancestral grade occupies cradle before macrodivergence",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_EARLY_ISLAND_READY",
+      "label": "Early specialist island substrate and habitat exist",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_EARLY_ISLAND_FOUND",
+      "label": "Early specialist founders reach island",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_LATE_ISLAND_READY",
+      "label": "Later specialist island substrate and habitat exist",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_LATE_ISLAND_FOUND",
+      "label": "Later specialist founders reach island",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BL_SPLIT",
+      "label": "Later island specialist differentiation",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HE_BRANCH",
+      "label": "Eastern shelf-human ancestors branch from eastern trunk",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HA_BRANCH",
+      "label": "Paired-continent founders branch from eastern trunk",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HE_READY",
+      "label": "Shelf-human destination and feasible short-water approach exist",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_FOOTHILLS_READY",
+      "label": "Highland foothills and resource gradients exist",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BP_SPLIT",
+      "label": "Highland specialist differentiation",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_APPROACH_READY",
+      "label": "External paired approach has substrate and viable hinterland",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HINGE_READY",
+      "label": "Paired internal connection exists before dispersal to southern interior",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_SOUTH_EARLY",
+      "label": "Early founders reach southern interior",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_LIMITED_CONTACT",
+      "label": "At least one permitted intervening contact opportunity",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_SISTER_CORES",
+      "label": "Later western/eastern human-form core differentiation",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_MARITIME_NETWORK",
+      "label": "Recurrent archipelagic maritime network established",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_WATERSHEDS_CONTACT",
+      "label": "First durable contact with watershed complex",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HINGE_CONTACT",
+      "label": "First durable hinge contact via coastal bypass",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_SPINE_CONTACT",
+      "label": "First durable spine contact via hinge relay",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BASIN_CONTACT",
+      "label": "First durable basin contact via spine headwaters",
+      "age_Ma_BP": [
+        0,
+        null
+      ],
+      "date_status": "undated",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Dated requirements H01\u2013H12 / formation before use",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_MACRO_SPLIT",
+      "label": "Shelf macrodivergence",
+      "age_Ma_BP": [
+        1.7,
+        1.9
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Deep evolutionary timing and magical ecology",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BF_SPLIT",
+      "label": "Early island specialist differentiation",
+      "age_Ma_BP": [
+        1.0,
+        1.4
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Middle Pleistocene lineage structure",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HE_FOUND",
+      "label": "Representative successful shelf-human founding wave",
+      "age_Ma_BP": [
+        0.6,
+        1.0
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Middle Pleistocene lineage structure",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BP_ARRIVAL",
+      "label": "Shelf descendants reach highland foothills",
+      "age_Ma_BP": [
+        0.5,
+        0.8
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Deep American settlement, B-P, and cross-macroclade gene flow",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_HA_FOUND",
+      "label": "Representative early paired-continent founding",
+      "age_Ma_BP": [
+        0.45,
+        0.65
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Eastern erectus branching and American radiation",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_VOYAGES",
+      "label": "Independent development of repeatable short voyages",
+      "age_Ma_BP": [
+        0.3,
+        0.7
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Post-erectus human branching and B-M emergence",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_BM_SPLIT",
+      "label": "Pelagic biological differentiation",
+      "age_Ma_BP": [
+        0.15,
+        0.35
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Post-erectus human branching and B-M emergence",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_LATE_FOUND",
+      "label": "Principal later founding first establishes rim population",
+      "age_Ma_BP": [
+        0.02,
+        0.035
+      ],
+      "date_status": "adopted_window",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Five First American complexes and the first durable sapiens migration",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "E_RIM_SUCCESSOR",
+      "label": "Mixed successor rim networks established by 5 ka",
+      "age_Ma_BP": [
+        0.005,
+        null
+      ],
+      "date_status": "adopted_deadline",
+      "interpretation": "A necessary event or readiness milestone; not a full interval of availability.",
+      "source_section": "Ecological foothold, staggered expansion, and the northern successor",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "temporal_relations": [
+    {
+      "id": "T01",
+      "older": "E_EXIT_READY",
+      "younger": "E_SOURCE_ARRIVAL",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T02",
+      "older": "E_CRADLE_READY",
+      "younger": "E_SOURCE_ARRIVAL",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T03",
+      "older": "E_SOURCE_ARRIVAL",
+      "younger": "E_MACRO_SPLIT",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T04",
+      "older": "E_EARLY_ISLAND_READY",
+      "younger": "E_EARLY_ISLAND_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T05",
+      "older": "E_EARLY_ISLAND_FOUND",
+      "younger": "E_BF_SPLIT",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T06",
+      "older": "E_LATE_ISLAND_READY",
+      "younger": "E_LATE_ISLAND_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T07",
+      "older": "E_LATE_ISLAND_FOUND",
+      "younger": "E_BL_SPLIT",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T08",
+      "older": "E_HE_READY",
+      "younger": "E_HE_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T09",
+      "older": "E_HE_BRANCH",
+      "younger": "E_HE_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T10",
+      "older": "E_HA_BRANCH",
+      "younger": "E_HA_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T11",
+      "older": "E_FOOTHILLS_READY",
+      "younger": "E_BP_ARRIVAL",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T12",
+      "older": "E_BP_ARRIVAL",
+      "younger": "E_BP_SPLIT",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T13",
+      "older": "E_APPROACH_READY",
+      "younger": "E_HA_FOUND",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T14",
+      "older": "E_HINGE_READY",
+      "younger": "E_SOUTH_EARLY",
+      "strict": false,
+      "reason": "Substrate, occupation or branch must exist by the event using it",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T15",
+      "older": "E_MACRO_SPLIT",
+      "younger": "E_BF_SPLIT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T16",
+      "older": "E_BF_SPLIT",
+      "younger": "E_BL_SPLIT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T17",
+      "older": "E_BL_SPLIT",
+      "younger": "E_BP_SPLIT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T18",
+      "older": "E_BP_SPLIT",
+      "younger": "E_BM_SPLIT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T19",
+      "older": "E_HE_BRANCH",
+      "younger": "E_HA_BRANCH",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T20",
+      "older": "E_HE_BRANCH",
+      "younger": "E_SISTER_CORES",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T21",
+      "older": "E_HA_FOUND",
+      "younger": "E_SOUTH_EARLY",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T22",
+      "older": "E_SOUTH_EARLY",
+      "younger": "E_LATE_FOUND",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T23",
+      "older": "E_HA_FOUND",
+      "younger": "E_LIMITED_CONTACT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T24",
+      "older": "E_LIMITED_CONTACT",
+      "younger": "E_LATE_FOUND",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T25",
+      "older": "E_VOYAGES",
+      "younger": "E_MARITIME_NETWORK",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T26",
+      "older": "E_MARITIME_NETWORK",
+      "younger": "E_BM_SPLIT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T27",
+      "older": "E_LATE_FOUND",
+      "younger": "E_WATERSHEDS_CONTACT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T28",
+      "older": "E_WATERSHEDS_CONTACT",
+      "younger": "E_HINGE_CONTACT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T29",
+      "older": "E_HINGE_CONTACT",
+      "younger": "E_SPINE_CONTACT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T30",
+      "older": "E_SPINE_CONTACT",
+      "younger": "E_BASIN_CONTACT",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "T31",
+      "older": "E_LATE_FOUND",
+      "younger": "E_RIM_SUCCESSOR",
+      "strict": true,
+      "reason": "Selected branching, founding or durable-contact order; no numerical lag invented",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "D_BLOCKS",
+      "label": "Full continental and marginal crust inventory",
+      "depends_on": [],
+      "status": "unknown",
+      "acceptance_test": "Trace material provenance, crust type/age/thickness, submerged basement and accreted additions for all six; dry-land gain is not crust creation.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_TOPOLOGY",
+      "label": "Shared rotations, plate boundaries and deformation",
+      "depends_on": [
+        "D_BLOCKS"
+      ],
+      "status": "unknown",
+      "acceptance_test": "One parent-relative rotation tree per epoch; closed plate circuits, valid full polygons, explicit rifts/sutures/deforming zones and crustal budgets, not six nucleus points.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER",
+        "S_PLATES"
+      ]
+    },
+    {
+      "id": "D_RELIEF",
+      "label": "Dated elevation, bathymetry and local vertical motion",
+      "depends_on": [
+        "D_TOPOLOGY"
+      ],
+      "status": "conditional",
+      "acceptance_test": "Terrain and sill uncertainty fields tied to uplift, extension, erosion, deposition and isostasy; authored lines and buffers are initial scenarios only.",
+      "evidence": [
+        "V_PROFILES"
+      ],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_OCEAN",
+      "label": "Marine gateways and circulation",
+      "depends_on": [
+        "D_RELIEF",
+        "D_SEA"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Test opening/closing seaways, exchange, currents and coastal productivity under one shared chronology.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_CLIMATE",
+      "label": "Latitude, seasonal climate and habitable gradients",
+      "depends_on": [
+        "D_TOPOLOGY",
+        "D_RELIEF",
+        "D_OCEAN",
+        "D_ICE"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Preserve polar peripheral refuges and broad habitat requirements without importing Earth climate or assuming identical rainfall.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_ICE",
+      "label": "Ice storage and feedback",
+      "depends_on": [
+        "D_CLIMATE"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Bound ice volume, loading and plausible timing; native pole frame does not prescribe Earth glacial chronology.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_SEA",
+      "label": "Shared ocean-volume forcing and local relative sea surface",
+      "depends_on": [
+        "D_ICE",
+        "D_RELIEF"
+      ],
+      "status": "unknown",
+      "acceptance_test": "All gateways use the same dated global forcing plus explicit local responses. Low/high envelope alone does not establish dated openings.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_WATER",
+      "label": "Drainage, freshwater and food-bearing habitats",
+      "depends_on": [
+        "D_RELIEF",
+        "D_CLIMATE"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Derive catchments and freshwater persistence; test basin capacity, refuge networks and mountain-to-basin drainage.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_ROUTES",
+      "label": "Time-dependent access and alternative-path search",
+      "depends_on": [
+        "D_RELIEF",
+        "D_SEA",
+        "D_WATER",
+        "D_CLIMATE"
+      ],
+      "status": "conditional",
+      "acceptance_test": "Full source-to-destination networks, island landings and hinterlands; adaptive transition sampling and bypass search, not only endpoint masks.",
+      "evidence": [
+        "V_GEOMETRY"
+      ],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_VOYAGES",
+      "label": "Era-appropriate water crossings",
+      "depends_on": [
+        "D_ROUTES",
+        "D_OCEAN"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Currents, drift/return, season, water, craft assumptions and landings; reject a universal distance threshold.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_DEMOGRAPHY",
+      "label": "Founding, restriction and durable contact",
+      "depends_on": [
+        "D_ROUTES",
+        "D_VOYAGES",
+        "D_DISEASE"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Repeated viable founders where required, resource continuity, later limited influx and durable-contact order; graph connectivity does not establish population success.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_BIOTA",
+      "label": "Wildlife and freshwater lineage histories",
+      "depends_on": [
+        "D_TOPOLOGY",
+        "D_ROUTES",
+        "D_WATER"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Inventory adopted clade claims and test dispersal/vicariance by guild. Leave unspecified dates open; do not import Earth faunal interchange dates. Review long-lived magical provinces after substrate and habitat relocation without inventing a new catastrophe.",
+      "evidence": [],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_SILHOUETTES",
+      "label": "All-six target fidelity and visible distinction",
+      "depends_on": [
+        "D_TOPOLOGY",
+        "D_RELIEF"
+      ],
+      "status": "conditional",
+      "acceptance_test": "Compare unlabeled equal-area outlines per continent against old atlas and design targets; assess bodies as well as junctions. IoU is diagnostic, not geological proof.",
+      "evidence": [
+        "V_GEOMETRY"
+      ],
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "D_DISEASE",
+      "label": "Disease reservoirs and contact-network ecology",
+      "depends_on": [
+        "D_WATER",
+        "D_CLIMATE",
+        "D_ROUTES"
+      ],
+      "status": "unknown",
+      "acceptance_test": "Check whether altered corridors preserve long-separated disease ecologies and later reciprocal, asynchronous regional disease pressures; no pathogen, one-way plague or uniform susceptibility is invented.",
+      "evidence": [],
+      "sources": [
+        "S_CANON",
+        "S_PLAN"
+      ]
+    }
+  ],
+  "gateways": [
+    {
+      "id": "G_SOURCE",
+      "label": "C4 periphery \u2192 western C3 \u2192 cradle",
+      "events": [
+        "E_SOURCE_ARRIVAL",
+        "E_MACRO_SPLIT"
+      ],
+      "required_mode": "Habitable ancestral dispersal",
+      "positive_test": "Complete accessible refuge-to-cradle route predates divergence; multiple habitats and freshwater support settlement",
+      "negative_test": "No mandatory ice-interior crossing; new neck must not silently close a climatically essential seaway",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_CORE",
+      "label": "Western \u2194 eastern mainland cores",
+      "events": [
+        "E_SISTER_CORES"
+      ],
+      "required_mode": "Intermittent filtered contact",
+      "positive_test": "Productive core refuges and episodic interior access",
+      "negative_test": "Neither absolute isolation nor permanent unrestricted gene flow",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_EARLY_ISLAND",
+      "label": "Shelf \u2192 early specialist island",
+      "events": [
+        "E_EARLY_ISLAND_FOUND",
+        "E_BF_SPLIT"
+      ],
+      "required_mode": "Rare colonization, enduring marine barrier",
+      "positive_test": "Island old enough and adequately resourced; era-appropriate rare arrival",
+      "negative_test": "Deep separation persists during lowstands; no peninsula joins isolated branch",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_VOYAGES"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_LATE_ISLAND",
+      "label": "Shelf \u2192 later specialist island",
+      "events": [
+        "E_LATE_ISLAND_FOUND",
+        "E_BL_SPLIT"
+      ],
+      "required_mode": "Later specialist isolation",
+      "positive_test": "Independent substrate, colonization and differentiation history",
+      "negative_test": "No all-land shortcut via a different island or newly attached mainland block",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_VOYAGES"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_HE",
+      "label": "Eastern cradle \u2192 shelf-human homeland",
+      "events": [
+        "E_HE_FOUND"
+      ],
+      "required_mode": "Multiwave rare short-water dispersal",
+      "positive_test": "Candidate reduces crossing demands with substrate that exists in time; viable founders, water and landings",
+      "negative_test": "No dependence on later planned maritime culture; no accidental bridge to specialist islands",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_VOYAGES"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_BP",
+      "label": "Shelf \u2192 highland foothills",
+      "events": [
+        "E_BP_ARRIVAL",
+        "E_BP_SPLIT"
+      ],
+      "required_mode": "Arrival plus recurrent lowland contact",
+      "positive_test": "Relief and foothill resources predate arrival; gradients support differentiation",
+      "negative_test": "No permanently sealed foothill/lowland boundary and no flattened highland habitat",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_PAIR_EARLY",
+      "label": "Eastern mainland \u2192 C1 \u2192 C2",
+      "events": [
+        "E_HA_FOUND",
+        "E_SOUTH_EARLY"
+      ],
+      "required_mode": "Terrestrial and near-coastal multigeneration founding",
+      "positive_test": "Dated exposed approach and internal hinge allow viable dispersal to both interiors",
+      "negative_test": "No obligatory open-ocean leg or hinge formed only after occupation",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_PAIR_FILTER",
+      "label": "External approach between principal foundings",
+      "events": [
+        "E_LIMITED_CONTACT"
+      ],
+      "required_mode": "Rare bidirectional recontacts",
+      "positive_test": "Repeat opportunities allow small successful contacts and returns",
+      "negative_test": "Reject both absolute closure and an unexamined permanent high-throughput bypass",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_PAIR_LATE",
+      "label": "External approach \u2192 rim",
+      "events": [
+        "E_LATE_FOUND"
+      ],
+      "required_mode": "Later terrestrial/coastal founding",
+      "positive_test": "Separate usable opening first supports durable rim population",
+      "negative_test": "No newly mandatory ocean voyage or earlier enduring later-lineage colony invented",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_MARINE",
+      "label": "Archipelagic recurrent network",
+      "events": [
+        "E_MARITIME_NETWORK",
+        "E_BM_SPLIT"
+      ],
+      "required_mode": "Recurrent marine movement",
+      "positive_test": "Inhabited resourced islands and voyages/returns precede biological differentiation",
+      "negative_test": "No continent-wide land shortcut removes the marine selective setting",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_VOYAGES"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_COMPLEXES",
+      "label": "Rim \u2192 watersheds \u2192 hinge \u2192 spine \u2192 basin",
+      "events": [
+        "E_WATERSHEDS_CONTACT",
+        "E_HINGE_CONTACT",
+        "E_SPINE_CONTACT",
+        "E_BASIN_CONTACT",
+        "E_RIM_SUCCESSOR"
+      ],
+      "required_mode": "Staggered durable contact; maritime bypass and headwater descent",
+      "positive_test": "Five viable ecological complexes, watershed coast bypass, hinge-spine relay and spine-basin headwaters",
+      "negative_test": "No easier durable-contact route silently reverses order; scouts or trade objects are not durable colonies",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_VOYAGES",
+        "D_WATER"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "G_WORLD",
+      "label": "C6 and all remote margins/islands",
+      "events": [],
+      "required_mode": "Clade-specific exchange and isolation",
+      "positive_test": "Older biotic and crustal relationships fit the shared global history",
+      "negative_test": "No human-route exemption for remote coasts, freshwater lineages or altered ocean gateways",
+      "dependencies": [
+        "D_ROUTES",
+        "D_DEMOGRAPHY",
+        "D_BIOTA",
+        "D_OCEAN"
+      ],
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "id": "H01",
+      "label": "Crust and older biotic provenance",
+      "events": [],
+      "gateways": [
+        "G_WORLD"
+      ],
+      "dependencies": [
+        "D_BLOCKS",
+        "D_TOPOLOGY"
+      ],
+      "acceptance_test": "All six bodies and added/drowned sectors have provenance; dated wildlife obligations are inventoried.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H02",
+      "label": "Ancestral route and shelf macrodivergence",
+      "events": [
+        "E_SOURCE_ARRIVAL",
+        "E_MACRO_SPLIT"
+      ],
+      "gateways": [
+        "G_SOURCE"
+      ],
+      "dependencies": [
+        "D_RELIEF"
+      ],
+      "acceptance_test": "Cradle usable before divergence, with exposure/flooding, karst and habitat mosaics rather than a younger replacement.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H03",
+      "label": "Island specialist radiation",
+      "events": [
+        "E_BF_SPLIT",
+        "E_BL_SPLIT"
+      ],
+      "gateways": [
+        "G_EARLY_ISLAND",
+        "G_LATE_ISLAND"
+      ],
+      "dependencies": [],
+      "acceptance_test": "Emergence before occupation, viable founders and persistent marine barriers across relevant lowstands.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H04",
+      "label": "Shelf-human founders and branching",
+      "events": [
+        "E_HE_BRANCH",
+        "E_HA_BRANCH",
+        "E_HE_FOUND"
+      ],
+      "gateways": [
+        "G_HE"
+      ],
+      "dependencies": [],
+      "acceptance_test": "Earlier HE ancestral branching; multiwave founding in its own window; no assumed chronological order of all individual founder waves.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H05",
+      "label": "Highland arrival and differentiation",
+      "events": [
+        "E_BP_ARRIVAL",
+        "E_BP_SPLIT"
+      ],
+      "gateways": [
+        "G_BP"
+      ],
+      "dependencies": [
+        "D_RELIEF"
+      ],
+      "acceptance_test": "Dated foothill arrival followed by specialist differentiation and recurrent lowland contact.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H06",
+      "label": "Early paired-continent founding",
+      "events": [
+        "E_HA_FOUND",
+        "E_SOUTH_EARLY"
+      ],
+      "gateways": [
+        "G_PAIR_EARLY"
+      ],
+      "dependencies": [],
+      "acceptance_test": "Selected openings within .65\u2013.45 Ma support multiband founding; southern expansion precedes later principal founding.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H07",
+      "label": "Restricted intervening recontacts",
+      "events": [
+        "E_LIMITED_CONTACT"
+      ],
+      "gateways": [
+        "G_PAIR_FILTER"
+      ],
+      "dependencies": [],
+      "acceptance_test": "A sequence of limited bidirectional opportunities preserves independent differentiation; one existential event alone is insufficient.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H08",
+      "label": "Refuges and later sister cores",
+      "events": [
+        "E_SISTER_CORES"
+      ],
+      "gateways": [
+        "G_SOURCE",
+        "G_CORE"
+      ],
+      "dependencies": [
+        "D_CLIMATE"
+      ],
+      "acceptance_test": "Peripheral ancestral refuges stay productive; sister cores can exchange intermittently.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H09",
+      "label": "Maritime-before-pelagic sequence",
+      "events": [
+        "E_VOYAGES",
+        "E_MARITIME_NETWORK",
+        "E_BM_SPLIT"
+      ],
+      "gateways": [
+        "G_MARINE"
+      ],
+      "dependencies": [],
+      "acceptance_test": "Repeatable marine culture predates pelagic differentiation; older rare crossings require no such culture.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H10",
+      "label": "Later principal founding",
+      "events": [
+        "E_LATE_FOUND"
+      ],
+      "gateways": [
+        "G_PAIR_LATE"
+      ],
+      "dependencies": [],
+      "acceptance_test": "A distinct 35\u201320 ka opportunity supports durable rim settlement by terrestrial/coastal movement.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H11",
+      "label": "Five complexes and ordered durable contact",
+      "events": [
+        "E_WATERSHEDS_CONTACT",
+        "E_HINGE_CONTACT",
+        "E_SPINE_CONTACT",
+        "E_BASIN_CONTACT",
+        "E_RIM_SUCCESSOR"
+      ],
+      "gateways": [
+        "G_COMPLEXES"
+      ],
+      "dependencies": [
+        "D_WATER"
+      ],
+      "acceptance_test": "Retain viable habitats, coastal bypass, maritime relay, headwater descent and mixed rim successor by 5 ka. Clarify the 8\u201312 kyr expansion span before enforcing endpoints.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "H12",
+      "label": "Global ecology and circulation",
+      "events": [],
+      "gateways": [
+        "G_WORLD"
+      ],
+      "dependencies": [
+        "D_OCEAN",
+        "D_CLIMATE",
+        "D_BIOTA"
+      ],
+      "acceptance_test": "Remote bodies and margins pass the same global environmental and provenance review.",
+      "review_status": "unvalidated",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "choices": [
+    {
+      "id": "A_SOURCE",
+      "label": "Ancestral exit architecture",
+      "operator": "exactly_one",
+      "selected": null,
+      "gateways": [
+        "G_SOURCE",
+        "G_CORE"
+      ],
+      "options": [
+        {
+          "id": "western_neck",
+          "label": "Accreted western neck or peninsula",
+          "cost_or_risk": "Test marine restriction and old terrestrial biotic exchange"
+        },
+        {
+          "id": "rotated_margin",
+          "label": "Rotate/reassemble peripheral blocks into a shorter filtered margin route",
+          "cost_or_risk": "Retest polar refuge latitude, plate circuit and subsequent sister-core filters"
+        }
+      ],
+      "sources": [
+        "S_USER",
+        "S_PLAN"
+      ]
+    },
+    {
+      "id": "A_SHELF",
+      "label": "Shelf-human route architecture",
+      "operator": "exactly_one",
+      "selected": null,
+      "gateways": [
+        "G_HE",
+        "G_BP",
+        "G_EARLY_ISLAND",
+        "G_LATE_ISLAND",
+        "G_MARINE"
+      ],
+      "options": [
+        {
+          "id": "segmented_platform",
+          "label": "Dated platform fragments with deep transverse channels",
+          "cost_or_risk": "Requires emergence, freshwater and era-appropriate repeated short crossings"
+        },
+        {
+          "id": "projecting_peninsula",
+          "label": "Mainland peninsula toward destination with independent offshore specialist branches",
+          "cost_or_risk": "Reduces water demand but must avoid joining specialist islands or erasing marine selection"
+        }
+      ],
+      "sources": [
+        "S_USER",
+        "S_PLAN"
+      ]
+    },
+    {
+      "id": "A_PAIR",
+      "label": "Paired bodies and approach architecture",
+      "operator": "exactly_one",
+      "selected": null,
+      "gateways": [
+        "G_PAIR_EARLY",
+        "G_PAIR_FILTER",
+        "G_PAIR_LATE",
+        "G_COMPLEXES"
+      ],
+      "options": [
+        {
+          "id": "curved_margin",
+          "label": "Retain current approach neighborhood with reconstructed curved hinge",
+          "cost_or_risk": "Needs repeated dated access and restricted intervening exchange"
+        },
+        {
+          "id": "rotated_pair",
+          "label": "Rotate C1/C2 blocks jointly with a relocated accreted hinge and external peninsula",
+          "cost_or_risk": "Needs coherent boundary deformation, relocated catchments and retained durable-contact order"
+        }
+      ],
+      "sources": [
+        "S_USER",
+        "S_PLAN"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "V_GEOMETRY",
+      "scope": "Current conditional scenario only: polygon validity, selected modern routes, low/high mask gap checks and target overlap. Not dated whole-world terrain.",
+      "locator": "../geological-reconstruction/validation.json",
+      "sources": [
+        "S_STUDY"
+      ]
+    },
+    {
+      "id": "V_PROFILES",
+      "scope": "Authored sill and elevation envelopes satisfy selected inequalities; not independent palaeotopography or a sea-level timetable.",
+      "locator": "../geological-reconstruction/gateway-results.json",
+      "sources": [
+        "S_STUDY"
+      ]
+    },
+    {
+      "id": "V_NUCLEI",
+      "scope": "Six limited parcels conserve area at eight sampled epochs in inherited model; not a whole-continent plate circuit.",
+      "locator": "../geological-reconstruction/core-history.json",
+      "sources": [
+        "S_STUDY"
+      ]
+    }
+  ],
+  "process_constraints": [
+    {
+      "id": "P_WINDOWS",
+      "rule": "Dated windows permit events within the window, not continuous access across it. A representative event is only a necessary temporal screen for multigeneration or multiwave processes.",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "P_DURATION",
+      "rule": "Expansion beyond the rim spans roughly 8\u201312 millennia; its exact start/end milestones remain unresolved. Do not impose this duration on every durable-contact edge.",
+      "sources": [
+        "S_CANON"
+      ]
+    },
+    {
+      "id": "P_RECONTACT",
+      "rule": "Rare bidirectional early-to-late contacts require repeated opportunities, long restricted intervals and viable returns. No numerical migration rate or minimum duration is established.",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "P_MARINE",
+      "rule": "HE and early island founders may require rare short-water dispersal; do not make them depend on later recurrent planned voyages or magic. No universal safe distance.",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "P_SHARED",
+      "rule": "One block history and shared sea/ice forcing must support all opening and isolation requirements simultaneously; regional vertical motion remains explicit.",
+      "sources": [
+        "S_PLAN",
+        "S_LEDGER"
+      ]
+    },
+    {
+      "id": "P_SUCCESSORS",
+      "rule": "By 5 ka, several connected regional rim successor populations retain ancestry and cultural continuity; the other four complexes remain self-sustaining. Reciprocal, recurrent, asynchronous disease crises drive fragmentation, with ecological and network feedback. Exact pathogen chronology remains open.",
+      "sources": [
+        "S_CANON"
+      ]
+    },
+    {
+      "id": "P_MAGIC",
+      "rule": "Slowly changing magical provinces follow geology, ecosystems and Otherworld relations without fixed ancestry packages. Relocation requires a province review; magic or the Thal catastrophe cannot serve as an unexplained geological or founding-route repair.",
+      "sources": [
+        "S_CANON",
+        "S_LEDGER"
+      ]
+    }
+  ],
+  "retry_policy": {
+    "architectures_maximum": 3,
+    "per_blocker_material_revisions_maximum": 2,
+    "condition": "A rerun is allowed only after identifying a failed predicate and changing its causal input or using a genuinely different architecture. Unknown evidence is not a failure cured by more retries.",
+    "watchdog": "Each implementation batch declares expected output, time budget and checkpoint. Review any no-output batch at 60 seconds; terminate or checkpoint if it has no demonstrable progress. Do not restart a deterministic failed call unchanged.",
+    "preserve": "Keep last reproducible conditional candidate and full failed-candidate record. Do not promote a partially valid map to public canon."
+  }
+}

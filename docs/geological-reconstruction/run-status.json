@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "started_utc": "2026-09-07T01:23:13.260697+00:00",
+  "finished_utc": "2026-09-07T01:23:16.529932+00:00",
+  "full_historical_validation": false,
+  "meaning": "Generation and bounded checks finished; not all historical requirements pass"
+}

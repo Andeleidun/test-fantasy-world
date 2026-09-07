@@ -8,6 +8,10 @@ The additional acceptance rule is binding: **a modern junction cannot compensate
 
 The [completed geological review](GEOLOGICAL-VALIDATION.md) recovers the original Drive framework and tests ten inherited locations at twelve epochs in two named plate models. It supports the late-Cenozoic polar core, identifies older latitude claims requiring revision, and quantifies substantial land redistribution hidden by the modest net area increase. The exact candidate **does not yet pass historical validation**: its crustal-block, gateway, relief and habitat histories remain incomplete. The new calculations are reproducible from saved inputs and API responses.
 
+## Subsequent physical revision
+
+The [dated reconstruction study](../geological-reconstruction/README.md) now contains revised outlines, three margin alternatives, a western ancestral-route substitution, a failed shelf-route attempt and its tested replacement, and explicit conditional gateway histories. Its revised candidate remains authorial; complete historical acceptance is still open. This folder preserves the preceding target unchanged.
+
 ## Visual comparison
 
 ![Previous and candidate silhouettes in the same Equal Earth projection](01-world-silhouettes.png)
