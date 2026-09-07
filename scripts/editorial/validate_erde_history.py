@@ -1,12 +1,15 @@
-"""Independent necessary-condition checks on the exported Erde candidate.
+"""Necessary-condition audit for the current dated Erde reconstruction.
 
-This is a geometry and scale audit, not a plate, climate or migration simulation.
-Run from any directory with the optional atlas dependencies installed.
+This consumes regenerated Strategy A geometry. It checks land/crust accounting
+proxies, polar land sensitivity, retained relief samples, and consistency between
+the generated geometry and the dated physical model. It is not a plate, climate,
+ice-sheet, sea-level, or migration simulation.
 """
 from pathlib import Path
 import hashlib
 import json
 import math
+import sys
 
 import numpy as np
 from pyproj import Geod
@@ -34,17 +37,53 @@ def area(g):
 
 
 candidate_path = OUT / 'candidate-geography.geojson'
-candidate = unary_union([shape(f['geometry']) for f in json.loads(candidate_path.read_text())['features']])
 reference_source = ROOT / 'scripts/editorial/data/reference-land.geojson'
+controls_path = OUT / 'design-controls.json'
+measurements_path = OUT / 'measurements.json'
+physical_path = OUT / 'physical-test-model.json'
+
+candidate = unary_union([shape(f['geometry']) for f in json.loads(candidate_path.read_text())['features']])
 reference = make_valid(FRAME.project_geometry(unary_union([
     shape(g) for g in json.loads(reference_source.read_text())['geometries']
 ]), GEO))
-controls = json.loads((OUT / 'design-controls.json').read_text())
+controls = json.loads(controls_path.read_text())
+measurements = json.loads(measurements_path.read_text())
+physical = json.loads(physical_path.read_text())
+
+errors = []
+if not controls.get('generated_outputs_current'):
+    errors.append('Generated Strategy A outputs are stale; run try_erde_global.py first.')
+if not candidate.is_valid:
+    errors.append('Candidate land mask is invalid.')
+if float(controls.get('paired_offset', {}).get('angle_degrees', 999)) != 0:
+    errors.append('Strategy A must not reintroduce the removed C2 rigid offset.')
+if not all(measurements.get('anchors_on_land', {}).values()):
+    errors.append('At least one established land anchor is off the regenerated candidate.')
+if not all(measurements.get('structural_connectivity', {}).values()):
+    errors.append('At least one required present structural connection is missing.')
+
+eastern_gaps = measurements.get('eastern_repaired_water_gaps_km', [])
+if len(eastern_gaps) != 3 or not all(0 < g < 80 for g in eastern_gaps):
+    errors.append(f'Eastern repaired water gaps do not satisfy the bounded geometry test: {eastern_gaps}')
+
+c4_lats = measurements.get('c4_marginal_corridor_native_latitude_deg', [])
+if len(c4_lats) != 2 or min(c4_lats) < -50 or max(c4_lats) > -25:
+    errors.append(f'C4 marginal corridor left the intended midlatitude peripheral band: {c4_lats}')
+
+# The physical model asks for freshwater-capable stepping islands of at least the
+# recorded target areas. Compare that model against actual regenerated geometry.
+terrane_area = measurements.get('terrane_area_km2', {})
+stepping_targets = physical['tests']['eastern_shelf_repaired']['terrane_min_area_km2']
+for name, target in zip(('EASTERN_STEPPING_TERRANE_A', 'EASTERN_STEPPING_TERRANE_B'), stepping_targets):
+    actual = terrane_area.get(name, 0)
+    if actual < target:
+        errors.append(f'{name} area {actual:.1f} km2 is below physical-model target {target:.1f} km2.')
+
 added = candidate.difference(reference)
 removed = reference.difference(candidate)
 retained = candidate.intersection(reference)
 
-# Sampled latitude parallels avoid modeling a cap rim as one long geodesic edge.
+# Sampled latitude parallels avoid representing a cap rim as one long geodesic edge.
 def south_cap(limit):
     return Polygon([*[(float(x), -limit) for x in np.linspace(-180, 180, 1441)],
                     (180, -90), (-180, -90)])
@@ -56,24 +95,7 @@ for limit in [50, 60, 70]:
     caps[str(limit)] = {'reference_land_km2': area(reference.intersection(cap)),
                         'candidate_land_km2': area(candidate.intersection(cap))}
 
-# For a rigid Euler offset: d = 2R asin(sin(angle/2) sin(distance_to_pole)).
-def rotation_displacement(native_xy):
-    pole = controls['paired_offset']['pole_native']
-    alpha = GEOD.inv(*pole, *native_xy)[2] / R
-    angle = math.radians(abs(controls['paired_offset']['angle_degrees']))
-    return 2 * R * math.asin(math.sin(angle / 2) * math.sin(alpha)) / 1000
-
-
-rotation = {}
-for label, source_xy in {'basin': (-58, -6), 'old_hinge_south': (-75, 8),
-                         'southern_body': (-70, -35)}.items():
-    distance = rotation_displacement(tr(*source_xy))
-    rotation[label] = {'offset_km': distance,
-        'mean_rate_cm_year_if_20_Myr': distance / (10 * 20),
-        'mean_rate_cm_year_if_40_Myr': distance / (10 * 40),
-        'mean_rate_cm_year_if_650_kyr': distance / (10 * .65)}
-
-# These are existing atlas line vertices, not a new mapped mountain inventory.
+# Existing atlas relief lines remain reuse diagnostics, not reconstructed ranges.
 relief_source = {
     'paired_southern_spine': [(-75,5),(-76,-10),(-69,-30),(-72,-50)],
     'paired_northern_cordillera': [(-145,61),(-124,48),(-112,35),(-103,22)],
@@ -87,7 +109,6 @@ relief = {name: [{'reference_coordinates': p, 'native_coordinates': tr(*p),
 
 planet_area = 4 * math.pi * R**2 / 1e6
 water_area = planet_area - area(candidate)
-# Diagnostic freshwater-equivalent budget only. No sea-level chronology is inferred.
 ice_budget = [{'sea_level_fall_m': h,
     'water_removed_km3_fixed_ocean_area': water_area * h / 1000,
     'ice_volume_change_km3_density_917': water_area * h / 1000 * 1000 / 917,
@@ -95,13 +116,20 @@ ice_budget = [{'sea_level_fall_m': h,
        water_area * h / 1000 * 1000 / 917 / caps['60']['candidate_land_km2']}
     for h in [50, 100, 150]]
 
-# The candidate uses overlapping authorial continental partitions internally.
-# Audit the exported world instead of treating those partitions as crustal plates.
 result = {
-    'status': 'necessary conditions only; historical validity not established',
+    'status': 'PASS' if not errors else 'FAIL',
+    'scope': 'Strategy A necessary conditions; full geological validity not established',
+    'errors': errors,
     'candidate_sha256': hashlib.sha256(candidate_path.read_bytes()).hexdigest(),
     'reference_sha256': hashlib.sha256(reference_source.read_bytes()).hexdigest(),
     'candidate_valid': candidate.is_valid,
+    'strategy_A': {
+        'c2_extra_offset_degrees': controls.get('paired_offset', {}).get('angle_degrees'),
+        'structural_connectivity': measurements.get('structural_connectivity'),
+        'eastern_repaired_water_gaps_km': eastern_gaps,
+        'c4_marginal_corridor_native_latitude_deg': c4_lats,
+        'terrane_area_km2': terrane_area,
+    },
     'world_mask_area_km2': {'reference': area(reference), 'candidate': area(candidate),
         'new_land_locations': area(added), 'former_land_locations': area(removed),
         'retained_land_locations': area(retained),
@@ -110,7 +138,6 @@ result = {
     'gross_change_percent_of_reference_land_area':
         100 * (area(added) + area(removed)) / area(reference),
     'southern_latitude_cap_land': caps,
-    'C2_finite_offset_scale_test': rotation,
     'unremapped_atlas_relief_vertices': relief,
     'ice_volume_sensitivity_not_prediction': ice_budget,
     'vertical_motion_sensitivity_m': [
@@ -119,12 +146,12 @@ result = {
         for rate in [.05, .1, .5] for duration in [.65, 1.9]],
     'limitations': [
         'Land-mask changes are locations, not volumes of continental crust created or destroyed.',
-        'Planar clipping inserts vertices on longitude/latitude segments; subsequent geodesic area accounting has a small nonzero partition residual. Round gross areas to 0.1 million km2.',
-        'No time-indexed plate boundaries, block rotations, palaeoelevations or sea levels are supplied.',
-        'Relief samples check reuse of an old overlay only; they do not prove loss of a physical mountain range.',
-        'Latitude caps measure possible land substrate, not ice-covered area or habitable area.',
+        'The JX1 and C4 corridor polygons are surface design envelopes; a full block inventory and crustal budget remain required.',
+        'No time-indexed plate boundaries, deformed crustal mesh, palaeoelevation raster, local relative sea-level solution, or GCM is supplied.',
+        'Relief samples check reuse of an old overlay only; they do not prove physical mountain continuity.',
+        'Latitude caps measure possible land substrate, not ice-covered or habitable area.',
         'Ice budgets neglect changing ocean area, isostasy, geoid, seawater density, thermal expansion and floating-ice effects.',
-        'Vertical-motion rates and sea-level scenarios are sensitivity inputs, not selected Erde parameters.'
+        'The bounded physical model tests consistency of selected scenarios, not likelihood or uniqueness.'
     ]
 }
 (OUT / 'geological-validation-metrics.json').write_text(json.dumps(result, indent=2) + '\n')
@@ -132,3 +159,4 @@ features = [{'type': 'Feature', 'properties': {'role': role, 'status': 'static d
              'geometry': mapping(g)} for role, g in [('new_land_locations', added), ('former_land_locations', removed)]]
 (OUT / 'land-mask-differences.geojson').write_text(json.dumps({'type': 'FeatureCollection', 'features': features}, separators=(',', ':')) + '\n')
 print(json.dumps({k: v for k, v in result.items() if k not in ['unremapped_atlas_relief_vertices', 'limitations']}, indent=2))
+sys.exit(0 if not errors else 1)
