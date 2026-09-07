@@ -1,98 +1,142 @@
 # Erde: historical acceptance ledger for continental redesign
 
-Status: authorial requirements and reconstruction plan. **No row below is certified by the modern outline.** The user's historical-continuity condition applies to every continent, their approaches, ecological provinces and surrounding islands. A candidate that breaks a required historical relationship is rejected unless a viable substitution is demonstrated for that period.
+Status: **binding authorial requirements with bounded Strategy A reconstruction evidence.** No modern coastline alone certifies a historical route. The current dated graph, regional physical tests, and first plate-block reconstruction now satisfy the tested necessary conditions, but high-fidelity palaeoelevation, bathymetry, climate, ice and ecology remain required before canon promotion.
 
-## Validation follow-through
+The machine-readable ledger is [`dated-constraint-graph.json`](dated-constraint-graph.json). Current reconstruction evidence is summarized in [`README.md`](README.md), [`RECONSTRUCTION-PLAN.md`](RECONSTRUCTION-PLAN.md), and [`PLATE-RECONSTRUCTION.md`](PLATE-RECONSTRUCTION.md).
 
-The [geological validation review](GEOLOGICAL-VALIDATION.md) has now retrieved source documents 20, 24 and the relevant corrections in 38, run inherited-paleolatitude probes and checked candidate geometry and timescales. Its requirement-by-requirement dispositions supersede any assumption that this ledger itself certifies a route. The older project does contain a qualitative geological history; it does not contain an already validated reconstruction of these new outlines.
+## Governing rule
+
+A modern junction cannot compensate for a broken historical connection. Any retained or substituted route must:
+
+1. exist on suitable crustal substrate early enough;
+2. have viable topography/bathymetry during the required interval;
+3. preserve the intended barriers before, between and after founding events;
+4. avoid creating incompatible shortcuts or wildlife exchanges;
+5. fit into one geological history shared by all continents.
+
+No continent-scale or gateway-forming relative motion may be required after **1.9 Ma**.
 
 ## Source precedence and scope
 
-Read [Erde reference](../../content/erde-reference.md), especially “Macroclade divergence,” “Eastern erectus branching and American radiation,” the later principal-founding decisions, and their explicit supersessions. Read the [public reference](../../content/public/erde-reference.md) for the current presentation. Earth names here identify authorial source regions only; these are fictional Erde histories, not claims about Earth's archaeology.
+The current Erde reference and its explicit supersessions control population chronology and branching order. Earth geographic names remain authorial crosswalks only; they are not claims about Earth's archaeology or fossil record.
 
-Later decisions restore H-E as the earlier-diverging living human-form lineage among those currently planned. Its founding interval overlaps other intervals, but overlapping date ranges do not reverse that selected branching order. The original shelf divergence at approximately 1.9–1.7 million years ago is older than the settlement windows emphasized in the previous map trial and must also constrain the design.
+Proposal 4 is a fixed global map/geographic reorientation. It is not a recent planetary tipping event, orbital-obliquity change, or tectonic rotation applied during human evolution.
 
-The Thal catastrophe occurred on Erde. It is not a mechanism for reshaping these continents or a reason to invent a second planetary catastrophe.
+## Dated requirements and current Strategy A disposition
 
-## Dated requirements
-
-“Retain” in the candidate-action column means a design obligation, not a reconstructed historical result. Present-day geometry checks are reported separately in [the study](README.md).
-
-| ID | Period before Erde's present | Required relationship | Candidate action | Historical gate still open |
+| ID | Period before present | Required relationship | Current Strategy A evidence | Remaining gate |
 | --- | --- | --- | --- | --- |
-| H01 | Older geological and biological history; dates not yet fixed | Six bodies have crustal provenance; inherited wildlife and freshwater lineages have credible dispersal or vicariance histories | Develop ancient breakup/accretion histories for all six; inventory existing wildlife claims before moving crustal blocks | Plate circuit, crustal age/area accounting, older connections, and clade-specific provenance. Absence of a dated human route is not exemption. |
-| H02 | Before and through 1.9–1.7 Ma | A widespread human-form ancestral grade reaches the mainland–shelf ecotone; hobbit-form divergence occurs within a changing metapopulation | Retain ancestral exit, continental interior access and the shelf-cradle sector | Habitable source-to-cradle route before divergence; repeatedly exposed/flooded shelves; carbonate/karst history and habitat mosaics. A newly assembled post-divergence shelf fails. |
-| H03 | Approximately 1.4–1.0 Ma, then subsequent specialist divergences | Early Flores-like separation; later Luzon-like specialization; some deep-water barriers endure | Keep the radiation region as a local control instead of flattening it into an easy universal land bridge | Island emergence before colonization, persistent channels at plausible lowstands, sufficient founder habitat, and later isolation. A new convenient connection that erases divergence fails. |
-| H04 | Approximately 1.0–0.6 Ma | Several eastern human-form founder waves reach shelf-human habitats; H-E branches before the paired-continent founders | Retain the shelf/highland approach neighborhood while changing C5's outer body | Dated shelves and residual water crossings, usable landings, freshwater, viable settlement and limited subsequent influx. Existing Earth-like coastlines do not by themselves support the required short crossings. |
-| H05 | Approximately 0.8–0.5 Ma and afterwards | Shelf-lineage descendants reach highland foothills; highland differentiation with recurrent lowland contact | Retain the highland-island sector | Mountains and foothills exist in time; accessible resources; elevational climate gradient; contact waxes and wanes instead of becoming zero or unrestricted. |
-| H06 | Selected intervals approximately 0.65–0.45 Ma | External approach supports multiband, multigenerational land-and-near-coastal founding of the paired continents | Retain both shores and their approach hinterlands; retain the internal hinge | Exposed, ecologically traversable corridor in the relevant intervals and later access to both continental interiors. No required open-ocean leg; no recently formed hinge standing in for an older one. |
-| H07 | After early founding and before later principal founding | Rare small bidirectional contacts; independent continental differentiation persists | Retain a potentially recurrent external corridor, not a permanently open ecological highway | Long restricted intervals punctuated by small access windows; habitat and demographic limits on exchange. Include alternative coastal shortcuts in the test. |
-| H08 | Through later human-form divergence; exact bounds not fixed here | Ancestral peripheral network remains viable; western and eastern sister cores retain intermittent interior contact | Retain refuge, exit and continental connection; redesign remote margins | Refuges remain productive at native latitudes through polar ice changes; corridor filters and refugia support both separation and limited contact. |
-| H09 | Before and during approximately 0.35–0.15 Ma | Recurrent archipelagic maritime culture precedes pelagic biological differentiation | Keep persistent islands and water separation within the radiation region | Islands are inhabited and resourced before network development; voyages and returns are workable; no land shortcut silently replaces the marine selective setting. |
-| H10 | Approximately 35–20 ka | Later principal founding uses land-and-coastal movement and first reaches the coastal/mountain-rim complex | Reuse the external approach requirement with its later terrain and climate | A separate later opening with viable approaches; first-contact ordering survives. Passing H06 does not pass H10. |
-| H11 | Subsequent expansion through approximately 5 ka | Watersheds, volcanic hinge, highland spine and equatorial basin remain viable; later coastal bypass and hinge-mediated maritime relay remain possible | Keep the paired interiors connected and preserve room for the five regional complexes | Dated drainage/relief, productive volcanic refuges, coast access, maritime route and inland refuges. The new C2 shape cannot simply inherit the old river overlay. |
-| H12 | Present and all preceding snapshots | C6, outlying islands and all remote continental margins remain consistent with fauna, flora, climate and ocean circulation | Give them explicit geology and ecological review despite fewer specified population routes | Island age/provenance, freshwater isolation, ocean gateways, aridity, rain shadows and unintended dispersal links. |
+| **H01** | Older geological/biological history; dates not fully fixed | Six bodies require coherent crustal provenance and deep-time biotic continuity/vicariance | First plate-block model assigns inherited nuclei, shelf blocks, deforming margins and continental-crust accounting; no net new continental crust is required | Spatial crustal-thickness/stretching grids, older block histories where needed, and clade-specific provenance |
+| **H02** | ~1.9–1.7 Ma | Ancestral human-form populations can move from the C4 peripheral system through C3 to the mainland–shelf ecotone before hobbit-form divergence | C4 marginal corridor is old substrate, final authored rigid motion complete by 8 Ma; C3-to-shelf structural route passes; shelf head is old C3 southeast shelf crust and is connected to C3 | Explicit palaeoelevation, climate/habitat, carbonate/karst and shelf-exposure history |
+| **H03** | ~1.4–1.0 Ma | Early island specialization occurs while meaningful water barriers persist | Three eastern channels remain water in the bounded -130 m lowstand test; deep sill hypotheses remain well below exposure threshold | Dated bathymetric cross-sections, island elevation/freshwater history and hydrodynamics |
+| **H04** | ~1.0–0.6 Ma | Multiple eastern founding waves can reach shelf-human habitats without a single extreme open-ocean leg | Failed ~188 km first leg was repaired with two old stepping blocks; regenerated water gaps are ~54.65/28.30/75.01 km; islands exceed freshwater-capable area targets; block motion complete by 2 Ma | Currents, winds, voyage duration, landing/freshwater and founding-demography model |
+| **H05** | ~0.8–0.5 Ma and later | Shelf-lineage descendants reach highland foothills; highland differentiation coexists with recurrent lowland contact | Shelf/highland neighborhood remains structurally available; eastern stepping network predates the interval | Explicit relief, elevational climate, resources and contact-frequency model |
+| **H06** | ~0.65–0.45 Ma | Early American-form founding uses an external land/near-coastal approach and reaches both paired-continent interiors | Northern approach is old shelf substrate; JX1 is assembled long before H06; C1/C2 parent separation changes only ~9.3 km over 0–2 Ma; bounded sea-level states include repeated founder-scale exposures | Local relative sea level, sill geometry, ecology and passage-duration model |
+| **H07** | After H06, before H10 | Rare small bidirectional contacts occur while continental differentiation persists | JX1 remains a persistent bottleneck; bounded access states alternate between exposed/restricted conditions without new junction assembly | Detailed palaeotopography, ecological resistance and demographic exchange frequency |
+| **H08** | Later human-form divergence; exact bounds not fixed | Productive peripheral C4 network survives glacial variation; C3 west/east sister cores retain intermittent contact | C4 route lies ~31.70–45.58°S and passes bounded refugia tests; C3 relief-state model allows both contact and restriction; plate parentage is coherent | Time-dependent C4 ice/climate/elevation and explicit C3 drainage/relief/hydroclimate |
+| **H09** | ~0.35–0.15 Ma | Recurrent archipelagic maritime culture develops while persistent islands/water separation remain | Eastern island network and deep-water channels persist in the bounded model; no universal land shortcut is introduced | Currents, return-voyage feasibility, island resources and maritime-demographic model |
+| **H10** | ~35–20 ka | Later principal American founding uses a second land/coastal opening | Same old northern shelf/JX1 substrate as H06; separate late access state is explicit and robustly exposed in bounded samples | High-resolution local RSL, bathymetry, ice/climate and first-contact terrain |
+| **H11** | ~20–5 ka | Expansion uses paired-continent watersheds, volcanic hinge, highland spine, equatorial basin and later coastal/maritime bypasses | C1/C2 interiors and JX1 remain connected; no late continental assembly is required | Dated river basins, volcanic/highland relief, coastlines and regional climates |
+| **H12** | ~5 ka–present and preceding snapshots | C6, remote islands and changed margins remain consistent with fauna, flora, climate and circulation | C6 retains inherited continental nucleus and paleolatitude scaffold; no human-route exception is used to waive geological review | Island/crust provenance, ocean gateways, circulation, aridity/rain shadows and biogeographic audit |
 
-Ma means million years; ka means thousand years. Broad intervals are adopted fictional windows, not instructions to make a route continuously passable throughout the entire interval. Undated commitments remain undated until the project supplies or develops their chronology.
+Broad founding intervals do not require a corridor to be continuously easy throughout the entire window. They require enough suitable intervals to support the adopted population process while the intervening restrictions remain consistent with differentiation.
 
-## Geological sequence to develop
+## Accepted historical substitutions and repairs
 
-The following is a **proposed reconstruction scaffold**, not newly accepted geological canon:
+### C4 ancestral exit substitution
 
-| Working interval | Allowed work | What cannot be deferred to this interval |
+The old source-frame exit near `(32, 30)` transforms to roughly 60°S around the relevant late-Cenozoic period and imposed an unnecessary polar-route dependency.
+
+It is now explicitly replaced by `C4_MARGINAL_CORRIDOR`, an old western/northwestern foreland/microcontinental province whose regenerated native latitude is approximately 31.70–45.58°S. The surface province is mostly inherited/reworked crust; its authored representative block motion is complete by 8 Ma.
+
+This substitution is accepted at the **crustal/kinematic necessary-condition level**, not yet at full climate/habitat level.
+
+### Eastern crossing repair
+
+The initial Strategy A shelf-to-island geometry retained a ~188 km first water leg. This was rejected as an unnecessary burden on repeated 1.0–0.6 Ma founding.
+
+Two small old arc/microcontinental stepping blocks were added. They do not create a land bridge. The resulting water legs are ~54.65, 28.30 and 75.01 km, and deep sill scenarios remain marine. Their final shelf-relative block geometry is established by 2 Ma.
+
+This repair is accepted at the **geometry/plate/bounded-bathymetry level**, with voyage ecology still open.
+
+### C3 shelf-head root repair
+
+After equal-area resizing, the shelf-cradle anchor lay on land but was disconnected from the C3 eastern core. Only the western root of the shelf head was extended into C3. The eastern nose and all three marine barriers were retained.
+
+This is a local continental-platform repair, not a new migration shortcut.
+
+## Crustal and plate-history standard
+
+Changed coastlines are not automatically new or destroyed continental crust. Strategy A now distinguishes:
+
+- inherited rigid nuclei/platforms;
+- old shelf and microcontinental blocks;
+- rifted/stretched transitional crust;
+- deforming collision/junction networks;
+- limited juvenile arc/suture crust;
+- emergence/submergence caused by freeboard history.
+
+The first plate audit uses both MERDITH2021 and MULLER2022 inherited point circuits at 0, 2 and 23 Ma. It also validates authored finite rotations and crustal-provenance budgets.
+
+Current plate-scale result: **PASS for necessary conditions.** This means no current evidence forces Strategy B or a coastline revision. It does not establish a unique plate reconstruction.
+
+## Route testing standard
+
+For every dated route, evaluate the full sequence from source habitat to destination habitat, including hinterlands. Record:
+
+- crustal substrate and block history;
+- ground elevation and local relative sea level;
+- bathymetric sill/channel depth;
+- river/freshwater availability;
+- seasonal food and climate;
+- ice/glacier extent where relevant;
+- travel mode, currents/winds and voyage duration for marine legs;
+- founder size and demographic persistence where relevant.
+
+A terrestrial cell is passable only when ground elevation, local sea surface, ice state and habitat jointly allow it. A global sea-level curve applied to a static coastline is insufficient.
+
+Positive and negative tests are equally important:
+
+- required founding routes must open when needed;
+- intervening isolation must not be accidentally erased;
+- required deep-water channels must survive lowstands/local uplift;
+- limited contacts must remain possible where canon requires them;
+- alternative coastal bypasses must be audited;
+- wildlife guilds must be assessed separately from human travel capability.
+
+There is no universal safe water-crossing distance.
+
+## Geological sequence now adopted as the working reconstruction scaffold
+
+| Interval | Current reconstruction role | Still prohibited |
 | --- | --- | --- |
-| Older than roughly 150 Ma | Establish continental nuclei, old sutures, carbonate platforms and the deeper histories of inherited biota | Claiming that a present outline reveals its actual crustal ancestry |
-| Roughly 150–50 Ma | Different breakup geometry, marginal block separation, accretion and relative motions create the large shape differences | Producing millions of km² of continental land without accounting for crust or submerged continental shelves |
-| Roughly 50–5 Ma | Develop active-margin relief, rift basins, offshore fragments, shelf architecture and major drainage divides | Assuming all altered gateways leave rainfall and circulation unchanged |
-| Before 1.9 Ma | Make the ancestral mainland–shelf route and cradle physically available by their required dates | A younger island, platform or pass cannot support an older founding |
-| 1.9 Ma to present | Evolve regional uplift/subsidence, erosion, deposition, sea level, ice and habitat networks; reconstruct each dated event and intervening barriers | Freezing every coastline for two million years, or invoking rapid continental-scale relocation to repair a migration |
-
-Age bounds above are flexible design stages. They must be replaced with compatible block histories; they are not evidence that such a history has already been fitted. Earlier life may require much older connections than the population ledger currently specifies.
-
-## How to test a route through time
-
-For each route, use a connected sequence from the source population's habitat to viable destination habitat. Include the entire approach and departure hinterland, not just the narrow crossing. Record island emergence ages, elevations, bathymetric sills, substrate, freshwater, seasonal food, surface climate and allowed travel behavior.
-
-A terrestrial cell needs its ground elevation to exceed the local relative sea surface at the relevant time. Both vary: ground elevation reflects tectonics, isostasy, erosion and deposition; local sea level reflects ocean-volume and regional effects. A global sea-level number added to a static present coastline is insufficient. Broad map resolution cannot establish whether a narrow passage is land or water.
-
-Run both positive and negative checks:
-
-- A required migration has a viable route during its founding window, with enough duration and resources for the adopted population process.
-- The period between founding events has the appropriate restrictions. A new coastline must not provide an unexamined, permanently easier bypass.
-- Required deep-water isolation survives plausible lowstands and local vertical motion.
-- Required limited contacts remain possible. Making all barriers absolute also breaks canon.
-- The same geometry is evaluated for relevant wildlife guilds: terrestrial large animals, small rafting-capable animals, flying organisms, plants and freshwater organisms. A human boat route is not a substitute for river continuity or a terrestrial fauna exchange.
-
-Do not set a universal “safe crossing distance.” Required craft, currents, winds, duration, water, landing conditions and founder demography differ by route and era. The H-E short-water premise particularly needs examination: the unchanged reference archipelago contains consequential water gaps. This is a pre-existing unresolved plausibility obligation, not a problem solved by retaining its outline.
-
-## Standard for a historical substitution
-
-A substitution dossier must state the displaced old route, source and destination populations, date window and new geographic path. It must then establish:
-
-1. The replacement terrain exists early enough and has a coherent crustal and elevation history.
-2. Its crossing demands match the established behavior and technology for that period.
-3. Its habitats, freshwater and duration support the intended founding process rather than one lucky arrival.
-4. Later closure or filtering maintains the required separation and permitted recontacts.
-5. It does not create incompatible wildlife exchanges, a new route bypassing established contact order, or an unreviewed ocean gateway.
-6. It works alongside all other dated routes in a single geological history.
-
-No substitution is accepted in this study. The earlier relocated hinge is deferred. The modern paired connection and its hinterland are retained as controls; their full earlier topography is still to be reconstructed.
+| >66 Ma and older deep time | Establish old nuclei, platforms, sutures, microcontinents and inherited biotic histories | Treating present coastline as crustal provenance |
+| ~66–30 Ma | Inherited plate circuits carry old blocks toward the late-Cenozoic configuration; rifting/accretion reorganize margins | Manufacturing millions of km² of young continental crust to match outlines |
+| ~30–12 Ma | JX1 and C4–C3 assembly/deformation reorganize old/reworked substrate; JX1 representative block reaches final orientation by 12 Ma | Keeping a rigid JX1 block welded simultaneously to both moving continents |
+| ~12–8 Ma | JX1 major block reorientation is complete; C4 corridor representative block finishes by 8 Ma | Deferring gateway-forming continent-scale motion into human evolution |
+| ~8–2 Ma | Regional uplift/subsidence, shelf evolution and small eastern block rotations; stepping blocks reach final geometry by 2 Ma | Creating H02/H03/H04 terrain after the populations need it |
+| **1.9 Ma–present** | Boundary slip, uplift, subsidence, erosion, volcanism, glaciation, local RSL and habitat evolution | Continental-scale/gateway-forming motion used as a migration repair |
 
 ## Next implementation and acceptance order
 
-1. Inventory existing geological and wildlife requirements across project documents. Attach each dated or undated constraint to a location, population/clade and source decision. Do not infer Earth-wide fossil histories from authorial analogue names.
-2. Fit crustal blocks, motions and boundaries to the redesigned envelopes. Check overlaps, gaps, crustal provenance and the C2 offset/hinge relationship. Revise a silhouette if that combination fails.
-3. Build dated topographic and bathymetric models for the migration sectors, with uncertainty ranges and both approaches included. Choose earliest snapshots before each founding and sample both ends and interior portions of each window. Also sample intervening isolation periods and transitions; endpoint-only checks miss brief breaches or late emergence.
-4. Bound Erde's own ice storage and sea-level variation, then assess likely habitat continuity, catchments and ocean gateways. Do not import Earth's glacial timetable solely because an authorial reference is called Bering or Sahul.
-5. Evaluate all ledger rows against the same reconstruction. Revise the responsible margin, shelf or relief model and repeat affected downstream checks. A failed historical requirement rejects that version of the affected design.
-6. Only then update the atlas, native migration overlays and public geographic descriptions together. Preserve the source crosswalk authorially.
+1. Build spatial crustal-thickness/stretching fields for all redesigned continental margins and major marginal provinces.
+2. Build deforming topological meshes for JX1 and the C4–C3 collisional corridor, preserving rigid interiors and the validated late-Cenozoic parent relations.
+3. Build a time-indexed palaeoelevation/freeboard model explaining the large gross redistribution of emerged land without changing total continental-crust area arbitrarily.
+4. Couple U1–U4 to that shared geometry: C4 ice/climate, northern local RSL, eastern bathymetry/voyage, and C3 relief/drainage.
+5. Audit wildlife, freshwater and ocean-circulation consequences against the same snapshots.
+6. Only after those coupled tests pass should the atlas and public geographic descriptions be considered for coordinated promotion.
 
-This study has completed the global outline comparison and repaired identifiable present-day disconnections. Steps 1–5 above are not represented as finished. The candidate therefore remains unsuitable for canon promotion under the user's historical acceptance rule.
+## Failure policy
 
-## Scientific grounding and limits
+If a higher-fidelity test fails:
 
-- [USGS, Understanding plate motions](https://pubs.usgs.gov/gip/dynamic/understanding.html): plate boundaries and relative motions provide the physical framework for breakup and assembly. This does not supply an Erde plate reconstruction.
-- [McNeill et al. (2019), High-resolution record reveals climate-driven environmental and sedimentary changes in an active rift](https://www.nature.com/articles/s41598-019-40022-w): the Corinth record illustrates how evolving basins and sills interact with sea-level cycles. This supports examining local vertical history instead of treating a modern coast as a fixed historical boundary.
-- [Bird et al. (2019), Early human settlement of Sahul was not an accident](https://www.nature.com/articles/s41598-019-42946-9): voyage and demographic modeling shows why visibility or occasional drift alone cannot establish viable colonization. Its Earth geography and much later anatomically modern human populations do not validate Erde's earlier shelf-human founding. In particular, Earth's reference island system is not an all-land route at low sea level.
+- diagnose the exact block, margin, sill, deformation zone or elevation field causing the contradiction;
+- make the smallest geologically natural correction there;
+- rerun affected downstream constraints;
+- preserve the rest of Strategy A.
 
-These sources support methods and mechanisms. The candidate outlines, speculative chronology scaffold and fictional population dates are authorial constructions, not findings from those papers.
+Invoke Strategy B only for a genuine C1–C2 kinematic incompatibility that cannot be accommodated by a physically plausible JX1 deforming network.
+
+## Evidence boundary
+
+External plate models and Earth analogues constrain reconstruction method, plausible tectonic rates, crustal accounting and process families. Erde's exact blocks, Euler poles, surface histories, founding dates and ecological histories remain authored hypotheses. A validator pass means no contradiction was found within that validator's stated scope; it is not proof that the reconstruction is unique or complete.
