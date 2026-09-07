@@ -1,89 +1,160 @@
-# Erde: worldwide continental redesign study
+# Erde: worldwide continental redesign and reconstruction study
 
-Status: **authorial silhouette candidate, not adopted geography or a validated historical reconstruction**. This study follows the rejected subtle changes in the [offset trial](../geography-trial/README.md) and [gulf trial](../coast-trial/README.md). It applies the user's correction to all six continental groups. The public atlas remains the reference map while this alternative is evaluated.
+Status: **Strategy A passes the current dated-geometry, bounded physical, and crustal-block necessary-condition suites. It is still a reconstruction candidate, not adopted public geography and not a complete geodynamic/climate reconstruction.**
 
-The additional acceptance rule is binding: **a modern junction cannot compensate for a broken historical connection. A replacement must work during the original migration interval and retain the necessary intervening isolation.** Unknown historical feasibility is not a pass. See the [history and acceptance ledger](HISTORICAL-CONSTRAINTS.md).
+This study replaces the earlier worldwide draft that combined a 6° C2 rigid offset with restored Earth-reference guard sectors. That approach is rejected because a modern connected coastline cannot substitute for a dated geological history. The current design preserves visibly different C1–C6 outlines while requiring every historically important route, barrier, and junction to exist at the date when the population history needs it.
 
-## Geological validation result
+The controlling files are:
 
-The [completed geological review](GEOLOGICAL-VALIDATION.md) recovers the original Drive framework and tests ten inherited locations at twelve epochs in two named plate models. It supports the late-Cenozoic polar core, identifies older latitude claims requiring revision, and quantifies substantial land redistribution hidden by the modest net area increase. The exact candidate **does not yet pass historical validation**: its crustal-block, gateway, relief and habitat histories remain incomplete. The new calculations are reproducible from saved inputs and API responses.
+- [`dated-constraint-graph.json`](dated-constraint-graph.json): H01–H12 chronology, dependencies, and negative constraints;
+- [`reconstruction-model.json`](reconstruction-model.json): current Strategy A reconstruction objects and unresolved high-fidelity gates;
+- [`physical-test-model.json`](physical-test-model.json): bounded sea-level, crossing, ice/refugia, and relief-state tests;
+- [`plate-block-model.json`](plate-block-model.json): inherited rigid blocks, deforming boundary provinces, finite rotations, and crustal-provenance/freeboard accounting;
+- [`PLATE-RECONSTRUCTION.md`](PLATE-RECONSTRUCTION.md): scientific interpretation of the plate-scale pass.
 
-## Visual comparison
+## Current Strategy A
 
-![Previous and candidate silhouettes in the same Equal Earth projection](01-world-silhouettes.png)
+### C1–C2: JX1 junction province
 
-The large bodies now have different proportions, lobes, coastal orientations and embayments. The broad global arrangement still resembles the reference; the design deliberately retains its major continental neighborhoods. This is a stronger silhouette experiment, not a claim that recognition has been eliminated. The smooth new edges are broad design envelopes. They must acquire coherent coastal geology before becoming finished atlas coastlines; adding random detail would not establish that geology.
+C2 receives **no additional Euler rotation**. JX1 is a broad C1–C2 junction province consisting predominantly of old microcontinental and reworked continental-margin substrate, with a narrower younger arc/suture system. Major authored block reorientation is complete by 12 Ma. A continuous terrestrial neck is modeled by about 3.2 Ma through uplift/freeboard evolution, not through late continent assembly.
 
-![Six redesigned bodies compared with their original footprints](02-six-body-comparison.png)
+Continuing small C1–C2 relative motion is absorbed inside a deforming transpressional/subduction-transform network. The geometry needed for H06, H07, H10 and H11 therefore predates the 1.9 Ma human-route cutoff.
 
-C1–C6 are diagram identifiers, not proposed native names. Earth references below are an authorial crosswalk only. Each local panel uses one equal-area projection for both outlines; the six panels do not share a common scale. Their orientation also differs from the global map. The local panels close sub-pixel projection seams with a 1 m display-only buffer; this does not alter the exported geography or validate any narrow channel. Reference partitions approximate continental groups and do not sum exactly to a complete world inventory.
+### C4–C3: lower-latitude marginal corridor
 
-| Group | Authorial crosswalk | Broad shape change | Geological explanation to develop, not yet a reconstruction |
-| --- | --- | --- | --- |
-| C1 | North American-derived | Broader curved body, different outer headlands and embayments; familiar northern fragmentation and eastern projections reduced | Different ancient rift margins and accreted coastal blocks; preserve the approach hinterland and a connected interior. New continental shelf area needs inherited continental crust or accreted material, not unexplained sediment fill across deep ocean. |
-| C2 | South American-derived | Shorter, wider, asymmetric body instead of a long taper; expanded flank, indented opposite margin | Different early breakup and marginal-block history; an oblique active margin supports a relocated highland chain. Retain a large basin and reconstruct its catchment and outlet. |
-| C3 | Eurasian-derived | Fewer familiar narrow peninsulas; broader, differently oriented coastal lobes and recesses | Different collision angles, terrane assembly and rift basins; keep both continental population cores and routes into the shelf cradle and external approach. |
-| C4 | African-derived south-polar continent | Changed taper and embayed outer body | Ancient peripheral extension, inherited crustal blocks and later basin flooding, while maritime ancestral refuges and their outbound land route survive. Reshaped polar land can change ice storage and global sea level. |
-| C5 | Australian-derived island continent | Oblique, lobed body with different ends and coastal recesses | Different rift inheritance and marginal subsidence, retaining the highland/shelf neighborhood. A continental shelf must be designed separately from the visible coastline. |
-| C6 | Antarctic-derived equatorial continent | Asymmetric lobed body with a different peninsula pattern | An alternative ancient rift-margin configuration and differential basin subsidence. Review isolation, forest habitat and ocean gateways even though its population history is less specified. |
+The former ancestral-exit control near ~60°S is not retained. It is replaced by a western/northwestern C4 marginal route whose regenerated native latitude spans approximately **31.70–45.58°S**.
 
-These are a menu of ordinary mechanisms matched to design problems. They do not yet demonstrate a single compatible plate circuit. The magnitude of several changes exceeds the original proposal's “small differences.” This version requires a substantially different older crustal history; it cannot honestly be explained solely by a modest recent plate offset.
+The ~3.75 million km² surface envelope is not interpreted as young accreted crust. It is mainly old foreland, microcontinental and reworked C4/C3 margin substrate reorganized by a younger collisional suture/thrust network. Its representative foreland-block reorientation is complete by 8 Ma.
 
-## Measurements and actual checks
+### C3 southeast shelf and eastern islands
 
-The script computes spherical areas using the atlas radius and compares both worlds in the same Equal Earth projection.
+The legacy-named `C5_SHELF_HEAD` is kinematically assigned to the **C3 southeast shelf block**, not to the C5 nucleus. Its western root connects to C3 while its eastern edge remains separated from the island radiation.
 
-| Measurement | Result | Interpretation |
-| --- | ---: | --- |
-| Reference land area | 147.26 million km² | Area of the bundled generalized source geometry, not a new measurement of Earth |
-| Candidate land area | 153.52 million km² | Includes candidate islands and restored local control sectors |
-| Land-area change | +4.25% | Reduced from an unintended +18.44% first draft; climate equivalence still cannot be assumed |
-| Candidate planetary land fraction | 30.10% | Broadly similar land/ocean balance, with different regional distribution |
-| Continental footprint intersection/union | 0.48–0.72 | Spatial difference, not a score for visual originality or geological plausibility |
-| Region locators on land | 11 of 11 | Representative samples only |
-| Paired-continent interior continuity | Pass | All five interior samples share a current connected land polygon |
-| Approach and hinterland continuity | 4 of 4 | Includes both external approaches on their respective continents, the ancestral exit and mainland access to the shelf region |
-| Polygon validity | Pass | Computational geometry only |
-| Historical migration and isolation validity | **Unresolved** | No dated topography/bathymetry or complete ecological reconstruction exists yet |
+The original ~188 km first required water leg failed the repeated-founding plausibility audit. Two small old arc/microcontinental stepping blocks were added instead of a land bridge. Regenerated coastline-to-coastline gaps are approximately:
 
-The external intercontinental crossing is intentionally **not** tested as a present land bridge. Its emergence is a dated requirement. Similarly, a present sea gap around the shelf islands does not demonstrate its former depth or crossing difficulty.
+- **54.65 km**;
+- **28.30 km**;
+- **75.01 km**.
 
-## What was repaired during review
+The stepping islands are approximately **445.8 km²** and **582.2 km²**. Their authored relative rotations finish by 2 Ma. Deep-channel scenarios remain marine even at the bounded -130 m lowstand test, preserving H03/H09 isolation while reducing the burden on H04 repeated founding.
 
-1. **The first redraw increased land area by about 18%.** Root cause: broadly drawn replacement bodies enlarged several groups at once. The new C3, C4 and C5 envelopes were resized in local equal-area coordinates before the historical control sectors were restored. This is a drafting operation, not a proposed physical shrinkage of rock. The revised total is about 4% above the reference.
-2. **The paired junction survived locally but lost an approach outside the protected sector.** Root cause: protecting the junction alone ignored the route feeding it. The retained sector now includes its northern hinterland, and the southern attachment is covered. The connected-interior check now passes.
-3. **The eastern external approach was cut off by the broader C3 redesign.** Its hinterland is now retained too. It connects to the western and eastern continental cores in the current outline.
-4. **Two illustrative region markers were offshore.** The ancestral-refuge and shelf-cradle locators were corrected to inland regional samples. This is a marker repair, not evidence that habitats were preserved. Mountain and basin locators also remain design placeholders; moving a marker does not move a real catchment or prove a replacement mountain range.
-5. **The earlier speculative replacement hinge lacked a demonstrated history.** It is excluded from this candidate. The existing hinge region is the conservative control pending a dated reconstruction. No late-emerging island arc is substituted for an older land migration.
-6. **Present-day checks could be mistaken for historical acceptance.** The history ledger now includes the earliest mainland–shelf divergence, founding windows, later contact and required isolation, plus older wildlife and geological obligations. All unresolved historical gates remain visibly open.
+### Northern approach
 
-## How the local controls work
+The northern American approach is an old shelf/microcontinental-high system separated by a shallow sill, **not a newly assembled bridge plate**. Distinct H06 and H10 access episodes are produced by relative sea level and bathymetry on old substrate, with intermittent H07 access between them.
 
-Nine overlapping geographic sectors retain the reference land mask around sensitive approaches, the ancestral refuge and exit, and the shelf/island radiation. Their centers and radii are recorded in [design-controls.json](design-controls.json). They are drafting controls, not circular geological units, political boundaries or complete routes.
+## Validation status
 
-The final mask differs from the reference within those sectors by approximately 3.9 km² over 7.11 million km² of retained land, a very small polygon-operation residual. This is not exact coastline preservation. At this generalized map scale that discrepancy cannot resolve a narrow channel. Any historically decisive strait or passage needs its own higher-resolution geometry and depth profile.
+The current branch has five reconstruction layers. A pass means the tested necessary conditions are internally consistent; it does not mean the remaining high-fidelity physics have been solved.
 
-Crucially, this procedure preserves **only a modern land mask**. It does not preserve submerged shelves, sill heights, uplift/subsidence histories, river access, weather or founder viability. Even unchanged coastlines can become ecologically different when distant land or ocean gateways change.
+| Layer | Current result | What it establishes |
+| --- | --- | --- |
+| Dated constraint graph | **PASS** | H01–H12 objects, dependencies, ages, negative constraints, and pre-1.9 Ma motion rule are internally consistent |
+| Regenerated structural geometry | **PASS** | all 11 established anchors are on land; required land-component connections exist; eastern water barriers remain water |
+| Bounded physical model | **PASS** | northern access states, eastern crossing geometry, C4 peripheral refugia scenario, and C3 contact/filter state are mutually consistent |
+| Geological necessary-condition audit | **PASS** | current Strategy A geometry/provenance assumptions do not reproduce the rejected C2 offset or violate the tested land/crust/polar constraints |
+| Crustal-block / plate history | **PASS** | inherited rotation circuits, authored finite rotations, gateway parent-block drift, juvenile-crust budget, and global continental-crust accounting satisfy the current bounds |
 
-![Candidate region locators](03-world-constraints.png)
+`full_geological_validation` remains **false** because spatial crustal-thickness, deformation, palaeoelevation/freeboard, local bathymetry, climate/ice, and hydrodynamic models are still incomplete.
 
-## Consequences requiring a decision before adoption
+## Plate-block reconstruction result
 
-- The broadening and shortening of C2 alter latitude coverage, ocean exposure and likely catchment geometry. A new active-margin highland chain must have the appropriate age and elevation before regional differentiation. Retaining five region markers is insufficient.
-- C3's new coastal geometry changes maritime access and inland distances. Western/eastern contact must remain intermittent and ecologically filtered, including any unexpected coastal bypasses.
-- The new C4 polar outline can change ice-sheet extent and ice discharge. This affects the sea-level windows needed on other continents and must be evaluated globally.
-- C5's revised coast must leave a feasible earlier approach to shelf-human habitats and preserve partial highland isolation. Large nearby islands cannot be linked indiscriminately to make migration easier.
-- C6 and the changed outlying islands need a wildlife provenance audit. No human migration record does not mean an absence of historical constraints.
-- The C2 finite offset is a drawing hypothesis. Its relationship to the retained hinge requires a block-motion and deformation history. A rigid rotation plus a pasted modern junction is not itself that history.
+The main plate-scale correction was interpretive rather than geometric. JX1, the C4 corridor, and the shelf head are too large to be plausibly treated as wholly young terranes. The current provisional crustal budgets are therefore:
 
-## Reproduction and files
+- **JX1:** 88% inherited/reworked crust, 10% juvenile arc crust, 2% young cover;
+- **C4 corridor:** 92% inherited/reworked crust, 6% juvenile arc/suture crust, 2% young cover;
+- **C3 southeast shelf head:** 97% inherited/reworked crust, 2% juvenile arc crust, 1% young cover.
 
-From the repository root, with the optional pinned atlas dependencies installed:
+Across all modeled synthetic provinces, juvenile continental crust totals approximately **544,762 km²**, about **0.259%** of the ~210.4 million km² Earth-analogue continental-crust inventory used for the accounting test.
+
+The inherited MERDITH2021 and MULLER2022 controls also pass the late-Cenozoic rigid/slow-block tests:
+
+- C3 west/east pair-distance drift through 23 Ma is only metre-scale in both reference models;
+- C4 core/refuge/exit pair distances likewise remain effectively rigid at the sampled epochs;
+- the C3 southeast shelf differs from C3 east by only about **43.2 km** over 23 Myr;
+- C1/C2 parent separation changes by about **9.3 km** over 0–2 Ma;
+- C4/C3 corridor parents by about **5.5 km**;
+- northern-approach parents by about **1.25 km**.
+
+The authored synthetic block rotations imply representative stage speeds of roughly **1.4–2.7 cm/yr**, below the project's conservative 5 cm/yr relative-block cap.
+
+## Land and continental-crust accounting
+
+The verified Cartopy regeneration gives:
+
+| Measurement | Strategy A result |
+| --- | ---: |
+| Generalized reference land | **147.26 million km²** |
+| Candidate emerged land | **158.64 million km²** |
+| Net emerged-land change | **+7.73%** |
+| Candidate planetary land fraction | **31.10%** |
+| Gross changed land/water locations | **~52.1% of reference land area** |
+
+The +7.73% emerged-land increase is **not** modeled as +11.38 million km² of newly generated continental crust. The plate audit uses an Earth-analogue total continental-crust inventory of about **210.4 million km²**. Under that accounting:
+
+- candidate land is about **75.4%** of the target continental crust;
+- about **51.76 million km²** of continental crust remains submerged;
+- required net new continental crust = **0 km²**.
+
+The unresolved problem is therefore the **freeboard history**: why these particular shelves/platforms are emergent or submerged through time, not how to manufacture enough crust.
+
+## Failures repaired during Strategy A validation
+
+1. **Artificial C2 rotation and guard-sector restoration.** Rejected. C2 now uses its authored silhouette without a 6° offset, and historically important regions are explicit dated reconstruction objects rather than pasted reference coastline.
+2. **C4 route missed C3 after equal-area resizing.** The C4 marginal envelope was widened locally and retested; no broader silhouette retry was required.
+3. **Eastern first water leg was ~188 km.** Two small old stepping blocks reduced the three actual crossings to ~54.65, 28.30 and 75.01 km while preserving deep-water isolation.
+4. **Shelf cradle was on land but disconnected from the C3 eastern core.** Only the western root of the shelf head was extended into the resized C3 margin; its eastern water barriers were retained.
+5. **Broad surface provinces were implicitly described as young terranes.** Their coastlines were retained, but their crustal provenance was corrected to predominantly inherited/reworked continental substrate.
+6. **The old geological validator still expected the removed C2 offset.** The validator was migrated to Strategy A instead of modifying geography to satisfy obsolete code.
+
+## Remaining high-fidelity gates
+
+The next work is deliberately **not another silhouette pass**.
+
+### U1 — C4 ice and climate
+
+Build a time-dependent elevation/ice/climate solution for the bounded 32–46°S peripheral-refugia behavior. Redraw C4 only if that higher-fidelity model specifically fails the route.
+
+### U2 — northern local relative sea level
+
+Build local bathymetry, eustasy, glacio-isostatic adjustment, tectonic/isostatic subsidence/uplift and geoid sensitivity for H06/H07/H10. Do not add new continent-scale motion.
+
+### U3 — eastern bathymetry and voyaging
+
+Build dated shelf/channel cross-sections plus wind/current/voyage simulations for the 54.65/28.30/75.01 km network. Do not add more islands unless the higher-fidelity model specifically fails.
+
+### U4 — C3 relief and drainage
+
+Build explicit relief, deforming-suture topography, drainage and hydroclimate capable of producing intermittent west/east contact without a permanent bypass.
+
+### U5 — spatial deformation and freeboard
+
+The first plate-block necessary-condition test now passes. The remaining plate-scale work is to:
+
+1. assign spatial crustal-thickness and stretching grids to redesigned margins;
+2. replace schematic JX1 and C4–C3 boundaries with deforming topological meshes;
+3. construct time-indexed palaeoelevation/freeboard capable of explaining roughly 44 million km² of new land locations and 33 million km² of former land locations;
+4. couple U1–U4 to that common geometry;
+5. invoke mantle/dynamic-topography modeling only if regional crustal thickness, rifting, isostasy, orogenic uplift, sediment loading and thermal evolution cannot close the freeboard history.
+
+Strategy B remains reserved for a genuine C1–C2 kinematic incompatibility that survives local repair inside the JX1 deforming network.
+
+## Reproduction
+
+With the pinned atlas dependencies installed, from the repository root:
 
 ```sh
-python scripts/editorial/try_erde_global.py
+ERDE_GEOMETRY_ONLY=1 python scripts/editorial/try_erde_global.py
+python scripts/editorial/validate_erde_constraint_graph.py
+python scripts/editorial/validate_erde_physical_tests.py
+python scripts/editorial/validate_erde_history.py
+python scripts/editorial/check_erde_paleolatitudes.py
+python scripts/editorial/validate_erde_plate_blocks.py
 ```
 
-The script uses the bundled reference geography and generates the three PNG/SVG comparisons, `candidate-geography.geojson`, `design-controls.json` and `measurements.json`. `ERDE_GEOMETRY_ONLY=1` runs the geometry checks without rendering. The GeoJSON coordinates use the existing **native Erde longitude/latitude frame**, not Earth coordinates; the reference-frame control vertices are explicitly labeled separately. No network download is needed for generation.
+A normal `python scripts/editorial/try_erde_global.py` additionally renders the comparison maps.
 
-[HISTORICAL-CONSTRAINTS.md](HISTORICAL-CONSTRAINTS.md) defines the next reconstruction and its acceptance gates. [The original proposal](../ERDE-GEOGRAPHIC-DIVERGENCE-PROPOSAL.md) remains the earlier design record. No public names, population histories or deployed atlas geometry are changed by this study.
+The PR workflow runs the same reconstruction stack against regenerated outputs before the normal site/browser checks. Because generated map files are not automatically committed by CI, a committed `candidate-geography.geojson`, `measurements.json`, or rendered image must not be treated as branch-head evidence when `design-controls.json` marks `generated_outputs_current: false`. The successful workflow artifact is the verified generated snapshot for that run.
+
+## Evidence boundary
+
+The external Earth literature and GPlates models constrain mechanisms, plausible rates, continental-crust accounting, and reconstruction methodology. Erde's exact coastlines, Euler poles, block fractions, dates, palaeoelevation and migration history remain authored hypotheses. Passing the current validators means no contradiction was found at the tested level; it does not establish uniqueness or full geodynamic truth.
