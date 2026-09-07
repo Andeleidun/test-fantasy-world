@@ -2,6 +2,8 @@
 
 **Result: revised outlines and a more explicit, partially tested geological scenario. The candidate passes the reported geometry and parameter-consistency checks, but it does not yet pass every historical acceptance requirement.** The public atlas has not been replaced.
 
+The subsequent [dated constraint graph and execution plan](../continental-constraint-graph/README.md) now governs the next reconstruction pass. It retains the historical obligations while allowing Erde-specific relative rotations, peninsulas and replacement junctions. The rotation removal and inherited paths below describe this tested candidate, not permanent restrictions on future designs. The graph passes chronological consistency checks; it does not retrospectively validate this candidate's unresolved physical history.
+
 This study implements changes rather than repeating the earlier list of missing evidence. It compares three margin alternatives, removes the unsupported extra rotation of the southern paired continent, supplies a western ancestral-route substitution, redraws the highland/headwater scaffold, and tests a mapped shelf route. A failed long-water crossing was replaced and tested again. The retained limitations are substantive; changing a label from “unknown” to “pass” would not resolve them.
 
 ## Updated outlines
