@@ -76,11 +76,14 @@ for c,(center,factor) in sizing.items():
     native[c]=make_valid(FRAME.project_geometry(resized,GEO))
 
 # Explicit old marginal terranes replace the former Earth-reference guard patches.
-# Their chronology is defined in reconstruction-model.json.
+# Their chronology and physical roles are defined in reconstruction-model.json and
+# physical-test-model.json.
 terrane_sources={
  'JX1_ISTHMIAN_TERRANE':outline([(-99,19),(-94,23),(-87,22),(-81,18),(-76,13),(-71,10),(-72,5),(-77,4),(-82,7),(-86,11),(-92,13),(-98,15)],1),
  'C4_MARGINAL_CORRIDOR':outline([(-24,14),(-26,20),(-23,28),(-18,35),(-12,40),(-6,43),(0,44),(8,43),(5,38),(-2,35),(-8,31),(-13,27),(-16,21),(-17,16)],1),
- 'C5_SHELF_HEAD':outline([(105,3),(110,4),(113,2),(113,-1),(111,-4),(107,-2)],1)}
+ 'C5_SHELF_HEAD':outline([(105,3),(110,4),(113,2),(113,-1),(111,-4),(107,-2)],1),
+ 'EASTERN_STEPPING_TERRANE_A':outline([(113.21,-1.33),(113.33,-1.21),(113.45,-1.33),(113.33,-1.45)],1),
+ 'EASTERN_STEPPING_TERRANE_B':outline([(113.54,-1.66),(113.66,-1.54),(113.78,-1.66),(113.66,-1.78)],1)}
 terranes={name:make_valid(FRAME.project_geometry(g,GEO)) for name,g in terrane_sources.items()}
 land=make_valid(unary_union([*native.values(),*islands,*terranes.values()]))
 
@@ -91,13 +94,18 @@ structural_connectivity={
  'paired_continent_interiors_via_JX1':connected([anchors[n] for n in join_names]),
  'c4_refuge_to_c3_western_core':connected([anchors['ancestral_refuge'],anchors['west_contact']]),
  'c3_eastern_core_to_shelf_cradle':connected([anchors['east_contact'],anchors['shelf_cradle']])}
-shelf_point,island_point=nearest_points(terranes['C5_SHELF_HEAD'],islands[1])
-_,_,shelf_gap_m=GEOD.inv(shelf_point.x,shelf_point.y,island_point.x,island_point.y)
+
+# Measure the repaired eastern water route as actual coastline-to-coastline gaps.
+eastern_chain=[terranes['C5_SHELF_HEAD'],terranes['EASTERN_STEPPING_TERRANE_A'],terranes['EASTERN_STEPPING_TERRANE_B'],islands[1]]
+eastern_water_gaps_km=[]
+for left,right in zip(eastern_chain,eastern_chain[1:]):
+    p1,p2=nearest_points(left,right);_,_,d=GEOD.inv(p1.x,p1.y,p2.x,p2.y);eastern_water_gaps_km.append(d/1000)
 c4_lats=[tr(*p)[1] for p in [(-24,14),(-26,20),(-23,28),(-18,35),(-12,40),(-6,43),(0,44),(8,43),(5,38),(-2,35),(-8,31),(-13,27),(-16,21),(-17,16)]]
-assert land.is_valid and all(checks.values()) and all(structural_connectivity.values()) and shelf_gap_m>0
+assert land.is_valid and all(checks.values()) and all(structural_connectivity.values())
+assert all(gap>0 for gap in eastern_water_gaps_km) and max(eastern_water_gaps_km)<80
 
 metrics={
- 'status':'dated reconstruction Strategy A; geometry checks pass, physical histories remain conditional',
+ 'status':'dated reconstruction Strategy A; geometry and bounded physical checks integrated',
  'global_land_area_km2':area(land),
  'baseline_land_area_km2':area(baseline),
  'land_area_change_percent':100*(area(land)/area(baseline)-1),
@@ -105,11 +113,12 @@ metrics={
  'valid_land':land.is_valid,
  'anchors_on_land':checks,
  'structural_connectivity':structural_connectivity,
- 'c5_shelf_to_first_island_gap_km':shelf_gap_m/1000,
+ 'eastern_repaired_water_gaps_km':eastern_water_gaps_km,
  'c4_marginal_corridor_native_latitude_deg':[min(c4_lats),max(c4_lats)],
  'dated_graph':'dated-constraint-graph.json',
  'reconstruction_model':'reconstruction-model.json',
- 'historical_warning':'present-day connectivity is not evidence of dated passability; run validate_erde_constraint_graph.py and the unresolved physical-model audits',
+ 'physical_test_model':'physical-test-model.json',
+ 'historical_warning':'present-day connectivity is not evidence of dated passability; run both dated validators and the remaining high-fidelity physical-model audits',
  'terrane_area_km2':{name:area(g) for name,g in terranes.items()},
  'continents':{}}
 for c in native:
@@ -117,7 +126,8 @@ for c in native:
     metrics['continents'][c]={'candidate_body_area_km2':area(native[c]),'baseline_partition_area_km2':area(old[c]),'footprint_intersection_over_union':area(both)/area(union)}
 (OUT/'measurements.json').write_text(json.dumps(metrics,indent=2)+'\n')
 (OUT/'design-controls.json').write_text(json.dumps({
- 'status':'authorial design controls constrained by dated reconstruction graph; not a plate simulation',
+ 'status':'authorial design controls constrained by dated reconstruction and bounded physical tests; not a plate/GCM simulation',
+ 'generated_outputs_current':True,
  'reference_frame_vertices':controls,
  'sixth_continent_polar_radius_degrees':'17 + 5 cos(2λ+0.4) + 3 sin(3λ−1) + 1.3 cos(7λ)',
  'paired_offset':{'angle_degrees':0,'reason':'removed; visible C2 redesign retained without artificial late-looking displacement'},
@@ -125,13 +135,13 @@ for c in native:
  'anchors_native':anchors,
  'terrane_reference_frame_vertices':{k:list(map(list,g.exterior.coords[:-1])) for k,g in terrane_sources.items()},
  'dated_non_land_substrates':['NORTHERN_APPROACH_SHELF'],
- 'validator':'scripts/editorial/validate_erde_constraint_graph.py'},indent=2)+'\n')
-features=[{'type':'Feature','properties':{'group':'worldwide candidate','status':'Strategy A; dated-history validity conditional on graph and unresolved physical models'},'geometry':mapping(land)}]
+ 'validators':['scripts/editorial/validate_erde_constraint_graph.py','scripts/editorial/validate_erde_physical_tests.py']},indent=2)+'\n')
+features=[{'type':'Feature','properties':{'group':'worldwide candidate','status':'Strategy A; dated-history validity conditional on remaining high-fidelity physical models'},'geometry':mapping(land)}]
 (OUT/'candidate-geography.geojson').write_text(json.dumps({'type':'FeatureCollection','features':features},separators=(',',':'))+'\n')
 if __import__('os').environ.get('ERDE_GEOMETRY_ONLY'):
     print(json.dumps(metrics,indent=2));raise SystemExit
 
-plt.rcParams.update({'svg.hashsalt':'erde-worldwide-v2','font.size':11})
+plt.rcParams.update({'svg.hashsalt':'erde-worldwide-v3','font.size':11})
 def save(f,name):
     for ext in ['png','svg']:f.savefig(OUT/f'{name}.{ext}',dpi=150,facecolor=f.get_facecolor(),metadata={'Date':None} if ext=='svg' else None)
     plt.close(f)
@@ -142,7 +152,7 @@ def world(ax,g):
 f=plt.figure(figsize=(16,12),facecolor=C['paper']);f.text(.045,.955,'ERDE / WORLDWIDE GEOGRAPHY STUDY',size=12,color=C['muted'],weight='bold');f.text(.045,.91,'Dated reconstruction candidate',size=26,weight='bold')
 for rect,g,title in [([.08,.51,.84,.34],baseline,'Previous atlas silhouette'),([.08,.10,.84,.34],land,'Strategy A silhouette')]:
     ax=f.add_axes(rect,projection=PROJECTION);world(ax,g);ax.set_title(title,size=14,pad=14)
-f.text(.055,.047,'Identical projection and scale. The new junction, C4 margin, and shelf head are explicit reconstruction objects rather than restored Earth-reference guards.',size=11)
+f.text(.055,.047,'Identical projection and scale. Junction, marginal corridor and eastern stepping terranes are explicit old reconstruction objects.',size=11)
 save(f,'01-world-silhouettes')
 
 f=plt.figure(figsize=(16,10),facecolor=C['paper']);f.text(.045,.95,'ERDE / WORLDWIDE GEOGRAPHY STUDY',size=12,color=C['muted'],weight='bold');f.text(.045,.895,'A change to every continental body',size=27,weight='bold')
@@ -156,7 +166,7 @@ for idx,c in enumerate(['C1','C2','C3','C4','C5','C6']):
     x0,y0,x1,y1=bounds;pad=max(x1-x0,y1-y0)*.08;ax.set_xlim(x0-pad,x1+pad);ax.set_ylim(y0-pad,y1+pad)
     clean_old=unary_union(parts(make_valid(old_projected))).buffer(1).buffer(-1);clean_candidate=unary_union(parts(make_valid(candidate_projected))).buffer(1).buffer(-1)
     ax.add_geometries(parts(clean_old),projection,facecolor='none',edgecolor='#b07750',lw=1,linestyle='--');ax.add_geometries(parts(clean_candidate),projection,facecolor='#a7bcb0',edgecolor='#345448',lw=.7,alpha=.85);ax.set_title(c+' · redesigned body',size=12,pad=10)
-f.text(.055,.06,'Green: new body. Dashed ochre: original reference partition. Junction and marginal terranes are tracked separately in the dated model.',size=10)
+f.text(.055,.06,'Green: new body. Dashed ochre: original reference partition. Local terranes are tracked separately in the dated model.',size=10)
 save(f,'02-six-body-comparison')
 
 f=plt.figure(figsize=(16,10),facecolor=C['paper']);f.text(.045,.95,'ERDE / WORLDWIDE GEOGRAPHY STUDY',size=12,color=C['muted'],weight='bold');f.text(.045,.89,'The new world and its dated requirements',size=25,weight='bold')
@@ -164,7 +174,7 @@ ax=f.add_axes([.07,.24,.86,.57],projection=PROJECTION);world(ax,land)
 for number,(name,p) in enumerate(anchors.items(),1):
     ax.plot(*p,'o',transform=GEO,ms=3,color='#faf3d9');ax.annotate(str(number),xy=p,xycoords=GEO._as_mpl_transform(ax),xytext=(4,4),textcoords='offset points',color='#273b40',size=9,weight='bold',bbox={'facecolor':C['paper'],'alpha':.8,'edgecolor':'none','pad':.4})
 f.text(.055,.15,'1–5: paired-continent interiors. 6–8: C4 refuge and continental contact cores. 9–11: shelf and island lineage controls.',size=11)
-f.text(.055,.10,'JX1, the C4 marginal corridor, and the C5 shelf head are old-substrate hypotheses with dates in reconstruction-model.json.',size=11)
-f.text(.055,.06,'Migration windows, ice, bathymetry, relief and ecology remain separate validation layers; modern connectivity is not treated as historical proof.',size=10,color=C['muted'])
+f.text(.055,.10,'JX1, C4 marginal corridor, C5 shelf head and two eastern stepping terranes are old-substrate hypotheses with dated tests.',size=11)
+f.text(.055,.06,'Migration windows, ice, bathymetry, relief and ecology remain separate validation layers; modern connectivity is not historical proof.',size=10,color=C['muted'])
 save(f,'03-world-constraints')
 print(json.dumps(metrics,indent=2))
