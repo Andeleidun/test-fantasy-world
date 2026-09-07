@@ -36,17 +36,17 @@ jobs:
           python-version: '3.12'
       - name: Install atlas dependencies
         run: python -m pip install -r scripts/editorial/requirements-atlas.txt
-      - name: Diagnose Strategy A geometry
+      - name: Regenerate and assert Strategy A geometry
         env:
           ERDE_GEOMETRY_ONLY: '1'
         run: |
-          python -O scripts/editorial/try_erde_global.py
+          python scripts/editorial/try_erde_global.py
           cat docs/global-geography-trial/measurements.json
       - name: Validate dated constraint graph
         run: python scripts/editorial/validate_erde_constraint_graph.py
       - name: Validate dated physical tests
         run: python scripts/editorial/validate_erde_physical_tests.py
-      - name: Run existing geological audit
+      - name: Run Strategy A geological audit
         run: python scripts/editorial/validate_erde_history.py
       - name: Replay paleolatitude checks
         run: python scripts/editorial/check_erde_paleolatitudes.py
