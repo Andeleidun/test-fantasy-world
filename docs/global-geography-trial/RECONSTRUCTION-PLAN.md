@@ -1,116 +1,183 @@
 # Erde dated continental reconstruction plan
 
-## Decision
+## Current decision
 
-Use **Strategy A: inherited continental nuclei plus old marginal terranes and dated gateways**.
+Continue **Strategy A: inherited continental nuclei plus old marginal provinces and dated gateways**.
 
-This is a reconstruction framework, not a plate-dynamic simulation. It is deliberately bounded. It solves the two highest-coupling defects in the previous worldwide candidate without pretending that unresolved climate, bathymetry, paleoelevation, or deep-time plate partitioning have already been proven.
+The bounded analysis has now progressed through four increasingly strict levels:
 
-The prior candidate is not accepted as historical reconstruction because it combined a 6° rigid C2 offset with restored Earth-reference coastline inside protected guard sectors. That arrangement could pass present-day connectivity checks while providing no dated deformation history for the preserved hinge or migration corridors.
+1. dated historical constraint graph;
+2. regenerated structural geometry;
+3. regional physical plausibility scenarios;
+4. explicit crustal-block / finite-rotation / continental-crust accounting.
 
-Strategy A therefore makes three geometry changes and one validation change:
+All four currently pass their necessary-condition validators. Strategy B has therefore **not** been invoked.
 
-1. Remove the extra 6° C2 Euler rotation. C2 remains visibly non-Earthlike because its authored silhouette is already different.
-2. Replace the pasted C1-C2 hinge with **JX1**, an oblique old composite terrane/junction whose substrate is stable long before the human-route ledger.
-3. Replace the old approximately 60°S C4 ancestral exit with a broad western/northwestern marginal corridor that stays approximately 32–46°S in the present reconstruction frame before entering C3.
-4. Treat historical accessibility as dated state on old substrate. A connected modern land mask is no longer accepted as evidence that a route existed at H06, H10, or any other dated interval.
+This remains a reconstruction framework rather than a completed geodynamic model. The next escalation is spatial deformation, crustal thickness, and time-indexed palaeoelevation/freeboard, not another coastline redesign.
 
-## Bounded analysis
+## Why Strategy A replaced the earlier candidate
 
-### Constraints that must survive any redesign
+The rejected worldwide draft combined a 6° C2 rigid offset with Earth-reference guard sectors. That could preserve a modern route while saying nothing about whether the route existed at H02, H06, H10, or another required historical interval.
 
-- All six continental bodies need crustal provenance and deep-time biotic continuity or a dated vicariance mechanism.
-- Shelf/karst architecture for H02 must predate 1.9 Ma.
-- Persistent deep-water channels must coexist with nearby shelf exposure through H03 and H09.
-- The early American-form founding window H06 (0.65–0.45 Ma) and the later principal founding window H10 (35–20 ka) must use old substrate but remain distinct accessibility episodes.
-- No continent-scale motion or new junction assembly may be required after 1.9 Ma.
-- C4 cannot rely on an unmodeled ice-free south-polar interior to connect its ancestral refuge to the rest of the human-form range.
-- C3 must permit intermittent western/eastern contact without becoming a permanent low-friction bypass.
-- C6 and remote islands remain conditional on later ecology and ocean-circulation work.
+Strategy A removed both failure mechanisms:
 
-### Dependencies
+- C2's extra rigid offset is **0°**;
+- sensitive routes are explicit dated reconstruction objects rather than restored reference coastline.
 
-The dated graph is implemented in `dated-constraint-graph.json`. The reconstruction objects and their provisional ages are in `reconstruction-model.json`.
+The current model distinguishes old crustal substrate, block motion, deforming boundaries, emergence/submergence, passability, and ecological filtering.
 
-The graph distinguishes substrate age, accessibility windows, barrier states, and unresolved physical models. Climate, ice, bathymetry, paleoelevation, and plate kinematics are not inferred from coastline geometry alone.
+## Geometry retained after validation
 
-## Strategy A geometry
+### JX1 C1–C2 junction
 
-### C1-C2: JX1 old oblique junction terrane
+JX1 remains the preferred C1–C2 solution. The plate-scale pass changes its interpretation, not its visible envelope.
 
-The broad C1 and C2 silhouettes are retained, but C2 receives no additional rigid offset. JX1 crosses the old gap as a deliberately non-Panama-like oblique junction.
+The ~2.96 million km² JX1 surface province is mainly old microcontinental and reworked C1/C2 margin crust. A narrower younger arc/suture system records the 28–12 Ma assembly/reorientation interval. A representative central block reaches its final C1-relative orientation by 12 Ma, while later C1–C2 relative motion is absorbed through an internal deforming transpressional/subduction-transform network.
 
-Provisional crustal history:
+Continuous terrestrial emergence is modeled by about 3.2 Ma. This separates crustal assembly from later topographic/freeboard closure and keeps H06/H07/H10/H11 independent of late continent assembly.
 
-- accretion/assembly: 28–18 Ma;
-- major relative assembly complete: by 12 Ma;
-- later change: uplift, volcanism, erosion, local subsidence, and changing ecological passability only.
+### C4–C3 marginal corridor
 
-This satisfies the core historical rule that H06 and H10 cannot be produced by assembling the continents hundreds of thousands or tens of thousands of years ago.
+The replacement C4 route remains approximately 31.70–45.58°S in the regenerated native frame. Its ~3.75 million km² surface envelope is now treated predominantly as inherited foreland/microcontinental and reworked margin crust rather than wholly young accretion.
 
-JX1 may remain physically narrow land while still functioning as a strong demographic/ecological bottleneck. The exact H06/H07/H10 passability pattern is not yet proven and is explicitly deferred to paleotopography, hydroclimate, and local sea-level work.
+A representative corridor block reaches final C4-relative orientation by 8 Ma. Later modest C4–C3 convergence may continue inside the collisional/thrust/strike-slip network without requiring the land route to be assembled during human evolution.
 
-### C4-C3: lower-latitude marginal substitution
+### C3 southeast shelf and eastern stepping blocks
 
-The old ancestral exit locator near source coordinate `(32, 30)` falls near 60°S in the current frame and creates an unnecessary ice-history dependency.
+The shelf head's western root remains connected to C3. The legacy `C5_SHELF_HEAD` identifier is retained only for project continuity; plate parentage is the C3 southeast shelf block.
 
-The replacement route follows a widened C4 western/northwestern foreland into C3. Its authored control envelope is approximately 32–46°S in the current frame. The substrate is provisionally treated as an old retained/accreted foreland, stable by 8 Ma.
+The two small eastern stepping blocks remain the local repair to the failed ~188 km crossing. Regenerated water gaps are approximately 54.65, 28.30 and 75.01 km. Their authored local rotations finish by 2 Ma, before the 1.9 Ma human-route motion cutoff.
 
-This is an explicit historical substitution. The old exit is not silently retained, and the new route is not claimed valid merely because the modern polygons touch.
+### Northern approach
 
-### C3-C5: shelf head with retained marine barrier
+The northern route remains a shallow-sill relationship between old continental shelves and microcontinental highs. It is not a welded bridge plate. H06/H07/H10 accessibility remains a local relative-sea-level and bathymetric problem on old substrate.
 
-A short continental-platform shelf head reaches the H02 shelf-cradle locator. It does **not** connect to the first deep-water island block. The current control geometry retains roughly 188 km of separation in the local geometric test, which is sufficient to keep a first-order water barrier in the design while later bathymetry determines actual crossing distances and lowstand exposure.
+## Plate-block reconstruction result
 
-## Validation performed
+The machine-readable model is [`plate-block-model.json`](plate-block-model.json), with methodology in [`PLATE-RECONSTRUCTION.md`](PLATE-RECONSTRUCTION.md).
 
-### Dated graph
+The plate audit checks both MERDITH2021 and MULLER2022 at 0, 2 and 23 Ma plus the authored synthetic rotations.
 
-`validate_erde_constraint_graph.py` checks all H01–H12 requirements, dependency references, substrate ages, the pre-1.9 Ma motion cutoff, separate H06/H10 accessibility windows, the C4 route substitution, the H03–H09 marine barrier, and explicit unresolved high-coupling science.
+Key results:
 
-Current result: **PASS for chronology and dependency logic**. This is not full geological validation.
+- C3 west/east pair-distance drift through 23 Ma is metre-scale in both reference models;
+- C4 core/refuge/exit pair distances are likewise effectively rigid at the tested epochs;
+- C3 east versus the southeast shelf changes by about 43.2 km over 23 Myr, supporting a slow shelf microplate rather than mandatory rigid welding;
+- C1/C2 separation changes by about 9.3 km over the last 2 Myr;
+- C4–C3 corridor parent separation changes by about 5.5 km over 0–2 Ma;
+- northern shelf parents change by about 1.25 km over 0–2 Ma;
+- authored synthetic block motions imply representative stage speeds of roughly 1.4–2.7 cm/yr;
+- every authored human-route-sensitive rigid motion is complete by 2 Ma or earlier.
 
-### Present geometry controls
+No test approaches the current failure thresholds closely enough to justify a silhouette or Strategy-B change.
 
-A source-frame/local equal-area geometry audit was used to test the new controls without restoring Earth-reference guard sectors.
+## Crustal-provenance correction
 
-The first C4 corridor control failed because the existing C3/C4 equal-area body resizing left it about 5° short of C3. The failure was diagnosed as a local envelope mismatch, not a strategy failure. The corridor was widened north/east and re-tested.
+The broad JX1, C4 corridor, and shelf-head polygons cannot reasonably mean that millions of square kilometres of continental crust formed during their late-Cenozoic assembly intervals.
 
-The revised controls pass the available structural checks:
+Their provisional substrate fractions are now:
 
-- all eleven established land anchors lie on candidate land;
-- C1 and C2 interiors are connected through JX1;
-- the ancestral C4 refuge and C3 western contact share a connected land component through the new marginal corridor;
-- the C3 eastern core and shelf-cradle locator share a connected land component;
-- the C5 shelf head remains separated from the first deep-water island block;
-- the new C4 corridor remains approximately 32–46°S rather than using the old approximately 60°S exit.
+- JX1: 88% old/reworked, 10% juvenile arc, 2% young cover;
+- C4 corridor: 92% old/reworked, 6% juvenile arc/suture, 2% young cover;
+- C3 southeast shelf head: 97% old/reworked, 2% juvenile arc, 1% young cover.
 
-A local attempt to calculate the complete transformed world-area union produced a projection/seam artifact around the transformed C6 polar-source polygon, inflating union area. That result is rejected and is **not** used as evidence. Full global area/IoU metrics must be regenerated with the repository's Cartopy pipeline.
+Combined synthetic juvenile continental crust is about 544,762 km², or about 0.259% of the ~210.4 million km² Earth-analogue continental-crust inventory used by the test.
 
-## Unresolved constraints and stop conditions
+This correction is now part of Strategy A. The word “terrane” in legacy object identifiers should not be read to mean wholly juvenile crust.
 
-These are not reasons to keep redrawing coastlines.
+## Global freeboard consequence
 
-1. **C4 climate/ice:** verify that productive peripheral refugia can persist without requiring an implausible ice-free polar interior. Resolve with climate, ice, and elevation modeling.
-2. **Northern approach shelf:** determine sill depths and exposure thresholds that produce distinct H06 and H10 access windows. Resolve with bathymetry, eustasy, isostasy, and local tectonics.
-3. **Eastern shelves/channels:** verify that H02/H04 shelf access coexists with H03/H09 deep-water isolation. Resolve with dated paleobathymetric cross-sections and crossing-distance audits.
-4. **C3 internal filter:** test whether relief, drainage, and hydroclimate can permit intermittent western/eastern contact without an easy permanent bypass.
-5. **Full plate reconstruction:** partition each final body into dated crustal blocks and plate boundaries and test mass-balanced kinematics. The constraint graph defines what that reconstruction must satisfy but does not simulate it.
+The current Cartopy regeneration contains about 158.64 million km² of emerged land, +7.73% relative to the generalized 147.26 million km² reference mask.
+
+The plate-scale accounting demonstrates that this does **not** require net continental-crust creation. With an Earth-analogue ~210.4 million km² continental-crust inventory:
+
+- about 75.4% is emergent in Strategy A;
+- about 51.76 million km² remains submerged;
+- required net new continental crust is 0 km².
+
+The hard unsolved question is therefore how uplift, subsidence, stretching, crustal thickness, sediment loading, thermal history and isostasy produce the required **freeboard distribution through time**.
+
+## Failure history and bounded repairs
+
+The reconstruction has encountered several real failures. Each was repaired at the failure point rather than by restarting the world design:
+
+1. **C4 corridor missed C3 after equal-area resizing.** Widened only the local corridor envelope.
+2. **Eastern first water leg ~188 km.** Added two small old stepping blocks while preserving deep channels.
+3. **Shelf cradle remained on land but disconnected from C3.** Extended only the shelf-head western root.
+4. **Old geological validator required the rejected C2 offset.** Migrated the validator instead of restoring obsolete geometry.
+5. **Broad provinces implied implausibly huge young terranes.** Reclassified their crustal provenance to mostly inherited/reworked substrate without changing coastlines.
+
+The first explicit plate-block audit then passed without another geometric repair.
+
+## Current validation stack
+
+From the repository root:
+
+```sh
+ERDE_GEOMETRY_ONLY=1 python scripts/editorial/try_erde_global.py
+python scripts/editorial/validate_erde_constraint_graph.py
+python scripts/editorial/validate_erde_physical_tests.py
+python scripts/editorial/validate_erde_history.py
+python scripts/editorial/check_erde_paleolatitudes.py
+python scripts/editorial/validate_erde_plate_blocks.py
+```
+
+The pull-request CI runs this stack from regenerated geometry before the normal site and browser/accessibility tests.
+
+## Next escalation: spatial deformation and freeboard
+
+### Phase 1 — crustal-thickness and stretching fields
+
+Construct spatial grids or polygon attributes for:
+
+- inherited cratonic/platform crust;
+- rifted continental margins;
+- stretched/transitional crust;
+- microcontinental fragments;
+- juvenile arc/suture crust;
+- sedimentary basins.
+
+The purpose is to convert the current area fractions into a mass- and buoyancy-aware crustal inventory.
+
+### Phase 2 — deforming topological networks
+
+Replace schematic boundary descriptions with spatial deformation models for:
+
+- JX1 internal transpressional/subduction-transform network;
+- C4–C3 collisional/thrust/strike-slip network;
+- C3 southeast shelf microplate boundary where required.
+
+The model should preserve rigid interiors while distributing strain across physically plausible widths and rates.
+
+### Phase 3 — time-indexed palaeoelevation/freeboard
+
+Reconstruct enough elevation/subsidence history to explain the large gross redistribution of emerged land:
+
+- approximately 44 million km² of current land located where the generalized reference has water;
+- approximately 33 million km² of reference land locations submerged in Strategy A.
+
+This is not one uniform sea-level offset. It requires regional tectonic/freeboard histories tied to crustal thickness, stretching, thermal subsidence, orogenic uplift, sediment loading and isostatic response.
+
+### Phase 4 — couple U1–U4
+
+Once the common freeboard geometry exists:
+
+- U1: run C4 ice/climate/refugia against explicit elevations;
+- U2: run northern local relative sea level and sill exposure;
+- U3: run eastern bathymetry, currents and voyage states;
+- U4: run C3 relief, drainage and hydroclimate connectivity.
+
+### Phase 5 — mantle/dynamic topography only if needed
+
+Do not invoke unconstrained mantle-driven dynamic topography merely to force coastlines to fit. Use it only if regional crustal thickness, rifting, orogenesis, thermal evolution, sediment loading and isostasy cannot close the required freeboard history within plausible ranges.
 
 ## Retry policy
 
-Do not iterate the silhouettes indefinitely.
+- Preserve Strategy A while a failure can be repaired at its responsible margin, block, deformation zone, bathymetric sill or elevation field.
+- Do not redraw continents merely to simplify a model that has not demonstrated a contradiction.
+- Invoke Strategy B only if a spatial deforming-mesh reconstruction shows a genuine C1–C2 incompatibility that cannot be absorbed inside JX1.
+- If Strategy B is ever invoked and also fails, preserve the best validated Strategy A state and report the irreducible incompatibility rather than entering an open-ended redesign loop.
 
-- Continue with Strategy A while failures can be traced to local geometry, dated passability, relief, or bathymetry and repaired without changing its reconstruction logic.
-- Use **Strategy B** only if a later dated plate/block test shows that the C1-C2 junction cannot be generated under Strategy A. Strategy B promotes the junction to a separately reconstructed microplate and permits modest pre-1.9 Ma rotations of C1 and C2 around it.
-- If Strategy B also fails a high-coupling constraint, preserve the best valid Strategy A state and report the unresolved incompatibility instead of inventing further continent-scale changes.
+## Acceptance boundary
 
-## Next scientific work
-
-The next useful work is no longer another silhouette pass. It is:
-
-1. regenerate the candidate with the new controls using the repository Cartopy pipeline;
-2. run the existing geometric/geological audits plus the dated graph validator;
-3. add dated paleobathymetric states for the northern approach and eastern shelf/channel system;
-4. add a C4 peripheral climate/ice test;
-5. only after those pass, formalize crustal block polygons and time-indexed rotations/translations for a plate reconstruction.
+The plate-block pass materially reduces the uncertainty in U5, but `full_geological_validation` remains false. Strategy A should not be promoted to canonical planetary geography until the spatial deformation/freeboard model and the coupled U1–U4 regional tests are complete enough to show that the present design can arise through a coherent time history rather than only satisfy independent necessary conditions.
