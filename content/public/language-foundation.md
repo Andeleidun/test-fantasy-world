@@ -50,3 +50,7 @@ Reader spelling permits hyphens to reveal a new or long compound: drav-karn-kel.
 | Noun + ig | characterized by/containing the noun | porig, containing pores |
 
 These affixes are productive constructions, not guarantees that every combination has an established conventional sense. The dictionary records each verb’s meanings and complements. Kelir is a lexicalized habitat-participant extension: it does not require an invented verb meaning 'to kel'. A new term's literal reading, intended reference and example are recorded before it joins the shared dictionary. Literal language still allows humor, figurative speech and semantic change; ordinary material names generally favor direct descriptions.
+
+## Habitats and usage
+
+The physical reference distinguishes a chain of illuminated refuge provinces from a uniformly wet terminator ring. River supply requires catchment runoff, glacier-outlet flow or connected groundwater; temperate terrain does not automatically receive rain. Natural carbonate, lava-tube and fracture shelters precede later excavations in competent massif rock. Thal refuge life uses compatible Erde-derived cultivation in the preferred establishment history; native foods are not automatically edible. These distinctions change no ethnonym, grammar rule, species territory or language-family assignment.

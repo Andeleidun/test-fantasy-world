@@ -28,7 +28,7 @@ Microbial activity is usually visually inconspicuous. Occasional favorable wet o
 
 ## Nightside oases
 
-Most active near-surface microbial life is rare and confined to brine veins or geothermal fractures. Subglacial oases draw energy from local geological reductants and a slow supply of oxidants. Their common consumers are finger-length or smaller, sparse between irregular flood connections.
+Most active near-surface microbial life is rare and confined to brine veins or geothermal fractures. Subglacial oases draw energy from local geological reductants and a slow supply of oxidants. The ordinary selected consumers are small and sparse between irregular flood connections. Finger-length is not a universal physical maximum; some low-flux sites support microbes alone.
 
 Floods can carry organisms, food and dissolved chemicals between normally isolated habitats. Temporary blooms follow favorable pulses; long intervals of isolation encourage local differences. Dormancy, dispersal stages, sensory systems and the exact relationships between oases remain useful areas for further development.
 

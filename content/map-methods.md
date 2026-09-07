@@ -86,3 +86,11 @@ The unresolved phrase "3-5% of the wet core" is not assigned a spatial layer. Th
 ## Later worldwide-design validation
 
 The authorial [geological validation review](../docs/global-geography-trial/GEOLOGICAL-VALIDATION.md) recovers the underlying framework and Proposal 4 history cited as sources 20 and 24 above. It adds sample paleolatitude checks from two explicit plate models and reviews the separate worldwide coastline candidate. These results do not replace the published atlas or validate its schematic migration arrows as dated physical routes.
+
+## Water and regional support
+
+D4’s arrows identify candidate mechanisms, not a solved hydrological cycle. Rain requires moisture transport; basal melt depends on ice and geothermal conditions; groundwater return requires connected pathways and hydraulic head. The 240-million-km³ water-equivalent reference closes storage only.
+
+D7 depicts local facilities within a larger supporting region. Its 20 × 14 km drawing does not contain the entire catchment or establish food and water capacity. The quantitative example in the climate and settlement reference uses a separate 20,000-km² catchment and explicitly assumed agricultural yields.
+
+D8 requires both chemical donor and acceptor supply. Small oasis consumers are a selected ecology, not a universal size law. Deep lake mixing and oxygen budgets differ among basins. All eight sheets retain their schematic placements; no new continent, province or species boundary is selected.

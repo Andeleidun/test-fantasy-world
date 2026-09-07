@@ -38,7 +38,7 @@ The mature regime is predominantly mobile-lid but not perfectly continuous. Glob
 
 This history produces the necessary geological diversity. Basaltic crust forms at volcanic centers. Subduction zones generate volcanic arcs and chemically evolved magmas. Large intrusive bodies crystallize into granite-like rocks. Burial, collision, heating, and deformation transform older crust into gneiss and other competent metamorphic rocks. Uplift exposes broad massif cores while faulting, caldera collapse, and crustal flexure create lake basins.
 
-These massifs are not added merely to provide fantasy mountains. They are the predictable products of a long mobile-lid history and supply the mechanically competent, comparatively dry rock in which deep settlements are most feasible.
+The selected geological history can supply strong old massif cores, although fractures, pore water and tectonic stresses determine actual excavation quality. Natural ancestral caves also require soluble sedimentary layers, old lava tubes, fractures or shelters near productive waters. The later ability to excavate granite-like rock must not be used as the cause of pretechnological cave habitation.
 
 ## Stage 4: Establishment of the synchronous climate engine
 
@@ -46,9 +46,9 @@ Once the secondary atmosphere and liquid-water reservoirs stabilize, the permane
 
 The atmosphere transports heat, but pressure by itself does not establish that transport. Column mass, opacity, humidity, clouds, circulation, topography, and the absence of a global connected ocean interact. The specified hot dayside, cold nightside, and corridor width remain simultaneous model targets; limited water makes such a regime possible in published climate models without validating these exact numbers.
 
-The dayside is not uniformly wet. Central lowlands become lethally hot and often arid. Persistent open water survives farther outward where stellar heating is weaker. Mountains intercept moist air and create cooler rain belts. Leeward slopes descend into closed salt basins. Rivers and groundwater connect selected provinces while other basins remain endorheic.
+Central dayside lowlands are hot and often arid in the selected scenario; persistent exposed water is concentrated farther outward. Mountains produce rain belts only where the circulation supplies moisture. The revised geography therefore links some illuminated catchments to marginal glacier outlets and groundwater, while dry divides, leeward slopes and terminal salt basins separate refuges. Neither a temperate terminator nor a drawn circulation arrow proves a positive local water balance.
 
-Nightside ice accumulates where precipitation exceeds loss. Flow, marginal melting, sublimation, and groundwater can return some of that water. Local geothermal heating, insulating ice, and pressure may permit liquid reservoirs, while salt can lower freezing temperatures at the cost of water activity. Most very cold near-surface ice and brine remain dormant or sterile habitat for ordinary biochemistry; active oases require warmer local conditions and sustainable chemical energy.
+Nightside ice accumulates where deposition exceeds loss. Regional thick basins can feed outlet glaciers toward warmer margins, while cold high ground may have thin ice or frost. Some beds may melt; other ice stays frozen to bedrock. Thermal conduction, pressure, ice advection, heat flow and drainage must establish each liquid reservoir. Ice-covered brines are possible beyond the outer dayside, but low water activity and inadequate chemical energy can still exclude active life.
 
 ## Stage 5: Origin of life and early phototrophic experimentation
 
@@ -58,7 +58,7 @@ The early microbial biosphere can explore several phototrophic strategies. The c
 
 Primary production is concentrated where usable light, liquid water, carbon, and mineral nutrients overlap. Low-light margins can be photon-limited; other provinces can be limited by water, temperature, nitrogen, phosphorus, or trace elements. Nutrient inputs, recycling, burial, and export must be tracked rather than assigning one planet-wide limiting nutrient without evidence.
 
-For a large fraction of early history, oxygen made by phototrophs is consumed by reduced iron, volcanic gases, dissolved minerals, and organic matter. Atmospheric oxygen rises only after these sinks diminish and net burial of reduced carbon becomes sustained.
+Oxygen produced by phototrophs can be consumed by reduced iron, volcanic gases, minerals and organic matter. Atmospheric accumulation requires net oxidizing power to exceed sinks, for example through sustained burial of reduced material; sinks need not vanish. The adopted modern oxygen level requires a long-term source–sink balance, not a photosynthetic production rate alone.
 
 ## Stage 6: Oxygenation and macroscopic aquatic life
 
@@ -68,7 +68,7 @@ Oxygenated surface waters develop first. Deep lake waters can remain anoxic beca
 
 The setting allows multiple animal-grade body plans. The dwarf-bearing internal-skeleton clade is now ancestrally six-limbed. Other lineages can include radial suspension feeders, many-appendaged burrowers, colonial mats, filter structures, armored crawlers, and independently four-limbed forms. Their ecological roles remain intact; limb-count changes do not require redesigning the entire food web or assigning all large fauna to dwarf ancestry.
 
-The largest aquatic consumers evolve in productive surface and coastal waters. High gravity matters less in water because buoyancy supports mass, permitting common animals of 2–5 m and rare forms of 1–3 tonnes even while similarly large terrestrial forms remain costly.
+Productive oxygenated lake surfaces and coasts are the chosen habitat for common large consumers of 2–5 m and rare forms of 1–3 tonnes. Buoyancy reduces weight-support costs, but neither lake area nor buoyancy proves those sizes or abundances. Food production, oxygen renewal, temperature, life history and population connectivity must sustain them.
 
 ## Stage 7: Origin of the six-limbed clade
 
@@ -112,7 +112,7 @@ Two hands with four walking legs would already be a successful alternative, so f
 
 Habitual bipedality emerges only after pelvic, spinal, foot, balance, and muscle-leverage changes make it workable under 1.53 g. Adults normally use relatively extended legs on suitable ground. The anterior pair now forms the upper precision-biased arms, and the middle pair forms the lower power-and-bracing arms. Both pairs retain dexterity and useful strength. Lower hands supplement support during climbing, hauling, scrambling, or balance recovery; sufficiently crouched or rock-supported positions allow all six extremities to contact support. Six-point support is not the normal standing posture and does not require equal-length arms.
 
-Patchy resources and recurring hazards reward cooperation. Flood timing, rockfall, toxic gas, unstable ice, dangerous lake water, and volcanic episodes cannot be managed by individual instinct alone. Long juvenile learning, teaching, shared route memory, and cumulative technology become decisive.
+Patchy resources and recurring hazards can favor cooperation, route memory, social learning and longer care. Instinct and individual learning can also manage hazards; dangerous terrain does not make sapience inevitable. The proposed lineage succeeds where the nutritional and reproductive benefits of cumulative learning exceed the costs of larger brains and prolonged dependence.
 
 Nutritious foods and simple mechanical processing can support early brain evolution before reliable fire. Aquatic foods, seeds or storage tissues, pounding, and other accessible resources need their own foraging returns. Fermentation and environmental cooking may become local additions when useful and reproducible, rather than being assumed complete technological substitutes everywhere. Controlled-draft combustion develops within the actual fuel and atmospheric limits.
 
@@ -126,7 +126,7 @@ Four arms add task-sharing and grip redundancy, not free power. Increased muscle
 
 The genus spreads through connected mountain systems during favorable wet intervals. Later uplift, expanding salt basins, ice barriers, volcanic arcs, and contraction of river corridors split populations.
 
-The central-massif lineage remains the broadest ecological generalist. A population repeatedly exploiting connected near-surface aquifers and caverns becomes the deep-massif subspecies. Its divergence is recent enough for full fertility with the central form and must not imply independent evolution in closed kilometre-deep caves.
+The central-massif lineage remains the ecological generalist. A population exploiting connected surface-fed aquifers and caverns becomes the deep-massif subspecies. Full fertility with the central form is retained as a selected population relationship, not inferred from elapsed time alone. The ancestry does not require closed kilometre-deep ecosystems.
 
 A warm-climate branch divides after geographic isolation. The sunward species adapts to dry heat and water scarcity. The volcanic-range sister species occupies humid hot arcs, ash-prone valleys, and chemically stressful waters. Its physiology handles chronic heat, salts, particulates, and some low-dose toxins better than that of other dwarves, but lethal gases and major eruptions remain beyond biological protection.
 
@@ -154,7 +154,7 @@ Most dwarves live beneath the mountain and valley systems of the habitable corri
 
 Dayward travel retains a potential local light source; nightward travel increasingly requires food imports. This explains the ecological asymmetry but does not fix maximum settlement distances. Elevation and shade can improve dayward surface conditions, while shallow aquifers or imported cooling may support selected subsurface sites. Descending into rock is not inherently cooling on a permanently hot hemisphere. Nightside cold can be insulated against, but power, accessible water, and long supply routes still constrain outposts.
 
-Underground preference moves housing, workshops, transport, storage, governance, and much agriculture below ground. Surface installations are accepted where they provide an unambiguous advantage: capturing river head, admitting sunlight, observing weather or astronomy, reaching routes, extracting shallow resources, exhausting heat, or defending an entrance.
+Underground preference moves housing, workshops, transport, storage and governance into rock where practical. Agriculture keeps its photosynthetic capture area in illuminated terraces, shallow chambers or collectors; a much larger dark floor area does not generate additional photons. Surface riverworks, fields, intakes, observatories and heat outlets remain function-specific parts of the same inhabited landscape.
 
 Remote nightside strongholds 3,000–4,000 km from the terminator are therefore small, strategic, and supplied. Inner mountain cities above surrounding lowlands are much larger because they remain within the broader river, food, and transport economy.
 
@@ -162,9 +162,9 @@ Remote nightside strongholds 3,000–4,000 km from the terminator are therefore 
 
 The Thals arrive only after the native planet, biosphere, dwarven genus, species radiation, agriculture, and much of dwarven civilization already exist.
 
-The Thals are Neanderthal-descended refugees from Erde. About five millennia allow substantial cultural change, founder effects, and selection on some traits, without guaranteeing a new species or comprehensive physiological redesign. The local gravity, oxygen, food, pathogens, and reproduction must permit survival from arrival onward; evolution cannot retroactively rescue an initially nonviable founding population.
+The Thals are Neanderthal-derived refugees from Erde who arrived roughly five millennia ago. Their survival under 1.53 g is a conditional setting premise; there is no direct evidence for healthy lifelong human reproduction at this gravity. Moderate-elevation mountain benches, assisted freight, rest, suitable maternity conditions and adequate nutrition reduce demands without assuming complete physiological redesign. Founder effects and selection require surviving reproduction from the outset, not retrospective evolutionary rescue.
 
-Their later ecological effects depend on actual compatibility. Independently evolved native organisms are not automatically edible to Thals, and microbes need not infect unrelated hosts simply because they are new. Keep broad molecular compatibility, food processing or provisioning, and any organism transfers as explicit conditions for later contact work. This review does not invent an Erde–Dwarven-planet origin connection or redesign the migration.
+The preferred establishment history includes finite initial provisions and an Erde-derived cultivation package of compatible seeds or propagules, food cultures and associated cultivation organisms. The refugees subsequently grow their own compatible foods in illuminated protected districts, with artificial dark periods where their crops require them. Dwarven hosts can supply shelter, water and labor without automatically supplying edible alien staples. Native foods enter Thal diets only after their nutritional and toxicological compatibility is established. Host specificity does not guarantee either universal alien infection or universal immunity. This addition preserves independent native evolution and does not require a continuing magical food subsidy.
 
 ## Integrated food-web logic
 
@@ -201,3 +201,9 @@ Third, define moon and companion-body masses and orbits, then perform long-term 
 Fourth, establish the principal producer body plans and the first major animal phyla. This will determine what “forest,” “grassland,” reef, burrower, flyer, grazer, predator, and crop actually mean on this planet.
 
 Fifth, specify dwarf stature, body mass, respiratory architecture, skin covering, digits, and reproduction before designing species-level appearance.
+
+## Consequences of the revised geographic model
+
+The causal history now uses regional ice accumulations, outlet glaciers, connected aquifers and independently budgeted moist catchments to sustain a chain of refuge provinces. A closed 240-million-km³ water-equivalent reference inventory is specified in Doc 35. This inventory demonstrates bookkeeping, not a working long-term circulation. Present basins and mountains need not persist through the full evolutionary timescale. Habitat migration, extinction and reconnection remain part of the history.
+
+The next decisive test is a coupled stellar, atmosphere, ice and drainage case, followed by a representative inhabited valley and native brood/adult physiology. Preserve the species topology and preferred mineral nursery while adjusting the narrowest failing numerical assumption.

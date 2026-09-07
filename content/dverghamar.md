@@ -20,7 +20,7 @@ The accepted water inventory is approximately **0.15–0.2 Earth oceans**. Twili
 
 The largest natural lakes cover roughly **50,000–150,000 km²**. Their oxygenated surface and coastal waters can lie above permanently stratified, often anoxic depths. Common large animals may reach two to five metres, with rare forms approaching one to three tonnes.
 
-Isolated nightside geothermal oases operate on a much smaller energy budget. Geological reductants and slow oxidant delivery support sparse food webs; the largest common consumers are finger-length or smaller. Irregular subglacial floods can briefly connect otherwise isolated habitats.
+Isolated nightside geothermal oases operate on a much smaller energy budget. Geological reductants and slow oxidant delivery support sparse food webs; ordinary selected consumers are small and sparse, without a universal finger-length maximum. Irregular subglacial floods can briefly connect otherwise isolated habitats.
 
 ## Living inside the mountains
 
@@ -34,3 +34,7 @@ Twilight-zone river hydropower is the principal industrial energy source. Direct
 - [Meet the Hamarkorar](hamarkorar.html).
 - [Explore Dverghamar’s maps](dverghamar-atlas.html).
 - [Follow the geological and evolutionary history](evolution-reference.html).
+
+## Integrated physical reference
+
+The revised scenario uses 240 million km³ water-equivalent, mostly in regional nightside ice basins. Its reservoir arithmetic is closed; its climate and sustainable water-return fluxes remain unvalidated. Wet refuge provinces require catchment runoff, viable glacier outlets or connected groundwater. The Thals’ permanent mountain homes favor moderate-elevation illuminated districts with compatible Erde-derived cultivation. The detailed reference and scientific review retain the assumptions and unresolved tests.

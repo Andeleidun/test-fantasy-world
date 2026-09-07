@@ -1607,17 +1607,17 @@ L 657.1008 144
     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="408.7296" y="340.56" transform="rotate(-0 408.7296 340.56)">Lake</text>
    </g>
    <g id="text_6">
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(521.3498 237.762406)">Precipitation</text>
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(529.5998 250.08)">and uplift</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(521.3498 237.762406)">Possible rain</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243c43" transform="translate(529.5998 250.08)">with uplift</text>
    </g>
    <g id="text_7">
     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="880.128" y="290.64" transform="rotate(-0 880.128 290.64)">Ice flow</text>
    </g>
    <g id="text_8">
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="525.312" y="484.08" transform="rotate(-0 525.312 484.08)">Connected aquifer return</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="525.312" y="484.08" transform="rotate(-0 525.312 484.08)">Return needs hydraulic head</text>
    </g>
    <g id="text_9">
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="900.4032" y="480.96" transform="rotate(-0 900.4032 480.96)">Basal heat + melt</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="900.4032" y="480.96" transform="rotate(-0 900.4032 480.96)">Possible basal melt</text>
    </g>
    <g id="text_10">
     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="363.1104" y="193.92" transform="rotate(-0 363.1104 193.92)">Vapor transport</text>
@@ -1730,10 +1730,10 @@ z
    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">ANDEL'S SONG / FIELD ATLAS</text>
   </g>
   <g id="text_13">
-   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DWARVEN PLANET  /  D4</text>
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DVERGHAMAR  /  D4</text>
   </g>
   <g id="text_14">
-   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="51.84" y="76.32" transform="rotate(-0 51.84 76.32)">Water circulation across the twilight margin</text>
+   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="51.84" y="76.32" transform="rotate(-0 51.84 76.32)">Candidate water pathways at the twilight margin</text>
   </g>
   <g id="text_15">
    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="104.4" transform="rotate(-0 51.84 104.4)">Surface catchments, evaporative basins, groundwater, and slow nightside return.</text>
@@ -1764,10 +1764,10 @@ z
    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="817.92" y="584.358281" transform="rotate(-0 817.92 584.358281)">Budget still required</text>
   </g>
   <g id="text_23">
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 604.858359)">0.15-0.20 Earth oceans is an inventory.</text>
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 618.610652)">It does not establish storage fractions,</text>
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 632.362945)">drainage geometry, or sustainable return</text>
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 646.115238)">rates.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 604.858359)">Reference storage: 240 million km3.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 618.610652)">Storage closes in the example;</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 632.362945)">drainage and sustainable return</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(817.92 646.115238)">still require a coupled model.</text>
   </g>
  </g>
  <defs>

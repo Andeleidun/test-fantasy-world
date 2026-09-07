@@ -24,9 +24,9 @@ Satellite and companion configurations remain unspecified. Their orbital stabili
 
 ## Rock, relief and geological time
 
-Basaltic crust, volcanic arcs, intrusive granite-like bodies, gneiss-rich massif cores and tectonic lake basins provide the principal geological settings. Uplift and erosion expose different rocks and produce the relief that directs rainfall, drainage and movement.
+Basaltic crust, volcanic arcs, intrusive granite-like bodies, gneiss-rich massif cores, soluble sedimentary belts and tectonic lake basins provide the principal geological settings. Carbonate karst, old lava tubes and fractures supply early natural shelters; later excavated cities can extend into competent intrusive and metamorphic rock. Uplift and erosion expose different rocks and produce the relief that directs rainfall, drainage and movement.
 
-Long-lived geological cycling helps replenish weathered materials and sustain chemical energy sources. The exact tectonic regime remains an open part of the physical reconstruction; a rocky super-Earth does not automatically have Earth-style plate tectonics.
+Long-lived geological cycling helps replenish weathered materials and sustain chemical energy sources. The preferred history uses mobile-lid tectonics, conditional on rock strength, water, temperature and stresses. A rocky super-Earth does not automatically sustain this regime.
 
 Mountain relief of roughly 1–3 km is common in the settlement model, with major ranges reaching 3–4.5 km and rare exceptional relief of 5–6 km. These are local height differences, not a completed global elevation map. Higher gravity makes rock strength, faulting and erosion particularly consequential.
 
@@ -49,13 +49,25 @@ Cloud and atmospheric heat transport must allow this contrast without freezing a
 
 ## Rivers, lakes and salt country
 
-Mountain catchments feed rivers, aquifers and lakes. Several large ecological provinces occupy wetter ground, connected by narrower valleys and passes. Mountain rain shadows open into closed evaporative basins, producing the long-lived arid barriers between them.
+Wet provinces require actual precipitation, glacier-outlet supply or connected groundwater. Temperate conditions alone do not supply rain. Where moisture transport and uplift permit it, mountain catchments feed rivers, aquifers and lakes; intervening dry divides and evaporative basins interrupt their connections. Valleys can cross the illumination boundary obliquely, and the mountain chains need not form one continuous terminator wall.
 
-Permanent terminal brine lakes occur only on the outer dayside. Farther inward, river-end basins become episodic salt pans. The largest surviving freshwater or less saline natural lakes cover about **50,000–150,000 km²** each; many smaller lakes and wetlands accompany them.
+The selected exposed evaporative terminal brine lakes occupy the outer dayside; localized ice-covered or subsurface brines can occur elsewhere. Farther inward, river-end basins become episodic salt pans. The largest surviving freshwater or less saline natural lakes cover about **50,000–150,000 km²** each; many smaller lakes and wetlands accompany them.
 
-Deep lakes commonly have oxygenated surface and coastal waters above permanently stratified, often anoxic depths. Partial mixing may occur over decades or centuries. Dangerous whole-lake overturns are exceptional events separated by millennia and associated with major disturbances. These timescales are setting targets; individual basins will depend on their depth, dissolved salts, circulation and heat budget.
+Some deep basins retain oxygenated surface and coastal waters above persistently stratified, often anoxic depths. Other lakes mix differently. Mixing intervals are basin-specific scenarios, not one planetwide schedule; dangerous gas eruptions require an accumulated gas reservoir as well as a triggering disturbance.
 
-Nightside ice stores water. Slow return through basal melting, groundwater and drainage must ultimately help prevent irreversible loss of the twilight water supply. The quantities and pathways remain an important part of the future water-cycle model.
+Nightside ice stores most exchangeable water. Regional thick basins can permit basal melt if geothermal supply and ice conditions suffice, while thinner ice may remain frozen to bedrock. Glacier transport, meltwater and connected aquifers are candidate return pathways; aquifers require hydraulic head. Sustainable flows must balance deposition, freezing, evaporation and other exchanges. A closed inventory alone does not establish that return works.
+
+### Reference water accounting
+
+The illustrative 240-million-km³ inventory is expressed as water-equivalent, so ice volume is converted to water mass. It contains 220 million km³ in nightside ice, 5 million in other glaciers, 14.69 million in exchangeable groundwater, 0.30 million in lakes and wetlands, and 0.01 million in atmosphere, channels and transient storage. Mantle-bound water is separate. The numbers close storage accounting; they are not a simulated equilibrium.
+
+One trial concentrates nightside ice over 80 million km², averaging about 3 km of ice. Whether this geometry persists depends on ice flow and heat transport. A net transfer of 1,000 km³ per year would exhaust the entire exchangeable inventory in 240,000 years, so a large reservoir cannot conceal a permanently unbalanced water cycle.
+
+### A chain of refuge landscapes
+
+Hot basin plains and terminal salt country give way to illuminated massif-and-lake provinces, cold lit uplands, localized active-arc districts, dark marginal drainage corridors, and deep-night ice basins separated by cold plateaus. These are recurring landform types, not named continents or species territories. Productive valleys can migrate or reconnect as erosion, river capture and glaciers change the terrain.
+
+The provisional corridor spans about 24.5% of the sphere, roughly 245 million km². Most of it is not farmland. At 100–300 km dayward the star is ideally only about 0.6–1.9° above the horizon. Initial refuge trials therefore favor 1,500–3,000 km dayward, with approximately 9.6–19.3° stellar elevation, then use local altitude and aspect to seek cooler conditions. Climate results may require these positions to move.
 
 ## Producers and cultivated food
 
@@ -71,7 +83,7 @@ Large lake animals commonly reach 2–5 meters and hundreds of kilograms, with r
 
 Cool aquifers allow natural macroscopic life to extend into the sunward margin. Deep dayside habitats have microbes only in the current reconstruction. Airborne microbes over both hostile hemispheres are mostly dormant travelers, with brief activity possible in rare liquid cloud droplets.
 
-The deep nightside has rare active microbial sites near brine veins and geothermal fractures. Isolated geothermal oases obtain usable energy from local geological reductants plus slow oxidant delivery through ice and groundwater. The largest common consumers remain finger-length or smaller, sparse but active between melt events.
+The deep nightside has rare active microbial sites near brine veins and geothermal fractures. Isolated geothermal oases obtain usable energy from local geological reductants plus slow oxidant delivery through ice and groundwater. The selected ordinary ecology favors small sparse consumers, sometimes finger-length or smaller. This is not a universal size ceiling; local production, oxygen and physiology set the limits.
 
 Slow basal melting can fill a reservoir until pressure breaks an ice dam. The resulting irregular flood may temporarily connect neighboring oases. A typical large connection occurs only every few centuries to several millennia, with smaller internal drainage events more frequent. Favorable deliveries of food and chemicals support temporary population blooms. Other floods can scour habitat, dilute useful chemicals or deplete oxygen. Poorer oases may contain microbes alone.
 
@@ -94,6 +106,12 @@ Twilight mountain rivers provide most industrial power. Direct shafts, gears, be
 Limited electricity serves selected rail, communications, pumps, lighting and controls. This economy does not require ubiquitous electrical distribution or digital computing. Reliable ventilation, drainage, transport and lighting remain necessary whichever technology drives them.
 
 A city’s supporting landscape includes farms, water intakes, power works, ventilation openings, waste treatment and transport routes. Its footprint is larger than its visible entrances. [The settlement maps](https://andeleidun.github.io/test-fantasy-world/dverghamar-atlas.html#d5) show how these relationships fit together.
+
+### A regional capacity example
+
+A 25,000-person district demonstrates the scale of support without selecting a new city or census. With assumed consumption of 3,500 kcal per person per day, it needs about 134 TJ of food energy annually. A net edible yield of 1–5 MJ/m²/year implies 27–134 km² of effective productive area before reserves and other land uses; these yields are assumptions, not measured native crop performance.
+
+A separate 20,000-km² catchment producing 100 mm/year of net runoff supplies about 63 m³/s as an annual mean. A reliable 10-m³/s diversion across 200 m of head at 70% efficiency yields about 21 MW under this gravity. Annual means do not guarantee low-season supply, and ecological flow remains necessary. Removing 25 MW of heat with a 5-K water rise needs about 1.2 m³/s reaching a real colder sink. Food, power, cooling, sanitation, ventilation and backup routes must all work together.
 
 ## What remains to be measured
 

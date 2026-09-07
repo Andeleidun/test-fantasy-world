@@ -8,7 +8,7 @@ The native Hamarkorar are not descended from these arrivals. Their six-limbed an
 
 ## Living on a different world
 
-Dverghamar offers the Thals its most favorable conditions in and near the twilight belt. Here liquid water, illuminated growing areas and sheltered terrain can support communities. Stronger gravity makes movement and work more demanding, while altitude and local ventilation affect breathing conditions.
+Dverghamar’s preferred Thal refuges occupy illuminated mountain districts within the broad twilight corridor. Here liquid water, illuminated growing areas and sheltered terrain can support communities. Stronger gravity makes movement and work more demanding, while altitude and local ventilation affect breathing conditions.
 
 Native food is not automatically edible simply because it resembles a familiar plant or fungus. A viable Thal diet requires compatible nutrients and manageable chemistry, whether through suitable organisms, cultivation or processing. These requirements must be met from the time of arrival; later adaptation cannot explain away an initially unlivable environment.
 
@@ -21,3 +21,11 @@ The Thals carry an Erde-derived ancestry into a world already inhabited by the H
 - [Erde](erde.md)
 - [Dverghamar](dverghamar.md)
 - [The Otherworld](otherworld.md)
+
+## Permanent mountain refuges
+
+The preferred settlement history places permanent Thal homes in cool, illuminated mountain and cave districts, beginning with benches roughly 500–1,200 m above the local pressure datum. This range is an initial siting target, not a climate result. Modest rock cover, drainage and ventilation avoid equating a mountain home with an extreme-altitude or deeply buried citadel.
+
+The founding communities bring a finite package of compatible Erde-derived seed crops, cultures and necessary cultivation organisms, together with provisions for establishment. They grow compatible foods locally rather than depending on an endless external subsidy. Sheltered fields and near-surface chambers provide light, with controlled dark periods for crops that need them. Fungi consume already-produced organic substrate. Native foods enter the diet only when their chemistry and nutritional value prove suitable.
+
+Lifelong human reproduction at 1.53 g remains untested. Five thousand years permit cultural change and selection but do not guarantee complete physiological adaptation. Assisted transport, manageable loads, moderate elevations and support during pregnancy reduce demands without eliminating that uncertainty. The continued Thal lineage remains a conditional element of the setting, separate from native dwarf evolution.

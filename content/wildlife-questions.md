@@ -82,7 +82,7 @@ Plausibility: supported components, but prolonged egg retention needs a compatib
 
 Internal fertilization is followed by prolonged egg retention. The parent carries the embryo through much of development, then lays one large mineralized egg in a prepared stone chamber shortly before hatching.
 
-The shell remains porous enough for oxygen and carbon-dioxide exchange. It protects the embryo, limits water loss, and supplies some calcium to the developing skeleton. The surrounding stone chamber provides the stable temperature and humidity that the shell cannot regulate alone.
+In this alternative retained-egg model, the biological shell must exchange oxygen and carbon dioxide while limiting water loss and permitting appropriate mineral transfer. The stone chamber can buffer temperature and humidity but cannot hold them in range indefinitely without suitable surroundings and care. Maternal exchange during retention and external exchange after laying require separate checks.
 
 Natural geothermal warmth, warm groundwater, compost-like microbial heat, or later engineered hydronic systems can incubate the egg. Earth megapodes demonstrate that vertebrate eggs can evolve to rely on environmental rather than parental body heat.
 
@@ -440,7 +440,7 @@ Run N-body and tidal integrations for the satellite and companion system.
 
 Calculate rock temperature, overburden stress, groundwater pressure, heat rejection, and ventilation for representative 0.5, 1, 1.5, 2, and 2.5 km sites. Keep altitude and overburden separate. Historical mining depth alone is not evidence that the same site can sustain a residential city.
 
-Build regional food, power, water, heat, maintenance-labor, and demographic budgets for 500,000–1,000,000 dwarves. Define capture area and usable yield before assigning agricultural percentages, and never double-count crop residues and fungal output. The isolated “3–5% of the wet core” answer in the conversation lacks its original measured quantity and remains an unresolved reference.
+Build regional food, power, water, heat, maintenance-labor and demographic budgets for the 500,000–1,000,000 native census. Use the revised water-reservoir reference and a catchment-based settlement example before assigning productive-area percentages. Keep crop residues and fungal calories in one energy budget. The isolated “3–5% of the wet core” phrase lacks a recoverable defined quantity and must not become a water allocation, cultivated fraction, or core-composition value.
 
 Estimate six-limb high-gravity blood pressure, muscle allocation, bone stress, center of mass, bipedal gait, supported scrambling, egg passage or gestation, and juvenile-growth constraints after final stature and reproductive choices are made.
 
@@ -461,3 +461,17 @@ Fifth: the first animal phylum outside the dwarf-bearing six-limbed clade.
 Sixth: representative food webs for one Great Lake, one twilight mountain province, one volcanic arc, and one geothermal oasis.
 
 Seventh in the wildlife-design sequence: detailed stellar, atmospheric, and satellite choices. Their basic consistency and water/energy constraints remain prerequisites for earlier numerical canon, not tests deferred until after every biological number is fixed.
+
+## Revised priorities and acceptance gates
+
+First, select a self-consistent stellar track and escape history, then test climate, ice distribution and water return together. No map boundary becomes validated merely by being drawn.
+
+Second, test one inhabited valley: low-flow water, ecological releases, agricultural photon capture, compatible foods, hydropower, waste heat, ventilation, drainage, transport and maintainers. Distinguish its regional watershed from the smaller facility plan.
+
+Third, close adult and nursery budgets: limb geometry, muscle allocation, oxygen delivery, egg reserves, shell and casing conductance, humidity, waste, hatching and parental provisioning. Keep the preferred egg-and-mineral-nursery model unless a specific budget fails.
+
+Fourth, develop Thal establishment from arrival: finite compatible supplies, transferred crops/cultures, founding demography, crop light cycles, moderate-elevation housing and viable reproduction at 1.53 g. Do not assume native foods or five millennia of selection solve those requirements.
+
+Fifth, add named landforms, wildlife and settlements only after the resource network works. Exact continent counts, plate counts, species territories, mature dwarf mass and moon architecture remain unselected.
+
+The accompanying comprehensive assessment distinguishes supported mechanisms, conditional extrapolations, unsupported exact claims, contradicted mechanisms and fictional premises. Uncertainty alone does not warrant discarding the four-armed lineage, mineral nurseries or Thal identity.

@@ -74,3 +74,9 @@ Social learning, household care, cultivation and industrial practice develop wit
 The Thal refugees arrive from Erde only about five thousand years ago. Their migration introduces new communities to Dverghamar; it does not initiate native dwarven evolution or determine the age of the genus.
 
 For the present-day anatomy and people-names, see [the Hamarkorar](hamarkorar.md). For the animals and plant-like organisms that remain to be described, see [habitats and wildlife](wildlife-questions.md).
+
+## Habitats and arrival conditions
+
+The earliest natural shelters occur in carbonate karst, old lava tubes and fractures beside productive habitats. Later mining and construction extend residence into competent intrusive and metamorphic massifs. Geology, water supply and food access must coincide; strong rock does not automatically contain natural large caves.
+
+The preferred Thal founding history includes compatible Erde-derived cultivation and finite establishment provisions. Five millennia do not by themselves establish lifelong reproductive viability at Dverghamar’s gravity. [Thal refuge life](thals.md) describes the moderate-elevation settlement and provisioning conditions.

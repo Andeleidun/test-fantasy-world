@@ -453,7 +453,7 @@ L 267.78 476.1
     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="333.78" y="258.583437" transform="rotate(-0 333.78 258.583437)">CLOSED SALT BASIN</text>
    </g>
    <g id="text_18">
-    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="350.28" y="395.8" transform="rotate(-0 350.28 395.8)">RAIN-SHADOW BARRIER</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="350.28" y="395.8" transform="rotate(-0 350.28 395.8)">DRY DIVIDE</text>
    </g>
    <g id="text_19">
     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243c43" x="229.28" y="151.6" transform="rotate(-0 229.28 151.6)">HOT / DRY</text>
@@ -557,7 +557,7 @@ L 537.28 230.8
    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">ANDEL'S SONG / FIELD ATLAS</text>
   </g>
   <g id="text_22">
-   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DWARVEN PLANET  /  D3</text>
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DVERGHAMAR  /  D3</text>
   </g>
   <g id="text_23">
    <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="51.84" y="76.32" transform="rotate(-0 51.84 76.32)">A fragmented belt of ecological provinces</text>

@@ -225,7 +225,7 @@ z
    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536a6e" x="51.84" y="35.28" transform="rotate(-0 51.84 35.28)">ANDEL'S SONG / FIELD ATLAS</text>
   </g>
   <g id="text_11">
-   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DWARVEN PLANET  /  D8</text>
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #243c43" x="1100.16" y="35.28" transform="rotate(-0 1100.16 35.28)">DVERGHAMAR  /  D8</text>
   </g>
   <g id="text_12">
    <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="51.84" y="76.32" transform="rotate(-0 51.84 76.32)">Hidden habitats: deep lake and ice-bound oasis</text>
@@ -251,8 +251,8 @@ z
    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243c43" x="616.32" y="569.958281" transform="rotate(-0 616.32 569.958281)">Oasis scale and fauna</text>
   </g>
   <g id="text_19">
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 590.458359)">Finger-length and smaller consumers only in</text>
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 604.210652)">sufficiently productive oases; poorer systems may</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 590.458359)">Small consumers in the selected model;</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 604.210652)">local production limits size; poor systems may</text>
    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 617.962945)">contain microbes alone. Heat maintains habitat but is</text>
    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #536a6e" transform="translate(616.32 631.715238)">not food.</text>
   </g>

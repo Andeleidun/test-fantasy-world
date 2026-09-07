@@ -28,6 +28,8 @@ The workflow follows [GitHub’s custom Pages workflow guidance](https://docs.gi
 
 ## Edit the lore
 
+Lore changes follow the Drive sources first: read and reference the current ledgers, restore any newer repository decisions to those documents, update and verify them, then synchronize the editorial and public files here. Record the source links and baseline in `content/SOURCES.md`. See `docs/DVERGHAMAR-SCIENTIFIC-REVIEW.md` for the current scientific assessment. Implementation-only site changes do not require inventing a lore revision.
+
 - Edit reader-facing Markdown in `content/public/`. Register articles in `content/public/catalog.json` with a unique ID, title, category, description, kind and Markdown filename. Each document has a title and uses relative `.md` article links, which the build translates to website routes.
 - Categories are `worlds`, `peoples`, `cosmology`, `language` and `maps`. Keep existing IDs stable to preserve links.
 - Edit `content/public/lexicon.json` for public vocabulary and `content/public/maps.json` for map captions. Preserve dictionary row order because row anchors are stable links.

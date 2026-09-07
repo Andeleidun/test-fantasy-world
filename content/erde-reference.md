@@ -72,7 +72,7 @@ A catastrophic event approximately five millennia before Erde’s present causes
 
 - Neanderthal ancestry can remain widespread on Erde even though the lineage is demographically extinct there.
 
-- Working expectation: the Thals remain the surviving Neanderthal-descended lineage, while founder effects, the twilight-zone environment, life in permanent mountain and cave settlements, and magical influence produce meaningful divergence. Whether that divergence eventually warrants a distinct taxonomic label remains open.
+- The Thals remain the surviving Neanderthal-derived lineage. Founder effects, culture and selection can produce divergence during their five millennia on Dverghamar, but its degree and taxonomic significance remain open. Magical influence is a separate setting premise, not evidence that ordinary high-gravity reproduction or complete physiological adaptation is solved.
 
 - The Dwarven planet’s native dwarves have a completely separate evolutionary origin from the Thals.
 
@@ -118,9 +118,9 @@ These decisions narrow the simulation without prematurely resolving the cause of
 
 - Cross-planet travel normally depends on constrained pathways and exceptional openings. Places, times, relationships, rituals, specialists, patrons, or unusual magical conditions may make an Otherworld route traversable. Individual passage is rare; mass migration requires an extraordinary alignment of access, knowledge, stabilization, resources, and necessity.
 
-- Thals are best treated as the continuing Neanderthal-descended population rather than an unrelated new species. They have nevertheless diverged through founder effects, cultural adaptation, strong selection, and some magic-biological feedback. Their eventual taxonomic classification remains open.
+- Thals are the continuing Neanderthal-derived population rather than an unrelated native Dverghamar species. Cultural adaptation and founder effects are central to their later history; selection is conditional on heritable variation and successful reproduction. Any magic–biology feedback remains explicitly nonphysical. Five millennia do not by themselves prove a new species or a comprehensive redesign of Homo physiology.
 
-- Thals maintain permanent mountain and cave settlements along the twilight zone of the tidally locked Dwarven planet. This environment definitively shapes their bodies, senses, lifeways, architecture, timekeeping, food systems, and magical practices, although the specific adaptations must wait for decisions about gravity, atmosphere, temperature, radiation, geology, and biosphere.
+- Thals maintain permanent mountain and cave settlements in Dverghamar’s illuminated twilight provinces. The preferred establishment model uses moderately elevated cool benches, compatible Erde-derived crops and cultures brought with finite initial provisions, controlled dark periods where crops need them, and assisted transport. This preserves mountain residence without requiring extreme-altitude homes or automatic edibility of native organisms. Founding demography, crop yield and multigenerational reproduction under 1.53 g remain explicit research limits; Docs 35–38 govern the physical setting.
 
 - Magical variation follows broad inclinations with selective hard limits. Most biological differences affect sensitivity, ease, cost, resistance, capacity, favored channels, or vulnerability, with substantial individual overlap. Some forms can be truly inaccessible where anatomy, development, or soul structure is incompatible; dwarven limitations may include such boundaries.
 

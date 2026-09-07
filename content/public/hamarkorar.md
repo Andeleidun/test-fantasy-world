@@ -8,7 +8,7 @@
 
 ## Four arms and two legs
 
-The Hamarkorar descend from six-limbed animals. Their hind limbs carry most of the weight during upright movement; the other two pairs have become arms. Staggered limb girdles, a supportive trunk and breathing muscles that work independently of the arms make this body plan possible.
+The Hamarkorar descend from six-limbed animals. Their hind limbs carry most of the weight during upright movement; the other two pairs have become arms. Staggered limb girdles, a supportive trunk and breathing muscles that work independently of the arms are the proposed mechanical basis for this speculative body plan; its full physiology remains unvalidated.
 
 The upper pair is especially suited to precise manipulation and the lower pair to bracing and carrying, while both retain dexterity. Four arms allow a person to hold, steady and work on something at the same time. Their strength still depends on muscle, leverage, body mass and the demands of the planet’s gravity.
 
@@ -56,3 +56,7 @@ Kinship and care extend beyond a single prescribed household form. Korvar distin
 - [Native evolutionary history](evolution-reference.md)
 - [Korvar and the language family](korvar.md)
 - [Stone and material vocabulary](language-materials.md)
+
+## Nursery air and provisioning
+
+A ventilated air gap separates the egg’s physiological shell from the load-bearing outer casing. Short connected gas-filled pores must remain open and sufficiently dry; a thick wet mineral wall is not automatically breathable. The egg carries organic reserves, and the hatchling leaves it small and dependent on feeding. Material preparation supports reproduction but does not replace biological development. Peak oxygen demand, water loss, waste storage and safe hatching remain separate constraints.

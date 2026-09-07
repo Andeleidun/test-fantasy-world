@@ -19,3 +19,11 @@ Specific institutions, settlements and cultural relationships remain available f
 - [Return to Erde’s history](erde.html).
 - [Explore the receiving world](dverghamar.html).
 - [Read the Otherworld framework](otherworld.html).
+
+## Permanent mountain refuges
+
+The preferred settlement history places permanent Thal homes in cool, illuminated mountain and cave districts, beginning with benches roughly 500–1,200 m above the local pressure datum. This range is an initial siting target, not a climate result. Modest rock cover, drainage and ventilation avoid equating a mountain home with an extreme-altitude or deeply buried citadel.
+
+The founding communities bring a finite package of compatible Erde-derived seed crops, cultures and necessary cultivation organisms, together with provisions for establishment. They grow compatible foods locally rather than depending on an endless external subsidy. Sheltered fields and near-surface chambers provide light, with controlled dark periods for crops that need them. Fungi consume already-produced organic substrate. Native foods enter the diet only when their chemistry and nutritional value prove suitable.
+
+Lifelong human reproduction at 1.53 g remains untested. Five thousand years permit cultural change and selection but do not guarantee complete physiological adaptation. Assisted transport, manageable loads, moderate elevations and support during pregnancy reduce demands without eliminating that uncertainty. The continued Thal lineage remains a conditional element of the setting, separate from native dwarf evolution.

@@ -33,3 +33,7 @@ The common language reflects that practical knowledge without reducing dwarven l
 - [Read the full evolutionary history](evolution-reference.html).
 - [Explore the common language](korvar.html).
 - [See habitat and settlement diagrams](dverghamar-atlas.html).
+
+## Nursery air and provisioning
+
+A ventilated air gap separates the egg’s physiological shell from the load-bearing outer casing. Short connected gas-filled pores must remain open and sufficiently dry; a thick wet mineral wall is not automatically breathable. The egg carries organic reserves, and the hatchling leaves it small and dependent on feeding. Material preparation supports reproduction but does not replace biological development. Peak oxygen demand, water loss, waste storage and safe hatching remain separate constraints.

@@ -42,7 +42,7 @@
     "stem": "E5-american-contact-landscape",
     "description": "Defined-epoch map of the five First American regional complexes and the northern successor outcome.",
     "provenance": "33 paragraphs 148-178; 38",
-    "reading": "The five First American regional complexes are shown at the atlas\u2019s defined epoch. The northern successor outcome does not erase independent southern histories."
+    "reading": "The five First American regional complexes are shown at the atlas’s defined epoch. The northern successor outcome does not erase independent southern histories."
   },
   {
     "code": "D1",
@@ -69,7 +69,7 @@
     "stem": "D3-ecological-provinces",
     "description": "A scaled hypothetical sector showing fragmented wet provinces, mountain passes, salt barriers, terminal brines, and large lakes.",
     "provenance": "35 paragraphs 37-48; 37",
-    "reading": "A hypothetical twilight sector contains wet provinces separated by rain shadows and salt basins. Passes and river valleys connect habitats; this is not a selected continent."
+    "reading": "A hypothetical twilight sector contains wet provinces separated by rain shadows and salt basins. Passes and river valleys connect habitats; this is not a mapped continent."
   },
   {
     "code": "D4",
@@ -78,7 +78,7 @@
     "stem": "D4-water-circulation",
     "description": "A process map connecting river catchments and lakes to evaporation, precipitation, ice storage, and conditional slow return.",
     "provenance": "35 paragraphs 20, 23, 42-48; 38",
-    "reading": "Water evaporates, condenses and returns through precipitation, rivers, aquifers and ice storage. Slow return from nightside storage is conditional and remains a model requirement."
+    "reading": "Candidate transport mechanisms, not a solved water cycle. The reference inventory totals 240 million km³ water-equivalent. Basal melt, hydraulic head and sustainable return require coupled testing."
   },
   {
     "code": "D5",
@@ -100,12 +100,12 @@
   },
   {
     "code": "D7",
-    "title": "City resource catchment",
+    "title": "City facilities and regional support",
     "world": "Dverghamar",
     "stem": "D7-city-resource-catchment",
     "description": "An illustrative site map of hydropower, agriculture, ventilation, transit, and waste flows supporting underground settlement.",
     "provenance": "35 paragraphs 88-112; 38",
-    "reading": "A subsurface settlement depends on river power, farms, air exchange, transport and waste handling. The illustrative catchment makes those surface relationships visible."
+    "reading": "A local facility plan within a larger food-and-water region. The complete watershed and productive capture area extend beyond this sheet; symbol size does not establish capacity."
   },
   {
     "code": "D8",
@@ -114,6 +114,6 @@
     "stem": "D8-lake-and-oasis-habitats",
     "description": "Compare an oxygenated lake food web above anoxic depths with a chemically powered, isolated subglacial oasis.",
     "provenance": "35 paragraphs 44-48, 74-87; 38",
-    "reading": "Large lakes can sustain oxygenated surface food webs above anoxic depths. Isolated subglacial oases rely on geological reductants and slow oxidant delivery, supporting far smaller consumers."
+    "reading": "Large lake fauna require productive oxygenated water. Small oasis consumers are a selected ecology, not a universal length ceiling; both chemical donor and acceptor fluxes must suffice."
   }
 ]

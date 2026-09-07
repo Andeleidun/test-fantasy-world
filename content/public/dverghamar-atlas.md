@@ -18,3 +18,7 @@ Some sheets retain the older label “Dwarven Planet.” All refer to Dverghamar
 - [D6 · Dwarven habitat preferences](../../assets/maps/D6-dwarven-habitat-preferences.svg): Five native dwarf species and a deep-massif subspecies occupy overlapping ecological settings. The diagram specifies habitat tendencies, not ethnic territories or political borders.
 - [D7 · City resource catchment](../../assets/maps/D7-city-resource-catchment.svg): A subsurface settlement depends on river power, farms, air exchange, transport and waste handling. The illustrative catchment makes those surface relationships visible.
 - [D8 · Lake and oasis habitats](../../assets/maps/D8-lake-and-oasis-habitats.svg): Large lakes can sustain oxygenated surface food webs above anoxic depths. Isolated subglacial oases rely on geological reductants and slow oxidant delivery, supporting far smaller consumers.
+
+## Physical reading
+
+The eight sheets retain their schematic geometry. Water pathways require validated transport conditions; the city plan shows local facilities within a much larger supporting region; oasis consumer size depends on production. The reference water inventory totals 240 million km³ water-equivalent, with sustainable fluxes still requiring a coupled model.
