@@ -50,6 +50,8 @@ jobs:
         run: python scripts/editorial/validate_erde_history.py
       - name: Replay paleolatitude checks
         run: python scripts/editorial/check_erde_paleolatitudes.py
+      - name: Validate crustal blocks and plate history
+        run: python scripts/editorial/validate_erde_plate_blocks.py
       - name: Upload reconstruction outputs
         if: always()
         uses: actions/upload-artifact@v4
