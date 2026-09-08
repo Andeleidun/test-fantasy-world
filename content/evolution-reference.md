@@ -4,7 +4,7 @@ This document explains how the established physical parameters can produce the p
 
 ## Scientific framing
 
-The planet is not an Earth copy with one unusual climate feature. Its 3-Earth-mass rocky body, 1.53 g surface gravity, early synchronization, limited water inventory, 1.5-bar atmosphere, early-M spectrum, and permanent stellar geometry shape every later stage.
+The planet is not an Earth copy with one unusual climate feature. Its 3-Earth-mass rocky body, 1.53 g surface gravity, early synchronization, limited water inventory, 1.5-bar atmosphere, early-M spectrum, and permanent stellar geometry shape every later stage. The bounded reference calculation now uses a 0.50-solar-mass, 8.0-billion-year host, 0.040 solar luminosities, 1.20 Earth flux at 0.1826 AU, and a 40.30-day synchronous period; these remain conditional inputs rather than a unique stellar solution.
 
 The adopted ingredients can form a candidate inhabited world, but their separate plausibility does not prove that the whole parameter combination works. Its atmosphere can retain and redistribute heat, while land, lakes, water vapor, clouds, and ice determine the actual contrast. At 1.53 g, a 1.5-bar atmosphere has close to Earth’s mass per unit surface area. The old star’s quieter present must be paired with a viable early water-retention history. Near-Earth oxygen partial pressure is useful for comparison but does not reproduce every respiratory or combustion property.
 
@@ -22,9 +22,9 @@ The early atmosphere is likely dominated by nebular or impact-delivered hydrogen
 
 Stellar radiation and early activity remove much of the light hydrogen envelope. At the same time, hydrogen interacts with magma, iron, and water. Some oxygen produced by water photolysis is absorbed into molten or newly crystallized rock rather than accumulating in the air.
 
-A coupled atmosphere-magma history is more credible than a single unexplained stripping event. Hydrogen escape, mantle ingassing, oxidation of iron-bearing crust, impact erosion, and volcanic outgassing gradually leave a secondary atmosphere dominated by nitrogen and carbon-bearing gases.
+A coupled atmosphere-magma history is more credible than a single unexplained stripping event. The preferred sequence is staged secondary-atmosphere formation: an early hydrogen/steam-rich atmosphere exchanges with a magma ocean; most primordial hydrogen escapes; reduced melt, mantle, and crust consume much of the photolytic oxygen; a volatile-bearing mantle retains part of the water and carbon; and later outgassing plus bounded impact delivery establish the nitrogen-carbon secondary atmosphere after the most intense stellar youth. This is a causal candidate, not a completed escape calculation.
 
-The present 0.15–0.20 Earth-ocean exchangeable inventory is a selected outcome of delivery, escape, impacts, mantle exchange, and chemical storage. Deep mantle water is budgeted separately. The early-M star’s pre-main-sequence luminosity and radiation may otherwise desiccate the planet, so sufficient initial supply, retention, or later outgassing must be demonstrated by the eventual history. The Thal catastrophe on Erde is unrelated.
+The present 0.15–0.20 Earth-ocean exchangeable inventory is a selected outcome of delivery, escape, impacts, mantle exchange, and chemical storage. Deep mantle water is budgeted separately. The 16.37-km/s surface escape speed supports retention of present heavy gases but does not guarantee survival of early hydrogen or steam. The required time-integrated model must end with 200–270 million km³ exchangeable water, a 1.50-bar nitrogen-dominated secondary atmosphere, negligible primordial H/He, and no unexplained massive abiotic-oxygen residue. The Thal catastrophe on Erde is unrelated.
 
 Cooling allows water to collect in basins and the subsurface and to freeze in cold regions. The chosen dry-land endpoint requires a compatible basin distribution and substantial storage in ice or groundwater; the total inventory alone does not decide the flooded area. Persistent surface habitats need return fluxes that prevent complete cold-trap sequestration over geological time.
 
@@ -192,9 +192,9 @@ Credibility would be undermined by treating target temperatures as a solved clim
 
 ## Recommended next validation work
 
-First, quantify the preferred provisional brood-geode model using the real egg, the constructed casing, and dependent post-hatching care as separate physiological stages.
+First, integrate the selected stellar-orbital case through one rotation-dependent XUV history and coupled magma-ocean, mantle, oxidation, hydrodynamic/diffusion-limited escape, impact, and outgassing model. If staged retention fails, test delayed secondary-atmosphere formation as the one materially different retry; do not hide failure by changing the peoples or Erde.
 
-Second, select a consistent stellar model, incident flux, orbit, and atmosphere and test the temperature, hydrology, and corridor targets together. A simplified energy-balance calculation can screen gross inconsistencies; it cannot validate terrain-scale habitability or replace three-dimensional atmosphere–ice–water modeling.
+Second, after volatile survival passes, use the selected 1.20-flux orbit and dry 1.50-bar reference composition to test the temperature, hydrology, and corridor targets together. A simplified energy-balance calculation can screen gross inconsistencies; it cannot validate terrain-scale habitability or replace three-dimensional atmosphere–ice–water modeling.
 
 Third, define moon and companion-body masses and orbits, then perform long-term N-body integrations and tidal-evolution checks.
 
@@ -206,4 +206,4 @@ Fifth, specify dwarf stature, body mass, respiratory architecture, skin covering
 
 The causal history now uses regional ice accumulations, outlet glaciers, connected aquifers and independently budgeted moist catchments to sustain a chain of refuge provinces. A closed 240-million-km³ water-equivalent reference inventory is specified in Doc 35. This inventory demonstrates bookkeeping, not a working long-term circulation. Present basins and mountains need not persist through the full evolutionary timescale. Habitat migration, extinction and reconnection remain part of the history.
 
-The next decisive test is a coupled stellar, atmosphere, ice and drainage case, followed by a representative inhabited valley and native brood/adult physiology. Preserve the species topology and preferred mineral nursery while adjusting the narrowest failing numerical assumption.
+The next decisive test is the time-integrated stellar-XUV, escape, magma, mantle, and volatile-delivery history for the bounded reference case. Only after it passes should the coupled atmosphere, ice, and drainage case proceed, followed by a representative inhabited valley and native brood/adult physiology. Preserve the species topology, preferred mineral nursery, Thal refugee identity, and Erde Strategy A reconstruction while adjusting the narrowest failing physical input.

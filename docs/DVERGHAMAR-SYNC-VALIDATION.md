@@ -22,3 +22,13 @@ The full scientific assessment is in `DVERGHAMAR-SCIENTIFIC-REVIEW.md` and Drive
 ## Remaining scientific gates
 
 The joint stellar/escape, atmosphere, topography, ice and water-return model is unresolved. Local runoff, food yield, underground heat rejection, native adult/nursery physiology and Thal multigenerational reproduction at 1.53 g remain explicit tests. More prose review cannot establish those results. Keep the selected world and peoples while adjusting the narrowest failing quantitative assumption when those models are available.
+
+## Continuation from e99ab003
+
+Google Drive scientific review document 38 and governing documents 35–37 were re-read before editing. Drive was updated and read back before repository synchronization. The restored Erde Proposal 4 Strategy A reconstruction, its U1–U4 gates, the Dwarves’ independent six-limbed ancestry and preferred mineral nursery, and the Thals’ separate refugee identity were preserved.
+
+This pass selects one linked screening case: a 0.50-solar-mass, 8.0-billion-year early-M star approximated by 0.040 solar luminosities and 0.47 solar radii; 1.20 Earth bolometric flux at 0.1826 AU; and a 40.30-day orbital and synchronous period. It also defines a dry 1.50-bar atmospheric input and records the derived gravity, escape speed, column mass, total atmospheric mass and scale height. The values are conditional model inputs, not a completed stellar track, escape history or climate solution.
+
+The unresolved first gate is now narrower: integrate stellar bolometric and rotation-dependent XUV history with magma-ocean exchange, mantle retention, oxidation, hydrodynamic and diffusion-limited escape, impacts and outgassing. Test staged secondary-atmosphere formation first and delayed outgassing plus bounded later delivery as the one materially different retry. Climate, ice, catchment, inhabited-valley, adult/nursery and Thal-demography work remains downstream.
+
+Local validation reproduced the stated arithmetic. `git diff --check` passed. `npm test` rebuilt 21 articles, 13 maps and 571 dictionary records and passed all five build/content tests. The 12 Playwright checks did not launch because the local Chromium executable is absent; this is an environment limitation, not a failed browser assertion. The earlier attempted download from this baseline had already timed out, so it was not repeated. The GitHub workflow remains the browser/accessibility validation path for the resulting commit.

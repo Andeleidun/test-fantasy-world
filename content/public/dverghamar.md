@@ -4,7 +4,7 @@
 
 **Dverghamar** is the ordinary native name of the dwarven world; **Dvergahamrar** is its archaic or highly formal form. One hemisphere faces its star continuously, while the other remains in darkness. Between them lies a broad twilight region, broken into living provinces by mountains, dry basins and stretches of salt country.
 
-The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. It orbits an old, relatively quiet early-M star, a smaller and cooler star than the Sun. These values form a working physical model; the exact atmosphere, water cycle and climate still require a coupled simulation.
+The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. Its current linked reference case uses an **8-billion-year, 0.50-solar-mass early-M star**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1826 AU**, and a synchronous year of **40.30 Earth days**. These values are screening inputs rather than immutable canon. The star’s early high-energy history must still be shown to leave the selected water and secondary atmosphere before the climate and water cycle can be validated.
 
 ## The inhabited landscapes
 

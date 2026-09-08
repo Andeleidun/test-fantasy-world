@@ -1,6 +1,6 @@
 # Dverghamar: scientific assessment and cohesive development plan
 
-Research baseline: the live Drive ledgers and `Andeleidun/test-fantasy-world` at commit `a8f7e6ab873d2dd109bde088d1962e39d1d59ebf`. This assessment separates observations and physical calculations from selected fiction, analogies, and untested models. It does not claim that an inhabited planet with these properties has been observed.
+Research baseline: Google Drive scientific review document 38 and its governing ledgers, followed by `Andeleidun/test-fantasy-world` at commit `e99ab003561d1439afc2848027f7713ed12c7aba`. Drive is authoritative. This assessment separates observations and physical calculations from selected fiction, analogies, and untested models. It does not claim that an inhabited planet with these properties has been observed.
 
 ## Verdict
 
@@ -20,14 +20,30 @@ The Otherworld crossing remains an explicit narrative premise without an establi
 - **Contradicted:** the asserted mechanism conflicts with physical accounting or relevant evidence. Replace the mechanism, retaining its intended function where possible.
 - **Fictional premise:** a name, historical event, cultural preference, or nonphysical setting rule. Scientific evidence can constrain consequences but cannot independently establish it.
 
+## Bounded stellar, escape and atmosphere reference case
+
+The qualitative canon is unchanged: Dverghamar is a roughly 3-Earth-mass, 1.4-Earth-radius rocky planet in a low-eccentricity 1:1 spin-orbit state around an old, comparatively quiet early-M dwarf. The Dwarves remain an independently evolved six-limbed lineage; the Thals remain later refugees from Erde. Erde Proposal 4 Strategy A and its U1–U4 gates are unaffected.
+
+The linked screening case uses a 0.50-solar-mass, 8.0-billion-year, near-solar-metallicity star, approximated by 0.040 solar luminosities, 0.47 solar radii and an effective temperature near 3,765 K. At 1.20 Earth bolometric flux, the orbit is 0.1826 AU and Kepler’s law gives a 40.30-Earth-day orbital and synchronous rotation period. These rounded values are one conditional model input, not a measured or unique star. If flux changes, distance and period must be recomputed together.
+
+The selected bulk planet derives 15.03 m/s² surface gravity, 6.03 g/cm³ mean density, 16.37 km/s escape speed and 9.997 × 10^14 m² surface area. A 1.50-bar atmosphere has a 9,979-kg/m² column and total mass near 9.98 × 10^18 kg. The dry lowland reference composition is 84.4998% nitrogen, 14.5% oxygen, 0.9% argon-like inert gas, 0.10% carbon dioxide and 2 ppm methane. Water vapor and aerosols remain model variables. Dry oxygen partial pressure is 0.2175 bar, and an isothermal 280 K comparison gives a 5.39-km scale height and about 1.246 bar at 1,000 m.
+
+At an assumed Bond albedo of 0.30, the zero-greenhouse radiative screen gives about 266 K with full-sphere redistribution, 317 K for dayside-average reradiation and 377 K at the substellar point without redistribution. This only shows that the central-dayside target is not excluded by gross energy arithmetic. It does not validate surface temperature, nightside heat transport, clouds, precipitation, ice flow or corridor width.
+
+The preferred volatile history is staged secondary-atmosphere formation. An early hydrogen/steam atmosphere exchanges with a magma ocean; most primordial hydrogen escapes; reduced melt, mantle and crust consume much of the photolytic oxygen; the mantle retains part of the water and carbon; and later outgassing plus bounded impact delivery establish the secondary atmosphere after the most intense stellar youth. Biological oxygenation follows later. High escape speed helps retain heavy gases today but does not guarantee survival of early hydrogen or steam. [MIST](https://arxiv.org/abs/1604.08592), [M-dwarf XUV evolution](https://arxiv.org/abs/2009.07695), and [pre-main-sequence water-loss modeling](https://arxiv.org/abs/1411.7412) constrain different parts of this history without proving the combined result.
+
+The remaining gate must integrate one bolometric and rotation-dependent XUV history with initial H/He, water, nitrogen and carbon; magma-ocean exchange; mantle retention; oxidation; hydrodynamic and diffusion-limited escape; oxygen drag; impacts; outgassing; and later nonthermal loss. Acceptance requires negligible primordial H/He, 200–270 million km³ present exchangeable water, a physically supplied 1.50-bar nitrogen-dominated atmosphere, no unexplained massive abiotic-oxygen residue, and stabilization early enough for the selected biospheric chronology.
+
+Test staged retention first. If it fails, the one materially different retry is delayed secondary-atmosphere formation through stronger mantle sequestration during the saturated-XUV interval, followed by later outgassing and bounded delivery. If both fail, preserve the best valid result and revise the narrowest physical input. Do not alter the Dwarves, Thals, Erde geography, species territories, continent count, magic metabolism or city census to hide failure.
+
 ## Claim assessment and replacements
 
 | Claim or design feature | Assessment | Retained or replacement description |
 | --- | --- | --- |
 | 3 Earth masses, 1.4 Earth radii, 1.53 g | Supported arithmetic; selected inputs | Keep. Mean density is about 6.0 g/cm³. This need not mean Earth’s exact iron fraction. |
 | A rocky interior at that mass and radius | Conditional | A simple two-layer mass–radius fit gives a core mass fraction near 0.14. Treat this as one interior comparison, not a measured core. Avoid adding a thick hydrogen envelope to inflate the radius. [Zeng et al.](https://arxiv.org/abs/1512.08827) |
-| Old early-M star and early synchronous rotation | Conditional | Keep a 0.4–0.6-solar-mass, 7–9-billion-year host range and low-eccentricity synchronous history. Select a consistent stellar track before fixing flux and orbit. |
-| Mass, luminosity, orbit, year and climate independently selectable | Contradicted | Derive distance from luminosity and flux, then period from mass and distance. The existing 0.5-solar-mass, 0.04-solar-luminosity, 0.16-AU example gives 33.1 days and 1.56 Earth fluxes; it remains arithmetic, not a validated star/climate model. |
+| Old early-M star and early synchronous rotation | Conditional | Use the linked 0.50-solar-mass, 8.0-billion-year reference case unless its integrated escape or climate model fails. Present quiet does not determine the active youth. |
+| Mass, luminosity, orbit, year and climate independently selectable | Contradicted | Use the linked 0.040-solar-luminosity, 1.20-Earth-flux, 0.1826-AU and 40.30-day reference case. Recompute distance and period together if flux changes. The linkage is supported arithmetic; the climate remains unvalidated. |
 | Present stellar quiet guarantees early water retention | Contradicted | Retained/released mantle volatiles and an explicit escape and oxidation history must leave the present inventory. No generic super-Earth protection guarantee. [Luger and Barnes](https://arxiv.org/abs/1411.7412) |
 | A magnetic field automatically solves atmospheric escape | Unsupported | Keep dynamo strength open. Atmosphere, stellar activity, chemistry and escape physics must be evaluated directly. |
 | 1.5 bar means 1.5 Earth atmospheric columns | Contradicted | At 1.53 g the column is about 9,980 kg/m², close to Earth’s. Total atmospheric mass also depends on the larger planetary area. |
@@ -171,4 +187,4 @@ The Thals’ remembered mammoths, rhinos and other megafauna belong to their anc
 
 Source reconciliation also restored the repository’s newer Erde naming/projection decisions, geographic trials and geological validation records to Drive documents 20 and 24, retaining each trial’s proposed and unvalidated status. The accepted public atlas is restored separately from experimental geography. Existing Dverghamar maps retain their geometry and receive corrected physical interpretations. Linguistic data and grammar remain unchanged; the language reference now reflects the revised habitat and Thal-establishment constraints.
 
-This review ends at a documented provisional model with explicit unresolved tests, not a claim that no further scientific issue or improvement can exist. The next useful investigation is the coupled star–atmosphere–topography–ice calculation. A more detailed named political map or exact city census would currently add precision ahead of evidence.
+This review ends at a documented provisional model with explicit unresolved tests, not a claim that no further scientific issue or improvement can exist. The next useful investigation is the time-integrated stellar-XUV, escape, magma and volatile-delivery calculation. The coupled atmosphere–topography–ice calculation follows only after that gate passes. A more detailed named political map or exact city census would currently add precision ahead of evidence.

@@ -46,7 +46,7 @@ The system is old enough for slow oxygenation and extensive biological diversifi
 
 ### Recommended working values
 
-The working host range is roughly 0.4–0.6 solar masses and 7–9 billion years old. Choose luminosity and spectrum from a stellar model consistent with mass, composition, and age, then derive orbital distance from incident flux and period from Kepler’s law. Roughly 30–60 Earth days is a preferred target, not an independent constraint. For arithmetic illustration only, 0.5 solar masses, 0.04 solar luminosities, and 0.16 AU give a 33.1-day year and about 1.56 times Earth’s incident flux. This example is not a validated stellar or climate solution.
+The bounded reference case uses a 0.50-solar-mass, 8.0-billion-year, near-solar-metallicity early-M star, approximated by 0.040 solar luminosities, 0.47 solar radii, and effective temperature about 3,765 K. At 1.20 Earth flux, the derived distance is 0.1826 AU and Kepler’s law gives a 40.30-Earth-day year and synchronous rotation period. These mutually consistent rounded inputs replace the former 0.16-AU, 1.56-flux illustration as the preferred screening case. They are conditional climate and escape inputs, not measured values, a unique stellar track, or immutable canon.
 
 Residual stellar flaring must be low for an M dwarf but need not be zero. Atmospheric shielding, an old quiet star, and long biological adaptation are more credible than treating the star as completely inactive.
 
@@ -78,7 +78,7 @@ Fuel engines remain plausible if combustion chambers, fuels, compression, and ai
 
 ### Recommended working values
 
-An initial climate-test range is carbon dioxide in the hundreds to low thousands of parts per million, with low methane. These are unvalidated starting inputs, not values shown to produce the selected temperatures. Carbon burial, oxidation, weathering, volcanism, and atmospheric photochemistry must support whatever abundances a successful coupled climate case requires.
+The dry lowland reference composition for the next climate test is 84.4998 percent nitrogen, 14.5 percent oxygen, 0.9 percent argon-like inert gas, 0.10 percent carbon dioxide (1,000 ppm), and 2 ppm methane at 1.50 bar. Water vapor and aerosols remain prognostic or sensitivity variables. This yields 0.2175 bar dry oxygen, mean dry molar mass about 28.71 g/mol, a 5.39-km isothermal scale height at 280 K, and approximately 1.246 bar at 1,000 m. These are coherent starting inputs, not values shown to produce the selected climate. Carbon burial, oxidation, weathering, volcanism, and photochemistry must support any successful final composition.
 
 ## Surface climate and habitable corridor
 
@@ -350,7 +350,7 @@ The present population of 500,000–1,000,000 does not represent the ancient eff
 
 Open
 
-Exact stellar mass, luminosity, age, activity spectrum, orbital distance, and period.
+The bolometric reference mass, age, luminosity, distance, incident flux, and period are selected as one conditional case. Still open: an interpolated stellar track and spectrum, the star’s rotation-dependent XUV and flare history, and the coupled escape, magma-ocean, oxidation, mantle-retention, outgassing, and impact history needed to reach the present atmosphere and water inventory.
 
 Exact carbon-dioxide, methane, humidity, cloud, albedo, and aerosol values.
 
@@ -366,7 +366,7 @@ Native skeletal mineral chemistry, two-arm-girdle geometry, respiratory architec
 
 The integrated setting is a scientifically motivated speculative inhabited synchronously rotating super-Earth. Its major assumptions include the old quiet early-M host, retained moderate atmosphere and limited water, long-lived but not guaranteed mobile-lid tectonics, oxygenic photosynthesis under an M-dwarf spectrum, and a native six-limbed lineage that later produces compact, four-armed intelligent bipeds. The last is a selected worldbuilding hypothesis with biological analogues for its component mechanisms, not an observed or demonstrably probable extraterrestrial outcome.
 
-The revised qualitative design has no identified necessary contradiction after the specified repairs, but remains a candidate rather than a jointly validated inhabited planet. The most consequential open tests are climate and water return, early volatile survival, native adult and brood physiology, and Thal establishment and reproduction under 1.53 g. Reservoir bookkeeping and engineering examples establish only their stated arithmetic. Exact climate targets, map geometry, life histories, and population capacities remain adjustable where coupled tests fail.
+The revised qualitative design has no identified necessary contradiction after the specified repairs, but remains a candidate rather than a jointly validated inhabited planet. One coherent stellar-orbital and present-atmosphere reference case now closes the independent-input arithmetic: the selected bulk planet derives 15.03 m/s² surface gravity, 16.37 km/s escape speed, a 9,979-kg/m² atmospheric column, and about 9.98 × 10^18 kg total atmosphere. Early volatile survival remains open because high escape speed does not solve pre-main-sequence hydrodynamic escape. The next model must reproduce the present water and atmosphere through stellar XUV history, magma and mantle exchange, oxidation, escape, impacts, and outgassing before climate and water return are tested. Native adult/brood physiology and Thal establishment at 1.53 g remain later gates.
 
 ## The cohesive surface geography
 

@@ -2,7 +2,7 @@
 
 **Dverghamar** is the ordinary native planetary name. **Dvergahamrar** is its archaic or highly formal form. The world is synchronously rotating: one hemisphere faces its star while the other remains in darkness.
 
-The current working reference is a rocky planet of approximately **three Earth masses and 1.4 Earth radii**, with surface gravity near **1.53 g**. Its host is an old, relatively quiet early-M star. A viable history must still explain how the planet retained enough water and atmosphere through the star’s earlier activity.
+The current working reference is a rocky planet of approximately **three Earth masses and 1.4 Earth radii**, with surface gravity near **1.53 g**. Its linked screening case uses an **8-billion-year, 0.50-solar-mass early-M star**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1826 AU**, and a synchronous year of **40.30 Earth days**. These are conditional inputs, not immutable canon. A viable time-integrated history must still explain how magma, mantle storage, escape, oxidation, impacts and outgassing leave the selected water and nitrogen-dominated secondary atmosphere after the star’s active youth.
 
 ## The surface environment
 
