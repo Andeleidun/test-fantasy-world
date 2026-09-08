@@ -1,15 +1,17 @@
 """Build and validate the Strategy A spatial crustal freeboard reconstruction.
 
 This is a multiscale existence model. The present Strategy A coastline is a boundary
-condition. A 2-degree material-coordinate grid tests whether ordinary continental
+condition. A 1-degree material-coordinate grid tests whether ordinary continental
 crustal thickness, stretching, shortening, thermal subsidence, bounded isostatic/
 lithospheric residuals, sediment fill and volcanic construction can reproduce that
 boundary while conserving the adopted continental-crust inventory. Critical narrow
-gateways are tested separately at local-section scale because a 2-degree grid cannot
-resolve them.
+gateways are tested separately at local-section scale because even a 1-degree grid
+cannot resolve them.
 
-The model does not claim a unique palaeotopography, GCM, mantle-convection solution,
-or exact deep-time eustatic curve.
+The generalized Earth-reference land mask is a provenance diagnostic only. It is not
+forced to remain continental crust at the same present coordinates. The model does not
+claim a unique palaeotopography, GCM, mantle-convection solution, or exact deep-time
+eustatic curve.
 """
 from __future__ import annotations
 
@@ -43,10 +45,6 @@ def polys(g):
     if g.geom_type == "Polygon":
         return [g]
     return [p for child in getattr(g, "geoms", []) for p in polys(child)]
-
-
-def geodesic_area_km2(g):
-    return sum(abs(GEOD.geometry_area_perimeter(p)[0]) for p in polys(g)) / 1e6
 
 
 def cell_area_km2(lat_center: float, resolution: float) -> float:
@@ -91,27 +89,26 @@ def structural_elevation(params, age):
     residual = interp_history(params.get("lithosphere_residual_history_m", []), age)
     volcanic = interp_history(params.get("volcanic_surface_build_history_m", []), age)
     sediment = interp_history(params.get("sedimentary_surface_fill_history_m", []), age)
+    thermal = thermal_subsidence_m(params, age)
     return {
         "crust_km": crust,
         "airy_m": airy,
-        "thermal_m": thermal_subsidence_m(params, age),
+        "thermal_m": thermal,
         "residual_m": residual,
         "volcanic_m": volcanic,
         "sediment_fill_m": sediment,
-        "structural_elevation_m": airy + thermal_subsidence_m(params, age) + residual + volcanic + sediment,
+        "structural_elevation_m": airy + thermal + residual + volcanic + sediment,
     }
 
 
 def sea_level(age):
     table = {float(k): float(v) for k, v in MODEL["eustatic_sea_level_m"].items()}
-    if age in table:
-        return table[age]
-    # Only configured epochs are used for global snapshots. Local gateway tests use
-    # their own sampled states.
-    raise KeyError(age)
+    if age not in table:
+        raise KeyError(age)
+    return table[age]
 
 
-# --- Present candidate/reference substrate geometry ---
+# --- Present candidate/reference geometry ---
 candidate = make_valid(unary_union([
     shape(f["geometry"]) for f in json.loads((OUT / "candidate-geography.geojson").read_text())["features"]
 ]))
@@ -119,17 +116,15 @@ reference_source = unary_union([
     shape(g) for g in json.loads((ROOT / "scripts/editorial/data/reference-land.geojson").read_text())["geometries"]
 ])
 reference = make_valid(FRAME.project_geometry(reference_source, GEO))
-reference_or_candidate = make_valid(unary_union([candidate, reference]))
 
 if not candidate.is_valid or not reference.is_valid:
-    ERRORS.append("Candidate or reference material geometry is invalid.")
+    ERRORS.append("Candidate or reference geometry is invalid.")
 if not CONTROLS.get("generated_outputs_current"):
     ERRORS.append("Strategy A geometry must be regenerated before freeboard validation.")
 
-# Equal Earth is used only for distance ordering/classification. Cell area is
+# Equal Earth is used for spatial distance ordering/classification. Cell area is
 # calculated analytically on the sphere.
 candidate_proj = make_valid(PROJECTION.project_geometry(candidate, GEO))
-union_proj = make_valid(PROJECTION.project_geometry(reference_or_candidate, GEO))
 candidate_boundary_proj = candidate_proj.boundary
 
 # Recreate named marginal surface envelopes from generator controls.
@@ -138,7 +133,7 @@ for name, vertices in CONTROLS.get("terrane_reference_frame_vertices", {}).items
     poly = make_valid(Polygon(vertices))
     feature_native[name] = make_valid(FRAME.project_geometry(poly, GEO))
 
-# Orogenic axes are a freeboard/thickness proxy, not finished mountain polygons.
+# Orogenic axes are thickness/freeboard proxies, not finished mountain polygons.
 orogen_buffers = []
 for axis in MODEL["spatial_rules"]["orogenic_axes_source_lonlat"]:
     native_line = FRAME.project_geometry(LineString(axis), GEO)
@@ -162,7 +157,6 @@ def nearest_body(lon, lat):
 
 
 def feature_at(pt):
-    # Specific local blocks take precedence over their larger parent envelopes.
     order = [
         "EASTERN_STEPPING_TERRANE_A", "EASTERN_STEPPING_TERRANE_B",
         "C5_SHELF_HEAD", "JX1_ISTHMIAN_TERRANE", "C4_MARGINAL_CORRIDOR"
@@ -186,8 +180,8 @@ def classify(cell):
     if feat in ("EASTERN_STEPPING_TERRANE_A", "EASTERN_STEPPING_TERRANE_B"):
         return "arc_stepping_island"
 
+    pxy = Point(cell["x"], cell["y"])
     if cell["candidate_land"]:
-        pxy = Point(cell["x"], cell["y"])
         if orogen_union.covers(pxy):
             return "orogenic_belt"
         coast_km = candidate_boundary_proj.distance(pxy) / 1000
@@ -196,10 +190,13 @@ def classify(cell):
                     else "stable_margin")
         if coast_km >= float(MODEL["spatial_rules"]["candidate_only_interior_distance_km"]):
             return "old_divergent_platform"
-        # Younger reworking is concentrated where C3/C4 collision families already
-        # justify it; other candidate-only fringes use ordinary inherited margins.
         return "reworked_margin_land" if cell["body"] in ("C3", "C4") else "stable_margin"
 
+    offshore_km = cell["distance_to_candidate_km"]
+    if offshore_km <= float(MODEL["spatial_rules"]["inner_shelf_distance_km"]):
+        return "inner_continental_shelf"
+    if offshore_km <= float(MODEL["spatial_rules"]["outer_shelf_distance_km"]):
+        return "outer_continental_shelf"
     if cell["reference_land"]:
         return "submerged_reference_platform"
     return "extended_continental_margin"
@@ -217,17 +214,19 @@ for lat in latitudes:
         cand = candidate.covers(pt)
         ref = reference.covers(pt)
         x, y = PROJECTION.transform_point(lon, lat, GEO)
+        pxy = Point(float(x), float(y))
         all_cells.append({
             "lon": lon, "lat": lat, "x": float(x), "y": float(y), "area_km2": area,
             "candidate_land": bool(cand), "reference_land": bool(ref),
-            "core_continental": bool(cand or ref),
+            "distance_to_candidate_km": 0.0 if cand else candidate_proj.distance(pxy) / 1000,
         })
 
-core = [c for c in all_cells if c["core_continental"]]
-water = [c for c in all_cells if not c["core_continental"]]
-for c in water:
-    c["distance_to_core_km"] = union_proj.distance(Point(c["x"], c["y"])) / 1000
-water.sort(key=lambda c: c["distance_to_core_km"])
+# Candidate land is the emergent continental core. Add nearest offshore cells until
+# the adopted total continental-crust inventory closes. This is materially more
+# natural than forcing every removed Earth-reference land location to remain crust.
+core = [c for c in all_cells if c["candidate_land"]]
+water = [c for c in all_cells if not c["candidate_land"]]
+water.sort(key=lambda c: c["distance_to_candidate_km"])
 
 target = float(MODEL["scope"]["continental_crust_target_area_km2"])
 domain = list(core)
@@ -281,6 +280,7 @@ positive_candidate_area = 0.0
 candidate_grid_area = 0.0
 negative_non_candidate_area = 0.0
 non_candidate_domain_area = 0.0
+reference_only_domain_area = 0.0
 
 for c in domain:
     params = province_params[c["province"]]
@@ -289,7 +289,8 @@ for c in domain:
         state = structural_elevation(params, age)
         level = sea_level(age)
         freeboard = state["structural_elevation_m"] - level
-        history[str(age).rstrip("0").rstrip(".") if age else "0"] = round(freeboard, 1)
+        key = str(age).rstrip("0").rstrip(".") if age else "0"
+        history[key] = round(freeboard, 1)
     present_fb = structural_elevation(params, 0)["structural_elevation_m"]
     if c["candidate_land"]:
         candidate_grid_area += c["area_km2"]
@@ -297,12 +298,15 @@ for c in domain:
             positive_candidate_area += c["area_km2"]
     else:
         non_candidate_domain_area += c["area_km2"]
+        if c["reference_land"]:
+            reference_only_domain_area += c["area_km2"]
         if present_fb < 0:
             negative_non_candidate_area += c["area_km2"]
     rows.append({
         "lon": c["lon"], "lat": c["lat"], "area_km2": round(c["area_km2"], 3),
         "body": c["body"], "province": c["province"],
         "candidate_land": c["candidate_land"], "reference_land": c["reference_land"],
+        "distance_to_candidate_km": round(c["distance_to_candidate_km"], 2),
         "freeboard_m": history,
     })
 
@@ -319,9 +323,7 @@ for age in epochs:
             submerged += a
         if fb > uncertainty:
             robust_land += a
-        elif fb < -uncertainty:
-            pass
-        else:
+        elif abs(fb) <= uncertainty:
             uncertain += a
     snapshots[str(age).rstrip("0").rstrip(".") if age else "0"] = {
         "sea_level_m": sea_level(age),
@@ -337,17 +339,27 @@ grid_candidate_error = abs(candidate_grid_area - exact_candidate_area) / exact_c
 crust_area_error = abs(domain_area - target) / target
 candidate_positive_fraction = positive_candidate_area / candidate_grid_area if candidate_grid_area else 0
 water_negative_fraction = negative_non_candidate_area / non_candidate_domain_area if non_candidate_domain_area else 0
+submerged_fraction = non_candidate_domain_area / domain_area if domain_area else 1
 
 if grid_candidate_error > float(validation["grid_candidate_area_relative_error_max"]):
-    ERRORS.append(f"2-degree candidate grid area error {grid_candidate_error:.3%} exceeds tolerance.")
+    ERRORS.append(f"1-degree candidate grid area error {grid_candidate_error:.3%} exceeds tolerance.")
 if crust_area_error > float(validation["continental_crust_area_relative_tolerance"]):
     ERRORS.append(f"Continental-domain area error {crust_area_error:.3%} exceeds tolerance.")
 if candidate_positive_fraction < float(validation["present_candidate_land_positive_fraction_min"]):
     ERRORS.append(f"Only {candidate_positive_fraction:.2%} of candidate grid land is positive freeboard.")
 if water_negative_fraction < float(validation["present_non_candidate_continental_water_negative_fraction_min"]):
     ERRORS.append(f"Only {water_negative_fraction:.2%} of non-candidate continental substrate is submerged.")
+if not (float(validation["minimum_present_submerged_continental_fraction"]) <= submerged_fraction <= float(validation["maximum_present_submerged_continental_fraction"])):
+    ERRORS.append(f"Present submerged continental fraction {submerged_fraction:.2%} falls outside the plausibility band.")
 if validation.get("require_zero_net_new_continental_crust") and exact_candidate_area > target:
     ERRORS.append("Candidate emerged land exceeds the total continental-crust inventory.")
+
+# A physically useful shelf model must respond globally to an ordinary strong lowstand.
+present_emerged = snapshots["0"]["emerged_continental_crust_km2"]
+minus80_emerged = snapshots["0.65"]["emerged_continental_crust_km2"]
+global_shelf_response = minus80_emerged - present_emerged
+if global_shelf_response < float(validation["minimum_global_shelf_response_km2_at_minus_80m"]):
+    ERRORS.append(f"Global shelf response at -80 m is only {global_shelf_response:.0f} km2; shelf field is too rigid/deep.")
 
 # --- Critical local sections below the global-grid resolution ---
 sections = MODEL["critical_sections"]
@@ -361,7 +373,7 @@ if not section_results["JX1_land_neck"]["pass"]:
 
 n = sections["NORTHERN_APPROACH_SHELF"]
 founder_sill = float(n["critical_sill_elevation_m"])
-contact_sill = float(n.get("small_contact_sill_elevation_m", -60))
+contact_sill = float(n["small_contact_sill_elevation_m"])
 offset = float(n["local_vertical_offset_m"])
 def fb_samples(sill, levels):
     return [sill + offset - float(sl) for sl in levels]
@@ -396,6 +408,10 @@ with (OUT / "freeboard-grid.jsonl").open("w") as f:
     for row in rows:
         f.write(json.dumps(row, separators=(",", ":")) + "\n")
 
+province_area = {}
+for c in domain:
+    province_area[c["province"]] = province_area.get(c["province"], 0.0) + c["area_km2"]
+
 summary = {
     "status": "PASS" if not ERRORS else "FAIL",
     "scope": "spatial crustal-thickness/stretching/freeboard existence reconstruction",
@@ -409,18 +425,22 @@ summary = {
     "continental_domain_area_km2": domain_area,
     "continental_domain_target_km2": target,
     "continental_domain_relative_error": crust_area_error,
-    "maximum_selected_offshore_distance_km": max((c.get("distance_to_core_km", 0) for c in domain), default=0),
+    "maximum_selected_offshore_distance_km": max((c["distance_to_candidate_km"] for c in domain if not c["candidate_land"]), default=0),
+    "present_submerged_continental_fraction": submerged_fraction,
+    "reference_only_area_retained_inside_erde_continental_domain_km2": reference_only_domain_area,
     "present_candidate_land_positive_fraction": candidate_positive_fraction,
     "present_non_candidate_continental_water_negative_fraction": water_negative_fraction,
     "present_crust_thickness_range_km": [min(all_present_thickness), max(all_present_thickness)],
     "maximum_stretching_beta": max_beta,
     "maximum_absolute_lithosphere_residual_m": max_residual,
+    "global_shelf_area_exposed_at_minus_80m_km2": global_shelf_response,
+    "province_area_km2": province_area,
     "snapshots": snapshots,
     "critical_section_results": section_results,
     "required_net_new_continental_crust_km2": max(0, exact_candidate_area - target),
-    "interpretation": "The present land/water pattern is reproduced by freeboard redistribution within an Earth-scale continental-crust inventory. Candidate/reference mask differences are not interpreted as a temporal morph from Earth to Erde; most are inherited deep-time differences in breakup, stretching, shortening and platform freeboard.",
+    "interpretation": "The present land/water pattern is reproduced by freeboard redistribution within an Earth-scale continental-crust inventory. The source-reference mask is not treated as a prior Erde coastline or as crust that must remain at the same coordinate. The responsive inner-shelf field produces lowstand emergence without turning persistent deep-water channels into land.",
     "remaining_limits": [
-        "The 2-degree global mesh is not a DEM and cannot resolve narrow straits, river valleys or local fault blocks; those are represented by critical sections.",
+        "The 1-degree global mesh is not a DEM and cannot resolve narrow straits, river valleys or individual fault blocks; those are represented by critical sections.",
         "Deep-time eustatic sea level is intentionally not invented. Cells within +/-150 m of the long-term datum remain shoreline-uncertain.",
         "Airy buoyancy is only a first-order term; bounded residuals represent mantle-lithosphere buoyancy, flexure and unresolved regional effects.",
         "Sediment fill is represented as a surface-elevation contribution rather than a full compaction/backstripping calculation.",
