@@ -1,0 +1,81 @@
+{
+  "schema_version": 3,
+  "strategy": {
+    "id": "A",
+    "name": "Inherited nuclei plus old marginal provinces and dated gateways",
+    "status": "dated_geometry_plate_block_and_spatial_freeboard_existence_pass",
+    "reason": "The six-body target passes dated geometry, bounded gateway physics, inherited/synthetic plate-block kinematics, continental-crust accounting, and a 1-degree spatial crustal-thickness/stretching/freeboard existence reconstruction. No Strategy B motion or continent-scale coastline repair is required."
+  },
+  "motion_policy": {
+    "primary_frame": "Proposal 4 / inherited MERDITH2021-compatible scaffold",
+    "alternate_frame_role": "MULLER2022 is an explicit sensitivity check and is not silently mixed into the primary reconstruction.",
+    "human_route_sensitive_motion_cutoff_ma": 1.9,
+    "c2_extra_euler_rotation_degrees": 0.0,
+    "plate_block_model": "plate-block-model.json",
+    "freeboard_model": "freeboard-model.json",
+    "rule": "Rigid nuclei use inherited rotation circuits; broad junction/collisional regions are deforming networks. All authored gateway-forming rigid-block rotations finish by 2 Ma or earlier. Later uplift, subsidence, boundary slip, erosion, volcanism, glaciation and sea-level response may continue."
+  },
+  "crustal_units": [
+    {"id":"C1_NUCLEUS","body":"C1","kind":"inherited continental nucleus/platform","stable_by_ma":66.0,"status":"bounded rigid-block and freeboard pass"},
+    {"id":"C2_NUCLEUS","body":"C2","kind":"inherited continental nucleus/platform","stable_by_ma":66.0,"status":"bounded rigid-block and freeboard pass"},
+    {"id":"C3_COMPOSITE","body":"C3","kind":"western/eastern rigid cores, southeast shelf block and deforming sutures","stable_by_ma":23.0,"status":"bounded block/freeboard pass; detailed relief mesh pending"},
+    {"id":"C4_POLAR_CRATON","body":"C4","kind":"old craton with inherited western and northeastern platforms","stable_by_ma":66.0,"status":"bounded block/freeboard pass; climate/ice pending"},
+    {"id":"C5_SHELF_BLOCK","body":"C5","kind":"old continental nucleus with rifted/accreted margins","stable_by_ma":23.0,"status":"bounded block/freeboard pass; local bathymetry pending"},
+    {"id":"C6_EQUATORIAL_CRATON","body":"C6","kind":"old continental nucleus now near equatorial native latitudes","stable_by_ma":66.0,"status":"bounded block/freeboard pass; ecology/ocean circulation pending"}
+  ],
+  "present_geometry_controls": {
+    "coordinate_frame": "reference/source coordinates prior to Proposal 4 rotation",
+    "JX1_ISTHMIAN_TERRANE": [[-99,19],[-94,23],[-87,22],[-81,18],[-76,13],[-71,10],[-72,5],[-77,4],[-82,7],[-86,11],[-92,13],[-98,15]],
+    "C4_MARGINAL_CORRIDOR": [[-24,14],[-26,20],[-23,28],[-18,35],[-12,40],[-6,43],[0,44],[8,43],[5,38],[-2,35],[-8,31],[-13,27],[-16,21],[-17,16]],
+    "C5_SHELF_HEAD": [[98,7],[104,6],[109,4],[113,2],[113,-1],[111,-4],[106,-3],[101,0]],
+    "EASTERN_STEPPING_TERRANE_A": [[113.19,-1.33],[113.33,-1.19],[113.47,-1.33],[113.33,-1.47]],
+    "EASTERN_STEPPING_TERRANE_B": [[113.5,-1.66],[113.66,-1.5],[113.82,-1.66],[113.66,-1.82]]
+  },
+  "features": [
+    {"id":"JX1_ISTHMIAN_TERRANE","kind":"broad inherited/reworked continental junction province with narrower arc-suture belt","stable_by_ma":12.0,"continuous_terrestrial_neck_by_ma":3.2,"human_route_sensitive":true,"supports":["H06","H07","H10","H11"],"status":"plate-block and freeboard pass; detailed relief/ecology pending"},
+    {"id":"JX1_RESTRICTED_PASSABILITY","kind":"ecological/topographic filter state","substrate":"JX1_ISTHMIAN_TERRANE","active_interval_ma":[0.45,0.035],"supports":["H07"],"status":"bounded state pass"},
+    {"id":"JX1_VOLCANIC_HIGHLANDS","kind":"long-lived relief belt within the junction deforming network","substrate":"JX1_ISTHMIAN_TERRANE","established_by_ma":2.0,"supports":["H11"],"status":"freeboard-existence pass; detailed palaeorelief pending"},
+    {"id":"NORTHERN_APPROACH_SHELF","kind":"opposed old continental shelves and microcontinental highs separated by shallow sills","stable_by_ma":2.0,"human_route_sensitive":true,"supports":["H06","H10"],"status":"parent-block, sill-state and responsive-shelf freeboard pass; local RSL refinement pending"},
+    {"id":"LATE_NORTHERN_ACCESS_WINDOW","kind":"second accessibility window on old shelf substrate","substrate":"NORTHERN_APPROACH_SHELF","active_interval_ma":[0.035,0.02],"supports":["H10"],"status":"pass"},
+    {"id":"C4_MARGINAL_CORRIDOR","kind":"old foreland/microcontinental and reworked margin province cut by younger collisional structures","stable_by_ma":8.0,"human_route_sensitive":true,"native_latitude_target_deg_s":[32.0,46.0],"replaces_reference_route":"old ancestral exit near source (32,30), approximately 60S native latitude at 2 Ma","supports":["H02","H08"],"status":"plate-block and freeboard pass; climate/ice refinement pending"},
+    {"id":"C4_PERIPHERAL_REFUGIA","kind":"ice-free or seasonally productive peripheral habitat network","substrate":"C4_MARGINAL_CORRIDOR","supports":["H08"],"status":"bounded freeboard/refugia pass; climate/ice refinement pending"},
+    {"id":"C3_TO_SHELF_MAINLAND","kind":"continental interior/coastal route network on C3 rigid cores and southeast shelf block","stable_by_ma":2.0,"supports":["H02"],"status":"structural, plate-parentage and freeboard pass"},
+    {"id":"C3_WEST_EAST_FILTER","kind":"intermittently restrictive continental passage across relief/deforming sutures","supports":["H08"],"status":"bounded state pass; detailed drainage/hydroclimate pending"},
+    {"id":"C5_SHELF_HEAD","kind":"legacy-named shallow peninsula on old C3 southeast continental shelf/rifted-margin crust","stable_by_ma":2.0,"human_route_sensitive":true,"supports":["H02","H03","H04"],"status":"structural, parentage and freeboard pass; high-resolution bathymetry pending"},
+    {"id":"EASTERN_STEPPING_TERRANE_A","kind":"small old arc/microcontinental block with juvenile contribution","stable_by_ma":2.0,"human_route_sensitive":true,"supports":["H04","H05","H09"],"status":"finite-rotation and emergence pass"},
+    {"id":"EASTERN_STEPPING_TERRANE_B","kind":"small old arc/microcontinental block with juvenile contribution","stable_by_ma":2.0,"human_route_sensitive":true,"supports":["H04","H05","H09"],"status":"finite-rotation and emergence pass"},
+    {"id":"DEEP_WATER_ISLAND_CHANNELS","kind":"persistent marine barrier set","stable_by_ma":1.9,"must_remain_water_through_ma":[1.4,0.15],"supports":["H03","H09"],"status":"freeboard/deep-sill pass; currents/voyaging pending"},
+    {"id":"EASTERN_ISLAND_STEPPING_STONES","kind":"island and near-coastal crossing network","stable_by_ma":2.0,"supports":["H04","H05","H09"],"status":"plate-block, water-gap and emergence pass; voyage/current model pending"},
+    {"id":"HIGHLAND_SHELF_APPROACH","kind":"foothill/shelf contact corridor","stable_by_ma":0.8,"supports":["H05"],"status":"freeboard-compatible; detailed relief pending"},
+    {"id":"C1_INTERIOR","kind":"paired-continent northern interior","stable_by_ma":2.0,"supports":["H06","H11"],"status":"pass"},
+    {"id":"C2_INTERIOR","kind":"paired-continent southern interior","stable_by_ma":2.0,"supports":["H06","H11"],"status":"pass"}
+  ],
+  "accessibility_states": [
+    {"id":"H06_EARLY_AMERICAN_ACCESS","active_interval_ma":[0.65,0.45],"substrates":["NORTHERN_APPROACH_SHELF","JX1_ISTHMIAN_TERRANE"],"mode":"multiband land and near-coastal movement","status":"bounded physical/plate/freeboard pass"},
+    {"id":"H07_RESTRICTED_AMERICAN_CONTACT","active_interval_ma":[0.45,0.035],"substrates":["JX1_ISTHMIAN_TERRANE"],"mode":"rare small bidirectional contacts through a persistent bottleneck","status":"bounded pass"},
+    {"id":"H10_LATE_AMERICAN_ACCESS","active_interval_ma":[0.035,0.02],"substrates":["NORTHERN_APPROACH_SHELF","JX1_ISTHMIAN_TERRANE"],"mode":"second land/coastal opening; coastal and mountain-rim entry first","status":"bounded physical/plate/freeboard pass"}
+  ],
+  "resolved_constraints": [
+    {
+      "id": "U5",
+      "status": "spatial_freeboard_existence_pass",
+      "question": "Can a crustal-thickness, deformation and freeboard history generate the six final envelopes while conserving continental crust?",
+      "result": "Yes at the required existence/necessary-condition level.",
+      "evidence": "The 1-degree material mesh closes a 210.4 million km2 continental-crust inventory to ~0.0004%, reproduces sampled present candidate land/water signs, leaves ~24.6% of continental crust submerged, requires zero net new continental crust, uses 21-42 km present crust and beta <=1.67, and exposes ~16.84 million km2 of additional shallow shelf at a -80 m lowstand while local deep-water channels remain submerged.",
+      "model": "freeboard-model.json",
+      "validator": "scripts/editorial/validate_erde_freeboard.py"
+    }
+  ],
+  "unresolved_constraints": [
+    {"id":"U1","severity":"medium","status":"downstream_climate_ice_detail","question":"What time-dependent climate/ice solution realizes the C4 peripheral refugia on the solved crust/freeboard surface?","stop_condition":"Do not redraw C4 unless a higher-fidelity climate/ice model specifically contradicts the corridor."},
+    {"id":"U2","severity":"low_to_medium","status":"local_rsl_refinement","question":"What detailed local relative-sea-level/isostatic history refines the already passing H06/H07/H10 northern sill states?","stop_condition":"Refine bathymetry, eustasy, isostasy and geoid effects without continent-scale motion."},
+    {"id":"U3","severity":"medium","status":"voyage_hydrodynamic_detail","question":"What current/wind/voyage solution realizes the passing eastern 54.7/28.3/75.0 km crossing network?","stop_condition":"Do not add islands unless a hydrodynamic/founder model specifically fails."},
+    {"id":"U4","severity":"medium","status":"relief_drainage_hydroclimate_detail","question":"What detailed C3 relief/drainage/hydroclimate realizes the already bounded intermittent-contact state machine?","stop_condition":"Refine relief and drainage before changing coastline."}
+  ],
+  "fallback_strategy": {
+    "id": "B",
+    "status": "not_triggered",
+    "trigger": "Only a later specific C1-C2 deforming-mesh incompatibility that survives local Strategy A repair.",
+    "description": "Promote the C1-C2 junction to a separately reconstructed microplate system and permit modest pre-1.9 Ma rotations of both adjacent bodies."
+  }
+}
