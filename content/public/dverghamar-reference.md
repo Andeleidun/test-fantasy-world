@@ -9,14 +9,17 @@ Dverghamar’s physical setting is a rocky super-Earth around an old early-M sta
 | Planetary mass | About 3 Earth masses |
 | Planetary radius | About 1.4 Earth radii |
 | Surface gravity | About 1.53 Earth gravities |
-| Stellar mass | About 0.4–0.6 solar masses |
-| System age | About 7–9 billion years |
-| Rotation | Synchronous, with a provisional orbital period of 30–60 Earth days |
+| Stellar mass and age | Reference case: 0.50 solar masses and 8.0 billion years |
+| Stellar luminosity and temperature | Reference case: 0.040 solar luminosities and about 3,765 K |
+| Orbit and received light | Reference case: 0.1826 AU and 1.20 times Earth’s bolometric flux |
+| Rotation | Synchronous, with a reference orbital period of 40.30 Earth days |
 | Surface pressure | About 1.5 bar |
 | Oxygen fraction | About 14–15% of the dry atmosphere |
 | Exchangeable surface and near-surface water | About 0.15–0.20 Earth oceans |
 
-These values describe a scenario to be tested together. Orbital period, stellar luminosity, atmospheric circulation and received heat cannot be chosen independently. The oxygen fraction gives a dry partial pressure of roughly 0.21–0.225 bar at the reference surface pressure. Higher gravity means that 1.5 bar does not imply an atmospheric column one and a half times Earth’s mass per unit area.
+The star and orbit values form one linked screening case rather than independently adjustable canon. Kepler’s law connects the stated mass, distance and 40.30-day period; changing received flux requires recomputing distance and period together. The dry atmospheric reference is 84.4998% nitrogen, 14.5% oxygen, 0.9% argon-like inert gas, 0.10% carbon dioxide and 2 ppm methane. Water vapor, aerosols and the final greenhouse balance remain climate-model outputs. The oxygen fraction gives a dry partial pressure of 0.2175 bar. Higher gravity means that 1.5 bar produces an atmospheric column close to Earth’s mass per unit area rather than one and a half times it.
+
+The same bulk model gives about 15.03 m/s² surface gravity, 16.37 km/s escape speed and 9.98 × 10^18 kg of atmosphere. The escape speed helps retain heavy gases today but does not guarantee that water or a primordial light atmosphere survived the star’s active youth. The preferred history loses most early hydrogen, stores part of its water and carbon in the mantle, consumes photolytic oxygen in reduced rock, and establishes the secondary atmosphere through later outgassing and limited delivery. That history remains a numerical gate, not a completed result.
 
 The water estimate includes lakes, rivers, accessible groundwater, glaciers and nightside ice. Water chemically bound in the deep mantle is a separate, unresolved reservoir.
 
@@ -115,6 +118,6 @@ A separate 20,000-km² catchment producing 100 mm/year of net runoff supplies ab
 
 ## What remains to be measured
 
-The strongest remaining physical questions concern the coupled climate and water cycle, early atmospheric survival, local geothermal gradients, food-web productivity and the full nursery life cycle. The adopted population range of roughly **500,000–1,000,000 native dwarves** is a census target, not the outcome of a carrying-capacity calculation.
+The first remaining physical question is whether a time-integrated stellar-XUV, escape, magma and outgassing model can produce the selected water and secondary atmosphere. The coupled climate and water cycle follows only after that gate passes. Local geothermal gradients, food-web productivity and the full nursery life cycle remain later tests. The adopted population range of roughly **500,000–1,000,000 native dwarves** is a census target, not the outcome of a carrying-capacity calculation.
 
 [Native evolutionary history](evolution-reference.md) follows the organisms through this setting. [Habitats and wildlife](wildlife-questions.md) separates the established ecological roles from appearances and species that have yet to be described.

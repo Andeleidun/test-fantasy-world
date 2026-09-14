@@ -5,6 +5,7 @@ constraint model supplies an old substrate and an appropriate accessibility stat
 """
 from pathlib import Path
 import json
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
@@ -15,7 +16,7 @@ from shapely.ops import unary_union, transform, nearest_points
 from pyproj import Geod
 from erde_geometry import FRAME,GEO,GLOBE,PROJECTION,C,tr
 
-ROOT=Path(__file__).resolve().parents[2];OUT=ROOT/'docs/global-geography-trial';OUT.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parents[2];OUT=Path(os.environ.get('ERDE_TRIAL_OUTPUT', ROOT/'docs/global-geography-trial'));OUT.mkdir(exist_ok=True)
 R=6371008.8;GEOD=Geod(a=R,b=R)
 def parts(g):
     if g.is_empty:return []
@@ -142,7 +143,9 @@ for c in native:
  'validators':['scripts/editorial/validate_erde_constraint_graph.py','scripts/editorial/validate_erde_physical_tests.py']},indent=2)+'\n')
 features=[{'type':'Feature','properties':{'group':'worldwide candidate','status':'Strategy A; dated-history validity conditional on remaining high-fidelity physical models'},'geometry':mapping(land)}]
 (OUT/'candidate-geography.geojson').write_text(json.dumps({'type':'FeatureCollection','features':features},separators=(',',':'))+'\n')
-if __import__('os').environ.get('ERDE_GEOMETRY_ONLY'):
+if os.environ.get('ERDE_EXPORT_COMPONENTS'):
+    (OUT/'components.geojson').write_text(json.dumps({'type':'FeatureCollection','features':[{'type':'Feature','properties':{'group':c,'kind':'body'},'geometry':mapping(g)} for c,g in native.items()]+[{'type':'Feature','properties':{'group':c,'kind':'reference'},'geometry':mapping(g)} for c,g in old.items()]+[{'type':'Feature','properties':{'group':'islands','kind':'islands'},'geometry':mapping(make_valid(unary_union([*islands,guardland])))}]},separators=(',',':'))+'\n')
+if os.environ.get('ERDE_GEOMETRY_ONLY'):
     print(json.dumps(metrics,indent=2));raise SystemExit
 
 plt.rcParams.update({'svg.hashsalt':'erde-worldwide-v3','font.size':11})

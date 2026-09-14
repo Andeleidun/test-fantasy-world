@@ -15,6 +15,11 @@ The current design replaces the rejected worldwide draft that combined a 6° C2 
 - [`FREEBOARD-RECONSTRUCTION.md`](FREEBOARD-RECONSTRUCTION.md): solution of the primary crust/freeboard problem.
 
 ## Current geography and dated structure
+## Subsequent physical revision
+
+The [dated reconstruction study](../geological-reconstruction/README.md) now contains revised outlines, three margin alternatives, a western ancestral-route substitution, a failed shelf-route attempt and its tested replacement, and explicit conditional gateway histories. Its revised candidate remains authorial; complete historical acceptance is still open. This folder preserves the preceding target unchanged.
+
+## Visual comparison
 
 **C1–C2 / JX1.** C2 has no added Euler offset. JX1 is mostly old/reworked continental substrate with a narrower younger arc/suture system. Major block reorientation is complete by 12 Ma and a continuous terrestrial neck exists by about 3.2 Ma through freeboard/relief evolution rather than late continent assembly.
 

@@ -6,9 +6,9 @@ This is a worldbuilding-only publication snapshot. No plot, character dossiers, 
 
 - **Erde: history and lineage decisions**: imported from “33 Erde Human–Hobbit History Simulation — Decision Ledger”. Current source retrieved 5 September 2026. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
 
-- **Dverghamar: scientific canon**: imported from “35 Dwarven Planet — Scientific Canon and Decision Ledger”. Current source retrieved 5 September 2026. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
+- **Dverghamar: scientific canon**: imported from “35 Dwarven Planet — Scientific Canon and Decision Ledger”. Re-read and updated before synchronization from commit `e99ab003561d1439afc2848027f7713ed12c7aba`. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
 
-- **Dwarven evolutionary history**: imported from “36 Dwarven Planet — Geological, Biospheric, and Dwarven Evolutionary Synthesis”. Current source retrieved 5 September 2026. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
+- **Dwarven evolutionary history**: imported from “36 Dwarven Planet — Geological, Biospheric, and Dwarven Evolutionary Synthesis”. Re-read and updated before synchronization from commit `e99ab003561d1439afc2848027f7713ed12c7aba`. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
 
 - **Cosmology and planetary spirits**: imported from “34 Otherworld and Cosmology — Decision Ledger”. Current source retrieved 5 September 2026. Paragraph order, qualifications and supersession notes retained. Story-specific material omitted.
 
@@ -28,7 +28,7 @@ This is a worldbuilding-only publication snapshot. No plot, character dossiers, 
 
 The Drive documents are the referenced source ledgers. For lore changes, read the relevant current documents, reconcile any newer repository decisions back into them, update and verify the documents, and then synchronize this repository. Record source links and the reconciliation baseline. Automation does not perform this synchronization. Review targets, proposals and supersession notes before revising summaries; exclude private story material and raw connector data.
 
-- **Wildlife and open biological questions**: source document 37, current project snapshot retrieved 5 September 2026. Kept explicitly as open questions and working models.
+- **Wildlife and open biological questions**: source document 37, re-read and updated before synchronization from commit `e99ab003561d1439afc2848027f7713ed12c7aba`. Kept explicitly as open questions and working models.
 
 ## Scientific reconciliation — 7 September 2026
 
@@ -42,3 +42,11 @@ Repository baseline: [a8f7e6ab](https://github.com/Andeleidun/test-fantasy-world
 - [20 — Framework and presentation records](https://docs.google.com/document/d/1W0brKz6RBonehijhqNcoToaSiwvYaS80S9UQ6GiENxM/edit) and [24 — Geological reconstruction and trials](https://docs.google.com/document/d/1wvKc6K2dcRd-jJ9L0ZJlyvONznNYAHDtFdcZcfwfyYw/edit): repository-to-document restoration, preserving selected versus proposed status.
 
 The language source package and supporting atlas/legacy files were updated in Drive first. The 571 lexical records, 98 examples, grammar and territorial assignments are unchanged. Publication summaries retain physical uncertainty where it affects interpretation. No raw document exports or narrative drafts are included here.
+
+## Stellar, escape and atmosphere continuation
+
+Continuation baseline: [e99ab003](https://github.com/Andeleidun/test-fantasy-world/tree/e99ab003561d1439afc2848027f7713ed12c7aba) and Drive scientific review document 38. Drive documents 35–38 were updated and read back before this repository synchronization. Erde document 33 and the restored Proposal 4 Strategy A reconstruction remain authoritative for Thal source-side geography; they were not altered by this Dverghamar calculation.
+
+The synchronized reference case links a 0.50-solar-mass, 8.0-billion-year star, 0.040 solar luminosities, 1.20 Earth flux, 0.1826 AU and a 40.30-day synchronous period. It also defines one dry 1.50-bar atmospheric input and derived bulk quantities. These are conditional calculation inputs. Time-integrated stellar-XUV, magma-ocean, escape, oxidation, mantle-retention, impact and outgassing history remains unresolved.
+
+Scientific anchors added for this bounded pass: [MIST low-mass stellar tracks](https://arxiv.org/abs/1604.08592), [empirical M-dwarf mass relations](https://arxiv.org/abs/1811.06938), [stellar rotation and XUV evolution](https://arxiv.org/abs/2009.07695), [pre-main-sequence water loss and abiotic oxygen](https://arxiv.org/abs/1411.7412), [tidally locked atmospheric heat redistribution](https://arxiv.org/abs/1412.5575), and [rotation-sensitive synchronous inner-edge climate modeling](https://arxiv.org/abs/1602.05176). Each supports only the limited relationship cited in the scientific review; none validates the complete Dverghamar system.

@@ -218,17 +218,17 @@ The motif should not imply an insect-like caste system, hive mind, compulsory gr
 
 ### Star and orbit
 
-Choose a specific stellar mass within roughly 0.4–0.6 solar masses.
+Use the bounded 0.50-solar-mass, 8.0-billion-year, near-solar-metallicity early-M reference star unless its integrated escape or climate case fails.
 
-Derive stellar luminosity from age and composition rather than selecting it independently.
+Interpolate one low-mass stellar track and spectrum around the current rounded reference of 0.040 solar luminosities, 0.47 solar radii, and effective temperature about 3,765 K. The rounded values are mutually consistent screening inputs, not measurements.
 
-Derive incident flux, distance, and synchronous period consistently from an age- and composition-compatible stellar model. Roughly 30–60 Earth days is a preferred scenario range that may change if the coupled climate requires it; it is not a result of an integration already performed.
+Use 1.20 Earth bolometric flux, 0.1826 AU, and a 40.30-Earth-day orbital and synchronous period as the linked reference case. If climate or escape fails, move flux and distance together and recompute the period; do not tune any of the three independently.
 
-Define the star’s quiescent ultraviolet spectrum, flare rate, and long-term activity history. “Old and quiet” means lower and less frequent activity than a young M dwarf, not no flares.
+Still open: select a bounded stellar rotation history and derive the quiescent ultraviolet, XUV, flare, and pre-main-sequence luminosity histories. “Old and quiet” constrains the present, not the active youth. Integrate those histories with magma-ocean exchange, mantle retention, oxidation, escape, impacts, and outgassing.
 
 ### Atmosphere and circulation
 
-Choose exact nitrogen, oxygen, carbon-dioxide, water-vapor, methane, argon-like, and aerosol abundances.
+Use this dry lowland reference at 1.50 bar for the first coupled run: 84.4998 percent nitrogen, 14.5 percent oxygen, 0.9 percent argon-like inert gas, 0.10 percent carbon dioxide (1,000 ppm), and 2 ppm methane. Water vapor and aerosols remain prognostic or sensitivity variables; the final greenhouse composition remains conditional on climate and long-term geochemical balance.
 
 Test whether the chosen greenhouse and clouds simultaneously support central-dayside temperatures of 340–375 K, deep-nightside temperatures of 205–230 K, and a viable surface corridor near 4,500 km.
 
@@ -430,7 +430,7 @@ Distinguish wild cave organisms from deliberately cultivated decomposers and urb
 
 ## Quantitative checks to perform later
 
-Run a mass-radius interior model for the final composition.
+Run a mass-radius interior model for the final composition. Separately integrate the selected stellar XUV and bolometric histories with magma-ocean exchange, mantle retention, oxidation capacity, hydrodynamic and diffusion-limited escape, impacts, and outgassing. Require negligible primordial H/He, 200–270 million km³ present exchangeable water, the 1.50-bar nitrogen-dominated atmosphere, and no unexplained massive abiotic-oxygen residue.
 
 Run climate sensitivity cases across stellar flux, carbon dioxide, humidity, cloud albedo, surface albedo, and water distribution.
 
@@ -446,7 +446,7 @@ Estimate six-limb high-gravity blood pressure, muscle allocation, bone stress, c
 
 Construct lake oxygen and productivity budgets before finalizing megafauna abundance.
 
-## Recommended interactive order
+## Legacy wildlife-design sequence
 
 First: the preferred brood-geode model’s egg, gas, water, waste, and parental-food budgets.
 
@@ -464,7 +464,7 @@ Seventh in the wildlife-design sequence: detailed stellar, atmospheric, and sate
 
 ## Revised priorities and acceptance gates
 
-First, select a self-consistent stellar track and escape history, then test climate, ice distribution and water return together. No map boundary becomes validated merely by being drawn.
+First, complete the time-integrated escape and volatile-history gate for the bounded stellar-orbital case. Test staged secondary-atmosphere formation first and delayed outgassing plus bounded later delivery as the one materially different retry. Then test climate, ice distribution, and water return together. No map boundary becomes validated merely by being drawn.
 
 Second, test one inhabited valley: low-flow water, ecological releases, agricultural photon capture, compatible foods, hydropower, waste heat, ventilation, drainage, transport and maintainers. Distinguish its regional watershed from the smaller facility plan.
 
