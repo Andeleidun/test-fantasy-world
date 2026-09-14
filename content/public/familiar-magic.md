@@ -60,4 +60,4 @@ During pregnancy, parent and developing life can undergo a coordinated transform
 
 Risk rises with gestational stage, incompatible anatomy, exhaustion, large size differences and complex transitions. Birth in a transformed state, long-duration transformed pregnancy and some equipment failure cases remain open. Carried children, riders, parasites and other nearby beings are not included simply through physical proximity.
 
-[Return to Erde’s regional histories](erde-reference.md).
+[Magic in everyday life](magic.md) provides the broader practical context. [Return to Erde’s regional histories](erde-reference.md).

@@ -62,6 +62,7 @@ test('the public edition owns publication inputs and retains important distincti
   const home = await readFile('dist/index.html', 'utf8');
   assert.match(home, /Dwarves, Trolls and Giants/);
   assert.doesNotMatch(home, /Hamarkorar, Thals and Jotun/);
+  assert.match(home, /href="magic\.html"/);
   const dwarf = await readFile('content/public/dverghamar-reference.md', 'utf8');
   assert.match(dwarf, /target envelope, not a climate result/);
   assert.match(dwarf, /Thal catastrophe occurred on Erde/);
@@ -75,6 +76,15 @@ test('the public edition owns publication inputs and retains important distincti
   for (const id of ['merenval','merenval-reference','stellar-system-reference','elves','gnomes','orcs','jotuns']) {
     assert.ok(ids.includes(id), `Missing current Drive subject: ${id}`);
   }
+  for (const id of ['magic','magic-practice','enchanted-objects']) {
+    assert.ok(ids.includes(id), `Missing public magic subject: ${id}`);
+  }
+  const publicMagic = await Promise.all(['magic.md','magic-practice.md','enchanted-objects.md'].map(file => readFile(`content/public/${file}`, 'utf8')));
+  const publicMagicText = publicMagic.join('\n');
+  assert.match(publicMagicText, /Magic in everyday life/);
+  assert.match(publicMagicText, /Practitioners and magical work/);
+  assert.match(publicMagicText, /Enchantments, heirlooms and artifacts/);
+  assert.doesNotMatch(publicMagicText, /Morrowind|Dungeons & Dragons|Sword of Truth|Dwemer|D&D-style|cantrips|first-level|second-level|metaphysically high-magic|power tail|Decision Ledger|next major design task|not yet canon classifications|Village of roughly 500|Town of roughly 5,000|City of roughly 100,000/);
   const system = await readFile('content/public/stellar-system-reference.md', 'utf8');
   assert.match(system, /System A/);
   assert.match(system, /One selected age/);

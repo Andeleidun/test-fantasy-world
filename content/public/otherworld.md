@@ -28,6 +28,6 @@ Planetary integration involves the relationships of both worlds. Where both plan
 
 Preserving a dying world requires ongoing contribution. Contributors retain the right to withdraw immediately. Mature networks protect continuity through reserves, overlapping contributors, trained replacements and temporary emergency help.
 
-[The cosmological reference](cosmology-reference.md) explains crossings, domains, planetary awareness and the limits of preservation in more detail.
+[The cosmological reference](cosmology-reference.md) explains crossings, domains, planetary awareness and the limits of preservation in more detail. [Magic in everyday life](magic.md) describes how practitioners and ordinary communities experience magic connected to the Otherworld.
 
 [Merenval and its living companion](merenval.md) introduces the paired worlds and their peoples.

@@ -17,6 +17,7 @@ Original working sources remain one directory above. This is an editorial separa
 | hamarkorar, evolution-reference, wildlife-questions | hamarkorar.md, evolution-reference.md, wildlife-questions.md and dverghamar-reference.md |
 | thals | thals.md and the Erde/Dverghamar references |
 | otherworld, cosmology-reference | otherworld.md and cosmology-reference.md |
+| magic, magic-practice, enchanted-objects | Drive document 40 and the Otherworld/cosmology references |
 | korvar and language-* | corresponding language guides and reference edition 1.1 |
 | *-atlas, map-methods, maps.json | corresponding atlas guides, maps.json and original SVG sheets |
 | lexicon.json and data | lexicon.json and the original public/data tables |

@@ -96,6 +96,30 @@
     "file": "otherworld.md"
   },
   {
+    "id": "magic",
+    "title": "Magic in everyday life",
+    "category": "cosmology",
+    "description": "How people encounter, learn and rely on magic without leaving ordinary work and danger behind.",
+    "kind": "Magic guide",
+    "file": "magic.md"
+  },
+  {
+    "id": "magic-practice",
+    "title": "Practitioners and magical work",
+    "category": "cosmology",
+    "description": "Training, specialized work, healing, information, travel and the place of practitioners in society.",
+    "kind": "Magic guide",
+    "file": "magic-practice.md"
+  },
+  {
+    "id": "enchanted-objects",
+    "title": "Enchantments, heirlooms and artifacts",
+    "category": "cosmology",
+    "description": "Everyday enchanted goods, maintenance, accumulated history and the emergence of artifacts.",
+    "kind": "Magic guide",
+    "file": "enchanted-objects.md"
+  },
+  {
     "id": "korvar",
     "title": "Korvar and the language family",
     "category": "language",

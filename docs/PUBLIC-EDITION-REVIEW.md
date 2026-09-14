@@ -2,7 +2,7 @@
 
 ## Scope
 
-Reviewed the publication pipeline, all 28 public articles, dictionary and downloadable data, map captions, shared templates, themes, search, navigation, responsive reading, tests and deployment workflow. The original illustrations remain intact. This edition contains approximately 25,900 words of public Markdown, 571 lexical records, 98 translated examples and 13 atlas sheets.
+Reviewed the publication pipeline, all 31 public articles, dictionary and downloadable data, map captions, shared templates, themes, search, navigation, responsive reading, tests and deployment workflow. The original illustrations remain intact. This edition contains approximately 28,100 words of public Markdown, 571 lexical records, 98 translated examples and 13 atlas sheets.
 
 The review follows `PUBLIC-EDITION-PLAN.md`. Each correction below was made after identifying the issue and its cause, followed by a focused recheck. Quantitatively unresolved worldbuilding remains explicitly provisional rather than being silently completed for publication.
 
@@ -40,9 +40,17 @@ The review follows `PUBLIC-EDITION-PLAN.md`. Each correction below was made afte
 | Search repeatedly normalized the same large text and could display Markdown link syntax. | Cache normalized fields once per index load; extract searchable text from Markdown inline tokens. | Search, recovery and pagination checks pass; results use reader text. |
 | Every map reserved the same image aspect ratio despite differing SVG dimensions. | Read each SVG viewBox to set the correct image dimensions. | Build succeeds for all 13 sheets; original artwork remains legible on its own light canvas. |
 
+## Round 4: public magic guides
+
+| Finding and root cause | Correction | Re-evaluation |
+| --- | --- | --- |
+| General magic existed only in the Drive decision ledger, while the public edition covered the narrower familiar system. | Added separate guides to everyday magic, practitioner work, and enchanted objects; linked them from the homepage, cosmology, and familiar articles. | All three routes build, appear in navigation and search, and resolve their cross-links. |
+| Copying the ledger directly would expose design inspirations, game-scale comparisons, exact population targets, hidden ontology and unresolved future taxonomy. | Reframed the material around what inhabitants observe, learn, purchase, regulate and risk. | Regression checks exclude authorial terms and planning language while retaining practical limits, cultural variation and established consequences. |
+| A general overview alone would either become superficial or mix several distinct reader questions into one long reference. | Split introductory experience, professional practice, and object history into complementary articles with descriptive links. | Each article remains independently useful and directs readers to the others and to the established Otherworld, cosmology and familiar references. |
+
 ## Verification
 
-- Four build test groups pass: generated links/anchors/IDs, worldbuilding-only scope and search destinations, public-source ownership and standalone links, and dictionary/download consistency.
+- Five build test groups pass: generated links/anchors/IDs, worldbuilding-only scope and search destinations, public-source ownership and standalone links, dictionary/download consistency, and Erde naming boundaries.
 - Twelve browser tests pass, including automated WCAG A/AA checks on six representative page types in both themes at 1440, 390 and 320 pixels. All tested layouts avoid horizontal page overflow.
 - Keyboard checks cover skip navigation, theme activation and focus after pagination. Tests also cover failed-search recovery, stale requests, filtering and no-JavaScript reading.
 - Desktop light/dark home pages, the dark grammar reader and a full mobile article were visually inspected for hierarchy, legibility, spacing and navigation.

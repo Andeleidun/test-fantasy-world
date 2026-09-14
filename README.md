@@ -2,7 +2,7 @@
 
 A minimal, accessible worldbuilding guide for Erde, Dverghamar, Merenval and Merenval's living companion. It contains geography, ecology, peoples, language, maps, the selected three-star system and relevant cosmology. Plot, character dossiers and private author notes are outside its scope.
 
-The site has 28 public articles and reference pages, 13 existing atlas sheets, the Stavmark writing chart, a 571-record Korvar dictionary and 98 translated language examples. The public edition presents the setting in subject-based articles. Original working documents retain their detailed decision history separately. A light/dark toggle follows the device preference initially and remembers a reader’s choice when browser storage is available.
+The site has 31 public articles and reference pages, 13 existing atlas sheets, the Stavmark writing chart, a 571-record Korvar dictionary and 98 translated language examples. The public edition presents the setting in subject-based articles. Original working documents retain their detailed decision history separately. A light/dark toggle follows the device preference initially and remembers a reader’s choice when browser storage is available.
 
 ## Run locally
 
