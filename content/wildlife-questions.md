@@ -218,7 +218,7 @@ The motif should not imply an insect-like caste system, hive mind, compulsory gr
 
 ### Star and orbit
 
-Use the selected coeval System A age of approximately 4.54 billion years and a 0.50-solar-mass, slow-rotating, near-solar-metallicity early-M reference star. Erde’s chronology is retained; the older Dverghamar age case is superseded and is not reopened if a downstream model fails.
+Use System A’s selected coeval age of approximately 4.54 billion years and a 0.50-solar-mass, slow-rotating, near-solar-metallicity early-M reference star. Erde’s chronology governs the shared age. Downstream model failures may change linked physical inputs, but they do not reopen the chronology decision.
 
 Interpolate one low-mass stellar track and spectrum at approximately 4.54 billion years around the current working luminosity of about 0.0379 solar luminosities. Radius, effective temperature, and spectral output must come from that fit. The rounded mass, age, and luminosity are coupled screening inputs, not measurements.
 

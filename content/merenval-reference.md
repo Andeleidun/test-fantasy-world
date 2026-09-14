@@ -2,7 +2,7 @@
 
 ## Stellar and orbital model
 
-Merenval orbits a warm K-type star of about 0.75 solar masses and 0.35 solar luminosities at about 0.600 AU, producing a year near 196 Earth days. This host belongs to the 80-AU inner pair of System A. The shared system age is selected at approximately 4.54 billion years, preserving Erde's chronology and using the adapted younger Dverghamar model. The rounded stellar values remain coupled reference inputs pending coeval stellar tracks and a full system integration.
+Merenval orbits a warm K-type star of about 0.75 solar masses and 0.35 solar luminosities at about 0.600 AU, producing a year near 196 Earth days. This host belongs to the 80-AU inner pair of System A. The shared system age is approximately 4.54 billion years. Erde's chronology governs the system, and Dverghamar follows the same coeval timeline. The rounded stellar values remain coupled reference inputs pending coeval stellar tracks and a full system integration.
 
 | Quantity | Merenval | Living companion |
 | --- | ---: | ---: |

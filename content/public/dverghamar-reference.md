@@ -2,7 +2,7 @@
 
 ## Place in the three-star system
 
-Dverghamar orbits the distant outer sun of the selected [three-star system](stellar-system-reference.md). System A's shared age is approximately 4.54 billion years: Erde's chronology is retained, and Dverghamar's older reference is superseded by an adapted younger model. The age decision is settled; the fitted stellar, escape, climate and orbital history remains to be validated.
+Dverghamar orbits the distant outer sun of the selected [three-star system](stellar-system-reference.md). System A's shared age is approximately 4.54 billion years, with Erde's chronology governing the system and Dverghamar's early history fitted to the same coeval timeline. The age decision is settled; the fitted stellar, escape, climate and orbital history remains to be validated.
 
 The **Hamarkorar** are native. The **Thals** arrived later from Erde. The **Jotun** are a mountain people whose provisional cold-adapted, 2.5–3-metre body still requires mechanical, thermal and evolutionary work. Their ancestry is open.
 

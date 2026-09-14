@@ -8,15 +8,15 @@ This arrangement lets each world keep its own light, climate and calendar. The d
 
 ## What has been selected
 
-Merenval's current reference places it around a warm K-type star at about 0.600 astronomical units, with a year near 196 Erden days. Dverghamar's adapted reference places it close to a slow-rotating red star, with a 38.65-day year equal to its rotation. Erde's exact stellar and calendar values have not yet been fixed by its current geographic and population histories.
+Merenval's current reference places it around a warm K-type star at about 0.600 astronomical units, with a year near 196 Erden days. Dverghamar's current reference places it close to a slow-rotating red star, with a 38.65-day year equal to its rotation. Erde's exact stellar and calendar values have not yet been fixed by its current geographic and population histories.
 
 The hierarchy has passed preliminary orbital checks. Its separations, eccentricities and stellar values remain working inputs rather than measurements or a completed simulation.
 
 ## One selected age
 
-System A's shared age is approximately **4.54 billion years**. Erde's geological chronology is retained, while Dverghamar's former older reference is superseded and its early history is adapted to the younger coeval system.
+System A's shared age is approximately **4.54 billion years**. Erde's geological chronology governs the system, and Dverghamar's early history follows the same coeval timeline.
 
-Dverghamar's revised milestones place established microbial life near 3.70 Ga, oxygenic photosynthesis near 2.70 Ga, macroscopic aquatic ecosystems near 1.25 Ga and the six-limbed radiation near 0.80 Ga. The age decision is complete; the fitted stellar tracks, escape histories, climate models and long-duration orbital integration still require validation.
+Dverghamar's current milestones place established microbial life near 3.70 Ga, oxygenic photosynthesis near 2.70 Ga, macroscopic aquatic ecosystems near 1.25 Ga and the six-limbed radiation near 0.80 Ga. The age decision is complete; the fitted stellar tracks, escape histories, climate models and long-duration orbital integration still require validation.
 
 ## What must still be tested
 
