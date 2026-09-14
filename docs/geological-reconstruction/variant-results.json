@@ -1,0 +1,65 @@
+[
+  {
+    "margin_search_radius_km": 250,
+    "checks": {
+      "valid_geometry": true,
+      "paired_interiors_connected": true,
+      "western_refuge_route_on_land": true,
+      "mainland_shelf_approach_connected": true,
+      "all_core_centers_in_basement_domain": true
+    },
+    "target_footprint_IoU": {
+      "C1": 0.9258510702439743,
+      "C2": 0.7718178975984964,
+      "C3": 0.9688286075063276,
+      "C4": 0.8441974273124391,
+      "C5": 0.8167610309567598,
+      "C6": 0.8490028427649993
+    },
+    "minimum_target_IoU": 0.7718178975984964,
+    "geometry_pass": true,
+    "note": "Radius is a design constraint, not a geophysical measurement."
+  },
+  {
+    "margin_search_radius_km": 450,
+    "checks": {
+      "valid_geometry": true,
+      "paired_interiors_connected": true,
+      "western_refuge_route_on_land": true,
+      "mainland_shelf_approach_connected": true,
+      "all_core_centers_in_basement_domain": true
+    },
+    "target_footprint_IoU": {
+      "C1": 0.9751262199776333,
+      "C2": 0.8150312769025733,
+      "C3": 0.9915239915596408,
+      "C4": 0.8869382846315066,
+      "C5": 0.8958432214562634,
+      "C6": 0.934607973630351
+    },
+    "minimum_target_IoU": 0.8150312769025733,
+    "geometry_pass": true,
+    "note": "Radius is a design constraint, not a geophysical measurement."
+  },
+  {
+    "margin_search_radius_km": 700,
+    "checks": {
+      "valid_geometry": true,
+      "paired_interiors_connected": true,
+      "western_refuge_route_on_land": true,
+      "mainland_shelf_approach_connected": true,
+      "all_core_centers_in_basement_domain": true
+    },
+    "target_footprint_IoU": {
+      "C1": 0.990241433075466,
+      "C2": 0.8601810196746805,
+      "C3": 0.9952173406603142,
+      "C4": 0.9251800314822881,
+      "C5": 0.9718336464560741,
+      "C6": 0.9907089875028506
+    },
+    "minimum_target_IoU": 0.8601810196746805,
+    "geometry_pass": true,
+    "note": "Radius is a design constraint, not a geophysical measurement."
+  }
+]

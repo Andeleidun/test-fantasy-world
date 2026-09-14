@@ -1,0 +1,135 @@
+{
+  "without_southern_platform": [
+    {
+      "valid_endpoints": true,
+      "lowstand": false,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 345.7286843618863,
+      "land_shortcut": false,
+      "component_hops": 5,
+      "gap_lengths_projected_km": [
+        20.01785057759511,
+        20.003100409722137,
+        20.008508016978702,
+        150.86754836088707,
+        345.7286843618863
+      ],
+      "island_area_km2": [
+        797490.7679404871,
+        91351.759272452,
+        104134.30457419205,
+        1123549.3241568194,
+        33133.72199973675,
+        5229032.019522728
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    },
+    {
+      "valid_endpoints": true,
+      "lowstand": true,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 255.76329027780218,
+      "land_shortcut": false,
+      "component_hops": 3,
+      "gap_lengths_projected_km": [
+        20.00195462910653,
+        60.86833158807986,
+        255.76329027780218
+      ],
+      "island_area_km2": [
+        1233954.8254252367,
+        1745282.0894274928,
+        76632.3749259293,
+        5641362.553757762
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    }
+  ],
+  "with_southern_platform": [
+    {
+      "valid_endpoints": true,
+      "lowstand": false,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 345.7286843618863,
+      "land_shortcut": false,
+      "component_hops": 5,
+      "gap_lengths_projected_km": [
+        20.01785057759511,
+        20.003100409722137,
+        20.008508016978702,
+        150.86754836088707,
+        345.7286843618863
+      ],
+      "island_area_km2": [
+        797490.7679404871,
+        91351.759272452,
+        104134.30457419205,
+        1123549.3241568194,
+        33133.72199973675,
+        5229032.019522728
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    },
+    {
+      "valid_endpoints": true,
+      "lowstand": true,
+      "isolation_sites": {
+        "early_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        },
+        "later_northern_island": {
+          "site_on_land": true,
+          "separate_from_source": true,
+          "separate_from_destination": true
+        }
+      },
+      "minimum_largest_projected_water_gap_km": 20.00195462910653,
+      "land_shortcut": false,
+      "component_hops": 1,
+      "gap_lengths_projected_km": [
+        20.00195462910653
+      ],
+      "island_area_km2": [
+        1233954.8254252379,
+        7588242.536824086
+      ],
+      "limitation": "Distance in regional equal-area projection; route can cross arbitrary intermediate land interiors. No currents, landing, freshwater or founder test."
+    }
+  ],
+  "platform_status": "Authored shallow continental shelf, flooded at present and exposed only at suitable lowstands; not extra present land"
+}
