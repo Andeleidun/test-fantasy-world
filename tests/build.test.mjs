@@ -59,6 +59,9 @@ test('the public edition owns publication inputs and retains important distincti
   }
   const search = await readFile('dist/search-index.json', 'utf8');
   assert.doesNotMatch(search, /Supersession record|Next simulation step|The user selected|controlled late-parent model/);
+  const home = await readFile('dist/index.html', 'utf8');
+  assert.match(home, /Dwarves, Trolls and Giants/);
+  assert.doesNotMatch(home, /Hamarkorar, Thals and Jotun/);
   const dwarf = await readFile('content/public/dverghamar-reference.md', 'utf8');
   assert.match(dwarf, /target envelope, not a climate result/);
   assert.match(dwarf, /Thal catastrophe occurred on Erde/);
