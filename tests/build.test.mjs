@@ -62,9 +62,27 @@ test('the public edition owns publication inputs and retains important distincti
   const dwarf = await readFile('content/public/dverghamar-reference.md', 'utf8');
   assert.match(dwarf, /target envelope, not a climate result/);
   assert.match(dwarf, /Thal catastrophe occurred on Erde/);
+  assert.match(dwarf, /8-billion-year reference star conflicts with Erde's 4.54-billion-year geological scaffold/);
   const people = await readFile('content/public/hamarkorar.md', 'utf8');
   assert.match(people, /five species and a deep-massif subspecies/);
   assert.match(people, /Hamkor.*proposed/);
+  for (const id of ['merenval','merenval-reference','stellar-system-reference','elves','gnomes','orcs','jotuns']) {
+    assert.ok(ids.includes(id), `Missing current Drive subject: ${id}`);
+  }
+  const system = await readFile('content/public/stellar-system-reference.md', 'utf8');
+  assert.match(system, /System A/);
+  assert.match(system, /did not erase that difference/);
+  assert.match(system, /long-duration orbital integration/i);
+  const merenval = await readFile('content/public/merenval-reference.md', 'utf8');
+  assert.match(merenval, /23.2 days/);
+  assert.match(merenval, /distinct mature planetary spirits|distinct spirits/);
+  const elves = await readFile('content/public/elves.md', 'utf8');
+  assert.match(elves, /four major traditions/);
+  assert.match(elves, /three approaches/);
+  assert.match(elves, /not separate species or biologically fixed personalities/);
+  const jotuns = await readFile('content/public/jotuns.md', 'utf8');
+  assert.match(jotuns, /2.5–3 metres/);
+  assert.match(jotuns, /ancestry.*open/i);
   const files = await readdir('dist');
   assert.ok(!files.includes('README.md') && !files.includes('SOURCES.md'));
 });

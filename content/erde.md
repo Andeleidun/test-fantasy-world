@@ -4,11 +4,15 @@ Erde uses Earth’s continental arrangement as a reference scaffold, with a sele
 
 The resulting latitude changes reshape the questions of climate, movement and isolation. They do not justify transplanting modern Earth biomes onto a rotated map. Currents, ice, rainfall, erosion and independent geological history still need their own treatment.
 
+Erde orbits one member of the selected [wide three-star system](stellar-system-reference.md). Its star and Merenval's star form the inner stellar pair near a working separation of 80 AU. The historical system screen's exact Erde-star values and 310-day example year have not been independently selected by the current Erde reconstruction.
+
 ## Humans and hobbits
 
 The current history develops human and hobbit macroclades through a long, branching evolutionary scenario. The Sunda–mainland separation is important to that structure. Hobbit branches include Flores, Luzon, Papuan-highland and pelagic forms.
 
 Rare, low-fertility interbreeding is part of the working model. Ancestry, language, culture and political belonging need not coincide. A biological lineage does not dictate one culture or a single historical outcome.
+
+The current world allocation places Humans, Halflings or hobbit lineages, and Goblins on Erde. The reconstruction develops the first two in detail. Goblin ancestry, physiology, population history and regional societies remain open and must not be inferred from older genre defaults.
 
 ## The First American radiation
 
@@ -27,5 +31,6 @@ The remaining Neanderthal populations on Erde became extinct or were absorbed. T
 - [Read Erde’s history and lineage decisions](erde-reference.html).
 - [Explore the five Erde maps](erde-atlas.html).
 - [Read about the Thals](thals.html).
+- [See Erde within the three-star system](stellar-system-reference.md).
 
 > The geographic and evolutionary histories are worldbuilding models. Selected scenario parameters are not evidence that an equivalent history occurred on Earth.

@@ -1925,3 +1925,13 @@
 - The distinction between peripheral support functions and the preserved person's own integrity requires further definition.
 
 - The next decisions should define the time and evidence needed for a credible planetary diagnosis, the behavior of regional anchors and boundaries, and the stages and visible consequences of preservation-network degradation.
+
+## Current application: Merenval and its companion
+
+Merenval and its inhabited companion share an ancient tree of life but possess distinct mature planetary spirits. Neither is a satellite spirit, component soul or subordinate organ of the other. Their close orbit does not alter the consent rules that apply to two planetary persons.
+
+Elven traditions can study Otherworld topology, reciprocity and resonance without possessing infallible cosmological knowledge. Dorrenath is the eldest known Wayroot and can sustain city-scale overlap as an explicit magical exception. It is not a creator tree or cosmic axis. Other Wayroots may establish stable overlap, but not every member of the lineage becomes a usable crossing.
+
+A slow-precessing Taurid contact belt on Merenval remains a local working model. It can bias ecology, geology and route persistence without overriding plate tectonics or forcing a rigid planet-wide cycle.
+
+[Erde](erde.md), [Merenval](merenval.md) and [Dverghamar](dverghamar.md) describe the material worlds and their inhabitants.

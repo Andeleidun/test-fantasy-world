@@ -16,6 +16,62 @@
     "file": "dverghamar.md"
   },
   {
+    "id": "merenval",
+    "title": "Merenval and its living companion",
+    "category": "worlds",
+    "description": "Two inhabited terrestrial worlds with complementary climates, shared life and distinct spirits.",
+    "kind": "World guide",
+    "file": "merenval.md"
+  },
+  {
+    "id": "stellar-system-reference",
+    "title": "The three-star system",
+    "category": "worlds",
+    "description": "How Erde, Merenval and Dverghamar fit into one selected but still partly unvalidated system.",
+    "kind": "System reference",
+    "file": "stellar-system-reference.md"
+  },
+  {
+    "id": "merenval-reference",
+    "title": "Merenval: planetary and demographic reference",
+    "category": "worlds",
+    "description": "Physical values, tides, terrain, shared life and the Elven population reconstruction.",
+    "kind": "World reference",
+    "file": "merenval-reference.md"
+  },
+  {
+    "id": "elves",
+    "title": "Elven peoples and traditions",
+    "category": "peoples",
+    "description": "Four traditions, three magical approaches and one braided population across two worlds.",
+    "kind": "People guide",
+    "file": "elves.md"
+  },
+  {
+    "id": "gnomes",
+    "title": "Gnomes",
+    "category": "peoples",
+    "description": "Fungal-looking people whose cultivated homes, defenses and long lives remain grounded in biology.",
+    "kind": "People guide",
+    "file": "gnomes.md"
+  },
+  {
+    "id": "orcs",
+    "title": "Orcs",
+    "category": "peoples",
+    "description": "Diverse surface societies and the travel bias behind their narrow off-world reputation.",
+    "kind": "People guide",
+    "file": "orcs.md"
+  },
+  {
+    "id": "jotuns",
+    "title": "The Jotun",
+    "category": "peoples",
+    "description": "A provisional cold-mountain giant people shaped by strong gravity and productive refuge landscapes.",
+    "kind": "People guide",
+    "file": "jotuns.md"
+  },
+  {
     "id": "hamarkorar",
     "title": "The Hamarkorar",
     "category": "peoples",

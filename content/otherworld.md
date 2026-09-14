@@ -10,6 +10,10 @@ The current framework distinguishes living spirits from souls. Soulhood involves
 
 Planetary spirits arise from living worlds. A planetary spirit need not already be a planetary person capable of personal consent. That distinction matters when worlds are cultivated, preserved or integrated.
 
+Merenval and its close inhabited companion are a useful boundary case: shared biochemistry and proximity do not combine them into one spirit. Each has a distinct mature planetary person. Elven knowledge of these relationships is extensive but remains culturally interpreted and fallible.
+
+Dorrenath is the eldest known Wayroot on Merenval. It can sustain a city-scale overlap with the Otherworld as an explicit magical exception, but it is not a creator tree or cosmic axis. Wayroots can stabilize overlap without every Wayroot becoming a route. A slow-precessing Taurid contact belt remains a regional working model rather than a global law.
+
 ## Integration and consent
 
 When both planetary spirits possess collective souls, both planetary persons must consent to integration. Living inhabitants also materially influence the outcome through their relationships, actions, resistance and survival, even though unanimous population consent is not a universal metaphysical gate.
@@ -27,3 +31,5 @@ A mature network maintains reserve capacity, overlapping contributors and traine
 The Howling Void lies outside coherent reality and is not the organizing cause of ordinary planetary life. It should not turn unrelated geology, cultures, spirits or histories into disguised expressions of one cosmic threat.
 
 [Read the detailed cosmological reference](cosmology-reference.html) for the full framework and its explicitly unresolved questions.
+
+[Merenval and its living companion](merenval.md) describes the paired worlds and their peoples.

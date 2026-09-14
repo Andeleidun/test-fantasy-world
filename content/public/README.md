@@ -10,6 +10,10 @@ Original working sources remain one directory above. This is an editorial separa
 | --- | --- |
 | erde, erde-reference, familiar-magic | erde.md and erde-reference.md |
 | dverghamar, dverghamar-reference | dverghamar.md and dverghamar-reference.md |
+| merenval, merenval-reference | merenval.md and merenval-reference.md |
+| stellar-system-reference | stellar-system-reference.md and the three current world references |
+| elves, gnomes, orcs | corresponding people guides and the Merenval references |
+| jotuns | jotuns.md and the Dverghamar references |
 | hamarkorar, evolution-reference, wildlife-questions | hamarkorar.md, evolution-reference.md, wildlife-questions.md and dverghamar-reference.md |
 | thals | thals.md and the Erde/Dverghamar references |
 | otherworld, cosmology-reference | otherworld.md and cosmology-reference.md |

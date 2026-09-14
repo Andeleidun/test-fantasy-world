@@ -6,9 +6,13 @@ Erde is home to many peoples, languages and ways of life. Mountain chains divide
 
 Its geography shapes where people can travel, grow food, take refuge and meet their neighbors. The [atlas](erde-atlas.md) follows these relationships through lands and seas, latitude, mountain passages and ancient migrations. Its broad outlines leave room for more detailed regional maps.
 
+Erde orbits one sun in the selected [three-star system](stellar-system-reference.md). Its sun and Merenval's form the closer stellar pair. Erde's exact sun and calendar values have not yet been fixed by the current geographic reconstruction.
+
 ## Peoples and deep history
 
 Human and hobbit lineages share deep ancestry and follow different branches. Long isolation, movement between habitats and occasional contact shape their histories. Hobbit lineages include several island branches, highland populations and seafaring peoples. Their shared ancestry does not give them one culture or a single way of living.
+
+Humans, Halflings or hobbit lineages, and Goblins are the peoples currently assigned to Erde. Goblin ancestry, biology and regional histories remain open; they should not be filled in from familiar genre assumptions.
 
 One early human migration reaches a connected pair of continents roughly 650,000–450,000 years ago. Over the following ages, its descendants form distinct regional populations. Much later arrivals encounter established communities, routes, institutions and ways of living.
 
@@ -30,3 +34,4 @@ The departure belongs to Erde’s history. Dverghamar’s native dwarven lineage
 - [Familiars and shapeshifting](familiar-magic.md)
 - [The Thals](thals.md)
 - [Maps of Erde](erde-atlas.md)
+- [The three-star system](stellar-system-reference.md)

@@ -4,6 +4,8 @@
 
 The current working reference is a rocky planet of approximately **three Earth masses and 1.4 Earth radii**, with surface gravity near **1.53 g**. Its linked screening case uses an **8-billion-year, 0.50-solar-mass early-M star**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1826 AU**, and a synchronous year of **40.30 Earth days**. These are conditional inputs, not immutable canon. A viable time-integrated history must still explain how magma, mantle storage, escape, oxidation, impacts and outgassing leave the selected water and nitrogen-dominated secondary atmosphere after the star’s active youth.
 
+Dverghamar's star is the outer member of the selected [wide three-star system](stellar-system-reference.md), with a working stellar separation near 1,200 AU from the Erde–Merenval pair. This architecture has passed preliminary hierarchy checks only. Its 8-billion-year reference age remains in explicit conflict with Erde's 4.54-billion-year geological scaffold until a common-age history or tested later assembly is selected.
+
 ## The surface environment
 
 | Region | Working surface temperatures | Ecological character |
@@ -28,12 +30,18 @@ The Hamarkorar strongly prefer underground residence. Their settlements still de
 
 Twilight-zone river hydropower is the principal industrial energy source. Direct mechanical transmission, hydraulic systems and fuel engines coexist with limited electricity and selected geothermal use. Lit near-surface cultivation and substrate-fed fungal farming support underground life.
 
+## Three peoples
+
+The **Hamarkorar** are Dverghamar's native four-armed dwarven radiation. Their deep history predates the arrival of the **Thals**, Erde-derived Neanderthal descendants who reached the planet through the Otherworld about five millennia ago. The **Jotun** are an additional mountain people whose approved first model is a 2.5–3-metre, cold-adapted, heavily supported biped. Their ancestry, including any relationship to the native six-limbed radiation, remains open.
+
 ## Continue exploring
 
 - [Read the scientific canon and its unresolved parameters](dverghamar-reference.html).
 - [Meet the Hamarkorar](hamarkorar.html).
 - [Explore Dverghamar’s maps](dverghamar-atlas.html).
 - [Follow the geological and evolutionary history](evolution-reference.html).
+- [Meet the Thals](thals.md) and [the Jotun](jotuns.md).
+- [Place Dverghamar in the three-star system](stellar-system-reference.md).
 
 ## Integrated physical reference
 

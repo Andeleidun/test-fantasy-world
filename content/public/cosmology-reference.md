@@ -92,8 +92,16 @@ A mature network keeps substantial reserves, overlapping contributors and traine
 
 These arrangements reduce the danger of ordinary departures but do not create infinite capacity. Severe losses can still force contraction, injury or failure. The right to leave and the work of sustaining others remain simultaneous realities.
 
+## Merenval and its companion
+
+Merenval and its inhabited companion share an ancient tree of life but have distinct mature planetary spirits. Neither world is spiritually subordinate to the other. Their close orbit does not merge them or remove the need for separate consent.
+
+Elven traditions have deep knowledge of reciprocity, topology and resonance, but remain capable of error. Dorrenath is the eldest known Wayroot and sustains a city-scale overlap with the Otherworld as a magical exception. It is not a creator tree or cosmic axis, and not every Wayroot becomes a passage.
+
+A slow-moving Taurid contact belt remains a local Merenval model. It may influence ecology and route stability without replacing geology or imposing a rigid world-wide cycle.
+
 ## The outer boundary
 
 The **Howling Void** lies outside coherent reality. It is not the organizing cause of ordinary geology, cultures or biological evolution. Loss of coherence there can destroy souls; it is not an everlasting residence for intact minds.
 
-[The Otherworld overview](otherworld.md) provides a shorter introduction. [Erde](erde.md) and [Dverghamar](dverghamar.md) describe the material worlds and their inhabitants.
+[The Otherworld overview](otherworld.md) provides a shorter introduction. [Erde](erde.md), [Merenval](merenval.md) and [Dverghamar](dverghamar.md) describe the material worlds and their inhabitants.

@@ -16,6 +16,62 @@
     "file": "dverghamar.md"
   },
   {
+    "id": "merenval",
+    "title": "Merenval and its living companion",
+    "category": "worlds",
+    "description": "An unequal binary terrestrial pair with shared life, distinct planetary spirits and complementary climates.",
+    "kind": "World guide",
+    "file": "merenval.md"
+  },
+  {
+    "id": "stellar-system-reference",
+    "title": "The Erde–Merenval–Dverghamar stellar system",
+    "category": "worlds",
+    "description": "The selected wide triple, its preliminary stability screen and its unresolved common-age conflict.",
+    "kind": "Decision reference",
+    "file": "stellar-system-reference.md"
+  },
+  {
+    "id": "merenval-reference",
+    "title": "Merenval: planetary and demographic reference",
+    "category": "worlds",
+    "description": "The binary worlds' physical model, shared biosphere and Elven demographic reconstruction.",
+    "kind": "Decision reference",
+    "file": "merenval-reference.md"
+  },
+  {
+    "id": "elves",
+    "title": "Elven peoples and traditions",
+    "category": "peoples",
+    "description": "Four traditions, three magical approaches and one braided population across two worlds.",
+    "kind": "People guide",
+    "file": "elves.md"
+  },
+  {
+    "id": "gnomes",
+    "title": "Gnomes",
+    "category": "peoples",
+    "description": "Fungal-looking people, cultivated living homes and the biological questions still open.",
+    "kind": "People guide",
+    "file": "gnomes.md"
+  },
+  {
+    "id": "orcs",
+    "title": "Orcs",
+    "category": "peoples",
+    "description": "Diverse surface societies and the travel bias behind their narrow off-world reputation.",
+    "kind": "People guide",
+    "file": "orcs.md"
+  },
+  {
+    "id": "jotuns",
+    "title": "The Jotun",
+    "category": "peoples",
+    "description": "The approved cold-mountain giant direction and the mechanics still awaiting a coherent model.",
+    "kind": "People guide",
+    "file": "jotuns.md"
+  },
+  {
     "id": "hamarkorar",
     "title": "The Hamarkorar",
     "category": "peoples",

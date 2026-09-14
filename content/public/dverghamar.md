@@ -6,6 +6,8 @@
 
 The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. Its current linked reference case uses an **8-billion-year, 0.50-solar-mass early-M star**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1826 AU**, and a synchronous year of **40.30 Earth days**. These values are screening inputs rather than immutable canon. The star’s early high-energy history must still be shown to leave the selected water and secondary atmosphere before the climate and water cycle can be validated.
 
+Dverghamar's sun is the distant outer member of the selected [three-star system](stellar-system-reference.md). The other suns add almost no heat but can remain conspicuous lights in its dark sky. Dverghamar's 8-billion-year reference age and Erde's 4.54-billion-year geological scaffold do not yet share one ordinary formation history.
+
 ## The inhabited landscapes
 
 The climate targets place central dayside lowlands mostly at 67–102°C, with exceptional dark basins approaching 112°C, and the deep nightside mostly at −68 to −43°C, with colder traps. These ranges have not yet been validated together. Heat and desiccation on the dayside, and cold, darkness and scarce food on the nightside, prevent broad self-sustaining communities of large Earth-like animals. Cold alone would not exclude every supplied or sheltered animal. Microbes can persist in suitable protected niches.
@@ -26,9 +28,15 @@ The native **Hamarkorar** strongly prefer underground homes. A mountain settleme
 
 Twilight mountain rivers provide most industrial power. Water wheels, shafts, gears, hydraulic systems and compressed air work alongside fuel engines and limited electricity. Near-surface chambers admit light to crops; fungal cultivation uses organic feedstock supplied by the wider food web.
 
+## Three peoples
+
+The native **Hamarkorar** are four-armed descendants of Dverghamar's six-limbed evolutionary radiation. The **Thals** are later refugees descended from an Erde human lineage. The **Jotun** are a mountain people whose current first model is a 2.5–3-metre cold-adapted, heavily supported biped. Jotun ancestry and its possible relationship to native life remain open.
+
 ## Further reading
 
 - [Climate, geology and settlement](dverghamar-reference.md)
 - [The Hamarkorar](hamarkorar.md)
 - [Native evolutionary history](evolution-reference.md)
 - [Maps of Dverghamar](dverghamar-atlas.md)
+- [The Thals](thals.md) and [the Jotun](jotuns.md)
+- [The three-star system](stellar-system-reference.md)

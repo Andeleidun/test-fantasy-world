@@ -1,5 +1,11 @@
 # Dverghamar: climate, geology and settlement
 
+## Place in the three-star system
+
+Dverghamar orbits the distant outer sun of the selected [three-star system](stellar-system-reference.md). Its current 8-billion-year reference star conflicts with Erde's 4.54-billion-year geological scaffold under ordinary shared formation. The setting has not yet selected which chronology to rebuild or an unusual later assembly, so the age difference remains visible rather than silently resolved.
+
+The **Hamarkorar** are native. The **Thals** arrived later from Erde. The **Jotun** are a mountain people whose provisional cold-adapted, 2.5–3-metre body still requires mechanical, thermal and evolutionary work. Their ancestry is open.
+
 ## The star and the planet
 
 Dverghamar’s physical setting is a rocky super-Earth around an old early-M star. The star is smaller, cooler and dimmer than the Sun. Its relative quiet describes its mature state, not its youth: a viable planetary history still requires enough atmosphere and water to survive earlier stellar activity.

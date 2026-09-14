@@ -1,0 +1,32 @@
+# Gnomes
+
+## A fungal-looking people
+
+Gnomes are small sapient inhabitants of Merenval's companion, commonly near three feet tall and strongly fungal in appearance. A genuinely fungal ancestry is the current preferred direction, not a completed anatomical model. Any final design must provide contractile movement, rapid signaling, gas and nutrient exchange, structural tissues and a plausible basis for concentrated cognition.
+
+Their colors and surface textures vary widely. Appearance is not a reliable guide to family, profession or temperament.
+
+## Homes that grow
+
+Gnome communities cultivate fungal dwellings in caves, sinkholes, humid pillar habitats and geothermal districts. These structures still require feedstock, support, ventilation and drainage. A dwelling is an ecosystem and a maintained building, not architecture produced from nothing.
+
+Childhood dwellings and family homes may use compatible strains, adjoining panels or separate living compartments. Households commonly bring together six to ten relatives and partners in many different pairings. Feasts can include deliberately cultivated edible portions of the household growth without treating the inhabited structure as an undifferentiated food source.
+
+## Defensive gardens
+
+Some communities cultivate chemical alarms and toxic or irritating aerosols as local defenses. These systems are bounded by dose, airflow, preparation and species susceptibility. They do not create continent-scale invisible barriers or universally lethal clouds.
+
+## Long lives and mineral endings
+
+A lifespan approaching five centuries is a design target that will require exceptional repair, disease control and slow senescence. Late-life mineralization is a possible aging or funerary process. It is not yet a fixed switch that turns every living elder into stone.
+
+Gnomes form major sustaining populations on the companion. Their deep settlements have long histories of exchange with Deep/Star Elves, including some mixed communities, while maintaining distinct biological and cultural identities.
+
+## Open biological gates
+
+Exact ancestry, anatomy, reproduction, growth, metabolism, repair, mineralization and lifespan remain open. The next biological model must resolve these together rather than treating fungal appearance as an explanation by itself.
+
+- [Merenval and its companion](merenval.md)
+- [Elven peoples and traditions](elves.md)
+- [Orcs](orcs.md)
+

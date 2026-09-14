@@ -2,7 +2,7 @@
 
 ## Purpose and boundaries
 
-Publish a welcoming, factual guide to Erde and Dverghamar, retaining the working documents as editorial sources. Preserve established names, substantive rules, meaningful uncertainty, existing page routes, and the distinction between worldbuilding and story. The repository is public; the working/public split is an editorial boundary, not an access control.
+Publish a welcoming, factual guide to Erde, Dverghamar, Merenval and Merenval's companion, retaining the working documents as editorial sources. Preserve established names, substantive rules, meaningful uncertainty, existing page routes, and the distinction between worldbuilding and story. The repository is public; the working/public split is an editorial boundary, not an access control.
 
 ## Diagnosis before implementation
 

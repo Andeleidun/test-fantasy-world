@@ -2,7 +2,7 @@
 
 ## Scope
 
-Reviewed the publication pipeline, all 21 public articles, dictionary and downloadable data, map captions, shared templates, themes, search, navigation, responsive reading, tests and deployment workflow. The original working sources and original illustrations remain intact. This edition contains approximately 21,400 words of articles, 571 lexical records, 98 translated examples and 13 atlas sheets.
+Reviewed the publication pipeline, all 28 public articles, dictionary and downloadable data, map captions, shared templates, themes, search, navigation, responsive reading, tests and deployment workflow. The original illustrations remain intact. This edition contains approximately 25,900 words of public Markdown, 571 lexical records, 98 translated examples and 13 atlas sheets.
 
 The review follows `PUBLIC-EDITION-PLAN.md`. Each correction below was made after identifying the issue and its cause, followed by a focused recheck. Quantitatively unresolved worldbuilding remains explicitly provisional rather than being silently completed for publication.
 
@@ -47,7 +47,15 @@ The review follows `PUBLIC-EDITION-PLAN.md`. Each correction below was made afte
 - Keyboard checks cover skip navigation, theme activation and focus after pagination. Tests also cover failed-search recovery, stale requests, filtering and no-JavaScript reading.
 - Desktop light/dark home pages, the dark grammar reader and a full mobile article were visually inspected for hierarchy, legibility, spacing and navigation.
 - The local browser download endpoint timed out; local checks used Chromium 149 from a temporary browser package. The repository dependency set was not changed. GitHub Actions uses its normal Playwright Chromium installation and runs the checked-in suite before deployment.
-- Existing working Markdown/data and original map artwork remain unchanged. Only the public edition, app, tests and maintenance documentation are updated.
+- In the original public-edition cut, existing working Markdown/data and original map artwork remained unchanged. Later Drive synchronizations may update paired working and public references together.
+
+## September 2026 Drive synchronization
+
+The current Drive authority added Merenval, its inhabited companion, System A and the latest inhabitant outlines to the public scope. Seven new working/public article pairs cover the stellar system, Merenval's physical and demographic model, Elves, Gnomes, Orcs and Jotun. Erde, Dverghamar and cosmology articles now link those subjects and preserve their dependencies.
+
+The synchronization keeps three important boundaries visible: System A has passed only preliminary hierarchy checks; the 4.54-billion-year Erde scaffold and 8-billion-year Dverghamar reference do not yet share an ordinary formation history; and the Gnome, Orc and Jotun body plans retain their linked biological gates. It also replaces superseded Merenval ideas with the current K-star, close companion, shared-tree-of-life and distinct-planetary-spirit model.
+
+The deterministic build produced 28 articles, and all five build/content/link test groups passed locally. Browser coverage now includes Merenval, the stellar-system reference and the Elven guide in both themes and all tested widths. This checkout could not execute that suite because Playwright's Chromium download repeatedly failed through the environment gateway; GitHub Actions remains the publication gate that installs Chromium and runs the suite before deployment.
 
 ## Publication and remaining boundaries
 

@@ -12,6 +12,10 @@ Every living organism has a spirit. A soul develops gradually through differenti
 
 Worlds also have distributed spirits. Most planetary awareness is not the deliberation of a single person. Under exceptional conditions, collective coherence can develop into planetary personhood.
 
+Merenval and its close inhabited companion each have a distinct mature planetary spirit. Shared life and proximity do not merge them into one person. Elven traditions have deep practical knowledge of these relationships, but no culture is automatically infallible.
+
+Dorrenath, the eldest known Wayroot on Merenval, sustains a city-scale overlap with the Otherworld as an exceptional living structure. It is not a creator tree or cosmic axis, and not every Wayroot becomes a passage.
+
 ## Relationships after death
 
 A coherent soul may enter an afterlife domain through reciprocal, voluntary reception. Such domains depend on continuing relationships and sustenance. A domainless soul normally returns rapidly to planetary life, losing its separate personal differentiation within the greater whole.
@@ -25,3 +29,5 @@ Planetary integration involves the relationships of both worlds. Where both plan
 Preserving a dying world requires ongoing contribution. Contributors retain the right to withdraw immediately. Mature networks protect continuity through reserves, overlapping contributors, trained replacements and temporary emergency help.
 
 [The cosmological reference](cosmology-reference.md) explains crossings, domains, planetary awareness and the limits of preservation in more detail.
+
+[Merenval and its living companion](merenval.md) introduces the paired worlds and their peoples.

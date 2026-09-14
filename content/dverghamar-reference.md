@@ -16,6 +16,16 @@ The Thal catastrophe occurred on Erde. A surviving Neanderthal-descended populat
 
 The Otherworld crossing is an explicit narrative premise with no established scientific mechanism. It explains the Thals’ arrival in setting history, but supplies no continuing exemption from food, water, heat, reproduction, or planetary physics. The nonmagical physical and biological baseline is assessed independently of that crossing.
 
+## System placement and chronology safeguard
+
+Dverghamar's early-M host is the outer stellar member of selected System A, at a working semimajor axis near 1,200 AU around the closer Erde–Merenval pair. The hierarchy passes a first-order analytic screen but has not undergone a full N-body integration with mutual inclinations, all inhabited bodies, birth-cluster encounters or later stellar flybys.
+
+The 8-billion-year stellar reference used here remains a conditional Dverghamar input. Erde's active geological reconstruction begins near 4.54 billion years before present. Ordinary co-formation cannot satisfy both ages, so System A requires either a shared-age reconstruction or a specific tested later assembly. No age solution has yet been selected. See the [stellar-system reference](stellar-system-reference.md).
+
+## Inhabitant allocation
+
+The Hamarkorar are the native dwarven radiation and the Thals are later Erde-derived refugees. Jotun is the selected self-name for the mountain giants. Their approved first model is a cold-adapted, heavily supported 2.5–3-metre biped with rime-associated and limited stone-backed features. Their ancestry, limb history, mechanics, thermal physiology, carrying capacity and life history remain open; the outline does not yet place them inside or outside the native six-limbed radiation.
+
 ## Planetary name and linguistic usage
 
 ### Settled canon
