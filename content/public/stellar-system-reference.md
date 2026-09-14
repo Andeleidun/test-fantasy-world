@@ -8,19 +8,19 @@ This arrangement lets each world keep its own light, climate and calendar. The d
 
 ## What has been selected
 
-Merenval's current reference places it around a warm K-type star at about 0.600 astronomical units, with a year near 196 Erden days. Dverghamar's reference places it close to a quiet old red star, with a 40.30-day year equal to its rotation. Erde's exact stellar and calendar values have not yet been fixed by its current geographic and population histories.
+Merenval's current reference places it around a warm K-type star at about 0.600 astronomical units, with a year near 196 Erden days. Dverghamar's adapted reference places it close to a slow-rotating red star, with a 38.65-day year equal to its rotation. Erde's exact stellar and calendar values have not yet been fixed by its current geographic and population histories.
 
 The hierarchy has passed preliminary orbital checks. Its separations, eccentricities and stellar values remain working inputs rather than measurements or a completed simulation.
 
-## One age is still missing
+## One selected age
 
-The present histories do not yet share one ordinary formation age. Erde's geological scaffold begins about 4.54 billion years ago, while Dverghamar's current reference star is about 8 billion years old and its native life has a correspondingly long history.
+System A's shared age is approximately **4.54 billion years**. Erde's geological chronology is retained, while Dverghamar's former older reference is superseded and its early history is adapted to the younger coeval system.
 
-Selecting the three-star architecture did not erase that difference. Future work must either give the system a common age and revise one world's early chronology, or establish an unusual later assembly that the inhabited worlds could survive.
+Dverghamar's revised milestones place established microbial life near 3.70 Ga, oxygenic photosynthesis near 2.70 Ga, macroscopic aquatic ecosystems near 1.25 Ga and the six-limbed radiation near 0.80 Ga. The age decision is complete; the fitted stellar tracks, escape histories, climate models and long-duration orbital integration still require validation.
 
 ## What must still be tested
 
-The complete system needs long-duration orbital integration with Merenval's massive companion and any important planets or moons. The stellar models must use compatible ages, compositions and spectra. Those results then feed the separate climate, water, geological and biological models for each world.
+The complete system needs long-duration orbital integration with Merenval's massive companion and any important planets or moons. The stellar models must use the selected shared age with compatible compositions and spectra. Those results then feed the separate climate, water, geological and biological models for each world.
 
 - [Merenval and its companion](merenval.md)
 - [Merenval's physical reference](merenval-reference.md)

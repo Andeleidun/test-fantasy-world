@@ -4,9 +4,9 @@
 
 **Dverghamar** is the ordinary native name of the dwarven world; **Dvergahamrar** is its archaic or highly formal form. One hemisphere faces its star continuously, while the other remains in darkness. Between them lies a broad twilight region, broken into living provinces by mountains, dry basins and stretches of salt country.
 
-The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. Its current linked reference case uses an **8-billion-year, 0.50-solar-mass early-M star**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1826 AU**, and a synchronous year of **40.30 Earth days**. These values are screening inputs rather than immutable canon. The star’s early high-energy history must still be shown to leave the selected water and secondary atmosphere before the climate and water cycle can be validated.
+The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. System A's selected shared age is about **4.54 billion years**, retaining Erde's chronology and adapting Dverghamar's early history. Its current linked reference case uses a **0.50-solar-mass slow-rotating early-M star**, about **0.0379 solar luminosities**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1776 AU**, and a synchronous year of **38.65 Earth days**. These values are screening inputs rather than immutable canon. The star’s early high-energy history must still be shown to leave the selected water and secondary atmosphere before the climate and water cycle can be validated.
 
-Dverghamar's sun is the distant outer member of the selected [three-star system](stellar-system-reference.md). The other suns add almost no heat but can remain conspicuous lights in its dark sky. Dverghamar's 8-billion-year reference age and Erde's 4.54-billion-year geological scaffold do not yet share one ordinary formation history.
+Dverghamar's sun is the distant outer member of the selected [three-star system](stellar-system-reference.md). The other suns add almost no heat but can remain conspicuous lights in its dark sky. The shared 4.54-billion-year age is settled; the system's detailed formation, escape and orbital history remains to be validated.
 
 ## The inhabited landscapes
 

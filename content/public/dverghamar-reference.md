@@ -2,7 +2,7 @@
 
 ## Place in the three-star system
 
-Dverghamar orbits the distant outer sun of the selected [three-star system](stellar-system-reference.md). Its current 8-billion-year reference star conflicts with Erde's 4.54-billion-year geological scaffold under ordinary shared formation. The setting has not yet selected which chronology to rebuild or an unusual later assembly, so the age difference remains visible rather than silently resolved.
+Dverghamar orbits the distant outer sun of the selected [three-star system](stellar-system-reference.md). System A's shared age is approximately 4.54 billion years: Erde's chronology is retained, and Dverghamar's older reference is superseded by an adapted younger model. The age decision is settled; the fitted stellar, escape, climate and orbital history remains to be validated.
 
 The **Hamarkorar** are native. The **Thals** arrived later from Erde. The **Jotun** are a mountain people whose provisional cold-adapted, 2.5–3-metre body still requires mechanical, thermal and evolutionary work. Their ancestry is open.
 
@@ -15,15 +15,15 @@ Dverghamar’s physical setting is a rocky super-Earth around an old early-M sta
 | Planetary mass | About 3 Earth masses |
 | Planetary radius | About 1.4 Earth radii |
 | Surface gravity | About 1.53 Earth gravities |
-| Stellar mass and age | Reference case: 0.50 solar masses and 8.0 billion years |
-| Stellar luminosity and temperature | Reference case: 0.040 solar luminosities and about 3,765 K |
-| Orbit and received light | Reference case: 0.1826 AU and 1.20 times Earth’s bolometric flux |
-| Rotation | Synchronous, with a reference orbital period of 40.30 Earth days |
+| Stellar mass and age | Reference case: 0.50 solar masses and approximately 4.54 billion years |
+| Stellar luminosity and temperature | Working luminosity: about 0.0379 solar luminosities; temperature comes from the fitted coeval track |
+| Orbit and received light | Reference case: 0.1776 AU and 1.20 times Earth’s bolometric flux |
+| Rotation | Synchronous, with a reference orbital period of 38.65 Earth days |
 | Surface pressure | About 1.5 bar |
 | Oxygen fraction | About 14–15% of the dry atmosphere |
 | Exchangeable surface and near-surface water | About 0.15–0.20 Earth oceans |
 
-The star and orbit values form one linked screening case rather than independently adjustable canon. Kepler’s law connects the stated mass, distance and 40.30-day period; changing received flux requires recomputing distance and period together. The dry atmospheric reference is 84.4998% nitrogen, 14.5% oxygen, 0.9% argon-like inert gas, 0.10% carbon dioxide and 2 ppm methane. Water vapor, aerosols and the final greenhouse balance remain climate-model outputs. The oxygen fraction gives a dry partial pressure of 0.2175 bar. Higher gravity means that 1.5 bar produces an atmospheric column close to Earth’s mass per unit area rather than one and a half times it.
+The star and orbit values form one linked screening case rather than independently adjustable canon. Kepler’s law connects the stated mass, distance and 38.65-day period; changing received flux requires recomputing distance and period together while preserving the selected system age. The dry atmospheric reference is 84.4998% nitrogen, 14.5% oxygen, 0.9% argon-like inert gas, 0.10% carbon dioxide and 2 ppm methane. Water vapor, aerosols and the final greenhouse balance remain climate-model outputs. The oxygen fraction gives a dry partial pressure of 0.2175 bar. Higher gravity means that 1.5 bar produces an atmospheric column close to Earth’s mass per unit area rather than one and a half times it.
 
 The same bulk model gives about 15.03 m/s² surface gravity, 16.37 km/s escape speed and 9.98 × 10^18 kg of atmosphere. The escape speed helps retain heavy gases today but does not guarantee that water or a primordial light atmosphere survived the star’s active youth. The preferred history loses most early hydrogen, stores part of its water and carbon in the mantle, consumes photolytic oxygen in reduced rock, and establishes the secondary atmosphere through later outgassing and limited delivery. That history remains a numerical gate, not a completed result.
 

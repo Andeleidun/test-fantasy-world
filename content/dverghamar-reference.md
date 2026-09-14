@@ -16,11 +16,11 @@ The Thal catastrophe occurred on Erde. A surviving Neanderthal-descended populat
 
 The Otherworld crossing is an explicit narrative premise with no established scientific mechanism. It explains the Thals’ arrival in setting history, but supplies no continuing exemption from food, water, heat, reproduction, or planetary physics. The nonmagical physical and biological baseline is assessed independently of that crossing.
 
-## System placement and chronology safeguard
+## System placement and selected chronology
 
 Dverghamar's early-M host is the outer stellar member of selected System A, at a working semimajor axis near 1,200 AU around the closer Erde–Merenval pair. The hierarchy passes a first-order analytic screen but has not undergone a full N-body integration with mutual inclinations, all inhabited bodies, birth-cluster encounters or later stellar flybys.
 
-The 8-billion-year stellar reference used here remains a conditional Dverghamar input. Erde's active geological reconstruction begins near 4.54 billion years before present. Ordinary co-formation cannot satisfy both ages, so System A requires either a shared-age reconstruction or a specific tested later assembly. No age solution has yet been selected. See the [stellar-system reference](stellar-system-reference.md).
+System A uses a shared age of approximately 4.54 billion years. Erde's geological chronology is retained; Dverghamar's former 7–9-billion-year and 8-billion-year cases are superseded, and its early history is rebuilt within the younger coeval system. The age decision is settled, while the linked stellar, escape, climate and orbital models still require validation. See the [stellar-system reference](stellar-system-reference.md).
 
 ## Inhabitant allocation
 
@@ -50,15 +50,15 @@ The forms are Norse- and Germanic-inspired authorial representations of an indep
 
 ### Settled canon
 
-The selected planet is in a stable 1:1 spin–orbit state around an old, comparatively quiet early-M dwarf, with low obliquity and sufficiently small eccentricity to retain long-lived day and night hemispheres. Small libration and orbital weather cycles remain possible; “permanent” illumination is a climatic approximation near the moving geometric boundary, not perfectly fixed starlight at every point.
+The selected planet is in a stable 1:1 spin–orbit state around a slow-rotating, comparatively quiet early-M dwarf, with low obliquity and sufficiently small eccentricity to retain long-lived day and night hemispheres. Small libration and orbital weather cycles remain possible; “permanent” illumination is a climatic approximation near the moving geometric boundary, not perfectly fixed starlight at every point.
 
 The system is old enough for slow oxygenation and extensive biological diversification. The biosphere evolved under synchronous illumination from near its beginning; the planet did not recently change from an Earthlike day-night cycle into its present state.
 
 ### Recommended working values
 
-The bounded reference case uses a 0.50-solar-mass, 8.0-billion-year, near-solar-metallicity early-M star, approximated by 0.040 solar luminosities, 0.47 solar radii, and effective temperature about 3,765 K. At 1.20 Earth flux, the derived distance is 0.1826 AU and Kepler’s law gives a 40.30-Earth-day year and synchronous rotation period. These mutually consistent rounded inputs replace the former 0.16-AU, 1.56-flux illustration as the preferred screening case. They are conditional climate and escape inputs, not measured values, a unique stellar track, or immutable canon.
+The bounded reference case uses a 0.50-solar-mass, approximately 4.54-billion-year, near-solar-metallicity, slow-rotating early-M star with a working luminosity near 0.0379 solar luminosities. At 1.20 Earth flux, the derived distance is 0.1776 AU and Kepler’s law gives a 38.65-Earth-day year and synchronous rotation period. Radius, effective temperature and spectral history must come from one fitted stellar track. These linked values supersede the former 8-billion-year, 0.1826-AU, 40.30-day case and remain conditional climate and escape inputs rather than measured values or immutable canon.
 
-Residual stellar flaring must be low for an M dwarf but need not be zero. Atmospheric shielding, an old quiet star, and long biological adaptation are more credible than treating the star as completely inactive.
+Residual stellar flaring must be low for an M dwarf but need not be zero. Atmospheric shielding, a quiet present-day star, and long biological adaptation are more credible than treating the star as completely inactive.
 
 ## Planetary bulk properties
 
@@ -150,7 +150,7 @@ Any long-lived moons must satisfy Roche, Hill-region orbital-stability, and tida
 
 ### Open
 
-Moon count, masses, semimajor axes, resonances, eccentricities, and tidal properties remain open. Orbital N-body tests must be coupled to dissipative tidal evolution and uncertainties in the planet’s history; a short stable integration or placement inside the Hill sphere is insufficient for a 7–9-billion-year survival claim. A moon-poor or moonless system is the conservative comparison case. Distant companion planets may provide small secular forcing if their architecture remains stable and compatible with the selected low-eccentricity synchronous climate.
+Moon count, masses, semimajor axes, resonances, eccentricities, and tidal properties remain open. Orbital N-body tests must be coupled to dissipative tidal evolution and uncertainties in the planet’s history; a short stable integration or placement inside the Hill sphere is insufficient for a 4.54-billion-year survival claim. A moon-poor or moonless system is the conservative comparison case. Distant companion planets may provide small secular forcing if their architecture remains stable and compatible with the selected low-eccentricity synchronous climate.
 
 ## Primary production and planetary food web
 
@@ -312,17 +312,17 @@ Occasional hybridization is a plausible working model. Central and deep-massif p
 
 ## Provisional evolutionary timescale
 
-Selected chronological scaffold for a system approximately 7–9 billion years old; relative causal order is stronger than any assigned date. The intervals below describe the chosen fictional history and are neither an evolutionary clock nor estimates of the most probable timing of extraterrestrial life.
+Selected chronological scaffold for the approximately 4.54-billion-year-old coeval System A. This younger Dverghamar history supersedes the former 7–9-billion-year scaffold. Relative causal order is stronger than any assigned milestone; the intervals below describe the chosen fictional history and are neither an evolutionary clock nor estimates of the most probable timing of extraterrestrial life.
 
-Microbial ecosystems and several phototrophic strategies are established more than 5 billion years before the present.
+Microbial ecosystems and several phototrophic strategies are established by roughly 3.70 billion years before the present.
 
-Sustained oxygenic photosynthesis develops roughly 4–5 billion years before the present.
+Sustained oxygenic photosynthesis develops roughly 2.70 billion years before the present.
 
-Diverse aquatic macroscopic life is established roughly 3–4 billion years before the present.
+Diverse aquatic macroscopic life is established roughly 1.25 billion years before the present.
 
-The six-limbed shoreline clade and reproduction independent of standing external water arise roughly 2–3 billion years before the present in the existing provisional chronology. Embryos still require retained water and suitable exchange membranes. The three appendage pairs originate earlier in aquatic ancestors; no precise date is assigned to that developmental innovation.
+The major six-limbed radiation is established roughly 0.80 billion years before the present. Reproduction independent of standing external water develops within its later shoreline descendants; embryos still require retained water and suitable exchange membranes. The three appendage pairs originate earlier in aquatic ancestors, but no precise date is assigned to that developmental innovation.
 
-Major terrestrial and cavern radiations unfold roughly 1–2 billion years before the present.
+Major terrestrial and cavern radiations unfold after the six-limbed expansion, within the last roughly 0.80 billion years.
 
 The endothermic, socially denning dwarf-parent clade appears roughly 80–200 million years before the present.
 
@@ -334,7 +334,7 @@ A recognizable dwarven genus appears roughly 2.5–3.5 million years before the 
 
 Living species diverge mainly within the last roughly 0.5–2 million years. The deep-massif subspecies differentiates within roughly the last 150–400 thousand years.
 
-Long intervals permit repeated radiations, extinction, environmental change, and replacement of habitats. They do not imply billions of years of anatomical stasis, steadily increasing intelligence, or an inevitable dwarf endpoint. The geode specialization is much later than the first enclosed terrestrial eggs. Dates must be updated together if the stellar or geological history changes.
+The revised intervals permit repeated radiations, extinction, environmental change, and replacement of habitats. They do not imply anatomical stasis, steadily increasing intelligence, or an inevitable dwarf endpoint. The geode specialization is much later than the first enclosed terrestrial eggs. The shared 4.54-billion-year system age is selected; internal milestones may move together if the fitted stellar, geological or biological model requires it.
 
 ## Corrections and supersessions
 

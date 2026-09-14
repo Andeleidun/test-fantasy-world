@@ -218,13 +218,13 @@ The motif should not imply an insect-like caste system, hive mind, compulsory gr
 
 ### Star and orbit
 
-Use the bounded 0.50-solar-mass, 8.0-billion-year, near-solar-metallicity early-M reference star unless its integrated escape or climate case fails.
+Use the selected coeval System A age of approximately 4.54 billion years and a 0.50-solar-mass, slow-rotating, near-solar-metallicity early-M reference star. Erde’s chronology is retained; the older Dverghamar age case is superseded and is not reopened if a downstream model fails.
 
-Interpolate one low-mass stellar track and spectrum around the current rounded reference of 0.040 solar luminosities, 0.47 solar radii, and effective temperature about 3,765 K. The rounded values are mutually consistent screening inputs, not measurements.
+Interpolate one low-mass stellar track and spectrum at approximately 4.54 billion years around the current working luminosity of about 0.0379 solar luminosities. Radius, effective temperature, and spectral output must come from that fit. The rounded mass, age, and luminosity are coupled screening inputs, not measurements.
 
-Use 1.20 Earth bolometric flux, 0.1826 AU, and a 40.30-Earth-day orbital and synchronous period as the linked reference case. If climate or escape fails, move flux and distance together and recompute the period; do not tune any of the three independently.
+Use 1.20 Earth bolometric flux, 0.1776 AU, and a 38.65-Earth-day orbital and synchronous period as the linked reference case. If climate or escape fails, preserve the selected 4.54-billion-year system age, move linked physical inputs together, and recompute the period; do not tune flux, distance, or period independently.
 
-Still open: select a bounded stellar rotation history and derive the quiescent ultraviolet, XUV, flare, and pre-main-sequence luminosity histories. “Old and quiet” constrains the present, not the active youth. Integrate those histories with magma-ocean exchange, mantle retention, oxidation, escape, impacts, and outgassing.
+Still open: fit the selected slow-rotating stellar history and derive the quiescent ultraviolet, XUV, flare, and pre-main-sequence luminosity histories. Present-day quietness does not remove the active youth. Integrate those histories over the selected 4.54-billion-year age with magma-ocean exchange, mantle retention, oxidation, escape, impacts, and outgassing.
 
 ### Atmosphere and circulation
 

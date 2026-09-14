@@ -2,7 +2,7 @@
 
 ## Working physical values
 
-Merenval orbits a warm K-type sun at about 0.600 astronomical units and completes a year in roughly 196 Erden days. Its sun belongs to the closer stellar pair of the [three-star system](stellar-system-reference.md).
+Merenval orbits a warm K-type sun at about 0.600 astronomical units and completes a year in roughly 196 Erden days. Its sun belongs to the closer stellar pair of the [three-star system](stellar-system-reference.md), whose shared age is selected at approximately 4.54 billion years. Erde's chronology is retained and Dverghamar's early history is adapted to that coeval age.
 
 | Quantity | Merenval | Living companion |
 | --- | ---: | ---: |

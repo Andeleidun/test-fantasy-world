@@ -2,7 +2,7 @@
 
 ## Two inhabited worlds in one close orbit
 
-Merenval and its smaller companion circle a common point in space. The companion is massive enough that their shared center lies outside Merenval, making them an unequal pair of terrestrial worlds rather than an ordinary planet and tiny moon.
+Merenval and its smaller companion circle a common point in space. Their three-star system has a selected shared age of approximately 4.54 billion years, retaining Erde's chronology and adapting Dverghamar to the same coeval history. The companion is massive enough that their shared center lies outside Merenval, making them an unequal pair of terrestrial worlds rather than an ordinary planet and tiny moon.
 
 Merenval is close to Erde in mass, radius and surface gravity. The companion has about one quarter of Erde's mass, a radius near 4,380 kilometres and surface gravity near 0.53 g. They remain roughly 375,000 kilometres apart and orbit one another in about 23.2 Erden days.
 
@@ -31,4 +31,3 @@ The companion also sustains Gnome communities in fungal and cavern ecologies and
 - [Gnomes](gnomes.md)
 - [Orcs](orcs.md)
 - [The three-star system](stellar-system-reference.md)
-

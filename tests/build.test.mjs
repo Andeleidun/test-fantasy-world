@@ -62,7 +62,10 @@ test('the public edition owns publication inputs and retains important distincti
   const dwarf = await readFile('content/public/dverghamar-reference.md', 'utf8');
   assert.match(dwarf, /target envelope, not a climate result/);
   assert.match(dwarf, /Thal catastrophe occurred on Erde/);
-  assert.match(dwarf, /8-billion-year reference star conflicts with Erde's 4.54-billion-year geological scaffold/);
+  assert.match(dwarf, /shared age is approximately 4.54 billion years/);
+  assert.match(dwarf, /0.1776 AU/);
+  assert.match(dwarf, /38.65 Earth days/);
+  assert.doesNotMatch(dwarf, /No age solution has yet been selected|age difference remains visible|conflicts with Erde's 4.54-billion-year/);
   const people = await readFile('content/public/hamarkorar.md', 'utf8');
   assert.match(people, /five species and a deep-massif subspecies/);
   assert.match(people, /Hamkor.*proposed/);
@@ -71,7 +74,9 @@ test('the public edition owns publication inputs and retains important distincti
   }
   const system = await readFile('content/public/stellar-system-reference.md', 'utf8');
   assert.match(system, /System A/);
-  assert.match(system, /did not erase that difference/);
+  assert.match(system, /One selected age/);
+  assert.match(system, /age decision is complete/);
+  assert.doesNotMatch(system, /One age is still missing|did not erase that difference|ordinary formation age.*do not yet share/i);
   assert.match(system, /long-duration orbital integration/i);
   const merenval = await readFile('content/public/merenval-reference.md', 'utf8');
   assert.match(merenval, /23.2 days/);

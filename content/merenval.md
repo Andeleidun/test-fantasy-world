@@ -2,7 +2,7 @@
 
 ## A binary pair of inhabited worlds
 
-Merenval is a near-Earth-gravity terrestrial world orbiting the K-type member of the selected wide hierarchical triple. Its inhabited companion is about one quarter of Earth's mass and follows a close mutual orbit. The barycenter lies far outside Merenval, making the pair an unequal binary terrestrial system even when inhabitants call the smaller world a moon.
+Merenval is a near-Earth-gravity terrestrial world orbiting the K-type member of the selected wide hierarchical triple. System A's shared age is approximately 4.54 billion years, preserving Erde's chronology and using Dverghamar's adapted younger model. Merenval's inhabited companion is about one quarter of Earth's mass and follows a close mutual orbit. The barycenter lies far outside Merenval, making the pair an unequal binary terrestrial system even when inhabitants call the smaller world a moon.
 
 The current working values are about 1.05 Earth masses and 1.04 Earth radii for Merenval, and 0.25 Earth masses, 4,380 km radius, 0.53 g and 6.7 km/s escape velocity for the companion. Their separation is near 375,000 km and their mutual period near 23.2 Earth days.
 
@@ -35,4 +35,3 @@ Dorrenath, the eldest known Wayroot, is a city-scale living structure on Merenva
 - [Gnomes](gnomes.md)
 - [Orcs](orcs.md)
 - [The three-star system](stellar-system-reference.md)
-
