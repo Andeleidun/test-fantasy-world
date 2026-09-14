@@ -73,3 +73,9 @@ System A's shared age is settled at approximately 4.54 billion years. Erde's geo
 ## Public magic guides — 14 September 2026
 
 The public magic articles derive from [40 Magic System — Decision Ledger](https://docs.google.com/document/d/1NLfEk9vCFrcaeiBj86KKc8YsQ0n5e7tJyi-Yw3KPSJo/edit), with the Otherworld and soul boundaries checked against [34 Otherworld and Cosmology — Decision Ledger](https://docs.google.com/document/d/1GbnsH0Ts-UXkTqTuFtapGZNeloV6xrrUI5A1cGbI7m4/edit). The publication describes observable practice, services, training, risk, travel and enchanted objects. It omits design inspirations, exact prevalence targets, power-level analogies, field ontology, unresolved taxonomy and instructions for future worldbuilding.
+
+## Level 3 provenance — 14 September 2026
+
+[41 Otherworld Mythology & Real-World Source Ledger — Authorial](https://docs.google.com/document/d/1jjVMwY809mFxfuB0mswFlCXEeFO-RUQBECcT9ByZgU0/edit) now contains the project’s Level 3 policy and normalized OW-A through OW-O coverage. It separates materially used sources from researched candidates, records each source relationship and support boundary, and keeps living or sensitive traditions behind source-specific review.
+
+The repository’s [Level 3 standard](../docs/PROVENANCE-STANDARD.md) and machine-readable [`provenance.json`](provenance.json) index the distributed records for Erde, Dverghamar, Merenval and System A, their peoples, cosmology, magic, language and maps. The validator requires every public article to map to at least one completed Level 3 domain. Future research queues do not count as adopted-source debt until a setting decision uses them.

@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "level": 3,
+  "status": "authorial",
+  "scope": {
+    "included": "Every identifiable, deliberate and materially significant source used by current project material.",
+    "excluded": "Unconscious influence, common genre vocabulary, coincidental resemblance and research candidates that have not informed a setting decision.",
+    "level4Goal": "Publish selected reader-safe summaries from this record without creating a competing source of truth."
+  },
+  "relationshipTypes": [
+    "evidence",
+    "strong-inference",
+    "contextual-reconstruction",
+    "adaptation",
+    "linguistic-derivation",
+    "visual-reference",
+    "comparative-influence",
+    "general-analogy",
+    "fictional-premise",
+    "candidate"
+  ],
+  "authorityDocuments": [
+    {
+      "id": "drive-00",
+      "title": "00 - Brainstorm Charter and Current Decision Baseline",
+      "locator": "https://docs.google.com/document/d/1NITmWlwB_aCnI6evA7UAhPPkerVvTb7mAgczTwn5swg/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-20",
+      "title": "20 Deep-Time Alternate-Axis Simulation Framework",
+      "locator": "https://docs.google.com/document/d/1W0brKz6RBonehijhqNcoToaSiwvYaS80S9UQ6GiENxM/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-24",
+      "title": "24 Proposal 4 Geological History - Central Pacific and Polar Africa Axis",
+      "locator": "https://docs.google.com/document/d/1wvKc6K2dcRd-jJ9L0ZJlyvONznNYAHDtFdcZcfwfyYw/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-33",
+      "title": "33 Erde Human–Hobbit History Simulation — Decision Ledger",
+      "locator": "https://docs.google.com/document/d/1yuXsaK8OOpCoJEjHMtH_hNNn6RD9u48IfFDAWDyMgMs/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-34",
+      "title": "34 Otherworld and Cosmology — Decision Ledger",
+      "locator": "https://docs.google.com/document/d/1GbnsH0Ts-UXkTqTuFtapGZNeloV6xrrUI5A1cGbI7m4/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-35",
+      "title": "35 Dwarven Planet — Scientific Canon and Decision Ledger",
+      "locator": "https://docs.google.com/document/d/1mtjV9MC9EatFItPRmlZqZTLMARmWcXqcWraacAiFgpI/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-36",
+      "title": "36 Dwarven Planet — Geological, Biospheric, and Dwarven Evolutionary Synthesis",
+      "locator": "https://docs.google.com/document/d/11dQvRDaZ4fIizEpDtax6ezazSza9uW1F5VjdyK2kmns/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-37",
+      "title": "37 Dwarven Planet — Open Questions and Wildlife Branching Map",
+      "locator": "https://docs.google.com/document/d/1gXKXI1YBDDppp3CCgMc4njSnldMi4bgIGD7PCJTSNWw/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-38",
+      "title": "38 Project Scientific Review — Correction Plan and Validation Record",
+      "locator": "https://docs.google.com/document/d/1KOAiA8JMpKVBnDSLZjOAnRGJiExcskbuQfJ3UsOG6LY/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-40",
+      "title": "40 Magic System — Decision Ledger",
+      "locator": "https://docs.google.com/document/d/1NLfEk9vCFrcaeiBj86KKc8YsQ0n5e7tJyi-Yw3KPSJo/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-41",
+      "title": "41 Otherworld Mythology & Real-World Source Ledger — Authorial",
+      "locator": "https://docs.google.com/document/d/1jjVMwY809mFxfuB0mswFlCXEeFO-RUQBECcT9ByZgU0/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-merenval",
+      "title": "Merenval — Elven Planet and Companion",
+      "locator": "https://docs.google.com/document/d/1TG6w5DamlzUL-wuGL9S6PsZLeP0OdUARYAz2ReZBqMY/edit",
+      "status": "current"
+    },
+    {
+      "id": "drive-multistar-history",
+      "title": "[HISTORICAL COMPARATIVE SCREEN — System A selected] Multistar-Systems-Plausibility-Brainstorm.md",
+      "locator": "https://drive.google.com/file/d/12Ov7AK2qwafvCd5FT2Si6xIfuZsZ9JQY/view",
+      "status": "historical"
+    },
+    {
+      "id": "drive-language-family",
+      "title": "Dverghamar-Language-Family.md",
+      "locator": "https://drive.google.com/file/d/13DIrM3HMcouNXf1DnrDD8YRg-GWHSZ6C/view",
+      "status": "current"
+    },
+    {
+      "id": "drive-erde-atlas",
+      "title": "Erde-Map-Atlas.pdf",
+      "locator": "https://drive.google.com/file/d/1J7anzojEwufdoaflzaiK7fZbpFyN5pFL/view",
+      "status": "current"
+    },
+    {
+      "id": "drive-dverghamar-atlas",
+      "title": "Dwarven-Planet-Map-Atlas.pdf",
+      "locator": "https://drive.google.com/file/d/1pfqnArUC72H_MLUbyOhBA7pgMScPZGbS/view",
+      "status": "current"
+    }
+  ],
+  "registers": [
+    {
+      "id": "repository-source-notes",
+      "locator": "content/SOURCES.md",
+      "scope": "Source hierarchy, synchronization, scientific anchors, datasets and publication boundaries."
+    },
+    {
+      "id": "repository-scientific-review",
+      "locator": "docs/DVERGHAMAR-SCIENTIFIC-REVIEW.md",
+      "scope": "Dverghamar evidence classifications, calculations, replacements and remaining validation gates."
+    },
+    {
+      "id": "repository-geography",
+      "locator": "docs/continental-constraint-graph/README.md",
+      "additionalLocators": [
+        "docs/global-geography-trial/physical-test-sources.md",
+        "docs/global-geography-trial/freeboard-sources.md",
+        "docs/geological-reconstruction/README.md",
+        "docs/ERDE-GEOGRAPHIC-DIVERGENCE-PROPOSAL.md"
+      ],
+      "scope": "Geographic reconstruction sources, model inputs, mechanisms and explicit non-canon trial boundaries."
+    },
+    {
+      "id": "drive-otherworld-register",
+      "authorityRef": "drive-41",
+      "scope": "Otherworld mythological, dragon, reproductive and ecological source records OW-A through OW-O."
+    }
+  ],
+  "otherworldSourceGroups": [
+    { "id": "OW-A", "status": "materially-used", "relationship": ["adaptation", "comparative-influence"], "publicStatus": "eligible" },
+    { "id": "OW-B", "status": "materially-used", "relationship": ["comparative-influence", "adaptation"], "publicStatus": "eligible" },
+    { "id": "OW-C", "status": "materially-used", "relationship": ["comparative-influence"], "publicStatus": "eligible" },
+    { "id": "OW-D", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-E", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-F", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-G", "status": "materially-used", "relationship": ["comparative-influence"], "publicStatus": "review-required" },
+    { "id": "OW-H", "status": "materially-used", "relationship": ["comparative-influence"], "publicStatus": "authorial-only" },
+    { "id": "OW-I", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-J", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-K", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-L", "status": "candidate", "relationship": ["candidate"], "publicStatus": "authorial-only" },
+    { "id": "OW-M", "status": "materially-used", "relationship": ["comparative-influence", "adaptation"], "publicStatus": "eligible" },
+    { "id": "OW-N", "status": "materially-used", "relationship": ["evidence", "general-analogy"], "publicStatus": "eligible" },
+    { "id": "OW-O", "status": "materially-used", "relationship": ["evidence", "strong-inference", "general-analogy"], "publicStatus": "eligible" }
+  ],
+  "coverage": [
+    {
+      "id": "erde",
+      "status": "complete",
+      "authorityRefs": ["drive-00", "drive-20", "drive-24", "drive-33", "drive-38"],
+      "registerRefs": ["repository-source-notes", "repository-geography"],
+      "repositoryRefs": ["content/erde-reference.md", "docs/ERDE-GEOGRAPHIC-DIVERGENCE-PROPOSAL.md"],
+      "publicFiles": ["erde.md", "erde-reference.md", "erde-atlas.md"],
+      "boundary": "Selected history is separated from unadopted geographic trials and real-world analogues."
+    },
+    {
+      "id": "dverghamar",
+      "status": "complete",
+      "authorityRefs": ["drive-35", "drive-36", "drive-37", "drive-38"],
+      "registerRefs": ["repository-source-notes", "repository-scientific-review"],
+      "repositoryRefs": ["content/dverghamar-reference.md", "content/evolution-reference.md", "docs/DVERGHAMAR-SCIENTIFIC-REVIEW.md"],
+      "publicFiles": ["dverghamar.md", "dverghamar-reference.md", "dverghamar-atlas.md", "evolution-reference.md", "wildlife-questions.md"],
+      "boundary": "The 4.54-billion-year chronology is selected. Remaining atmosphere, escape, climate and biology calculations retain their stated gates."
+    },
+    {
+      "id": "merenval-system",
+      "status": "complete",
+      "authorityRefs": ["drive-00", "drive-34", "drive-38", "drive-merenval", "drive-multistar-history"],
+      "registerRefs": ["repository-source-notes"],
+      "repositoryRefs": ["content/merenval-reference.md", "content/stellar-system-reference.md"],
+      "publicFiles": ["merenval.md", "merenval-reference.md", "stellar-system-reference.md"],
+      "boundary": "System A is selected. The historical A-I comparison remains provenance, and long-duration physical validation remains open."
+    },
+    {
+      "id": "peoples",
+      "status": "complete",
+      "authorityRefs": ["drive-00", "drive-33", "drive-35", "drive-36", "drive-37", "drive-38", "drive-merenval"],
+      "registerRefs": ["repository-source-notes"],
+      "repositoryRefs": ["content/elves.md", "content/gnomes.md", "content/orcs.md", "content/jotuns.md", "content/hamarkorar.md", "content/thals.md"],
+      "publicFiles": ["elves.md", "gnomes.md", "orcs.md", "jotuns.md", "hamarkorar.md", "thals.md"],
+      "boundary": "Public fantasy names are separated from authorial taxonomy, and unresolved anatomy or ancestry remains open."
+    },
+    {
+      "id": "cosmology-otherworld",
+      "status": "complete",
+      "authorityRefs": ["drive-34", "drive-41"],
+      "registerRefs": ["repository-source-notes", "drive-otherworld-register"],
+      "repositoryRefs": ["content/otherworld.md", "content/cosmology-reference.md"],
+      "publicFiles": ["otherworld.md", "cosmology-reference.md"],
+      "boundary": "Real-world traditions and biological analogues inform bounded structures without proving setting metaphysics or afterlife rules."
+    },
+    {
+      "id": "magic",
+      "status": "complete",
+      "authorityRefs": ["drive-34", "drive-40"],
+      "registerRefs": ["repository-source-notes"],
+      "repositoryRefs": ["content/erde-reference.md", "content/otherworld.md"],
+      "publicFiles": ["magic.md", "magic-practice.md", "enchanted-objects.md", "familiar-magic.md"],
+      "boundary": "Everyday practice is public. Hidden ontology, exact prevalence targets, design comparisons and future authorial instructions remain excluded."
+    },
+    {
+      "id": "language",
+      "status": "complete",
+      "authorityRefs": ["drive-35", "drive-36", "drive-language-family"],
+      "registerRefs": ["repository-source-notes"],
+      "repositoryRefs": ["content/language-foundation.md", "content/language-family.md", "content/language-grammar.md", "content/language-materials.md", "content/language-writing.md", "content/language-examples.md", "content/lexicon.json"],
+      "publicFiles": ["korvar.md", "language-foundation.md", "language-family.md", "language-grammar.md", "language-materials.md", "language-writing.md", "language-examples.md"],
+      "boundary": "Established language data remains distinct from real-world inspiration and unselected naming proposals."
+    },
+    {
+      "id": "maps",
+      "status": "complete",
+      "authorityRefs": ["drive-20", "drive-24", "drive-35", "drive-38", "drive-erde-atlas", "drive-dverghamar-atlas"],
+      "registerRefs": ["repository-source-notes", "repository-geography"],
+      "repositoryRefs": ["content/map-methods.md", "content/maps.json", "scripts/editorial/data/README.md"],
+      "publicFiles": ["map-methods.md"],
+      "boundary": "Reference geometry, candidate reconstructions and public setting maps retain separate labels and licenses."
+    }
+  ]
+}
