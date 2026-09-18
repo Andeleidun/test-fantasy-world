@@ -1,5 +1,7 @@
 ## A realm with its own conditions
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 The Otherworld is part of the developed cosmological framework. Crossings can connect material places, including the route through which the Thals reached Dverghamar. Its topology, hazards, time and native ecologies require their own rules.
 
 Its routes should not be read as ordinary tunnels through planetary rock. Environmental conditions and practitioner-dependent protection shape what passage permits and what it costs.

@@ -1,42 +1,19 @@
 # Dverghamar
 
-## A world of permanent day and night
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-**Dverghamar** is the ordinary native name of the dwarven world; **Dvergahamrar** is its archaic or highly formal form. One hemisphere faces its star continuously, while the other remains in darkness. Between them lies a broad twilight region, broken into living provinces by mountains, dry basins and stretches of salt country.
+## Permanent day, night and twilight
 
-The planet is modeled as a rocky world of about **three Earth masses**, **1.4 Earth radii** and **1.53 times Earth’s surface gravity**. It shares System A's selected age of about **4.54 billion years**, governed by Erde's chronology. Its current linked reference case uses a **0.50-solar-mass slow-rotating early-M star**, about **0.0379 solar luminosities**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1776 AU**, and a synchronous year of **38.65 Earth days**. These values are screening inputs rather than immutable canon. The star’s early high-energy history must still be shown to leave the selected water and secondary atmosphere before the climate and water cycle can be validated.
+Dverghamar is the ordinary native name of the dwarven world; Dvergahamrar is archaic or highly formal. Its inhabitants know a sunward hemisphere, a dark hemisphere and a broad intervening twilight region. Mountains, dry basins and salt country interrupt that region; it is not a continuous fertile ring.
 
-Dverghamar's sun is the distant outer member of the selected [three-star system](stellar-system-reference.md). The other suns add almost no heat but can remain conspicuous lights in its dark sky. The shared 4.54-billion-year age is settled; the system's detailed formation, escape and orbital history remains to be validated.
+The sunward lands become dangerously hot and dry. The nightward lands grow cold and dark. Most familiar large life and settlement occupy the better watered twilight landscapes. Strong gravity makes lifting and movement more demanding for human visitors.
 
-## The inhabited landscapes
+## Rivers, lakes and homes
 
-The climate targets place central dayside lowlands mostly at 67–102°C, with exceptional dark basins approaching 112°C, and the deep nightside mostly at −68 to −43°C, with colder traps. These ranges have not yet been validated together. Heat and desiccation on the dayside, and cold, darkness and scarce food on the nightside, prevent broad self-sustaining communities of large Earth-like animals. Cold alone would not exclude every supplied or sheltered animal. Microbes can persist in suitable protected niches.
+Illuminated slopes, river valleys, lakes and sheltered mountain districts support living communities. Dry divides and salt basins separate them. Farther nightward, ice and isolated warm sites dominate accounts of the landscape.
 
-Most visible life occupies the twilight region. Lit slopes support photosynthetic organisms. Where precipitation, glacier outlets or connected aquifers supply them, rivers descend from mountain catchments into lakes and closed basins. Temperate ground does not automatically receive rain. Sheltered valleys and mountain passes connect larger wet provinces, while rain shadows and evaporative salt flats interrupt the belt.
+The Hamarkorar prefer homes inside rock. Farms, river works, roads and other surface facilities remain important. Water wheels, shafts, gears and ordinary craft support industrial life; settlement depends on maintained access to food, air, water and transport.
 
-The corridor is not equally hospitable throughout. The sunward side has light but increasing heat and water stress. The nightward fringe receives little useful light and depends increasingly on food carried from illuminated habitats.
+## Peoples
 
-## Water and life
-
-The exchangeable surface and near-surface water inventory is about **0.15–0.20 Earth oceans**. The detailed reference case uses **240 million km³ water-equivalent**, principally nightside ice concentrated in thick regional basins among colder plateaus. Much of that water is frozen, saline, deep or otherwise difficult to use. A few lakes cover **50,000–150,000 km²** each, accompanied by many smaller bodies of water. Productive surface and coastal waters can support large animals above cold, poorly oxygenated depths.
-
-Farther into the nightside, isolated geothermal oases support much smaller communities. Their energy comes from geological chemical reactions, with oxidants delivered slowly through ice and groundwater. The selected ordinary ecology has sparse small consumers, with microbes alone in poorer sites; finger-length is not a universal physical limit. Occasional subglacial floods can connect oases and briefly enhance production, or scour and deoxygenate them.
-
-## Homes inside mountains
-
-The native **Hamarkorar** strongly prefer underground homes. A mountain settlement may stand high above a valley while having only modest rock cover. Air, water, heat removal and access to food remain central to its design.
-
-Twilight mountain rivers provide most industrial power. Water wheels, shafts, gears, hydraulic systems and compressed air work alongside fuel engines and limited electricity. Near-surface chambers admit light to crops; fungal cultivation uses organic feedstock supplied by the wider food web.
-
-## Three peoples
-
-The native **Hamarkorar** are four-armed descendants of Dverghamar's six-limbed evolutionary radiation. The **Thals** are later refugees descended from an Erde human lineage. The **Jotun** are a mountain people whose current first model is a 2.5–3-metre cold-adapted, heavily supported biped. Jotun ancestry and its possible relationship to native life remain open.
-
-## Further reading
-
-- [Climate, geology and settlement](dverghamar-reference.md)
-- [The Hamarkorar](hamarkorar.md)
-- [Native evolutionary history](evolution-reference.md)
-- [Maps of Dverghamar](dverghamar-atlas.md)
-- [The Thals](thals.md) and [the Jotun](jotuns.md)
-- [The three-star system](stellar-system-reference.md)
+The native Hamarkorar have four arms and two legs. Their ancestry belongs to Dverghamar’s own life, long before the Thals arrived from Erde. Jotun communities occupy mountain margins and valleys; their precise ancestry remains undescribed.

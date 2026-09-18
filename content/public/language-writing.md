@@ -1,5 +1,7 @@
 # Writing, numbers and everyday use
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Stavmark, the writing system
 
 **Stavmark**, 'letter-mark', is the native writing system described in this guide. Its 24 base signs cover eight vowel qualities and sixteen consonants, including one sign for ng /ŋ/. Phonemic vowel length repeats the vowel sign. The chart accompanying this handbook supplies every base sign and the two regional extensions sh and dh.
@@ -10,7 +12,7 @@ Spaces separate words; a short midline separator marks a compound boundary when 
 
 The sign chart includes **Hamarkorar af Dverghamar-um**, 'Hamarkorar (crag people) of Dverghamar'. The proper name takes its regular oblique ending after af, with a visible boundary separator. This is an association phrase suitable for a heading or label; it follows ordinary case rules.
 
-Hexagonal and honeycomb arrangements suit seals, panel borders, nursery casing labels and modular inventories when convenient. Text itself remains linearly ordered. A six-sided panel can contain six labeled compartments without making six a universal sacred number, a numeral base, a phonological principle or an architectural obligation. Long documents, route notices and fast handwritten messages use ordinary lines. The script can be learned and used by someone with two working hands; four arms do not impose a multi-hand writing requirement.
+Hexagonal and honeycomb arrangements suit seals, panel borders, household labels and modular inventories when convenient. Text itself remains linearly ordered. A six-sided panel can contain six labeled compartments without making six a universal sacred number, a numeral base, a phonological principle or an architectural obligation. Long documents, route notices and fast handwritten messages use ordinary lines. The script can be learned and used by someone with two working hands; four arms do not impose a multi-hand writing requirement.
 
 The regional sh /ʃ/ and dh /ð/ signs extend the same visual system. Common technical documents can instead retain their Common ancestral spelling when a reader is expected to pronounce it in the shared register. A local-language text uses its local spelling consistently. A bilingual sign states which version is which; spelling differences are not treated as careless Common errors.
 
@@ -54,7 +56,7 @@ These are labeled fragments. A full assertion is **Da gred af stalmenum sere ne 
 
 Personal names are not forced into stone or craft compounds. Short names such as **Menel**, **Röva**, and **Keldin** are sample proper-name coinages, not new universal birth-name rules. Household associations can be expressed with af + oblique, and changed or retained according to local custom. Occupational labels remain distinct from ancestry labels. Dverghamar and Dvergahamrar preserve their established roles regardless of local name fashions.
 
-Ordinary greetings are **Hei**, hello; **Takk**, thanks; **Bitte**, please; and **Farvel**, farewell. Affection and familiarity can be conveyed with voice, personal names and vocabulary; no obligatory honorific hierarchy is encoded. A respectful request can remain short and grammatical. Children learn household speech first and may acquire Korvar through other caregivers, community teaching or later apprenticeship; neither egg incubation nor underground residence determines a fixed acquisition timetable.
+Ordinary greetings are **Hei**, hello; **Takk**, thanks; **Bitte**, please; and **Farvel**, farewell. Affection and familiarity can be conveyed with voice, personal names and vocabulary; no obligatory honorific hierarchy is encoded. A respectful request can remain short and grammatical. Children learn household speech first and may acquire Korvar through other caregivers, community teaching or later apprenticeship; household arrangements and underground residence do not determine a fixed acquisition timetable.
 
 Accessible communication can use large-print or raised Stavmark, written readback and agreed visual/tactile instructions. Work gestures and fingerspelling can complement speech, but do not constitute a full signed language. Dwarven signed languages, including their independent grammars and histories, have not yet been described.
 
@@ -72,7 +74,7 @@ My home is inside the mountain. The chamber is high, but the rock cover is shall
 
 I have a piece of dark fine-grained rock. It is scratch-resistant and brittle. Its support-stone grade is not known. I will test the sample. Afterward I will write the decision. Now we must wait.
 
-The [translated examples](language-examples.md) explain each sentence’s construction.
+The [translated examples](https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view?usp=drivesdk) explain each sentence’s construction.
 
 ## A small teaching sequence with answers
 
@@ -83,4 +85,5 @@ The [translated examples](language-examples.md) explain each sentence’s constr
 5. **Read across the family.** Recognize Hamarvar kelarom, Dravvar keler, Nattvar kelau and Solvar kelu as case/number forms according to their tables. Translate **Se du karne da kel?** from Nattvar into Korvar: **Karne du da kel?**
 6. **Produce a connected text.** Describe a home, an ordinary need, one material observation and a request. Check each content word in the dictionary, each preposition's case, the finite verb position and the source of any uncertainty claim. The examples provide models for practice.
 
-For more practice, use the [translated examples](language-examples.md) alongside the [dictionary](https://andeleidun.github.io/test-fantasy-world/dictionary.html).
+For more practice, use the [translated examples](https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view?usp=drivesdk) alongside the [dictionary](https://drive.google.com/file/d/19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP/view).
+

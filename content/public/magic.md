@@ -1,5 +1,7 @@
 # Magic in everyday life
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Familiar, useful and uncommon
 
 Magic is a recognized part of life across the inhabited worlds. People may know a local healer, travel beneath an old ward or carry a charm made for a particular journey. A master performing a great working is still an event people remember for the rest of their lives.
@@ -8,7 +10,7 @@ Most needs are met through ordinary skill, labor and tools. Guards deal with dan
 
 ## A practiced relationship
 
-Practitioners describe magic through many traditions, but all known forms are connected to the **Otherworld**. Magic responds to the person using it, the intended effect and the relationships among people, objects and places. Physical distance still matters. Familiarity, shared history or a carefully prepared anchor can make a distant person or place easier to reach.
+Practitioners explain magic through many traditions, often associating it with the Otherworld. Those explanations do not give an ordinary observer a complete account of its mechanism. Magic responds to the person using it, the intended effect and the relationships among people, objects and places. Physical distance still matters. Familiarity, shared history or a carefully prepared anchor can make a distant person or place easier to reach.
 
 Magic is learned through practice as much as explanation. Words, gestures, diagrams, materials, music, movement, prayer, craft and trained intuition may all have a place in different traditions. A spell is a taught way of giving an effect a repeatable shape. Other practices may rely more heavily on an individual relationship with a landscape, living system, spirit or material.
 
@@ -32,7 +34,10 @@ The most familiar services are practical: stopping bleeding, supporting recovery
 
 Magic can reduce hardship without removing it. Disease, distance, secrecy, imprisonment, inequality, warfare, aging and grief remain consequential because magical help is limited by skill, access, risk, time and compatibility. Death is not an ordinary reversible condition.
 
-- [Practitioners and magical work](magic-practice.md)
-- [Enchantments, heirlooms and artifacts](enchanted-objects.md)
-- [The Otherworld and living worlds](otherworld.md)
-- [Familiars and shapeshifting](familiar-magic.md)
+- [Practitioners and magical work](https://drive.google.com/file/d/1XOVcYDKO4KRk41tpcT7-6gyv9oPDvibK/view?usp=drivesdk)
+- [Enchantments, heirlooms and artifacts](https://drive.google.com/file/d/1SGwJBymd5pJK_pll700eU1V76M4gRhXt/view?usp=drivesdk)
+- [The Otherworld and living worlds](https://drive.google.com/file/d/1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb/view?usp=drivesdk)
+- [Familiars and shapeshifting](https://drive.google.com/file/d/1bDC2NWm2-WbTd_66obQk2anXBMPUj9aQ/view?usp=drivesdk)
+
+
+

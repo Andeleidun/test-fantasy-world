@@ -1,4 +1,7 @@
 
+
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 The following is the complete productive teaching grammar for this edition. Unmarked constructions follow these rules. Regional profiles override only the rules they explicitly replace. Regularity belongs partly to the interregional standard and its teaching tradition; it does not imply that all historical speech was exception-free.
 
 ## Noun phrases and reference

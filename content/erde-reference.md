@@ -1,5 +1,7 @@
 ## Purpose
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 This working record preserves approved fictional population histories and distinguishes them from alternatives and empirical scientific evidence. “Simulation” here means a constrained scenario, not a numerical evolutionary or climate prediction. Document 38 records the scientific corrections. Proposal 4’s geographic frame controls every ecological claim; Earth place names and inherited north/south labels remain reference-map notation unless explicitly transformed.
 
 ## Approved governing decisions

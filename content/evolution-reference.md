@@ -1,5 +1,7 @@
 Purpose
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 This document explains how the established physical parameters can produce the present biosphere, dwarven genus, and underground civilization. It is a causal synthesis rather than a second authority list. Where it differs from the numbered canon ledger, the canon ledger governs.
 
 ## Scientific framing

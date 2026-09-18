@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "snapshotDate": "2026-09-14",
+  "historicalPublicFiles": ["erde.md", "dverghamar.md", "merenval.md", "stellar-system-reference.md", "merenval-reference.md", "elves.md", "gnomes.md", "orcs.md", "jotuns.md", "hamarkorar.md", "thals.md", "otherworld.md", "magic.md", "magic-practice.md", "enchanted-objects.md", "korvar.md", "erde-atlas.md", "dverghamar-atlas.md", "erde-reference.md", "dverghamar-reference.md", "familiar-magic.md", "evolution-reference.md", "cosmology-reference.md", "language-foundation.md", "language-grammar.md", "language-materials.md", "language-family.md", "language-writing.md", "language-examples.md", "map-methods.md", "wildlife-questions.md"],
+  "scopeStatus": "Historical research snapshot; current publication eligibility and imports are governed by content/public-sync.json.",
   "level": 3,
   "status": "authorial",
   "scope": {

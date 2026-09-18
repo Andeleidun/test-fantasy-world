@@ -1,250 +1,299 @@
 [
   {
-    "id": "erde",
-    "title": "Erde",
+    "id": "README",
+    "title": "Public — Cultural Knowledge",
+    "category": "reference",
+    "description": "Documents; Data and indexes",
+    "kind": "Public index",
+    "file": "README.md"
+  },
+  {
+    "id": "cosmology-reference",
+    "title": "Spiritual practice, communion and beliefs about the dead",
+    "category": "cosmology",
+    "description": "What a practitioner can encounter; Preparing communion; Welcome, refusal and obligation; Households and ancestors; Limits of testimony",
+    "kind": "Public cultural guide",
+    "file": "cosmology-reference.md"
+  },
+  {
+    "id": "dverghamar-atlas",
+    "title": "Dverghamar: public atlas guide",
+    "category": "maps",
+    "description": "Scope of this guide; D1 · Day, night and twilight; D2 · Landscape contrasts; D3 · Habitats and passages; D4 · Water in the landscape; D5 · Mountain homes; D6 · Dwarven habitats; D7 · Settlement and countryside; D8 · Lakes and isolated refuges",
+    "kind": "Public cultural guide",
+    "file": "dverghamar-atlas.md"
+  },
+  {
+    "id": "dverghamar-reference",
+    "title": "Dverghamar: landscapes and settlement life",
     "category": "worlds",
-    "description": "The lands, human and hobbit peoples, and regional histories of Erde.",
-    "kind": "World guide",
-    "file": "erde.md"
+    "description": "Rock and relief; The twilight provinces; Water and food; Homes inside rock; Neighbors and journeys",
+    "kind": "Public cultural guide",
+    "file": "dverghamar-reference.md"
   },
   {
     "id": "dverghamar",
     "title": "Dverghamar",
     "category": "worlds",
-    "description": "Permanent day and night, twilight ecosystems and homes within the mountains.",
-    "kind": "World guide",
+    "description": "Permanent day, night and twilight; Rivers, lakes and homes; Peoples",
+    "kind": "Public cultural guide",
     "file": "dverghamar.md"
-  },
-  {
-    "id": "merenval",
-    "title": "Merenval and its living companion",
-    "category": "worlds",
-    "description": "Two inhabited terrestrial worlds with complementary climates, shared life and distinct spirits.",
-    "kind": "World guide",
-    "file": "merenval.md"
-  },
-  {
-    "id": "stellar-system-reference",
-    "title": "The three-star system",
-    "category": "worlds",
-    "description": "How Erde, Merenval and Dverghamar share one selected 4.54-billion-year system awaiting physical validation.",
-    "kind": "System reference",
-    "file": "stellar-system-reference.md"
-  },
-  {
-    "id": "merenval-reference",
-    "title": "Merenval: planetary and demographic reference",
-    "category": "worlds",
-    "description": "Physical values, tides, terrain, shared life and the Elven population reconstruction.",
-    "kind": "World reference",
-    "file": "merenval-reference.md"
   },
   {
     "id": "elves",
     "title": "Elven peoples and traditions",
     "category": "peoples",
-    "description": "Four traditions, three magical approaches and one braided population across two worlds.",
-    "kind": "People guide",
+    "description": "One people across two worlds; Four traditions, three approaches; Sylvans of Merenval; Peoples of the companion; Dorrenath and the Wayroots",
+    "kind": "Public cultural guide",
     "file": "elves.md"
-  },
-  {
-    "id": "gnomes",
-    "title": "Gnomes",
-    "category": "peoples",
-    "description": "Fungal-looking people whose cultivated homes, defenses and long lives remain grounded in biology.",
-    "kind": "People guide",
-    "file": "gnomes.md"
-  },
-  {
-    "id": "orcs",
-    "title": "Orcs",
-    "category": "peoples",
-    "description": "Diverse surface societies and the travel bias behind their narrow off-world reputation.",
-    "kind": "People guide",
-    "file": "orcs.md"
-  },
-  {
-    "id": "jotuns",
-    "title": "The Jotun",
-    "category": "peoples",
-    "description": "A provisional cold-mountain giant people shaped by strong gravity and productive refuge landscapes.",
-    "kind": "People guide",
-    "file": "jotuns.md"
-  },
-  {
-    "id": "hamarkorar",
-    "title": "The Hamarkorar",
-    "category": "peoples",
-    "description": "A diversified native dwarven genus, shaped by stone, climate and a six-limbed ancestry.",
-    "kind": "World guide",
-    "file": "hamarkorar.md"
-  },
-  {
-    "id": "thals",
-    "title": "The Thals",
-    "category": "peoples",
-    "description": "An ancient human lineage of Erde whose descendants found refuge on Dverghamar.",
-    "kind": "World guide",
-    "file": "thals.md"
-  },
-  {
-    "id": "otherworld",
-    "title": "The Otherworld and living worlds",
-    "category": "cosmology",
-    "description": "Crossings, spirits, souls and the continuing relationships that sustain planetary personhood.",
-    "kind": "World guide",
-    "file": "otherworld.md"
-  },
-  {
-    "id": "magic",
-    "title": "Magic in everyday life",
-    "category": "cosmology",
-    "description": "How people encounter, learn and rely on magic without leaving ordinary work and danger behind.",
-    "kind": "Magic guide",
-    "file": "magic.md"
-  },
-  {
-    "id": "magic-practice",
-    "title": "Practitioners and magical work",
-    "category": "cosmology",
-    "description": "Training, specialized work, healing, information, travel and the place of practitioners in society.",
-    "kind": "Magic guide",
-    "file": "magic-practice.md"
   },
   {
     "id": "enchanted-objects",
     "title": "Enchantments, heirlooms and artifacts",
     "category": "cosmology",
-    "description": "Everyday enchanted goods, maintenance, accumulated history and the emergence of artifacts.",
-    "kind": "Magic guide",
+    "description": "Magic prepared in advance; Objects in ordinary life; Charges, wear and repair; Objects shaped by use; How artifacts emerge; Spiritual objects and ethical limits",
+    "kind": "Public cultural guide",
     "file": "enchanted-objects.md"
   },
   {
-    "id": "korvar",
-    "title": "Korvar and the language family",
-    "category": "language",
-    "description": "A common linguistic foundation with five regional traditions and literal, productive roots.",
-    "kind": "World guide",
-    "file": "korvar.md"
-  },
-  {
     "id": "erde-atlas",
-    "title": "Maps of Erde",
+    "title": "Erde: public atlas guide",
     "category": "maps",
-    "description": "Five sheets explore orientation, latitude, relief, ancestry and regional contact.",
-    "kind": "Atlas",
+    "description": "Scope of this guide; E1 · Lands and seas; E2 · Latitude and landscape; E3 · Relief and passages; E4 · Ancestry and dispersal; E5 · Regional contact",
+    "kind": "Public cultural guide",
     "file": "erde-atlas.md"
   },
   {
-    "id": "dverghamar-atlas",
-    "title": "Maps of Dverghamar",
-    "category": "maps",
-    "description": "Eight sheets explore twilight geometry, water, habitats and underground settlement.",
-    "kind": "Atlas",
-    "file": "dverghamar-atlas.md"
+    "id": "erde-history-full-reference",
+    "title": "Erde: detailed regional history and magical institutions",
+    "category": "reference",
+    "description": "Chronology and ancestry; Great Watersheds watershed resilience, hostile containment, and hydrological magic; Weaponized rivers and the delayed maritime bypass; Contested hydromantic authority, exceptional masters, and the coastal ocean bypass; Volcanic Hinge divided contact, refuge networks, and volcanic foresight; Civic observatories, specialist override, and mixed maritime populations; Highland Spine relay, vertical ecology, and high-altitude magic; Highland Spine refuge houses, layered altitude magic, and demographic zones; Equatorial Basin headwater contact, distributed continuity, and living-system magic; Equatorial Basin river-garden houses, kinship magic, and Highland Spine contact zones",
+    "kind": "Public cultural guide",
+    "file": "erde-history-full-reference.md"
   },
   {
     "id": "erde-reference",
     "title": "Erde: peoples and regional histories",
     "category": "worlds",
-    "description": "Deep ancestry, regional communities, contact and learned magical traditions.",
-    "kind": "History",
+    "description": "Deep ancestry; Early continental settlement; Contact and successor communities; Great Watersheds; Volcanic Hinge; Highland Spine; Equatorial Basin; Learned traditions and individual lives",
+    "kind": "Public cultural guide",
     "file": "erde-reference.md"
   },
   {
-    "id": "dverghamar-reference",
-    "title": "Dverghamar: climate, geology and settlement",
+    "id": "erde",
+    "title": "Erde",
     "category": "worlds",
-    "description": "The physical world, its food web and the landscapes supporting underground homes.",
-    "kind": "World reference",
-    "file": "dverghamar-reference.md"
-  },
-  {
-    "id": "familiar-magic",
-    "title": "Familiars and shapeshifting",
-    "category": "cosmology",
-    "description": "Mutual bonds, learned forms, bodily repair and the limits of transformation.",
-    "kind": "Magic reference",
-    "file": "familiar-magic.md"
+    "description": "The lands of Erde; Peoples and deep history; Landscapes and learned magic; The Thal departure; Further reading",
+    "kind": "Public cultural guide",
+    "file": "erde.md"
   },
   {
     "id": "evolution-reference",
-    "title": "Native dwarven evolutionary history",
+    "title": "Dwarven natural history",
     "category": "peoples",
-    "description": "From early aquatic life to six limbs, four arms and the diversified Hamarkorar.",
-    "kind": "Natural history",
+    "description": "Native descent; A six-limbed ancestry; Diversification and habitat; Care, learning and later history",
+    "kind": "Public cultural guide",
     "file": "evolution-reference.md"
   },
   {
-    "id": "cosmology-reference",
-    "title": "Spirits, souls and living worlds",
+    "id": "familiar-magic",
+    "title": "Familiars and shapeshifting in practice",
     "category": "cosmology",
-    "description": "Crossings, afterlife domains, planetary awareness and the relationships sustaining them.",
-    "kind": "Cosmology reference",
-    "file": "cosmology-reference.md"
+    "description": "A mutual relationship; Learning to change; Mastery and endurance; Injury and recovery; Clothing and equipment",
+    "kind": "Public cultural guide",
+    "file": "familiar-magic.md"
+  },
+  {
+    "id": "gnomes-full-reference",
+    "title": "Gnomes: homes, households and remembrance",
+    "category": "reference",
+    "description": "Cultivated homes; Bonding and feasts; Elders and memorial places; Gardens and visitors; Neighbors",
+    "kind": "Public cultural guide",
+    "file": "gnomes-full-reference.md"
+  },
+  {
+    "id": "gnomes",
+    "title": "Gnomes",
+    "category": "peoples",
+    "description": "Appearance and home; Living homes and families; Continuity and remembrance",
+    "kind": "Public cultural guide",
+    "file": "gnomes.md"
+  },
+  {
+    "id": "goblins",
+    "title": "Goblins: a comparative natural history",
+    "category": "peoples",
+    "description": "The name and its difficulties; Affinities with humankind; Changeable form; Habitations and recurring forms; Strange passages; Descent, mixture and fertility; Mind, society and moral character; The green Alchemical lineage; Limits of the present account",
+    "kind": "Public cultural guide",
+    "file": "goblins.md"
+  },
+  {
+    "id": "hamarkorar",
+    "title": "The Hamarkorar",
+    "category": "peoples",
+    "description": "People of the great rock masses; Four arms and two legs; Related peoples in different habitats; Adaptation and senses; Care and households; Household life and material knowledge",
+    "kind": "Public cultural guide",
+    "file": "hamarkorar.md"
+  },
+  {
+    "id": "jotuns-full-reference",
+    "title": "Jotun societies and their reputations",
+    "category": "reference",
+    "description": "Mountain belonging; Authority and difference; Atrocity and exaggeration; Open details",
+    "kind": "Public cultural guide",
+    "file": "jotuns-full-reference.md"
+  },
+  {
+    "id": "jotuns",
+    "title": "The Jotun",
+    "category": "peoples",
+    "description": "Mountain people; Homes and journeys; Different reputations",
+    "kind": "Public cultural guide",
+    "file": "jotuns.md"
+  },
+  {
+    "id": "korvar",
+    "title": "Korvar and the language family",
+    "category": "language",
+    "description": "Shared speech, regional traditions; Literal roots with distinct jobs; Reading and speaking Korvar; Explore the language; Reference data",
+    "kind": "Public cultural guide",
+    "file": "korvar.md"
+  },
+  {
+    "id": "language-examples",
+    "title": "Korvar in use",
+    "category": "language",
+    "description": "Reading the examples",
+    "kind": "Public cultural guide",
+    "file": "language-examples.md"
+  },
+  {
+    "id": "language-family",
+    "title": "Five regional languages",
+    "category": "language",
+    "description": "A shared history; Five regional traditions; What the languages share; Ordered sound rules; Complete grammatical overrides; Parallel sample: shared content, real differences; Learning the shared standard; Productive naming",
+    "kind": "Public cultural guide",
+    "file": "language-family.md"
   },
   {
     "id": "language-foundation",
     "title": "Identity, sounds and word formation",
     "category": "language",
-    "description": "People-names, pronunciation, literal roots and the formation of new words.",
-    "kind": "Language reference",
+    "description": "Names and belonging; Language in daily life; Phonemes and reader spelling; Word boundaries and literal compounds; Habitats and usage",
+    "kind": "Public cultural guide",
     "file": "language-foundation.md"
   },
   {
     "id": "language-grammar",
     "title": "The common grammar",
     "category": "language",
-    "description": "Nouns, verbs, questions and sentence patterns in shared Korvar.",
-    "kind": "Language reference",
+    "description": "Noun phrases and reference; Verbs, time, aspect and voice; Clause order, questions and negation; Dependent clauses and connective meanings; Space, comparison, quantities and measurement; Register and evidence",
+    "kind": "Public cultural guide",
     "file": "language-grammar.md"
   },
   {
     "id": "language-materials",
     "title": "Stone and material vocabulary",
     "category": "language",
-    "description": "Words for grain, texture, rock, soil, construction and care.",
-    "kind": "Language reference",
+    "description": "Describing a material; A field encounter; Loose earth and soil; Geological distribution; Productive rock, stone, crag and hammer words; Industry and measurement; Household and care vocabulary; Breadth beyond industry",
+    "kind": "Public cultural guide",
     "file": "language-materials.md"
-  },
-  {
-    "id": "language-family",
-    "title": "Five regional languages",
-    "category": "language",
-    "description": "Shared ancestry and distinctive sounds, inflections and everyday speech.",
-    "kind": "Language reference",
-    "file": "language-family.md"
   },
   {
     "id": "language-writing",
     "title": "Writing, numbers and everyday use",
     "category": "language",
-    "description": "Stavmark signs, counting, measurements, greetings and reading practice.",
-    "kind": "Language reference",
+    "description": "Stavmark, the writing system; Spoken numerals and quantities; Time, units and industrial records; Names, courtesy and acquisition; Two connected reading passages; A small teaching sequence with answers",
+    "kind": "Public cultural guide",
     "file": "language-writing.md"
   },
   {
-    "id": "language-examples",
-    "title": "Korvar in use",
-    "category": "language",
-    "description": "Ninety-eight translated examples, including everyday exchanges and connected passages.",
-    "kind": "Language reference",
-    "file": "language-examples.md"
+    "id": "magic-practice",
+    "title": "Practitioners and magical work",
+    "category": "cosmology",
+    "description": "Discovering an affinity; Training and specialization; Healing, protection and practical work; Messages, scrying and testimony; Travel and movement; Law, reputation and power",
+    "kind": "Public cultural guide",
+    "file": "magic-practice.md"
+  },
+  {
+    "id": "magic",
+    "title": "Magic in everyday life",
+    "category": "cosmology",
+    "description": "Familiar, useful and uncommon; A practiced relationship; What people notice; Cost and recovery; Magic people commonly seek",
+    "kind": "Public cultural guide",
+    "file": "magic.md"
   },
   {
     "id": "map-methods",
-    "title": "Reading the atlas",
+    "title": "Reading public atlas descriptions",
     "category": "maps",
-    "description": "Coordinates, scales and the meaning of schematic landscapes.",
-    "kind": "Atlas guide",
+    "description": "Scope and status; Geography and illustration; Habitat and community; Historical time; Using the index",
+    "kind": "Public cultural guide",
     "file": "map-methods.md"
   },
   {
-    "id": "wildlife-questions",
-    "title": "Habitats and wildlife",
+    "id": "merenval-reference",
+    "title": "Merenval: landscapes, travel and communities",
+    "category": "worlds",
+    "description": "Seas and coasts; Plateaus, pillars and caverns; Elven traditions and exchange; Natural history and remembered journeys; Dorrenath",
+    "kind": "Public cultural guide",
+    "file": "merenval-reference.md"
+  },
+  {
+    "id": "merenval",
+    "title": "Merenval and its living companion",
+    "category": "worlds",
+    "description": "Two inhabited worlds; Related life, different landscapes; Peoples",
+    "kind": "Public cultural guide",
+    "file": "merenval.md"
+  },
+  {
+    "id": "orcs",
+    "title": "Orcs",
     "category": "peoples",
-    "description": "The established ecological communities and the organisms still taking shape.",
-    "kind": "Natural history",
+    "description": "Ancestry and body; Strength and agreed terms; Two worlds",
+    "kind": "Public cultural guide",
+    "file": "orcs.md"
+  },
+  {
+    "id": "otherworld",
+    "title": "The Otherworld in human stories and reports",
+    "category": "cosmology",
+    "description": "A name for unfamiliar places; Fay, courts and dangerous hospitality; Dragons and other beings; Time, loss and return; Sacred trees and ancestral stories",
+    "kind": "Public cultural guide",
+    "file": "otherworld.md"
+  },
+  {
+    "id": "people-beliefs-and-boundaries",
+    "title": "Public persons, beliefs, and dangerous boundaries",
+    "category": "reference",
+    "description": "Public office and religious claims; Belief and interpretation; The Howling Void in warnings and belief",
+    "kind": "Public cultural guide",
+    "file": "people-beliefs-and-boundaries.md"
+  },
+  {
+    "id": "stellar-system-reference",
+    "title": "The worlds and their skies",
+    "category": "worlds",
+    "description": "Local suns; Different experiences of light; Observation and calendars",
+    "kind": "Public cultural guide",
+    "file": "stellar-system-reference.md"
+  },
+  {
+    "id": "thals",
+    "title": "The Thals",
+    "category": "peoples",
+    "description": "From Erde to Dverghamar; Mountain refuge life; Neighbors and continuity",
+    "kind": "Public cultural guide",
+    "file": "thals.md"
+  },
+  {
+    "id": "wildlife-questions",
+    "title": "Dverghamar: habitats and wildlife",
+    "category": "peoples",
+    "description": "Lit and watered country; Native animals; Lakes and shorelines; Hot margins and dark country; Caves and settlements; Open public descriptions",
+    "kind": "Public cultural guide",
     "file": "wildlife-questions.md"
   }
 ]
+

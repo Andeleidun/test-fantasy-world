@@ -1,33 +1,19 @@
 # Merenval and its living companion
 
-## Two inhabited worlds in one close orbit
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-Merenval and its smaller companion circle a common point in space. Their three-star system has a selected shared age of approximately 4.54 billion years. Erde's chronology governs the system, and Dverghamar follows the same coeval timeline. The companion is massive enough that their shared center lies outside Merenval, making them an unequal pair of terrestrial worlds rather than an ordinary planet and tiny moon.
+## Two inhabited worlds
 
-Merenval is close to Erde in mass, radius and surface gravity. The companion has about one quarter of Erde's mass, a radius near 4,380 kilometres and surface gravity near 0.53 g. They remain roughly 375,000 kilometres apart and orbit one another in about 23.2 Erden days.
+Merenval and its smaller inhabited companion share a prominent place in one another’s skies. Merenval’s landscapes are strongly maritime: connected seas, forests, wetlands, islands and rivers. The companion has more extensive land, broad plateaus, separated seas and striking cavern and pillar country.
 
-## Water world and continent world
+Long days and slowly changing tides shape life around the pair. Visitors to the companion experience lighter weight. The public guide describes these broad experiences without giving orbital, atmospheric or tidal parameters.
 
-Merenval is about 68% ocean. Its connected seas, forests, wetlands, islands and river systems help moderate its long days. The working atmosphere is about 1.4 bar and mostly nitrogen, with oxygen partial pressure near 0.21 bar.
+## Related life, different landscapes
 
-The companion reverses the balance: about 68% land, a few separated deep seas and a denser atmosphere near 1.75 bar. Great plateaus, inland seas, rain shadows and monsoonal margins divide its landscapes. Lower gravity and dense air make gliding and powered flight unusually favorable.
+Life on the two worlds has broad ancestral affinities. Natural-history comparisons can consider similarities and long separation without establishing the precise transfer history. Resemblance does not guarantee that a foreign organism is safe to eat or useful to cultivate.
 
-Both worlds are intended to rotate almost, but not exactly, in step with their mutual orbit. The resulting slow-moving tides can act like long ocean seasons. Exact spins, coast-level tides and regional climates remain subjects for physical modeling.
+## Peoples
 
-## Shared life and distinct spirits
+Forest and Maritime/Littoral Sylvan traditions are associated with Merenval. Crystalline/High and Deep/Star traditions are associated with the companion. They remain Elven peoples with shared ancestry and continuing contact, not four separate biological kinds.
 
-The two worlds share an ancient tree of life, probably through rock ejected by early impacts. They have nevertheless evolved separately for billions of years. Shared chemistry makes some later ecological exchange possible without making organisms automatically safe or useful on the other world.
-
-Each world has its own mature planetary spirit. Calling the companion a moon does not make its life or spirit subordinate to Merenval.
-
-## The peoples of the pair
-
-Elves originated on Merenval. Forest and Maritime/Littoral Sylvans remain closely connected across its living landscapes. The companion's Crystalline/High and Deep/Star traditions descend from a colonization beginning roughly 84,000 years ago. All remain parts of one fully interfertile Elven population network.
-
-The companion also sustains Gnome communities in fungal and cavern ecologies and Orc societies across a wide range of surface environments.
-
-- [Merenval's physical reference](merenval-reference.md)
-- [Elven traditions](elves.md)
-- [Gnomes](gnomes.md)
-- [Orcs](orcs.md)
-- [The three-star system](stellar-system-reference.md)
+Gnome communities cultivate living homes in the companion’s fungal and cavern landscapes. Orc cities, farms, river communities, pastoral networks and other societies occur across the pair. Calling the companion a moon does not make its peoples subordinate.

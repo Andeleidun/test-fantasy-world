@@ -1,5 +1,7 @@
 # Erde: identity and naming direction
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 ## Established direction
 
 Erde is the primary world of its inhabitants. They call it Erde. Its peoples, societies, countries and histories arise within that world; Earth geography is an authorial reference, not their identity or their past.

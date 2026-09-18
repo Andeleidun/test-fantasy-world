@@ -84,7 +84,7 @@ sarn	N	sand-sized loose grains	material		Shared technical register may attach ex
 silm	N	silt-sized loose mineral grains	material		
 lem	N	clay-rich fine earth with stated plastic behavior	material		Field category; not every clay swells.
 grust	N	gravel; loose small stones	material		
-skel	N	shell; enclosing shell-like layer	care		Use qualified terms to distinguish egg and nursery casing.
+skel	N	shell; enclosing shell-like layer	care		Qualify the term when the kind of enclosing layer matters.
 esk	N	ash-sized particulate deposit	material		Context distinguishes volcanic and combustion ash.
 jörm	N	biologically active soil used by rooted producers	food		Does not assert terrestrial soil organisms.
 slik	N	wet deposited sediment; mud slurry	material		
@@ -186,13 +186,8 @@ bern	N	internal skeletal support element	body		No human mineral chemistry assert
 brol	N	circulating nutritive/respiratory fluid	body		Does not fix pigment.
 hjar	N	pumping circulatory organ	body		Detailed respiratory/circulatory anatomy remains open.
 lun	N	gas-exchange organ in a broad functional translation	body		Not a claim of human lung microanatomy.
-egg	N	true reproductive egg	care		Separate from the constructed nursery.
-egghul	N	egg membrane	care	egg+hul	
-eggskel	N	egg's own shell	care	egg+skel	
-nerskel	N	constructed protective brood casing	care	ner+skel	Not the egg shell.
-nerpor	N	managed ventilation pore in a brood casing	care	ner+por	
-nerstal	N	structural framework of a brood casing	care	ner+stal	
-neret	N	dedicated incubation/care site	care	ner+-et	Lexicalized place derivation.
+egg	N	egg	care		Ordinary lexical meaning; no sapient reproductive model is specified here.
+neret	N	dedicated care site; nursery	care	ner+-et	Lexicalized place derivation.
 rinn	N	reproductive parent	care		Sex or reproductive role can be specified without assuming household structure.
 rukkor	N	caregiver responsible for protection and maintenance	care	ruk+kor	Care role; distinct from the verb veren, become.
 selkor	N	person providing nourishment	care	sel+kor	
@@ -473,8 +468,8 @@ rundrak	N	rounded stone	material	rund+rak	Shape alone does not prove river trans
 kantrak	N	angular rock piece	material	kant+rak	Shape category; source history needs evidence.
 gladrak	N	smooth-surfaced stone	material	glad+rak	
 rögrak	N	rough-surfaced stone	material	rög+rak	
-holrak	N	rock enclosing a cavity	material	hol+rak	A natural geode may fit; not automatically a brood casing.
-holkrisrak	N	cavity-bearing rock with internal crystals	material	hol+kris+rak	Literal natural-geode descriptor; nursery construction is distinct.
+holrak	N	rock enclosing a cavity	material	hol+rak	A descriptive material term; intended use is a separate question.
+holkrisrak	N	cavity-bearing rock with internal crystals	material	hol+kris+rak	A descriptive material term; intended use is a separate question.
 sarnrak	N	rock composed of cemented sand-sized grains	material	sarn+rak	Sandstone-like field class; cement and composition vary.
 silmrak	N	rock dominated by silt-sized grains	material	silm+rak	Siltstone-like field class.
 lemrak	N	clay-rich mudrock	material	lem+rak	Swelling behavior and layering require separate terms.
@@ -516,7 +511,6 @@ flakmen	N	thin-splitting stone selected for slabs or plates	industry	flak+men
 tekkmen	N	stone selected for roofing	industry	tekk+men	engineering grade must be specified.
 stalmen	N	stone selected for a supporting structure	industry	stal+men	A purpose designation, not certified load capacity.
 silmen	N	stone selected as a filter medium	industry	sil+men	Pore size, chemistry and service conditions require testing.
-nermen	N	stone selected for brood-nursery construction	care	ner+men	Requires species-specific suitability and physical design; not embryo food.
 porig	ADJ	containing pores	property	por+-ig	Does not imply connected pores.
 rissig	ADJ	containing cracks	property	riss+-ig	
 salig	ADJ	containing mineral salt	property	sal+-ig	Coined literal Dwarven sense, unrelated to similar Earth words.
@@ -534,9 +528,6 @@ lutbytek	N	heat-exchange device	industry	lut+byt+-ek	Conventional bounded result
 lutröl	N	heat-transfer pipe	industry	lut+röl	
 skelmveg	N	rail route	travel	skelm+veg	
 luftväv	N	porous framework distributing air	industry	luft+väv	May use cellular geometry; does not imply every opening is hexagonal.
-nersil	N	filter element serving a nursery casing	care	ner+sil	
-eggkel	N	compartment containing the true egg within a nursery	care	egg+kel	
-selröl	N	feeding conduit in a nursery apparatus	care	sel+röl	An engineered channel, not assumed native feeding anatomy.
 ljuskel	N	chamber admitting or supplied with light	food	ljus+kel	Specify source; not necessarily electrically lit.
 rötkel	N	tuber-growing or tuber-storage chamber, qualified by context	food	röt+kel	Growing requires lit producer surfaces; storage does not.
 sombkel	N	fungal-crop chamber	food	somb+kel	Requires organic substrate; fungi do not create free calories.

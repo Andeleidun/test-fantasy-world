@@ -1,5 +1,7 @@
 # Dverghamar source synchronization and validation
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 Date: 7 September 2026. Starting repository revision: `a8f7e6ab873d2dd109bde088d1962e39d1d59ebf`.
 
 ## Source order and scope

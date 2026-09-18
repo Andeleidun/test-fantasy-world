@@ -1,19 +1,27 @@
-# Maps of Erde
+# Erde: public atlas guide
 
-## Erde in five views
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-The atlas shows Erde’s lands and seas, broad latitude zones, mountain passages, ancestral dispersal and regional contact. Each sheet explores a different relationship between the land and the lives of its inhabitants.
+## Scope of this guide
 
-Regional maps show broad patterns rather than surveyed boundaries. Migration routes summarize movement over long periods, and a shared ancestral history does not make every community along a route one people. The contact sheet depicts about five thousand years before Erde’s present; the dispersal sheet includes much older movements.
+These are public geographic subjects and reading notes. The earlier detailed SVG sheets have not been revised to the new knowledge boundary and are not linked as part of this edition. This page is not a replacement drawing or a surveyed map.
 
-All five sheets use an equal-area view, keeping the relative sizes of land and sea consistent from the equator to the poles. Shapes are balanced across the world, with some distortion near the map’s edges.
+## E1 · Lands and seas
 
-Open any sheet for a full-size view. [Reading the atlas](map-methods.md) explains the scale, symbols and limits of each kind of map.
+Continental land, seas and broad coastlines. Local shorelines require regional description.
 
-## Map sheets
+## E2 · Latitude and landscape
 
-- [E1 · Lands and seas](../../assets/maps/erde-lands-and-seas.svg): The view shows the distribution of land and water. Local shorelines and geographic boundaries require more detailed regional maps.
-- [E2 · Latitude zones](../../assets/maps/erde-latitude-zones.svg): Latitude helps explain climatic contrasts, but rainfall, vegetation and ice also depend on relief, circulation and local conditions.
-- [E3 · Relief and passages](../../assets/maps/erde-relief-and-passages.svg): Mountain lines locate broad barriers and connections. They do not supply surveyed elevations or the detailed course of every valley.
-- [E4 · Ancestry and dispersal](../../assets/maps/erde-ancestry-and-dispersal.svg): Arrows combine movements from different periods. Shared ancestry and overlapping routes do not establish one culture or a political boundary.
-- [E5 · Regional contact](../../assets/maps/erde-regional-contact.svg): The Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin retain self-sustaining networks. Coastal and mountain-rim communities continue through mixed successors.
+Broad contrasts of latitude, relief and local environment; no numerical climate model.
+
+## E3 · Relief and passages
+
+Mountains, valleys, coastal approaches and island passages that shape movement.
+
+## E4 · Ancestry and dispersal
+
+Broad shared descent and movement between habitats; no precise divergence chronology or calculated genealogy.
+
+## E5 · Regional contact
+
+Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.

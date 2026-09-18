@@ -685,7 +685,7 @@
     "meaning": "shell; enclosing shell-like layer",
     "domain": "care",
     "parts": "",
-    "notes": "Use qualified terms to distinguish egg and nursery casing."
+    "notes": "Qualify the term when the kind of enclosing layer matters."
   },
   {
     "lemma": "esk",
@@ -1498,55 +1498,15 @@
   {
     "lemma": "egg",
     "pos": "N",
-    "meaning": "true reproductive egg",
+    "meaning": "egg",
     "domain": "care",
     "parts": "",
-    "notes": "Separate from the constructed nursery."
-  },
-  {
-    "lemma": "egghul",
-    "pos": "N",
-    "meaning": "egg membrane",
-    "domain": "care",
-    "parts": "egg+hul",
-    "notes": ""
-  },
-  {
-    "lemma": "eggskel",
-    "pos": "N",
-    "meaning": "egg's own shell",
-    "domain": "care",
-    "parts": "egg+skel",
-    "notes": ""
-  },
-  {
-    "lemma": "nerskel",
-    "pos": "N",
-    "meaning": "constructed protective brood casing",
-    "domain": "care",
-    "parts": "ner+skel",
-    "notes": "Not the egg shell."
-  },
-  {
-    "lemma": "nerpor",
-    "pos": "N",
-    "meaning": "managed ventilation pore in a brood casing",
-    "domain": "care",
-    "parts": "ner+por",
-    "notes": ""
-  },
-  {
-    "lemma": "nerstal",
-    "pos": "N",
-    "meaning": "structural framework of a brood casing",
-    "domain": "care",
-    "parts": "ner+stal",
-    "notes": ""
+    "notes": "Ordinary lexical meaning; no sapient reproductive model is specified here."
   },
   {
     "lemma": "neret",
     "pos": "N",
-    "meaning": "dedicated incubation/care site",
+    "meaning": "dedicated care site; nursery",
     "domain": "care",
     "parts": "ner+-et",
     "notes": "Lexicalized place derivation."
@@ -3797,7 +3757,7 @@
     "meaning": "rock enclosing a cavity",
     "domain": "material",
     "parts": "hol+rak",
-    "notes": "A natural geode may fit; not automatically a brood casing."
+    "notes": "A descriptive material term; intended use is a separate question."
   },
   {
     "lemma": "holkrisrak",
@@ -3805,7 +3765,7 @@
     "meaning": "cavity-bearing rock with internal crystals",
     "domain": "material",
     "parts": "hol+kris+rak",
-    "notes": "Literal natural-geode descriptor; nursery construction is distinct."
+    "notes": "A descriptive material term; intended use is a separate question."
   },
   {
     "lemma": "sarnrak",
@@ -4136,14 +4096,6 @@
     "notes": "Pore size, chemistry and service conditions require testing."
   },
   {
-    "lemma": "nermen",
-    "pos": "N",
-    "meaning": "stone selected for brood-nursery construction",
-    "domain": "care",
-    "parts": "ner+men",
-    "notes": "Requires species-specific suitability and physical design; not embryo food."
-  },
-  {
     "lemma": "porig",
     "pos": "ADJ",
     "meaning": "containing pores",
@@ -4278,30 +4230,6 @@
     "domain": "industry",
     "parts": "luft+väv",
     "notes": "May use cellular geometry; does not imply every opening is hexagonal."
-  },
-  {
-    "lemma": "nersil",
-    "pos": "N",
-    "meaning": "filter element serving a nursery casing",
-    "domain": "care",
-    "parts": "ner+sil",
-    "notes": ""
-  },
-  {
-    "lemma": "eggkel",
-    "pos": "N",
-    "meaning": "compartment containing the true egg within a nursery",
-    "domain": "care",
-    "parts": "egg+kel",
-    "notes": ""
-  },
-  {
-    "lemma": "selröl",
-    "pos": "N",
-    "meaning": "feeding conduit in a nursery apparatus",
-    "domain": "care",
-    "parts": "sel+röl",
-    "notes": "An engineered channel, not assumed native feeding anatomy."
   },
   {
     "lemma": "ljuskel",

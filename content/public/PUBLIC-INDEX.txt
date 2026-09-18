@@ -1,0 +1,63 @@
+﻿Public — Cultural Knowledge
+Reader-facing documentation for Andel’s Song
+
+
+This revised collection contains 37 Markdown documents, this native index and six data files. Ancestry is limited to reasonable nineteenth-century natural history; spiritual accounts to competent ordinary practitioner experience; and Otherworld accounts to average human perceptions and attributed stories. Technical models are authorial. Earlier publication does not override these limits. Eligibility, belief, fact and validation retain their separate status.
+All original project IP remains the author’s. “Public” grants no license, reuse permission, or public-domain dedication.
+
+
+Detailed cultural histories
+erde-history-full-reference.md
+
+
+Guides and language references
+orcs.md
+cosmology-reference.md
+dverghamar-atlas.md
+dverghamar-reference.md
+dverghamar.md
+elves.md
+enchanted-objects.md
+erde-atlas.md
+erde-reference.md
+erde.md
+evolution-reference.md
+familiar-magic.md
+gnomes.md
+goblins.md
+hamarkorar.md
+jotuns.md
+korvar.md
+language-examples.md
+language-family.md
+language-foundation.md
+language-grammar.md
+language-materials.md
+language-writing.md
+magic-practice.md
+magic.md
+map-methods.md
+merenval-reference.md
+merenval.md
+otherworld.md
+people-beliefs-and-boundaries.md
+stellar-system-reference.md
+thals.md
+wildlife-questions.md
+
+
+Indexes and data
+README.md
+catalog.json
+korvar-examples.tsv
+korvar-lexicon.tsv
+regional-dictionary.tsv
+lexicon.json
+maps.json
+
+
+
+
+Additional cultural references
+gnomes-full-reference.md
+jotuns-full-reference.md

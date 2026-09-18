@@ -1,5 +1,7 @@
 # Identity, sounds and word formation
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Names and belonging
 
 **Hamarkor** /ˈha.mar.kor/ is the singular general people-name; **Hamarkorar** /ˈha.mar.ko.rar/ is the plural. Together they express “people of the great rock masses.” **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
@@ -54,3 +56,4 @@ These affixes are productive constructions, not guarantees that every combinatio
 ## Habitats and usage
 
 The physical reference distinguishes a chain of illuminated refuge provinces from a uniformly wet terminator ring. River supply requires catchment runoff, glacier-outlet flow or connected groundwater; temperate terrain does not automatically receive rain. Natural carbonate, lava-tube and fracture shelters precede later excavations in competent massif rock. Thal refuge life uses compatible Erde-derived cultivation in the preferred establishment history; native foods are not automatically edible. These distinctions change no ethnonym, grammar rule, species territory or language-family assignment.
+

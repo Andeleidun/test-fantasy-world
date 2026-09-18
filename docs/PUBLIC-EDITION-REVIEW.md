@@ -1,5 +1,7 @@
 # Public edition review
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 ## Scope
 
 Reviewed the publication pipeline, all 31 public articles, dictionary and downloadable data, map captions, shared templates, themes, search, navigation, responsive reading, tests and deployment workflow. The original illustrations remain intact. This edition contains approximately 28,100 words of public Markdown, 571 lexical records, 98 translated examples and 13 atlas sheets.

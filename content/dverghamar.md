@@ -1,5 +1,7 @@
 ## A world between day and night
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 **Dverghamar** is the ordinary native planetary name. **Dvergahamrar** is its archaic or highly formal form. The world is synchronously rotating: one hemisphere faces its star while the other remains in darkness.
 
 The current working reference is a rocky planet of approximately **three Earth masses and 1.4 Earth radii**, with surface gravity near **1.53 g**. It shares System A's selected age of approximately **4.54 billion years**, governed by Erde's chronology. Its linked screening case uses a **0.50-solar-mass slow-rotating early-M star**, about **0.0379 solar luminosities**, **1.20 times Earth’s bolometric flux**, an orbit at **0.1776 AU**, and a synchronous year of **38.65 Earth days**. These are conditional physical inputs, not immutable canon. A viable time-integrated history must still explain how magma, mantle storage, escape, oxidation, impacts and outgassing leave the selected water and nitrogen-dominated secondary atmosphere after the star’s active youth.

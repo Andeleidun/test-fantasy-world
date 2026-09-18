@@ -1,5 +1,7 @@
 # Erde: peoples and regional histories
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Deep ancestry
 
 Erde’s human and hobbit peoples share a deep ancestral foundation, followed by long divergence, dispersal and contact. Separation between island populations and neighboring mainland populations is important to the later branching history. Several island, highland and pelagic hobbit lineages develop their own ways of living.
@@ -8,7 +10,7 @@ Ancient human branches likewise diverge, encounter one another and sometimes exc
 
 ## Early continental settlement
 
-An early human population reaches a connected pair of continents around **650,000–450,000 years ago**. Its descendants diversify long before later human arrivals. Mountain corridors, watershed systems, coastlines and refuges support different regional histories.
+An early human population reaches a connected pair of continents in deep antiquity. Its descendants diversify long before later human arrivals. Mountain corridors, watershed systems, coastlines and refuges support different regional histories.
 
 Five broad complexes organize the current description. The descriptions identify broad geographic and historical communities. Each contains distinct local peoples and institutions.
 
@@ -22,7 +24,7 @@ Five broad complexes organize the current description. The descriptions identify
 
 ## Contact and successor communities
 
-A later durable human founding movement occurs around **35,000–20,000 years ago** in the current historical account. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
+A later durable human founding movement occurs much later in the historical account. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
 
 Disease acts together with food shortages, social disruption and existing local stresses. Transmission is reciprocal, with different populations affected at different times. It is not a single one-way epidemic that determines every outcome.
 
@@ -64,9 +66,9 @@ Distributed river networks connect gardens, forests, headwaters and settlements.
 
 Mature practices can identify familiar toxins, infections, deficiencies, parasites and harmful ecological interactions, then support targeted treatment. Diagnosis remains fallible and unfamiliar conditions can resist treatment. Prepared living networks also carry limited signals and help practitioners follow ecological disturbances or familiar traces.
 
-Range and clarity depend on ecological continuity, preparation, familiarity and interference. This is not unrestricted telepathy or universal command of nature. Rare masters achieve exceptional interventions at substantial cost.
+Range and clarity depend on ecological continuity, preparation, familiarity and interference. Even rare masters pay a substantial cost for exceptional interventions. The practice allows neither unrestricted telepathy nor universal command of nature.
 
-Kinship with animals, plants and fungi takes many cultural and religious forms. More capable practitioners sometimes develop deep relationships with particular living beings, including magically attuned wild animals. Experimental shapeshifting begins among a few masters around five thousand years ago. Its developed rules are described in [familiars and shapeshifting](familiar-magic.md).
+Kinship with animals, plants and fungi takes many cultural and religious forms. More capable practitioners sometimes develop deep relationships with particular living beings, including magically attuned wild animals. Experimental shapeshifting begins among a few masters around five thousand years ago. Its developed rules are described in [familiars and shapeshifting](https://drive.google.com/file/d/1bDC2NWm2-WbTd_66obQk2anXBMPUj9aQ/view?usp=drivesdk).
 
 Mixed settlements concentrate in upland headwaters and major confluences. Deep-forest, river and savanna populations remain self-sustaining and connected through their own networks.
 
@@ -74,4 +76,5 @@ Mixed settlements concentrate in upland headwaters and major confluences. Deep-f
 
 Magical traditions emerge when recurring needs make observation, teaching and cooperation valuable. Biology can influence how a practice is experienced without assigning one ability to an entire people. Institutions can share techniques, disagree about authority and preserve mistakes as well as discoveries.
 
-The [Erde atlas](erde-atlas.md) places these histories in their geographic framework. Its regional contact sheet depicts roughly five thousand years before Erde’s present; dispersal arrows on other sheets may refer to much earlier periods.
+The [Erde atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) places these histories in their geographic framework. The public atlas guide distinguishes broad geography, historical contact and ancestral inference; it does not supply a precise deep-time genealogy.
+

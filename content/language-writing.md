@@ -1,4 +1,7 @@
 
+
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## Stavmark: an original practical script
 
 **Stavmark**, 'letter-mark', is the edition's working native script. Its 24 base signs cover eight vowel qualities and sixteen consonants, including one sign for ng /ŋ/. Phonemic vowel length repeats the vowel sign. The chart accompanying this handbook supplies every base sign and the two regional extensions sh and dh. These are newly designed glyphs, not copied historical runes.

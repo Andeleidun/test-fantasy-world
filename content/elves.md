@@ -1,5 +1,7 @@
 # Elven peoples and traditions
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## One people across two worlds
 
 Elves originated on Merenval and remain one fully interfertile, geographically structured population. Their history includes four major traditions: Forest Sylvan, Maritime/Littoral Sylvan, Crystalline/High and Deep/Star. These traditions are cultural and ecological histories, not species, castes or biologically fixed temperaments.

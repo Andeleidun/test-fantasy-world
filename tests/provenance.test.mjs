@@ -5,8 +5,8 @@ import { promisify } from 'node:util';
 
 const execFileAsync = promisify(execFile);
 
-test('Level 3 provenance is internally complete', async () => {
+test('historical Level 3 register is internally consistent', async () => {
   const { stdout, stderr } = await execFileAsync(process.execPath, ['scripts/validate-provenance.mjs']);
   assert.equal(stderr, '');
-  assert.match(stdout, /Validated Level 3 provenance: 8 domains, 16 authorities, 15 Otherworld source groups and 31 public files\./);
+  assert.match(stdout, /Validated historical Level 3 register: 8 domains, 16 authorities, 15 Otherworld source groups and 31 public files\./);
 });

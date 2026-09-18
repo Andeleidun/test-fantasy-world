@@ -1,3 +1,6 @@
 # Generated SVG paths retain their original spacing; TSV trailing tabs are empty fields.
 *.svg whitespace=-blank-at-eol
 *.tsv whitespace=-blank-at-eol
+
+# Public imports retain exact source bytes, including source line endings and spacing.
+content/public/** -text whitespace=-blank-at-eof,-blank-at-eol

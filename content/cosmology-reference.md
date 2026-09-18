@@ -1,5 +1,7 @@
 ## Established cosmological foundation
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 - Coherent reality exists in universe bubbles. Each universe is a stabilizing pattern embedded between the skins of unending primordial chaos and constant order.
 
 - A universe bubble is not simply a planet, solar system, or region floating inside ordinary space. It is an entire coherent reality maintained within a deeper cosmological relationship among order, chaos, and the possibility of nonexistence.

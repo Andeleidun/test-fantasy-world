@@ -186,13 +186,8 @@ bern	N	internal skeletal support element	bern	bern	bern	bern	bern
 brol	N	circulating nutritive/respiratory fluid	brol	brol	brol	brol	brol
 hjar	N	pumping circulatory organ	hjar	hjar	hjar	hjar	jar
 lun	N	gas-exchange organ in a broad functional translation	lun	lun	lun	lun	lun
-egg	N	true reproductive egg	egg	egg	egg	egk	egg
-egghul	N	egg membrane	egghul	egghul	egghul	egghul	egghul
-eggskel	N	egg's own shell	eggskel	eggshel	eggskel	eggskel	eggskel
-nerskel	N	constructed protective brood casing	nerskel	nershel	nerskel	nerskel	nerskel
-nerpor	N	managed ventilation pore in a brood casing	nerpor	nerpor	nerpor	nerpor	nerpor
-nerstal	N	structural framework of a brood casing	nerstal	nerstal	nerstal	nerstal	nerstal
-neret	N	dedicated incubation/care site	neret	neret	neret	neret	neret
+egg	N	egg	egg	egg	egg	egk	egg
+neret	N	dedicated care site; nursery	neret	neret	neret	neret	neret
 rinn	N	reproductive parent	rinn	rinn	rinn	rinn	rinn
 rukkor	N	caregiver responsible for protection and maintenance	rukkor	rukkor	rukkor	rukkor	rukkor
 selkor	N	person providing nourishment	selkor	selkor	selkor	selkor	selkor
@@ -516,7 +511,6 @@ flakmen	N	thin-splitting stone selected for slabs or plates	flakmen	flakmen	flak
 tekkmen	N	stone selected for roofing	tekkmen	tekkmen	tekkmen	tekkmen	tekkmen
 stalmen	N	stone selected for a supporting structure	stalmen	stalmen	stalmen	stalmen	stalmen
 silmen	N	stone selected as a filter medium	silmen	silmen	silmen	silmen	silmen
-nermen	N	stone selected for brood-nursery construction	nermen	nermen	nermen	nermen	nermen
 porig	ADJ	containing pores	porig	porig	porig	porik	porig
 rissig	ADJ	containing cracks	rissig	rissig	rissig	rissik	rissig
 salig	ADJ	containing mineral salt	salig	salig	salig	salik	salig
@@ -534,9 +528,6 @@ lutbytek	N	heat-exchange device	lutbytek	lutbitek	lutbydek	lutbutek	lutbitek
 lutröl	N	heat-transfer pipe	lutröl	lutrel	lutröl	lutrol	lutrel
 skelmveg	N	rail route	skelmveg	shelmveg	skelmveg	skelmvek	skelmveg
 luftväv	N	porous framework distributing air	luftväv	luftväv	luftväv	luftvev	luftväv
-nersil	N	filter element serving a nursery casing	nersil	nersil	nersil	nersil	nersil
-eggkel	N	compartment containing the true egg within a nursery	eggkel	eggkel	eggkel	eggkel	eggkel
-selröl	N	feeding conduit in a nursery apparatus	selröl	selrel	selröl	selrol	selrel
 ljuskel	N	chamber admitting or supplied with light	ljuskel	ljushel	ljuskel	ljuskel	ljuskel
 rötkel	N	tuber-growing or tuber-storage chamber, qualified by context	rötkel	retkel	rötkel	rotkel	retkel
 sombkel	N	fungal-crop chamber	sombkel	sombkel	sombkel	sombkel	sombkel

@@ -1,5 +1,7 @@
 # Stone and material vocabulary
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Describing a material
 
 The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The common register makes their descriptions interoperable by keeping **material**, **observed property**, **identified composition**, **origin**, and **tested use** separate.
@@ -10,7 +12,7 @@ The dictionary makes fine distinctions where dwarves repeatedly need them. A mas
 | Observable texture | fine/coarse grain, layers, plates, pores, crystals | durfinrak, bandrak, flakrak, porrak | a unique geological origin |
 | Identified composition | quartz-rich, carbonate-rich, salt-rich | kvirrak, kalmrak, salrak | uniform engineering or biological behavior |
 | Inferred origin | melt-derived, deposited, transformed | smeltrak, lagad-rak, verrak in specialist speech | an inference being certain merely because it has a name |
-| Intended application | support stone, filter stone, brood-nursery stone | stalmen, silmen, nermen | a successful test or universal suitability |
+| Intended application | support stone, filter stone | stalmen, silmen | a successful test or universal suitability |
 | Recorded grade | sample + measured properties + use + conditions | gred af stalmenum, grade for support stone | suitability for another site or application |
 
 The origin labels are broad technical classifications rather than perfect translations of every Earth petrological category. **Smeltrak** denotes rock interpreted as crystallized/cooled from melt; **lagadrak** denotes rock interpreted as lithified deposited material; **verrak** denotes rock interpreted as transformed in the solid state. A metamorphic rock may also be bandrak, and a layered volcanic deposit may also be lagrak. Describe replacement/alteration processes more fully when these broad classes are inadequate. Earth geological terms provide comparisons for readers rather than native loanwords.
@@ -63,13 +65,11 @@ The technical vocabulary distinguishes **ener**, energy, **kravt**, power, **las
 
 **Höl** means high in elevation; **dypp** means deep beneath a stated surface. **Hölram** supplies the elevation datum; **kammeel** states rock-cover thickness. Neither is a synonym for distance from a valley floor. A high mountain chamber can have little overhead cover; a lowland mine can have great cover. The language makes that ordinary distinction explicit because confusing it would misdescribe temperature, transport and structural loads.
 
-## Nursery materials and care
+## Household and care vocabulary
 
-The true **egg**, its **egghul** membrane and **eggskel** shell sit within an **eggkel**, an egg compartment. The built **nerskel** casing, **nerstal** framework, **nerpor** ventilation pores and any **nersil** filter are separate parts. **Neret** names the dedicated incubation/care site. Nermen is material selected for nursery construction, not a mineral category or a nutrient supplied directly to the embryo.
+Nerkel names a nursery chamber; neret a care site. These words identify everyday places without specifying their reproductive mechanisms.
 
-Species-specific experience, inherited preferences, education and accumulated testing can make dwarves much better adapted to local materials than humans. Material tolerances remain specific to the organism and conditions. A usable nursery specification distinguishes the actual material batch, pore connectivity, moisture retention, strength, contamination, heat removal and the needs of the egg or hatchling. Shell chemistry, feeding anatomy and incubation duration remain open.
-
-**Rinn** denotes reproductive parentage; **rukkor** a protective caregiver; **selkor** a food-providing caregiver; **kelkor** household residence. A person can hold several roles. These distinctions allow two parents, extended households, fostering, shared nurseries and many other arrangements without making one system obligatory.
+Rinn denotes reproductive parentage; rukkor a protective caregiver; selkor a food-providing caregiver; kelkor household residence. A person can hold several roles. These distinctions allow extended households, fostering, shared care and other arrangements without prescribing one family form.
 
 ## Breadth beyond industry
 
@@ -77,4 +77,5 @@ The lexical database includes eating, drinking, buying, selling, affection, grie
 
 Several roots recur across everyday vocabulary: men in the reserved regional name Menkor, menek and menhamar; kam in kamkel and kammeel; kor in household and caregiver terms; klak in fitted-stone vocabulary. Newly coined everyday stems such as **vegn** (wall), **gulm** (floor), **somb** (fungal food organism), **röl** (pipe), **mern** (memory) and **sivar** (signal) broaden the independent vocabulary. Familiar short stems and a few industrial loan-shaped words are permitted; the family is not claimed to be etymologically assembled from any one Earth language.
 
-The [dictionary](https://andeleidun.github.io/test-fantasy-world/dictionary.html) gives definitions, word components and usage notes. Its entries include both roots and separately recorded compounds.
+The [dictionary](https://drive.google.com/file/d/19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP/view) gives definitions, word components and usage notes. Its entries include both roots and separately recorded compounds.
+

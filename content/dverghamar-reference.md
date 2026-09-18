@@ -1,5 +1,7 @@
 Purpose
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 This is the authoritative working record for the Dwarven planet’s nonmagical physical setting, native biosphere, native dwarven genus, and the technological consequences of that setting. It consolidates the decisions made during the scientific review. The companion synthesis explains the causal history; the open-questions map tracks decisions that remain unresolved.
 
 Canon-status rule

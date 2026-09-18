@@ -1,5 +1,7 @@
 # Erde geographic divergence proposal
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 Status: authorial proposal for discussion, not adopted geography. The first recommendation has now been tried and evaluated in [the offset-continent trial](geography-trial/README.md). No public coastline or named continent changes are made by this document. Earth names below identify source geometry only.
 
 ## Subsequent scope correction

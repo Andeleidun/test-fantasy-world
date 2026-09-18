@@ -1,5 +1,7 @@
 # Practitioners and magical work
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Discovering an affinity
 
 Magical ability is widespread in faint and uneven forms. Some people recognize a small talent early. Others spend years assuming that an unusual sense of direction, a singer's influence on a room, a craftsperson's touch or a fighter's extraordinary balance comes only from training. Many never develop deliberate magic at all.
@@ -32,11 +34,11 @@ Mind reading is rare, difficult and deeply invasive. Immediate emotion or attent
 
 Magical truth-sensing can reveal stress, incongruence or deliberate concealment. It cannot establish objective truth. A frightened truthful person may appear deceptive, while someone repeating a sincere false belief may appear honest. Courts and investigators can treat magical testimony as evidence, but not certainty.
 
-Practitioners who read traces of past events encounter incomplete residues rather than a perfect recording. Prophecy likewise offers warnings, weighted possibilities and unstable turning points rather than an unavoidable future.
+Practitioners reading traces of past events encounter incomplete residues, which do not provide a perfect recording. Prophecy offers warnings, weighted possibilities and unstable turning points. It does not establish an unavoidable future.
 
 ## Travel and movement
 
-Long-distance magical travel uses the Otherworld. Established crossings and familiar routes are usually safer than searching for a path during the journey. Travel is never truly instantaneous, and no route permits arrival before departure.
+Long-distance magical journeys are commonly associated with Otherworld crossings. Accounts emphasize established routes, preparation and uncertain conditions. Reports about altered time or strange destinations do not establish a dependable theory of travel.
 
 Sustained flight is demanding and usually requires active concentration. Carrying passengers or cargo makes it much harder, so ships, roads and ordinary transport remain essential. Calling a small familiar object is easier than moving a person, vehicle or building through the same relationship.
 
@@ -46,7 +48,10 @@ Practitioners may be treated as artisans, physicians, priests, soldiers, scholar
 
 Large workings often depend on preparation, assistants, favorable locations, established anchors and accumulated ritual structure. This is why a prepared group can sometimes achieve what one practitioner cannot, and why extraordinary feats do not make everyday constraints disappear.
 
-- [Magic in everyday life](magic.md)
-- [Enchantments, heirlooms and artifacts](enchanted-objects.md)
-- [The Otherworld and living worlds](otherworld.md)
-- [Elven peoples and traditions](elves.md)
+- [Magic in everyday life](https://drive.google.com/file/d/1Dk8s59d109bSJgAOlyz6jt4TCC_FqwdA/view?usp=drivesdk)
+- [Enchantments, heirlooms and artifacts](https://drive.google.com/file/d/1SGwJBymd5pJK_pll700eU1V76M4gRhXt/view?usp=drivesdk)
+- [The Otherworld and living worlds](https://drive.google.com/file/d/1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb/view?usp=drivesdk)
+- [Elven peoples and traditions](https://drive.google.com/file/d/16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy/view?usp=drivesdk)
+
+
+

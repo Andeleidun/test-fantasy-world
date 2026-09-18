@@ -1,5 +1,7 @@
 ## Reading this atlas
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 These eight existing sheets explain the relationships among permanent day and night, the twilight belt, water circulation, biological habitats and underground settlements.
 
 The original sheets use “Dwarven Planet” for the world now named **Dverghamar**. Their hypothetical regions and settlement examples are explanatory models, not newly selected continents or territorial boundaries.

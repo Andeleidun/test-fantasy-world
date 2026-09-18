@@ -1,5 +1,7 @@
 # The Jotun
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## The approved direction
 
 **Jotun** is the current self-name for Dverghamar's mountain giants. The approved first model is a cold-adapted mountain people combining rime-associated physiology with limited stone-backed protective features. It is a design direction, not a completed species account.

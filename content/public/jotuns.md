@@ -1,27 +1,15 @@
 # The Jotun
 
-## Mountain giants of Dverghamar
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-**Jotun** is the current self-name for Dverghamar's mountain giants. Their approved first model is a cold-adapted mountain people with rime-associated physiology and limited stone-backed protection. The design remains provisional.
+## Mountain people
 
-Jotun communities live in productive mountain margins and valleys, making difficult journeys into high terrain. Bare summits and permanent ice cannot support large populations without food and exchange from richer landscapes.
+Jotun is the selected self-name for Dverghamar’s mountain giants. The current public description is provisional: imposing, cold-adapted people around two and a half to three metres tall, with distinctive protective features. Their exact ancestry and final appearance remain open.
 
-## A bounded kind of giant
+## Homes and journeys
 
-The provisional body is a heavily supported biped about 2.5–3 metres tall. Dverghamar's strong gravity favors stout limbs and controlled proportions. Thirty-foot giants belong to legend, exaggeration or exceptional magic rather than ordinary biology.
+Communities inhabit productive mountain margins and valleys and make demanding journeys into higher terrain. Their lives include exchange with richer districts, local environmental knowledge and varied forms of authority.
 
-It remains open whether the Jotun belong to the planet's native six-limbed evolutionary radiation. Their ancestry and limb history cannot be assumed from their current outline.
+## Different reputations
 
-## Many cultures
-
-The first design draws on mountain belonging, life at environmental extremes, stony protective anatomy and traditions of wisdom. Jotun cultures can include hospitality, scholarship, environmental knowledge, negotiation, clan histories and remembered violence. None is an inherited moral trait shared by every community.
-
-A cold-water semiaquatic branch is a possible later direction, while an ash-and-heat branch is less developed. Neither has been selected.
-
-Ancestry, skeletal mechanics, thermal physiology, food needs, reproduction and lifespan remain open.
-
-- [Dverghamar](dverghamar.md)
-- [Dverghamar's scientific reference](dverghamar-reference.md)
-- [The Hamarkorar](hamarkorar.md)
-- [The Thals](thals.md)
-
+Hospitality, scholarship, negotiation, clan history and remembered violence all belong to accounts of Jotun society. No single moral character describes every community. Thirty-foot giants belong to exaggerated or supernatural accounts rather than the ordinary public body description.

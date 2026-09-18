@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "retrievedOn": "2026-09-18",
+  "repositoryBaseline": "e4c2cca396b9de75f5272bb4ce0b9ef9daa51695",
+  "sourceFolder": "https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt",
+  "files": [
+    {
+      "sourceId": "105Ut2CZdRqep6QHOGdWgRqQsHyGYjHdI",
+      "sourceName": "gnomes.md",
+      "sourceUrl": "https://drive.google.com/file/d/105Ut2CZdRqep6QHOGdWgRqQsHyGYjHdI/view",
+      "modifiedTime": "2026-09-18T10:27:30.570Z",
+      "path": "content/public/gnomes.md",
+      "sha256": "f53830c5a540cc18a15c69c369f33662cc0097557788ff79e96cf955e0682ed5",
+      "sizeBytes": 4649,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y",
+      "sourceName": "gnomes-full-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y/view",
+      "modifiedTime": "2026-09-18T10:27:27.986Z",
+      "path": "content/public/gnomes-full-reference.md",
+      "sha256": "91d4fedfa4eff8f52fe7a9c15b70a80142f289c1fe0a710ea780e434b26694fc",
+      "sizeBytes": 17895,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1b8An44XQSMMFOL49Recw0jYAMGyUuCGg",
+      "sourceName": "goblins.md",
+      "sourceUrl": "https://drive.google.com/file/d/1b8An44XQSMMFOL49Recw0jYAMGyUuCGg/view",
+      "modifiedTime": "2026-09-18T10:22:59.482Z",
+      "path": "content/public/goblins.md",
+      "sha256": "ee1abec72d6d7067c6b2f2c858114d5a2637075ff7a77dd253935a10585a447c",
+      "sizeBytes": 11818,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "190ZuQ7ZYSaE-u08h-HX-lMPlElk8mprQReM1bj_BotM",
+      "sourceName": "00 Public Documentation Index",
+      "sourceUrl": "https://docs.google.com/document/d/190ZuQ7ZYSaE-u08h-HX-lMPlElk8mprQReM1bj_BotM/edit",
+      "modifiedTime": "2026-09-18T09:42:18.853Z",
+      "path": "content/public/PUBLIC-INDEX.txt",
+      "sha256": "3da0add71c5fa896a11a06e7a4ebd9fb69826a3b99e9cb590fcd94f768d1a81d",
+      "sizeBytes": 1601,
+      "format": "native-document-text-export"
+    },
+    {
+      "sourceId": "1-21envIncKQCy8fC7eoFKM5lGX9kMnMh",
+      "sourceName": "catalog.json",
+      "sourceUrl": "https://drive.google.com/file/d/1-21envIncKQCy8fC7eoFKM5lGX9kMnMh/view",
+      "modifiedTime": "2026-09-18T09:41:45.610Z",
+      "path": "content/public/catalog.json",
+      "sha256": "0760d19a1541b29eb17fb61212011078a7b6219948e1300cb83851dc0e2abf4a",
+      "sizeBytes": 12740,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1qSQEnlOfU9DeYc1voqVzdye1jh0lDHvL",
+      "sourceName": "README.md",
+      "sourceUrl": "https://drive.google.com/file/d/1qSQEnlOfU9DeYc1voqVzdye1jh0lDHvL/view",
+      "modifiedTime": "2026-09-18T09:41:43.462Z",
+      "path": "content/public/README.md",
+      "sha256": "cb305b848e1e235f652c62d3b219aeae525f2415b941d95822041b13edbf6662",
+      "sizeBytes": 5544,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1KQ--6Z9H2QnFDvqiNGqSwYyZeBM12WMd",
+      "sourceName": "erde-history-full-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1KQ--6Z9H2QnFDvqiNGqSwYyZeBM12WMd/view",
+      "modifiedTime": "2026-09-18T08:44:35.626Z",
+      "path": "content/public/erde-history-full-reference.md",
+      "sha256": "559d1a0b67b85507b010344263a344f47f819f7e761416881918826fa82eda79",
+      "sizeBytes": 37033,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1BLoJ9s4TIN7QJNYH4nW5aqVHTxfXwNv4",
+      "sourceName": "thals.md",
+      "sourceUrl": "https://drive.google.com/file/d/1BLoJ9s4TIN7QJNYH4nW5aqVHTxfXwNv4/view",
+      "modifiedTime": "2026-09-18T08:42:04.817Z",
+      "path": "content/public/thals.md",
+      "sha256": "63779f81fdd9df5b83e2bb3dbd5ea14783e54dd57324c776dc944034bc537fc7",
+      "sizeBytes": 1577,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj",
+      "sourceName": "stellar-system-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj/view",
+      "modifiedTime": "2026-09-18T08:42:02.400Z",
+      "path": "content/public/stellar-system-reference.md",
+      "sha256": "2e980cd8ac6cd194543779877d55f25999544a9a731693ac8d358f367852e4de",
+      "sizeBytes": 1145,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1XOVcYDKO4KRk41tpcT7-6gyv9oPDvibK",
+      "sourceName": "magic-practice.md",
+      "sourceUrl": "https://drive.google.com/file/d/1XOVcYDKO4KRk41tpcT7-6gyv9oPDvibK/view",
+      "modifiedTime": "2026-09-18T08:42:00.218Z",
+      "path": "content/public/magic-practice.md",
+      "sha256": "8cad5ceea9821af0a116a02f02bf0689dd1f7087d04acf773740a8377da05a2a",
+      "sizeBytes": 5798,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "15j5ZynZjk-5u3hjNXT-bdy3H6-tH9sub",
+      "sourceName": "erde-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/15j5ZynZjk-5u3hjNXT-bdy3H6-tH9sub/view",
+      "modifiedTime": "2026-09-18T08:41:58.074Z",
+      "path": "content/public/erde-reference.md",
+      "sha256": "f0603a47d14a04dd8a82391ba92a865c7cf28c4f432d6ae4381abf44616079de",
+      "sizeBytes": 8475,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1xHr5BIntOL5L405QzMF-v0RW9aTt0fB3",
+      "sourceName": "cosmology-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1xHr5BIntOL5L405QzMF-v0RW9aTt0fB3/view",
+      "modifiedTime": "2026-09-18T07:36:58.189Z",
+      "path": "content/public/cosmology-reference.md",
+      "sha256": "2da1556dc484ed91085d5755af73f06e6139d77709cd3baa9aa1e9ab5d802e33",
+      "sizeBytes": 3405,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1xZojEtNx-UTBE4yxqm39FAEmdEpOkxQV",
+      "sourceName": "orcs.md",
+      "sourceUrl": "https://drive.google.com/file/d/1xZojEtNx-UTBE4yxqm39FAEmdEpOkxQV/view",
+      "modifiedTime": "2026-09-18T04:04:09.952Z",
+      "path": "content/public/orcs.md",
+      "sha256": "81dc9203e025d40fc37403ae0bb934120b08b4fb2bb79ea41de9315426c09299",
+      "sizeBytes": 2643,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "12vcdIVCizsYezklErssPH90WPHHUBtnO",
+      "sourceName": "korvar-examples.tsv",
+      "sourceUrl": "https://drive.google.com/file/d/12vcdIVCizsYezklErssPH90WPHHUBtnO/view",
+      "modifiedTime": "2026-09-18T04:04:05.784Z",
+      "path": "content/public/data/korvar-examples.tsv",
+      "sha256": "2a9dc0a9801985bcb2adefcd468d1979aa00614ec4ff05bc0a0c200ab6277cf3",
+      "sizeBytes": 10746,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1kb2rUcNtguIzcAEZTJquDkNSFXT0cI1i",
+      "sourceName": "korvar-lexicon.tsv",
+      "sourceUrl": "https://drive.google.com/file/d/1kb2rUcNtguIzcAEZTJquDkNSFXT0cI1i/view",
+      "modifiedTime": "2026-09-18T04:04:03.417Z",
+      "path": "content/public/data/korvar-lexicon.tsv",
+      "sha256": "bbe4663aa0bba4ef2e5d27a38fc836952e1071407f45950e37dc06e0af3aa81e",
+      "sizeBytes": 37172,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM",
+      "sourceName": "regional-dictionary.tsv",
+      "sourceUrl": "https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view",
+      "modifiedTime": "2026-09-18T04:04:01.001Z",
+      "path": "content/public/data/regional-dictionary.tsv",
+      "sha256": "47518a119fe23c9d8712e1a30061ee3c1ad00ec78c2f36b91eb8e669dbbd2cf3",
+      "sizeBytes": 34639,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1gQd3KwPHyqydBTxiF--2IbhGsG_CuBCR",
+      "sourceName": "language-foundation.md",
+      "sourceUrl": "https://drive.google.com/file/d/1gQd3KwPHyqydBTxiF--2IbhGsG_CuBCR/view",
+      "modifiedTime": "2026-09-18T04:03:58.830Z",
+      "path": "content/public/language-foundation.md",
+      "sha256": "86637d9eb38c56498181109fe901d0a1ec6d66016f3983251507bddda7dae73c",
+      "sizeBytes": 7189,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1UUTzqkoOIBL5PNHkkN6FK2ZrUJyNDMIB",
+      "sourceName": "language-materials.md",
+      "sourceUrl": "https://drive.google.com/file/d/1UUTzqkoOIBL5PNHkkN6FK2ZrUJyNDMIB/view",
+      "modifiedTime": "2026-09-18T04:03:56.618Z",
+      "path": "content/public/language-materials.md",
+      "sha256": "5d94173c3128ff11b6fba40d129295cba5daf8347d1a9fedca53b827125af91c",
+      "sizeBytes": 10649,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP",
+      "sourceName": "lexicon.json",
+      "sourceUrl": "https://drive.google.com/file/d/19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP/view",
+      "modifiedTime": "2026-09-18T04:03:54.651Z",
+      "path": "content/public/lexicon.json",
+      "sha256": "9d0a8cb45514270b84f8a1c208d7d8b053ab68c7b97583bd3e24683d11f6fefd",
+      "sizeBytes": 96148,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1dkpx1CXWE3RVgBPO4GurZf5b2NCtFYqo",
+      "sourceName": "maps.json",
+      "sourceUrl": "https://drive.google.com/file/d/1dkpx1CXWE3RVgBPO4GurZf5b2NCtFYqo/view",
+      "modifiedTime": "2026-09-18T04:03:50.590Z",
+      "path": "content/public/maps.json",
+      "sha256": "b6be1492e6bc15afc2f4aa84e76f40357b00b5a5f11c44e02fc801ff39b0a976",
+      "sizeBytes": 6117,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1Rh3cfkjhKr57R_ovonZl1gUXMJXMaqxf",
+      "sourceName": "people-beliefs-and-boundaries.md",
+      "sourceUrl": "https://drive.google.com/file/d/1Rh3cfkjhKr57R_ovonZl1gUXMJXMaqxf/view",
+      "modifiedTime": "2026-09-18T04:03:48.415Z",
+      "path": "content/public/people-beliefs-and-boundaries.md",
+      "sha256": "5276f56d2caa83c8a68df2eeb3863da969b26b56dfbedcd76bef77e741e776fc",
+      "sizeBytes": 1424,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "18b53xn0JBG7SV5hRUdf-_WgMNNXZ8gjE",
+      "sourceName": "wildlife-questions.md",
+      "sourceUrl": "https://drive.google.com/file/d/18b53xn0JBG7SV5hRUdf-_WgMNNXZ8gjE/view",
+      "modifiedTime": "2026-09-18T04:03:46.239Z",
+      "path": "content/public/wildlife-questions.md",
+      "sha256": "dba08815ed94d67e1dd7062731686a9fa24380ae14c461a9da85eb423889d4c9",
+      "sizeBytes": 1946,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1y19L-zcd6BJsmdcfPNZZ24J4mBme2c0R",
+      "sourceName": "dverghamar-atlas.md",
+      "sourceUrl": "https://drive.google.com/file/d/1y19L-zcd6BJsmdcfPNZZ24J4mBme2c0R/view",
+      "modifiedTime": "2026-09-18T04:03:40.117Z",
+      "path": "content/public/dverghamar-atlas.md",
+      "sha256": "6446ac95771d075efdd2b1c7f3bc6baf4b4f3efb6fccfec17d26e1a85f06663f",
+      "sizeBytes": 1560,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1u21JdefxdMA9sxTCvPUe2U4aKToyzv9b",
+      "sourceName": "dverghamar-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1u21JdefxdMA9sxTCvPUe2U4aKToyzv9b/view",
+      "modifiedTime": "2026-09-18T04:03:37.100Z",
+      "path": "content/public/dverghamar-reference.md",
+      "sha256": "ba5110b6e799fbc49b91835282db5cbcec4f94319d5233e7d9c75dc68de8768b",
+      "sizeBytes": 2211,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1cR4g5Zr9Za6T7sa9aEPQZqcbkyWBzQN4",
+      "sourceName": "dverghamar.md",
+      "sourceUrl": "https://drive.google.com/file/d/1cR4g5Zr9Za6T7sa9aEPQZqcbkyWBzQN4/view",
+      "modifiedTime": "2026-09-18T04:03:34.904Z",
+      "path": "content/public/dverghamar.md",
+      "sha256": "f17993565824d6e2c5baa4e1955be7559df7561422fc8cef101825e1625adb10",
+      "sizeBytes": 1599,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy",
+      "sourceName": "elves.md",
+      "sourceUrl": "https://drive.google.com/file/d/16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy/view",
+      "modifiedTime": "2026-09-18T04:03:32.967Z",
+      "path": "content/public/elves.md",
+      "sha256": "5266214055402a2588cf5457154c5929725dfae5304c339f4b3d6b0712f9d5d2",
+      "sizeBytes": 3271,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1SGwJBymd5pJK_pll700eU1V76M4gRhXt",
+      "sourceName": "enchanted-objects.md",
+      "sourceUrl": "https://drive.google.com/file/d/1SGwJBymd5pJK_pll700eU1V76M4gRhXt/view",
+      "modifiedTime": "2026-09-18T04:03:30.790Z",
+      "path": "content/public/enchanted-objects.md",
+      "sha256": "7aecf1fef0671d9a2debba0062bb5c22ddccf39f323fba2ccae81cf17dd50327",
+      "sizeBytes": 4786,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1zousEECeB-aIaph7UE1M7hmCFC0-QEL2",
+      "sourceName": "erde-atlas.md",
+      "sourceUrl": "https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view",
+      "modifiedTime": "2026-09-18T04:03:28.780Z",
+      "path": "content/public/erde-atlas.md",
+      "sha256": "cdf93b70b0f9b92e3fca8a6ab8d051e5ded0f6308b6bfac3e8612ebeca5acad6",
+      "sizeBytes": 1132,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1FoH09WrtbZYe_h2yos8ejx5PMz3QXz-G",
+      "sourceName": "erde.md",
+      "sourceUrl": "https://drive.google.com/file/d/1FoH09WrtbZYe_h2yos8ejx5PMz3QXz-G/view",
+      "modifiedTime": "2026-09-18T04:03:24.498Z",
+      "path": "content/public/erde.md",
+      "sha256": "d2ad1d3027308d73d6702077b16db34836969dd9c3371bca65cc34fa3b38650e",
+      "sizeBytes": 3594,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1MkLAK5JtSCUQI-jaxjftxLO563mqmMlP",
+      "sourceName": "evolution-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1MkLAK5JtSCUQI-jaxjftxLO563mqmMlP/view",
+      "modifiedTime": "2026-09-18T04:03:22.296Z",
+      "path": "content/public/evolution-reference.md",
+      "sha256": "a6099cd012894a61534b6c107a9cf957f7d774e7e6355f50df3bc0f52ceeaf43",
+      "sizeBytes": 2184,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1bDC2NWm2-WbTd_66obQk2anXBMPUj9aQ",
+      "sourceName": "familiar-magic.md",
+      "sourceUrl": "https://drive.google.com/file/d/1bDC2NWm2-WbTd_66obQk2anXBMPUj9aQ/view",
+      "modifiedTime": "2026-09-18T04:03:20.007Z",
+      "path": "content/public/familiar-magic.md",
+      "sha256": "9fe6abbca995a57d3828844cfdb934463c3e3128e4c984ff64efbabd57c06cc0",
+      "sizeBytes": 2638,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1OcMraCLWa_aS4_6bAEOP3VllzilFg_fn",
+      "sourceName": "hamarkorar.md",
+      "sourceUrl": "https://drive.google.com/file/d/1OcMraCLWa_aS4_6bAEOP3VllzilFg_fn/view",
+      "modifiedTime": "2026-09-18T04:03:16.021Z",
+      "path": "content/public/hamarkorar.md",
+      "sha256": "403b0d86a4981ec152ca06c9c094a51c2f42b2cda7dbbac37c399e96bf91d027",
+      "sizeBytes": 3940,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "16-349-N4u_74M-2446cDE-MMU2WXyg7g",
+      "sourceName": "jotuns.md",
+      "sourceUrl": "https://drive.google.com/file/d/16-349-N4u_74M-2446cDE-MMU2WXyg7g/view",
+      "modifiedTime": "2026-09-18T04:03:14.019Z",
+      "path": "content/public/jotuns.md",
+      "sha256": "2a66379830637a7dc68aceb53cc493170d71bfc951672a1b5218a28e1d5cd743",
+      "sizeBytes": 1088,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1iLXKSQDJNgNKLzimuxHATFcSG2FW0vsQ",
+      "sourceName": "korvar.md",
+      "sourceUrl": "https://drive.google.com/file/d/1iLXKSQDJNgNKLzimuxHATFcSG2FW0vsQ/view",
+      "modifiedTime": "2026-09-18T04:03:10.588Z",
+      "path": "content/public/korvar.md",
+      "sha256": "0dc94381f25994e3e53f7a43ef0f3736078f1f00723a9e2941a70756c5fb8e84",
+      "sizeBytes": 3082,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X",
+      "sourceName": "language-examples.md",
+      "sourceUrl": "https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view",
+      "modifiedTime": "2026-09-18T04:03:05.910Z",
+      "path": "content/public/language-examples.md",
+      "sha256": "7b1b1dec3d6842621ad8029316251110c340d1d69c2ef05c84aaa94212ebf0b0",
+      "sizeBytes": 12570,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "16i7ZQKJazvm9zPODEAZWBijw_J01krtJ",
+      "sourceName": "language-family.md",
+      "sourceUrl": "https://drive.google.com/file/d/16i7ZQKJazvm9zPODEAZWBijw_J01krtJ/view",
+      "modifiedTime": "2026-09-18T04:03:03.905Z",
+      "path": "content/public/language-family.md",
+      "sha256": "00ad545c05facf0cc3f2e6faf2af8617f661bf7e7cae8ed27bd32dace56ad75c",
+      "sizeBytes": 13141,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1Ae1Zy56sGVBesktkQzZUQU4tflHlADiX",
+      "sourceName": "language-grammar.md",
+      "sourceUrl": "https://drive.google.com/file/d/1Ae1Zy56sGVBesktkQzZUQU4tflHlADiX/view",
+      "modifiedTime": "2026-09-18T04:03:01.524Z",
+      "path": "content/public/language-grammar.md",
+      "sha256": "b69233bdfccf13d2c23b6fb6fe0125963a499c103ff5cdf6de1c09b0af417edf",
+      "sizeBytes": 16597,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC",
+      "sourceName": "language-writing.md",
+      "sourceUrl": "https://drive.google.com/file/d/1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC/view",
+      "modifiedTime": "2026-09-18T04:02:58.111Z",
+      "path": "content/public/language-writing.md",
+      "sha256": "071a3af80aa2fb838ec9200683818dd66e6f79e4bd7cc804b18e7a1fbf68daf9",
+      "sizeBytes": 11507,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1Dk8s59d109bSJgAOlyz6jt4TCC_FqwdA",
+      "sourceName": "magic.md",
+      "sourceUrl": "https://drive.google.com/file/d/1Dk8s59d109bSJgAOlyz6jt4TCC_FqwdA/view",
+      "modifiedTime": "2026-09-18T04:02:53.987Z",
+      "path": "content/public/magic.md",
+      "sha256": "3871617c3b23d1557ce912d20a0e1e36a2131f7c4c4f20a4e7567a9486c1489d",
+      "sizeBytes": 4432,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1NhMf1QXeH7arFZDJr_-YgrL6yIM__vp9",
+      "sourceName": "map-methods.md",
+      "sourceUrl": "https://drive.google.com/file/d/1NhMf1QXeH7arFZDJr_-YgrL6yIM__vp9/view",
+      "modifiedTime": "2026-09-18T04:02:50.847Z",
+      "path": "content/public/map-methods.md",
+      "sha256": "6082b218fa116f7781ae5fa0b6348c60f6451ba92ed7dddac0b4737a40f09e19",
+      "sizeBytes": 1590,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc",
+      "sourceName": "merenval-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc/view",
+      "modifiedTime": "2026-09-18T04:02:47.364Z",
+      "path": "content/public/merenval-reference.md",
+      "sha256": "d18e8e2343b126fe7fb23b171c14835004d3428c5fc823b589036c3453a64161",
+      "sizeBytes": 1987,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1i-BobUuGlv5TqVcOeqNLDB7qda_rnFa-",
+      "sourceName": "merenval.md",
+      "sourceUrl": "https://drive.google.com/file/d/1i-BobUuGlv5TqVcOeqNLDB7qda_rnFa-/view",
+      "modifiedTime": "2026-09-18T04:02:45.136Z",
+      "path": "content/public/merenval.md",
+      "sha256": "31a587edd304726e8d91472ea6f374298a45cab79171cc0a1cae20139803684a",
+      "sizeBytes": 1657,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb",
+      "sourceName": "otherworld.md",
+      "sourceUrl": "https://drive.google.com/file/d/1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb/view",
+      "modifiedTime": "2026-09-18T04:02:42.601Z",
+      "path": "content/public/otherworld.md",
+      "sha256": "ccae7039ea3d9054b0aa8f05e9777188b4fedd8f042e43bb225e510c309391a9",
+      "sizeBytes": 2402,
+      "format": "original-text"
+    },
+    {
+      "sourceId": "1PVdACustheW4pOAiL71VpUumSxy2kAT-",
+      "sourceName": "jotuns-full-reference.md",
+      "sourceUrl": "https://drive.google.com/file/d/1PVdACustheW4pOAiL71VpUumSxy2kAT-/view",
+      "modifiedTime": "2026-09-18T04:02:16.722Z",
+      "path": "content/public/jotuns-full-reference.md",
+      "sha256": "2eca3c00c0dfab6a3cee35a87c3c6a4e5c1f2ee6bd29ee167341fe24ba1d7e4e",
+      "sizeBytes": 1475,
+      "format": "original-text"
+    }
+  ],
+  "displayCorrections": [
+    {
+      "file": "gnomes-full-reference.md",
+      "rule": "Use the current article H1 and a summary of its current content instead of older catalog metadata.",
+      "description": "A Gnome naturalist’s account of bodies, living houses, kinship, craft, government and the limits of observation."
+    }
+  ]
+}

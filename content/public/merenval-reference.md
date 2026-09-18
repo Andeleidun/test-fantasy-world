@@ -1,45 +1,25 @@
-# Merenval: planetary and demographic reference
+# Merenval: landscapes, travel and communities
 
-## Working physical values
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-Merenval orbits a warm K-type sun at about 0.600 astronomical units and completes a year in roughly 196 Erden days. Its sun belongs to the closer stellar pair of the [three-star system](stellar-system-reference.md), whose shared age is approximately 4.54 billion years. Erde's chronology governs the system, and Dverghamar follows the same coeval timeline.
+## Seas and coasts
 
-| Quantity | Merenval | Living companion |
-| --- | ---: | ---: |
-| Mass | About 1.05 Erde masses | About 0.25 Erde masses |
-| Radius | About 1.04 Erde radii | About 4,380 km |
-| Surface gravity | Approximately Erde-like | About 0.53 g |
-| Ocean coverage | About 68% | About 32% |
-| Surface pressure | About 1.4 bar | About 1.75 bar |
-| Oxygen target | About 0.21 bar partial pressure | About 0.21 bar partial pressure |
+Merenval’s seas connect coastal, island, estuary and river communities. Maritime/Littoral Sylvan networks grew through many communities and repeated exchange. Voyaging, kinship and local knowledge remain important; they do not derive from a single founding colony.
 
-The mutual orbit takes about 23.2 days. Both worlds are intended to rotate almost, but not exactly, in step with it. Atmospheric, oceanic and rocky tides must be modeled together before their exact spins are accepted.
+## Plateaus, pillars and caverns
 
-## Tides and terrain
+The companion has broad land interiors, rain-shadow districts, separated seas, great escarpments and cavern environments. Crystal-rich rock gives some places and cities a distinctive appearance. Rock, masonry and worked crystalline materials occur together in architecture.
 
-The companion raises an equilibrium deformation of roughly 9 metres on Merenval; Merenval raises roughly 30 metres on the companion. These values describe gravitational forcing, not a beach's tide. Ocean basins, shelves, friction and the slow movement of the tidal pattern determine what inhabitants experience.
+## Elven traditions and exchange
 
-The companion's lower gravity permits very large cliffs and pillars. Common great escarpments can reach 1–3 kilometres of local relief, while exceptional compound systems may reach 3–5 kilometres. Strong rock, broad support, uplift and erosion remain necessary.
+Forest and Maritime/Littoral Sylvans emphasize reciprocal relationships with living landscapes and waters. Crystalline/High traditions are known for structured magical craft and crystal arrays. Deep/Star traditions are associated with resonance and deep settlements.
 
-Its landscapes are crystal-rich rather than made from impossible single crystals. Quartzite, granitic rocks, pegmatites, metamorphic belts, hydrothermal veins and evaporite basins supply crystalline forms. Cities rely on rock and masonry for their main loads while using crystals for surfaces, bridges and magical arrays.
+Deep/Star Elves and Gnomes have long histories of exchange and some mixed settlements. Shared residence does not erase their distinct cultures. Elven cultural identity is not determined by an exact ancestry fraction or inherited personality.
 
-## Elven population history
+## Natural history and remembered journeys
 
-Elven generations are provisionally modeled near 150 Erden years, with a 120–180-year sensitivity range. Several migration waves totaling about 8,000–20,000 people found the companion population around 84,000–82,500 years ago. Deep-cave populations become a persistent network by roughly 55,000 years ago. Rare later contacts keep the history braided rather than dividing it into separate species.
+The pair’s life has broad ancestral affinities, while its habitats differ substantially. Elven migration and continuing contact connect the worlds. The precise chronology, founding numbers and biological reconstruction are outside this cultural account.
 
-Maritime/Littoral Sylvans form a coherent cultural network on Merenval roughly 38,000–32,000 years ago. Their shared identity grows through travel, marriage and exchange among many coasts and islands, not one ancestral colony.
+## Dorrenath
 
-All numerical population differences remain targets for future simulation. The traditions are fully interfertile, mixed ancestry is ordinary where communities meet, and cultural values are not fixed biological temperaments.
-
-## Shared life and separate worlds
-
-Early impact transfer is the preferred explanation for the pair's shared tree of life; the world where life first began remains open. Merenval and the companion nevertheless possess distinct mature planetary spirits. Proximity, common biochemistry and the everyday language of planet and moon do not make one subordinate to the other.
-
-Dorrenath is the eldest known Wayroot on Merenval and a city-scale magical exception. It is neither a creator tree nor a cosmic axis. A local Taurid contact belt and unusually stable Wayroot overlaps remain working Otherworld models rather than universal laws.
-
-## Remaining work
-
-The pair still needs long-duration orbital and tidal models, three-dimensional climates, regional ocean models, a volatile and tectonic history for the smaller world, local terrain models and a structured Elven population simulation. Exact rotation periods, regional tides, present population sizes, native names and final physiology remain open.
-
-- [Merenval and its companion](merenval.md)
-- [Elven traditions](elves.md)
+Dorrenath is the eldest known Wayroot and a city-scale living presence on Merenval. Accounts associate Wayroots with unusual paths and Otherworld encounters. Such reports do not supply a reliable theory of crossings or establish that every tree offers a safe passage.

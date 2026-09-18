@@ -58,7 +58,6 @@ C56	Ek merke da trov me markum.	I label the sample with a mark.	instrument	Me go
 C57	Da gred af stalmenum sere ne vitet.	The support-stone grade is not known.	uncertainty	Explicit lack of knowledge; not a failed grade.
 C58	Da trov sere tör, vis.	The sample is dry, by observation.	evidence	Particle states the claimed basis.
 C59	Ek tönke ke da trov sere tör.	I think the sample is dry.	reported_belief	Thought complement rather than asserted measurement.
-C60	Da egg sere na da eggkelum.	The egg is inside the egg compartment.	reproduction	Egg distinct from compartment.
 C61	Da ner sere na da nerkelum.	The child is in the nursery.	care_location	No claim that the child is itself a geode.
 C62	Ek ruke da ner.	I care for and protect the child.	care_action	Protective caregiver role.
 C63	Ek sele da ner me selum.	I feed the child with nourishment.	feeding	Recipient is direct object; food is me phrase.

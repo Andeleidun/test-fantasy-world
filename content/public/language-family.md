@@ -1,5 +1,7 @@
 # Five regional languages
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## A shared history
 
 The family’s approximate history begins with diverse older languages spoken across surface-supported cave and mountain networks. A related corridor continuum spreads through household movement, neighboring settlements and trade. **Förvar**, “earlier speech,” names the late common source in this reconstruction, placed roughly three to six millennia before the present. That interval is a working historical model, not the origin date of dwarven language.
@@ -28,7 +30,7 @@ Each regional language inherits the Common phoneme inventory, lexical meanings, 
 
 Local basic-word replacements in the dictionary are lexical alternatives, not sound-law exceptions. Their sources within the older dialect continuum have not yet been described. Listed replacements are inserted before the sound rules. A compound recorded as a shared industrial term is borrowed whole from the common lexicon and then adapted phonologically; it need not replace each component with the local everyday synonym. A newly created household compound normally uses local words. This explains, for example, why a local word for drinking water can differ while a common water-pump label remains recognizable. Nattvar uses **pran/pranen** for test/to test: otherwise its ö-to-o merger would collapse the noun tröv, test, with trov, sample. The local synonym preserves a useful industrial distinction; ordinary homophones elsewhere remain possible.
 
-The [aligned regional dictionary](data/regional-dictionary.tsv) gives the local citation form of every registered Common entry. For a verb, that is its infinitive; for a noun, its direct singular. A wordlist is not a syntax translator. The inflection tables and parallel texts below explain grammar and word order. Two other practical contrasts use inherited local synonyms: Hamarvar and Solvar distinguish dissolving (los-/losen) from reading (les-/lesen before local endings), and asking (frägen) from blocking (speren). Nattvar uses tiren for teaching, distinct from leren for learning, and upig for high in elevation, distinct from hol, hollow. These choices keep useful distinctions through the regional mergers without declaring every ordinary homophone an error.
+The [aligned regional dictionary](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view?usp=drivesdk) gives the local citation form of every registered Common entry. For a verb, that is its infinitive; for a noun, its direct singular. A wordlist is not a syntax translator. The inflection tables and parallel texts below explain grammar and word order. Two other practical contrasts use inherited local synonyms: Hamarvar and Solvar distinguish dissolving (los-/losen) from reading (les-/lesen before local endings), and asking (frägen) from blocking (speren). Nattvar uses tiren for teaching, distinct from leren for learning, and upig for high in elevation, distinct from hol, hollow. These choices keep useful distinctions through the regional mergers without declaring every ordinary homophone an error.
 
 ## Ordered sound rules
 
@@ -105,3 +107,4 @@ Critical instructions use a restricted Common vocabulary, one action per clause,
 Settlement names can combine an observable feature and a place head: **Salbaskel**, salt-basin chamber settlement; **Bandhamar**, banded crag; **Dravmenet**, stone workshop served by water flow. These illustrate naming patterns; they do not identify mapped settlements. Person names can develop from short root forms, household associations or inherited names; occupations are only one possible source.
 
 A practical record can identify a person as **Menel af da Hamarkelum**, Menel of the crag-chamber household. Menel is a sample proper name, not a common noun or a fixed surname. Reproductive parentage, household membership and personal preference may supply different name elements. Use an explicit association phrase when a compound would confuse a place, a person and an occupation. A settled proper name can fossilize earlier spelling just as Dverghamar has; no rule requires personal identity to change whenever an occupation or residence changes.
+

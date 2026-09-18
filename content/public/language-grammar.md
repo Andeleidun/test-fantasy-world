@@ -1,5 +1,7 @@
 # The common grammar
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 This grammar describes Korvar, the shared standard. The regional profiles identify where each language differs. Regularity belongs partly to the interregional standard and its teaching tradition; it does not imply that all historical speech was exception-free.
 
 ## Noun phrases and reference
@@ -69,7 +71,7 @@ Present with a stated later time can express a scheduled future. The perfect con
 
 ## Clause order, questions and negation
 
-Declarative main clauses are **verb-second (V2)**: one whole constituent precedes the finite verb. A subject, time expression or prepositional phrase can fill this first position. If the subject is not first, it follows the finite verb. The nonfinite verb group follows the subject and sentence negation, then direct object, recipient phrase and other complements. Short adverbs may follow the nonfinite group or occupy the first field. The [translated examples](language-examples.md) use these conservative placements.
+Declarative main clauses are **verb-second (V2)**: one whole constituent precedes the finite verb. A subject, time expression or prepositional phrase can fill this first position. If the subject is not first, it follows the finite verb. The nonfinite verb group follows the subject and sentence negation, then direct object, recipient phrase and other complements. Short adverbs may follow the nonfinite group or occupy the first field. The [translated examples](https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view?usp=drivesdk) use these conservative placements.
 
 - Ek karne da kel. Subject–finite–object.
 - Nu karne ek da kel. Time–finite–subject–object.
@@ -105,12 +107,13 @@ Every preposition takes oblique. Na = inside/within (static); in = into; ut = ou
 
 Adjectives do not agree with nouns. Comparative = **mer** + adjective + **dan** + comparison phrase; superlative = **mest** + adjective. In comparative use, dan is a conjunction and takes a direct comparison noun/pronoun, not the distal determiner's oblique. **Di men sere mer darn dan dan men**, this stone is harder than that stone; repeat the noun for clarity. Equatives use **sam** + adjective + **as** + comparison: equally hard as. Adverbs of manner use the adjective after the verb group; when ambiguous, me + activity noun makes the relation explicit. There is no obligatory adverb suffix.
 
-Counts use the decimal system in [writing, numbers and everyday use](language-writing.md). **Ald** = all, **sum** = some, **neng** = none/no quantity, **tel** as an adjective = complete/whole. Tel's verb sense is finish; the dictionary records both. Neng is a negative determiner: Ek have neng men entails absence of stone; do not add ne unless intentionally changing scope. Use **neng kor**, nobody, and **neng ting**, nothing. Logical scope in contracts is expressed with separate clauses rather than an assumed universal reading of 'not all'.
+Counts use the decimal system in [writing, numbers and everyday use](https://drive.google.com/file/d/1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC/view?usp=drivesdk). **Ald** = all, **sum** = some, **neng** = none/no quantity, **tel** as an adjective = complete/whole. Tel's verb sense is finish; the dictionary records both. Neng is a negative determiner: Ek have neng men entails absence of stone; do not add ne unless intentionally changing scope. Use **neng kor**, nobody, and **neng ting**, nothing. Logical scope in contracts is expressed with separate clauses rather than an assumed universal reading of 'not all'.
 
-Measure phrases use numeral + plural unit + **af** + material in oblique: **tor kapar af vasum**, two vessel-units of water. Length, mass, capacity, pressure, electrical quantities and temperature have distinct names. A unit's physical calibration is a separately recorded technical agreement, not deduced from dwarven hand size. Fractions, ratios and tolerances are specified in [writing, numbers and everyday use](language-writing.md).
+Measure phrases use numeral + plural unit + **af** + material in oblique: **tor kapar af vasum**, two vessel-units of water. Length, mass, capacity, pressure, electrical quantities and temperature have distinct names. A unit's physical calibration is a separately recorded technical agreement, not deduced from dwarven hand size. Fractions, ratios and tolerances are specified in [writing, numbers and everyday use](https://drive.google.com/file/d/1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC/view?usp=drivesdk).
 
 ## Register and evidence
 
 Common offers ordinary, careful technical, familiar and formal registers without assigning moral worth or intelligence to an accent. Technical statements can append **vis**, observed, **tal**, reported, or **ren**, inferred. These optional words identify the claimed basis of a statement; they do not guarantee truth. Vis/tal/ren in this use are tagged as evidence particles, independent of any noun senses. A report still needs a speaker, time and sample identifier when provenance matters.
 
 Short alarms can omit grammar in conventional phrases: **Ut!**, out; **Stal!**, support/brace; **Ne op!**, do not open. Because bare tool nouns and imperative roots can overlap, safety-critical actions are repeated in a full clause when time permits. Instructions never assume that a material name alone guarantees load capacity, potable water, breathable air or nursery suitability.
+

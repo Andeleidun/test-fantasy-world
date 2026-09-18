@@ -1,33 +1,27 @@
-# The Otherworld and living worlds
+# The Otherworld in human stories and reports
 
-## A realm between material places
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-The **Otherworld** is an ancient, autonomous realm with its own environments and living communities. Routes through it can connect material locations that are not neighbors in ordinary space. The Thals reached Dverghamar from Erde through such a passage.
+## A name for unfamiliar places
 
-Near stable crossings, travelers may find recognizable ground and persistent routes. Deeper regions become less predictable in their geography, environmental conditions and passage of time. Navigation and protection depend on the practitioner, the route and the conditions encountered.
+In ordinary human accounts, the Otherworld is associated with strange roads, uncanny landscapes, fay encounters and journeys whose destination or duration is difficult to explain. Stories of crossings can connect remote places; the Thal migration is associated with passage from Erde to Dverghamar.
 
-## Spirits and souls
+These accounts do not amount to a surveyed geography. A remembered route, a warning and a religious story may use the same place-name while meaning different things.
 
-Every living organism has a spirit. A soul develops gradually through differentiated personal continuity; it is not assigned by a simple species list or intelligence threshold. Spirit and soul belong together within a living person while remaining distinct aspects of that life.
+## Fay, courts and dangerous hospitality
 
-Worlds also have distributed spirits. Most planetary awareness is not the deliberation of a single person. Under exceptional conditions, collective coherence can develop into planetary personhood.
+Stories describe fay gatherings and courts, invitations, obligations, bargains and encounters that turn dangerous. Some accounts emphasize welcome or exchange; others emphasize predation, deception or the danger of assuming familiar human customs apply. These are differing ways people tell and interpret encounters, not a classification of the inhabitants’ true biology or institutions.
 
-Merenval and its close inhabited companion each have a distinct mature planetary spirit. Shared life and proximity do not merge them into one person. Elven traditions have deep practical knowledge of these relationships, but no culture is automatically infallible.
+## Dragons and other beings
 
-Dorrenath, the eldest known Wayroot on Merenval, sustains a city-scale overlap with the Otherworld as an exceptional living structure. It is not a creator tree or cosmic axis, and not every Wayroot becomes a passage.
+Dragons and other extraordinary beings appear in accounts associated with the Otherworld. Such stories can be important to local fears, reputations and religious interpretation without settling where those beings originated, how they reproduce, or what sustains them.
 
-## Relationships after death
+## Time, loss and return
 
-A coherent soul may enter an afterlife domain through reciprocal, voluntary reception. Such domains depend on continuing relationships and sustenance. A domainless soul normally returns rapidly to planetary life, losing its separate personal differentiation within the greater whole.
+Travel stories include disorientation, uncertain elapsed time, altered appearances and a return that is difficult to reconcile with the traveler’s expectations. A person or place said to have returned may be understood as the same, changed, or merely resembling what was lost. Ordinary cultural accounts cannot settle the underlying question.
 
-The living do not possess reliable ordinary knowledge of this entire process. Cultural accounts can differ from the underlying cosmology.
+## Sacred trees and ancestral stories
 
-## Living worlds and preservation
+Wayroots and Elven associations with the Otherworld attract stories of paths and unusual encounters. Traditions connecting Elves with fay belong here as traditions; they do not disclose a verified ancestral mechanism. Accounts of Dorrenath need not be treated as accounts of a creator tree or a cosmic axis.
 
-Planetary integration involves the relationships of both worlds. Where both planetary spirits are persons, both must consent. A pre-personal spirit instead expresses compatibility or resistance through distributed ecological, geological, magical and spiritual responses.
-
-Preserving a dying world requires ongoing contribution. Contributors retain the right to withdraw immediately. Mature networks protect continuity through reserves, overlapping contributors, trained replacements and temporary emergency help.
-
-[The cosmological reference](cosmology-reference.md) explains crossings, domains, planetary awareness and the limits of preservation in more detail. [Magic in everyday life](magic.md) describes how practitioners and ordinary communities experience magic connected to the Otherworld.
-
-[Merenval and its living companion](merenval.md) introduces the paired worlds and their peoples.
+No single human perception stands for every culture. This guide retains the broad motifs already present in the project without assigning new named myths or doctrines to particular peoples.

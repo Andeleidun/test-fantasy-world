@@ -1,5 +1,7 @@
 ## An Erde lineage on Dverghamar
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 The Thals are the surviving descendants of Neanderthal populations from Erde. Their catastrophe occurred on Erde approximately five thousand years ago. Survivors escaped through the Otherworld and established refuge on Dverghamar.
 
 That migration is separate from the deep evolutionary history of the native Hamarkorar. The dwarven genus was not created by the Thal catastrophe.

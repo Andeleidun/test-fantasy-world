@@ -1,5 +1,7 @@
 # Public edition implementation plan
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 ## Purpose and boundaries
 
 Publish a welcoming, factual guide to Erde, Dverghamar, Merenval and Merenval's companion, retaining the working documents as editorial sources. Preserve established names, substantive rules, meaningful uncertainty, existing page routes, and the distinction between worldbuilding and story. The repository is public; the working/public split is an editorial boundary, not an access control.

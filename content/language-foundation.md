@@ -1,4 +1,7 @@
 
+
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## What this edition establishes
 
 **Hamarkor** /ˈha.mar.kor/ is the selected singular endonym; **Hamarkorar** /ˈha.mar.ko.rar/ is the plural. Its components are hamar, crag or great rock mass, and kor, person: collectively, 'people of the great rock masses'. Its conventional ethnic scope includes all five species and the deep-massif subspecies, regardless of an individual's present habitat or occupation. It is not a claim that an embryo obtains its food from stone. A dwarf farmer, musician or traveler remains a Hamarkor. **Kelir** means an interior-dweller and can describe a Thal; **Menir** means a stoneworker and can describe any practitioner. Use **kelkor** for a resident of a particular chamber-household without an ancestry implication. A society may grant belonging and citizenship across ancestry; the language does not dictate its law.

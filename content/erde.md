@@ -1,5 +1,7 @@
 ## A familiar foundation, a different world
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 Erde uses Earth’s continental arrangement as a reference scaffold, with a selected planetary orientation that puts the north pole at Earth-reference latitude 0°, longitude 150° west. The south pole lies at the antipode, 0°, 30° east.
 
 The resulting latitude changes reshape the questions of climate, movement and isolation. They do not justify transplanting modern Earth biomes onto a rotated map. Currents, ice, rainfall, erosion and independent geological history still need their own treatment.

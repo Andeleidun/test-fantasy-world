@@ -1,8 +1,8 @@
 # Erde, Dverghamar & Merenval
 
-A minimal, accessible worldbuilding guide for Erde, Dverghamar, Merenval and Merenval's living companion. It contains geography, ecology, peoples, language, maps, the selected three-star system and relevant cosmology. Plot, character dossiers and private author notes are outside its scope.
+An accessible guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Dverghamar, Merenval and its living companion.
 
-The site has 31 public articles and reference pages, 13 existing atlas sheets, the Stavmark writing chart, a 571-record Korvar dictionary and 98 translated language examples. The public edition presents the setting in subject-based articles. Original working documents retain their detailed decision history separately. A light/dark toggle follows the device preference initially and remembers a reader’s choice when browser storage is available.
+The current edition was synchronized from the [Public — Cultural Knowledge folder](https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt) on 18 September 2026. It contains **36 subject articles, a collection index, thirteen atlas subjects, 562 dictionary entries and 97 translated examples**. The atlas currently supplies text guides; older map artwork is outside this edition. The Stavmark writing chart remains consistent with the current writing guide.
 
 ## Run locally
 
@@ -16,32 +16,25 @@ npm run preview
 
 Open <http://localhost:4173/test-fantasy-world/>. The local server also supports the root path. Generated files are in `dist/` and are not committed.
 
-## Deploy with GitHub Actions
+## Current sources and synchronization
 
-In repository **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**. The checked-in workflow is `.github/workflows/pages.yml`.
+The live public Drive collection governs publication eligibility. `content/public/` contains its unchanged Markdown and data, plus a readable text export of the native index. `content/public-sync.json` maps all 44 files to source IDs, modification times, byte lengths and SHA-256 checksums. The import does not introduce additional authorial lore.
 
-Every push to `main` builds, checks internal links, runs browser and accessibility checks, uploads only `dist/`, then deploys to the `github-pages` environment. Pull requests run the same checks without deploying. **Actions → Build and deploy world guide → Run workflow** can publish the current main branch after enabling Pages or retry a deployment.
+The build resolves links between known public Drive files to local articles and downloads. Article H1 headings govern displayed titles when a catalog label lags a document revision. The detailed Gnome article has older catalog metadata; its current title and a content-based summary are used for display, as recorded in the sync manifest. Downloaded source catalogs retain the original wording.
 
-The expected project URL is <https://andeleidun.github.io/test-fantasy-world/>. A successful deployment reports its actual URL in the workflow environment. If Pages has not been enabled yet, the build can succeed while the deployment step fails; select GitHub Actions as the source and rerun the workflow.
+- Categories: `worlds`, `peoples`, `cosmology`, `language`, `maps` and `reference`.
+- Keep article IDs stable. New articles require catalog entries; every category needs navigation and a category page.
+- Maintain the exact six source datasets/indexes. TSVs live in `content/public/data/`; JSON files live directly in `content/public/`. Tests compare dictionary meanings, forms and row counts across formats.
+- `content/dictionary-anchors.json` preserves old numeric bookmarks for surviving words. Deterministic lexical anchors are used for new links. Removed entries do not redirect to a different word.
+- `scripts/public-edition.mjs` defines link resolution, related reading and the explicit asset allowlist. New illustrations require review before inclusion.
+- Public knowledge is bounded natural history, ordinary practitioner experience and attributed cultural accounts. Earlier public inclusion does not make technical or authorial material eligible today.
+- Plans and results for this update are recorded in [the synchronization record](docs/PUBLIC-SYNC-2026-09-18.md).
 
-The workflow follows [GitHub’s custom Pages workflow guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages). Actions are pinned to commit SHAs. Build permissions are read-only; Pages and OIDC write permissions are limited to the deployment job. No deployment secrets or third-party hosting account are required.
+## Historical research
 
-## Edit the lore
+Files directly in `content/` other than the current sync and anchor manifests, older `public/data/`, map artwork in `assets/maps/`, and prior scientific/editorial records under `docs/` are retained research history. They are not current public source authority and are not copied into the website. Their credits and evidence distinctions remain intact. The older Level 3 register is a historical research record; import coverage does not certify a fresh real-world source audit.
 
-Lore changes follow the Drive sources first: read and reference the current ledgers, restore any newer repository decisions to those documents, update and verify them, then synchronize the editorial and public files here. Record the source links and baseline in `content/SOURCES.md`. See `docs/DVERGHAMAR-SCIENTIFIC-REVIEW.md` for the current scientific assessment. Implementation-only site changes do not require inventing a lore revision.
-
-- Edit reader-facing Markdown in `content/public/`. Register articles in `content/public/catalog.json` with a unique ID, title, category, description, kind and Markdown filename. Each document has a title and uses relative `.md` article links, which the build translates to website routes.
-- Categories are `worlds`, `peoples`, `cosmology`, `language` and `maps`. Keep existing IDs stable to preserve links.
-- Edit `content/public/lexicon.json` for public vocabulary and `content/public/maps.json` for map captions. Preserve dictionary row order because row anchors are stable links.
-- Public downloads live in `content/public/data/`. The build generates the Common dictionary from the public lexicon; update its source TSV copy and regional meanings when editing vocabulary. Tests check that the downloads match.
-- Erde’s public identity and proposed names are documented in `docs/ERDE-NAMING-DIRECTION.md`. Earth correspondence and construction history stay authorial; proper-name proposals are selected before public use.
-- `python -m pip install -r scripts/editorial/requirements-atlas.txt` installs optional map-authoring dependencies. `python scripts/editorial/prepare-erde-atlas.py` redraws all five public Erde sheets from bundled geographic inputs using Equal Earth, an equal-area projection. Run `python scripts/editorial/test_erde_geometry.py` for numerical projection checks. Python is not needed to build the website; generated SVGs are committed. Legacy map URLs receive the public artwork during the build.
-- Shared illustrations and application files live in `assets/`. The build copies only approved public article/data inputs and these assets into `dist/`.
-- Original working Markdown, catalogs and data remain in `content/` and `public/data/`. They are not website inputs. This is an editorial split within a public repository, not an access-control boundary.
-- `content/public/README.md` maps articles to working sources. `content/SOURCES.md` records import provenance. Changes to Drive documents do not automatically update this publication.
-- The implementation plan and review record are in `docs/PUBLIC-EDITION-PLAN.md` and `docs/PUBLIC-EDITION-REVIEW.md`.
-
-Raw HTML in Markdown is disabled. The build generates complete HTML pages, heading anchors, a local search index and relative links that work beneath the repository prefix. No framework, client-side router, remote fonts, analytics, external API or runtime account is required.
+This repository is public. An editorial directory boundary does not restrict access, and this synchronization does not erase previously committed material from Git history. See [source notes](content/SOURCES.md) for the historical record and current boundary.
 
 ## Verify
 
@@ -51,10 +44,14 @@ npx playwright install --with-deps chromium
 npm run test:e2e
 ```
 
-Build checks cover internal links, section fragments, duplicate IDs, search destinations and the worldbuilding-only scope. Browser checks cover keyboard skip navigation, search and recovery from a failed request, dictionary filtering, no-JavaScript reading, horizontal overflow, theme persistence, system preferences, blocked storage, print appearance, search races, pagination, and automated WCAG A/AA checks in light and dark themes at 1440, 390 and 320 pixels. Automated checks do not replace a full manual accessibility audit or assistive-technology testing.
+Checks cover exact source checksums and folder coverage, local links and fragments, navigation, search destinations, publication assets, atlas anchors, dictionary identity and downloads. Browser tests cover search, keyboard access, no-JavaScript reading, themes, storage failure, narrow layouts and automated WCAG A/AA checks. Automated checks do not constitute a full manual accessibility audit.
 
-## Implementation
+## Deployment
 
-`scripts/build.mjs` renders Markdown at build time using Markdown-it. `assets/theme.js` applies saved appearance before styling; `assets/app.js` enhances the theme control, search and dictionary filtering. `assets/styles.css` contains the responsive layout, high-contrast focus styles, reduced-motion treatment and print styles. All articles and dictionary rows remain available with JavaScript disabled. Map captions explain the principal relationships and link to full-size SVG sheets.
+The existing GitHub Actions workflow builds, tests and deploys `dist/` on pushes to `main`. Pull requests run checks without deployment. Pages must use **GitHub Actions** as its source. Historical geography reconstruction checks remain in the workflow independently of the public edition.
 
-Worldbuilding content and original illustrations retain their owner’s rights; no blanket open-source license is assigned. Third-party land geometry is credited in `content/SOURCES.md`.
+The project URL is <https://andeleidun.github.io/test-fantasy-world/>. A successful workflow reports its deployment URL. No external runtime service, account, analytics, font or API is required by the reader.
+
+## Rights
+
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Existing third-party credits remain with their research records; no blanket open-source license is assigned.

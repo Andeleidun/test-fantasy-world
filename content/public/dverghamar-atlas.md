@@ -1,24 +1,39 @@
-# Maps of Dverghamar
+# Dverghamar: public atlas guide
 
-## Dverghamar in eight views
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
 
-These sheets show permanent day and night, the twilight habitat envelope, water circulation, ecological provinces and the landscapes supporting underground settlement.
+## Scope of this guide
 
-The regional scenes are illustrative: they explain how rivers, farms, power works, ventilation and homes relate to one another. They do not establish named continents or political territories. Climate ranges remain working targets, and underground sections distinguish height above a valley from thickness of overhead rock.
+These are public geographic subjects and reading notes. The earlier detailed SVG sheets have not been revised to the new knowledge boundary and are not linked as part of this edition. This page is not a replacement drawing or a surveyed map.
 
-Some sheets retain the older label “Dwarven Planet.” All refer to Dverghamar. Open any map for its full-size SVG; [reading the atlas](map-methods.md) explains the coordinate and scale conventions.
+## D1 · Day, night and twilight
 
-## Map sheets
+Sunward, dark and twilight landscapes; their boundaries do not guarantee fertile ground.
 
-- [D1 · Day night and twilight ring](../../assets/maps/D1-day-night-and-twilight-ring.svg): The star-facing and dark hemispheres meet along a great-circle terminator. The marked habitable envelope is provisional; the terminator itself is not a guaranteed biological boundary.
-- [D2 · Climate and surface life](../../assets/maps/D2-climate-and-surface-life.svg): The central dayside is hot, the deep nightside cold, and the twilight region intermediate. The lit habitat and the mostly dark fringe have different energy constraints.
-- [D3 · Ecological provinces](../../assets/maps/D3-ecological-provinces.svg): A hypothetical twilight sector contains wet provinces separated by rain shadows and salt basins. Passes and river valleys connect habitats; this is not a mapped continent.
-- [D4 · Water circulation](../../assets/maps/D4-water-circulation.svg): Water evaporates, condenses and returns through precipitation, rivers, aquifers and ice storage. Slow return from nightside storage is conditional and remains a model requirement.
-- [D5 · Mountain settlements and depth](../../assets/maps/D5-mountain-settlements-and-depth.svg): Mountain-city altitude is measured above surrounding terrain; rock cover is measured to the overlying surface. High-altitude rooms can have shallow cover, while lowland mines can be much deeper.
-- [D6 · Dwarven habitat preferences](../../assets/maps/D6-dwarven-habitat-preferences.svg): Five native dwarf species and a deep-massif subspecies occupy overlapping ecological settings. The diagram specifies habitat tendencies, not ethnic territories or political borders.
-- [D7 · City resource catchment](../../assets/maps/D7-city-resource-catchment.svg): A subsurface settlement depends on river power, farms, air exchange, transport and waste handling. The illustrative catchment makes those surface relationships visible.
-- [D8 · Lake and oasis habitats](../../assets/maps/D8-lake-and-oasis-habitats.svg): Large lakes can sustain oxygenated surface food webs above anoxic depths. Isolated subglacial oases rely on geological reductants and slow oxidant delivery, supporting far smaller consumers.
+## D2 · Landscape contrasts
 
-## Physical reading
+Hot dry ground, watered twilight districts and cold nightward country.
 
-The eight sheets retain their schematic geometry. Water pathways require validated transport conditions; the city plan shows local facilities within a much larger supporting region; oasis consumer size depends on production. The reference water inventory totals 240 million km³ water-equivalent, with sustainable fluxes still requiring a coupled model.
+## D3 · Habitats and passages
+
+Wet provinces, salt basins, rain shadows, valleys and passes; no new named continent is selected.
+
+## D4 · Water in the landscape
+
+Rivers, springs, lakes, glaciers and ice as encountered features; no global storage or transport accounting.
+
+## D5 · Mountain homes
+
+The distinction between elevation and the amount of rock over a room; no engineering depth or capacity table.
+
+## D6 · Dwarven habitats
+
+Overlapping habitat associations of related peoples, not exclusive ethnic or political territories.
+
+## D7 · Settlement and countryside
+
+Everyday relationships among homes, farms, roads and river works; no support calculations.
+
+## D8 · Lakes and isolated refuges
+
+Shorelines, large lake animals and reports of sparse life in isolated warm sites; no underlying biochemical model.

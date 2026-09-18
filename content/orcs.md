@@ -1,5 +1,7 @@
 # Orcs
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## Major peoples of the companion
 
 Orcs are major surface inhabitants of Merenval's living companion. Their societies include settled cities, agricultural and river communities, mobile pastoral networks, canyon and plateau settlements and many arrangements between them. Savannas, inland-sea margins, dry highlands and broad river valleys all support different Orc histories.

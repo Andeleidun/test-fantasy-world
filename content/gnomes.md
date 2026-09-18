@@ -1,5 +1,7 @@
 # Gnomes
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## A fungal-looking people
 
 Gnomes are small sapient inhabitants of Merenval's companion, commonly near three feet tall and strongly fungal in appearance. A genuinely fungal ancestry is the current preferred direction, not a completed anatomical model. Any final design must provide contractile movement, rapid signaling, gas and nutrient exchange, structural tissues and a plausible basis for concentrated cognition.

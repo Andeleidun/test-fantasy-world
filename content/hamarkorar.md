@@ -1,5 +1,7 @@
 ## People of the great rock masses
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 **Hamarkor** is the singular general native people-name; **Hamarkorar** is its plural. The components are **hamar**, crag or great rock mass, and **kor**, person.
 
 The name includes the native dwarven peoples across their different habitats and occupations. It is not a requirement that every individual live beneath a particular kind of rock or work as a stoneworker.

@@ -1,5 +1,7 @@
 # The Erde–Merenval–Dverghamar stellar system
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## Selected architecture and evidence status
 
 **System A**, a wide hierarchical triple, is the selected stellar architecture for current worldbuilding. It gives Erde, Merenval and Dverghamar distinct local host stars while keeping the three systems gravitationally related. The system's shared age is approximately **4.54 billion years**. Erde's chronology governs the system, and Dverghamar's early history follows the same coeval timeline. The architecture passes first-order hierarchy and circumstellar-orbit screens; it is not yet a long-duration N-body solution or a demonstrated formation and orbital history.

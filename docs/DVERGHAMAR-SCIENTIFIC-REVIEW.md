@@ -1,5 +1,7 @@
 # Dverghamar: scientific assessment and cohesive development plan
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 Research baseline: Google Drive scientific review document 38 and its governing ledgers, followed by `Andeleidun/test-fantasy-world` at commit `e99ab003561d1439afc2848027f7713ed12c7aba`. Drive is authoritative. This assessment separates observations and physical calculations from selected fiction, analogies, and untested models. It does not claim that an inhabited planet with these properties has been observed.
 
 ## Verdict

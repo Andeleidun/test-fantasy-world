@@ -1,5 +1,7 @@
 # Level 3 provenance standard
 
+> The policy remains useful; the repository Level 3 manifest records the 14 September research snapshot. Current public import coverage is independently recorded in `content/public-sync.json`. It does not prove a new Level 3 evidence audit.
+
 Level 3 provenance is required for every identifiable, deliberate and materially significant real-world source used by the project. It records what a source informed, how it was used, what it supports, and where fiction or uncertainty begins. It does not claim to recover unconscious influence, common fantasy vocabulary or coincidental resemblance.
 
 The canonical authorial policy and Otherworld register are in [Drive document 41](https://docs.google.com/document/d/1jjVMwY809mFxfuB0mswFlCXEeFO-RUQBECcT9ByZgU0/edit). The repository manifest in [`content/provenance.json`](../content/provenance.json) indexes the distributed Level 3 records and maps every public article to at least one covered domain. The longer [`content/SOURCES.md`](../content/SOURCES.md) file retains synchronization history and source-specific scientific notes.

@@ -1,5 +1,7 @@
 # Erde atlas projection update
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 ## Decision and scope
 
 Replace the five public Erde geographic sheets with **Equal Earth**, a pseudocylindrical equal-area projection. The contact sheet uses a regional crop of the same projection. This preserves relative areas while giving a balanced global view of shapes. It does not preserve all local angles, shapes, distances or bearings. No flat projection can do all of those things simultaneously.

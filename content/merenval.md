@@ -1,5 +1,7 @@
 # Merenval and its living companion
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## A binary pair of inhabited worlds
 
 Merenval is a near-Earth-gravity terrestrial world orbiting the K-type member of the selected wide hierarchical triple. System A's shared age is approximately 4.54 billion years. Erde's chronology governs the system, and Dverghamar follows the same coeval timeline. Merenval's inhabited companion is about one quarter of Earth's mass and follows a close mutual orbit. The barycenter lies far outside Merenval, making the pair an unequal binary terrestrial system even when inhabitants call the smaller world a moon.

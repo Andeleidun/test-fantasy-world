@@ -1,4 +1,7 @@
 
+
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## A practical classification, not one universal rock name
 
 The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The common register makes their descriptions interoperable by keeping **material**, **observed property**, **identified composition**, **origin**, and **tested use** separate.

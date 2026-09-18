@@ -1,5 +1,7 @@
 # Erde and the Dwarven Planet: map guide
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 This guide reproduces the 13 SVG sheets from the existing atlas. The original printable atlas contains 15 pages. Captions and the following methods describe the source maps and their limitations.
 
 ## Reading the maps

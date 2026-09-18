@@ -1,5 +1,7 @@
 # Erde public identity review
 
+> Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
+
 ## Direction
 
 Present Erde as its inhabitants’ primary world. Keep Earth geographic mappings and construction history in authorial documents. Develop native names without presuming modern Earth countries, cultures or ethnicities recur.

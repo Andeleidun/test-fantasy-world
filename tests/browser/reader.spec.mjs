@@ -38,10 +38,10 @@ test('worlds and dictionary remain readable without JavaScript', async ({ browse
   await expect(page.getByRole('heading', { name: 'The Hamarkorar', exact: true })).toBeVisible();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/merenval.html');
   await expect(page.getByRole('heading', { name: 'Merenval and its living companion', exact: true })).toBeVisible();
-  await page.getByRole('link', { name: 'Elven traditions', exact: true }).click();
+  await page.getByRole('link', { name: 'Elven peoples and traditions', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Elven peoples and traditions', exact: true })).toBeVisible();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/dictionary.html');
-  await expect(page.locator('#dictionary tbody tr')).toHaveCount(571);
+  await expect(page.locator('#dictionary tbody tr')).toHaveCount(562);
   await context.close();
 });
 
@@ -49,7 +49,7 @@ for (const theme of ['light', 'dark']) for (const width of [1440, 390, 320]) {
   test(`${theme} reader and accessibility at ${width}px`, async ({ page }) => {
     await page.emulateMedia({ colorScheme: theme });
     await page.setViewportSize({ width, height: 950 });
-    for (const path of ['./', 'erde.html', 'erde-atlas.html', 'dverghamar.html', 'merenval.html', 'stellar-system-reference.html', 'magic.html', 'elves.html', 'language-grammar.html', 'dverghamar-atlas.html', 'search.html', 'dictionary.html']) {
+    for (const path of ['./', 'erde.html', 'erde-atlas.html', 'dverghamar.html', 'merenval.html', 'stellar-system-reference.html', 'magic.html', 'elves.html', 'goblins.html', 'gnomes-full-reference.html', 'reference.html', 'language-grammar.html', 'dverghamar-atlas.html', 'search.html', 'dictionary.html']) {
       await page.goto(path);
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
       const results = await new AxeBuilder({ page }).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();
@@ -124,4 +124,18 @@ test('search ignores stale requests, paginates and uses only public text', async
   await expect(page.locator('#results li').nth(20).getByRole('link')).toBeFocused();
   await page.locator('#query').fill('supersession');
   await expect(page.locator('#search-status')).toContainText('No results');
+});
+
+
+test('new public references, local source links and text atlas are accessible', async ({ page }) => {
+  await page.goto('reference.html');
+  await page.getByRole('link', { name: /Gnomes: a comparative account/ }).click();
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Gnomes: a comparative account of body, house, kinship and craft');
+  await page.goto('search.html?q=Alchemical&category=peoples');
+  await expect(page.locator('#results')).toContainText('Goblins');
+  await page.goto('README.html');
+  await expect(page.locator('.prose a[href="goblins.html"]')).toBeVisible();
+  await page.goto('erde-atlas.html#e4');
+  await expect(page.locator('#e4')).toContainText('Ancestry and dispersal');
+  await expect(page.locator('img[src*="maps/"]')).toHaveCount(0);
 });

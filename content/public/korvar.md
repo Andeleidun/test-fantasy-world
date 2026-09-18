@@ -1,5 +1,7 @@
 # Korvar and the language family
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Shared speech, regional traditions
 
 **Hamarkorvar** names the language family. **Korvar**, literally people’s or public speech, is the taught interregional standard. **Hamarvar** retains its separate ridge-network language meaning.
@@ -21,7 +23,7 @@ Compounds are head-final. Their last noun identifies the kind of thing being nam
 
 ## Reading and speaking Korvar
 
-The guide includes **571 lexical records**, five regional language profiles, a practical writing system and **98 translated examples**. The broader vocabulary covers ordinary relationships and activities as well as geology, nurseries, farming and industrial work.
+The guide includes **562 lexical records**, five regional language profiles, a practical writing system and **97 translated examples**. The broader vocabulary covers ordinary relationships and activities as well as geology, nurseries, farming and industrial work.
 
 **Ek sere Hamarkor.**
 
@@ -35,16 +37,17 @@ Plural **-ar** attaches to the complete noun. The general people-name therefore 
 
 ## Explore the language
 
-- [Identity, sounds and word formation](language-foundation.md)
-- [The common grammar](language-grammar.md)
-- [Stone and material vocabulary](language-materials.md)
-- [Five regional languages](language-family.md)
-- [Writing, numbers and everyday use](language-writing.md)
-- [Korvar examples](language-examples.md)
-- [The complete Korvar dictionary](https://andeleidun.github.io/test-fantasy-world/dictionary.html)
+- [Identity, sounds and word formation](https://drive.google.com/file/d/1gQd3KwPHyqydBTxiF--2IbhGsG_CuBCR/view?usp=drivesdk)
+- [The common grammar](https://drive.google.com/file/d/1Ae1Zy56sGVBesktkQzZUQU4tflHlADiX/view?usp=drivesdk)
+- [Stone and material vocabulary](https://drive.google.com/file/d/1UUTzqkoOIBL5PNHkkN6FK2ZrUJyNDMIB/view?usp=drivesdk)
+- [Five regional languages](https://drive.google.com/file/d/16i7ZQKJazvm9zPODEAZWBijw_J01krtJ/view?usp=drivesdk)
+- [Writing, numbers and everyday use](https://drive.google.com/file/d/1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC/view?usp=drivesdk)
+- [Korvar examples](https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view?usp=drivesdk)
+- [The complete Korvar dictionary](https://drive.google.com/file/d/19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP/view)
 
 ## Reference data
 
-- [Download the Common dictionary (TSV)](data/korvar-lexicon.tsv)
-- [Download the aligned regional dictionary (TSV)](data/regional-dictionary.tsv)
-- [Download the translated examples (TSV)](data/korvar-examples.tsv)
+- [Download the Common dictionary (TSV)](https://drive.google.com/file/d/1kb2rUcNtguIzcAEZTJquDkNSFXT0cI1i/view?usp=drivesdk)
+- [Download the aligned regional dictionary (TSV)](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view?usp=drivesdk)
+- [Download the translated examples (TSV)](https://drive.google.com/file/d/12vcdIVCizsYezklErssPH90WPHHUBtnO/view?usp=drivesdk)
+

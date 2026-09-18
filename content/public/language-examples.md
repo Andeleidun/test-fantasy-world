@@ -1,8 +1,10 @@
 # Korvar in use
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Reading the examples
 
-Each entry gives a Korvar sentence, its English meaning and a brief explanation of the construction. The examples progress from identity and household language to questions, care, work and connected passages. Consult the [common grammar](language-grammar.md) for the full rules.
+Each entry gives a Korvar sentence, its English meaning and a brief explanation of the construction. The examples progress from identity and household language to questions, care, work and connected passages. Consult the [common grammar](https://drive.google.com/file/d/1Ae1Zy56sGVBesktkQzZUQU4tflHlADiX/view?usp=drivesdk) for the full rules.
 
 ### C01: I am a dwarf.
 
@@ -358,12 +360,6 @@ evidence: Particle states the claimed basis.
 
 reported_belief: Thought complement rather than asserted measurement.
 
-### C60: The egg is inside the egg compartment.
-
-**Da egg sere na da eggkelum.**
-
-reproduction: Egg distinct from compartment.
-
 ### C61: The child is in the nursery.
 
 **Da ner sere na da nerkelum.**
@@ -591,3 +587,4 @@ connected_sample: Time constituent before finite auxiliary.
 **Nu mole vir ventren.**
 
 connected_sample: Positive obligation in a connected technical exchange.
+

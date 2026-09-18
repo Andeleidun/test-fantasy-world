@@ -1,5 +1,7 @@
 ## Shared speech, regional traditions
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 **Hamarkorvar** names the language family. **Korvar**, literally people’s or public speech, is the taught interregional standard. **Hamarvar** retains its separate ridge-network language meaning.
 
 The family’s main sound and grammar inspirations are Nordic, Icelandic and German, with smaller echoes from other European roots. It is an invented family, not a claim that a real European ancestral language has been reconstructed. Real-world speakers must still learn its vocabulary.

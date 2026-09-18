@@ -1,5 +1,7 @@
 # Enchantments, heirlooms and artifacts
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+
 ## Magic prepared in advance
 
 Enchanting places part of a magical working into an object so it can later help reproduce, sustain or direct that effect. Some items do most of the work and can be used by someone with little magical ability. Others serve only as tools for a trained practitioner.
@@ -22,7 +24,7 @@ Repair is rarely a matter of replacing one interchangeable part. Another enchant
 
 Prepared scrolls and similar objects also decay. Durable examples require better craft, compatible materials and greater investment. Their apparent simplicity can conceal the work needed to make an effect safe for a later user.
 
-Magic does not combine reliably with electricity or digital devices. Rare practitioners may work with steam, water power or mechanical machinery, but this does not produce an ordinary electrical-magical industry.
+Practitioners report unreliable results when combining magic with electrical equipment. Rare practitioners may work with steam, water power or mechanical machinery, but this does not produce an ordinary electrical-magical industry.
 
 ## Objects shaped by use
 
@@ -38,12 +40,9 @@ An artifact can develop new tendencies as its history grows. A sword repeatedly 
 
 Artifact durability follows continuity rather than appearance. A ragged cloak may remain ragged while becoming extraordinarily hard to tear further. Careful repair over generations can preserve an artifact even as much of its material is replaced. A perfect new copy made after total destruction would not automatically inherit the same identity or history.
 
-## Spirits, souls and ethical limits
+## Spiritual objects and ethical limits
 
-Some prepared objects can hold spiritual energy associated with death. Cultures disagree sharply about whether this is useful, sacrilegious, exploitative or criminal, especially when a sapient death is involved.
+Some objects are associated with death, presences or attempts at spiritual contact. Cultures disagree sharply about their use, especially where a sapient death is involved. Practitioners distinguish impressions or residual effects from an apparent continuing person, while acknowledging that interpretation can fail.
 
-Binding a continuing soul is a different and far more serious act. A bound soul remains a person. The practice requires exceptional power, carries extreme danger and is treated as one of the gravest crimes in nearly every known society.
+Attempts to imprison a person through spiritual binding are treated as grave violations in many societies. The public ethical account does not explain the underlying soul mechanics.
 
-- [Magic in everyday life](magic.md)
-- [Practitioners and magical work](magic-practice.md)
-- [Spirits, souls and living worlds](cosmology-reference.md)

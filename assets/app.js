@@ -57,7 +57,7 @@ if (form) {
     const next = matches.slice(shown, shown + 20);
     for (const match of next) {
       const li = document.createElement('li');
-      const label = document.createElement('span'); label.className = 'eyebrow'; label.textContent = { worlds: 'Worlds', peoples: 'Peoples', cosmology: 'Cosmology', language: 'Language', maps: 'Maps' }[match.category] || match.category;
+      const label = document.createElement('span'); label.className = 'eyebrow'; label.textContent = { worlds: 'Worlds', peoples: 'Peoples', cosmology: 'Magic & belief', language: 'Language', maps: 'Atlas', reference: 'References' }[match.category] || match.category;
       const h2 = document.createElement('h2');
       const a = document.createElement('a'); a.href = match.href; a.textContent = match.title;
       h2.append(a);

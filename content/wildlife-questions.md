@@ -1,5 +1,7 @@
 > This reference contains open possibilities and selected working models. An option being discussed is not automatically established canon.
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 Purpose
 
 This document prevents settled questions from being accidentally reopened and organizes the unresolved choices that should drive the next interactive sessions. It also identifies evolutionary branch points through which the planet’s wildlife can be designed without copying Earth species.

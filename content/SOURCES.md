@@ -1,4 +1,13 @@
-# Source notes
+# Current public source authority
+
+The 18 September 2026 [Public — Cultural Knowledge collection](https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt) governs this publication. The complete 44-file import map, timestamps and checksums are in [`public-sync.json`](public-sync.json). The current public files are in [`public/`](public/); implementation decisions and validation are in [`PUBLIC-SYNC-2026-09-18.md`](../docs/PUBLIC-SYNC-2026-09-18.md).
+
+The edition contains 36 subject articles plus its collection README, six data/index files, and a native index exported as text. The dictionary has 562 entries and the examples file has 97 records. Thirteen atlas subjects have text guides, with no revised atlas artwork. The Stavmark chart was checked against the current writing guide and remains a reader asset.
+
+Earlier technical summaries, maps, source eligibility labels and publication counts below describe prior snapshots. They are retained for research traceability and attribution, not current publication authority. A prior `complete` provenance label is not a new audit of the 18 September material. No private source was added by this synchronization.
+
+## Historical source notes (through 14 September 2026)
+
 
 This is a worldbuilding-only publication snapshot. No plot, character dossiers, private author notes, raw connector responses, credentials or conversation exports are included.
 

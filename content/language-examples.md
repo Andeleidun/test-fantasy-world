@@ -1,5 +1,7 @@
 ## Reading the examples
 
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 These 98 authored examples belong to the current Korvar reference. They illustrate the declared grammar; they do not claim native-speaker validation.
 
 ### C01: I am a dwarf.

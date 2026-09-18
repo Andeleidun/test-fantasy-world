@@ -1,7 +1,7 @@
 import { access, readFile } from 'node:fs/promises';
 
 const manifest = JSON.parse(await readFile('content/provenance.json', 'utf8'));
-const publicCatalog = JSON.parse(await readFile('content/public/catalog.json', 'utf8'));
+
 
 const assert = (condition, message) => {
   if (!condition) throw new Error(message);
@@ -44,7 +44,9 @@ for (const group of manifest.otherworldSourceGroups) {
   if (group.status === 'candidate') assert(group.relationship.every(item => item === 'candidate'), `Candidate ${group.id} cannot be recorded as adopted`);
 }
 
-const published = new Set(publicCatalog.map(page => page.file));
+const published = new Set(manifest.historicalPublicFiles);
+assert(manifest.snapshotDate === '2026-09-14', 'Historical publication baseline must be explicit');
+unique(manifest.historicalPublicFiles, 'historical public file');
 const mapped = new Set();
 for (const domain of manifest.coverage) {
   assert(domain.status === 'complete', `Incomplete Level 3 domain: ${domain.id}`);
@@ -60,4 +62,4 @@ for (const domain of manifest.coverage) {
 
 const missing = [...published].filter(file => !mapped.has(file));
 assert(missing.length === 0, `Public files without Level 3 coverage: ${missing.join(', ')}`);
-console.log(`Validated Level 3 provenance: ${manifest.coverage.length} domains, ${manifest.authorityDocuments.length} authorities, ${manifest.otherworldSourceGroups.length} Otherworld source groups and ${mapped.size} public files.`);
+console.log(`Validated historical Level 3 register: ${manifest.coverage.length} domains, ${manifest.authorityDocuments.length} authorities, ${manifest.otherworldSourceGroups.length} Otherworld source groups and ${mapped.size} public files.`);

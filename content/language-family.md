@@ -1,4 +1,7 @@
 
+
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+
 ## Historical scenario and its limits
 
 The following is an implemented **working historical scenario**. Its sequence is part of the reference design; absolute dates and named migration routes remain adjustable to future maps and history. It neither redates dwarven biological evolution nor explains the current census through an invented catastrophe.
