@@ -1,0 +1,258 @@
+[
+  {
+    "id": "erde",
+    "label": "Erde",
+    "title": "Erde",
+    "description": "River basins, mountain refuges and island passages connect Erde’s peoples. Their histories follow those routes, from early settlement to the institutions that govern water, travel and healing.",
+    "hero": "erde-river-country",
+    "chapters": [
+      {
+        "id": "landscape",
+        "title": "Landscape and peoples",
+        "sources": [
+          "erde"
+        ]
+      },
+      {
+        "id": "atlas",
+        "title": "Maps and regional routes",
+        "sources": [
+          "erde-atlas"
+        ]
+      },
+      {
+        "id": "ancestry",
+        "title": "Ancestry and early settlement",
+        "sources": [
+          "erde-reference"
+        ]
+      },
+      {
+        "id": "regional-history",
+        "title": "Regional histories and institutions",
+        "sources": [
+          "erde-history-full-reference"
+        ]
+      },
+      {
+        "id": "goblins",
+        "title": "Goblins",
+        "sources": [
+          "goblins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dverghamar",
+    "label": "Dverghamar",
+    "title": "Dverghamar",
+    "description": "A world of permanent day, night and twilight. Its inhabited valleys support farms and mountain homes, with Hamarkorar, Thals and Jotun living across overlapping landscapes.",
+    "hero": "dverghamar-twilight",
+    "chapters": [
+      {
+        "id": "landscape",
+        "title": "Light, landscape and settlement",
+        "sources": [
+          "dverghamar",
+          "dverghamar-reference"
+        ]
+      },
+      {
+        "id": "atlas",
+        "title": "Maps of habitats and mountain life",
+        "sources": [
+          "dverghamar-atlas"
+        ]
+      },
+      {
+        "id": "hamarkorar",
+        "title": "The Hamarkorar",
+        "sources": [
+          "hamarkorar",
+          "evolution-reference"
+        ]
+      },
+      {
+        "id": "wildlife",
+        "title": "Habitats and wildlife",
+        "sources": [
+          "wildlife-questions"
+        ]
+      },
+      {
+        "id": "thals",
+        "title": "The Thals",
+        "sources": [
+          "thals"
+        ]
+      },
+      {
+        "id": "jotuns",
+        "title": "The Jotun",
+        "sources": [
+          "jotuns",
+          "jotuns-full-reference"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "merenval",
+    "label": "Merenval",
+    "title": "Merenval and its living companion",
+    "description": "Merenval’s seas and forests face a companion of plateaus, pillars and caverns. Elves, Gnomes and Orcs inhabit the pair, with long histories of travel and exchange.",
+    "hero": "merenval-coast",
+    "chapters": [
+      {
+        "id": "paired-worlds",
+        "title": "The two worlds",
+        "sources": [
+          "merenval",
+          "merenval-reference"
+        ]
+      },
+      {
+        "id": "elves",
+        "title": "Elven peoples and traditions",
+        "sources": [
+          "elves"
+        ]
+      },
+      {
+        "id": "gnomes",
+        "title": "Gnomes and their living houses",
+        "sources": [
+          "gnomes-full-reference",
+          "gnomes"
+        ]
+      },
+      {
+        "id": "orcs",
+        "title": "Orcs",
+        "sources": [
+          "orcs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "magic",
+    "label": "Magic and belief",
+    "title": "Magic and belief",
+    "description": "Magic is learned through practice, teaching and the demands of everyday life. Work with objects, living companions and spirits brings different abilities, obligations and uncertainties.",
+    "chapters": [
+      {
+        "id": "everyday-magic",
+        "title": "Magic in everyday life",
+        "sources": [
+          "magic"
+        ]
+      },
+      {
+        "id": "practitioners",
+        "title": "Practitioners and magical work",
+        "sources": [
+          "magic-practice"
+        ]
+      },
+      {
+        "id": "objects",
+        "title": "Enchantments, heirlooms and artifacts",
+        "sources": [
+          "enchanted-objects"
+        ]
+      },
+      {
+        "id": "familiars",
+        "title": "Familiars and shapeshifting",
+        "sources": [
+          "familiar-magic"
+        ]
+      },
+      {
+        "id": "spiritual-practice",
+        "title": "Spiritual practice and the dead",
+        "sources": [
+          "cosmology-reference"
+        ]
+      },
+      {
+        "id": "otherworld",
+        "title": "The Otherworld",
+        "sources": [
+          "otherworld"
+        ]
+      },
+      {
+        "id": "beliefs",
+        "title": "Religious authority and dangerous boundaries",
+        "sources": [
+          "people-beliefs-and-boundaries"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "korvar",
+    "label": "Korvar",
+    "title": "Korvar: language and dictionary",
+    "description": "The shared speech of the Hamarkorar, from a first sentence to the full grammar. Pronunciation, regional languages, writing and all 562 dictionary records are gathered here.",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Getting started",
+        "sources": [
+          "korvar"
+        ]
+      },
+      {
+        "id": "sounds",
+        "title": "Names, sounds and word formation",
+        "sources": [
+          "language-foundation"
+        ]
+      },
+      {
+        "id": "grammar",
+        "title": "The common grammar",
+        "sources": [
+          "language-grammar"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "Stone and material vocabulary",
+        "sources": [
+          "language-materials"
+        ]
+      },
+      {
+        "id": "regional-languages",
+        "title": "Five regional languages",
+        "sources": [
+          "language-family"
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Writing and everyday use",
+        "sources": [
+          "language-writing"
+        ]
+      },
+      {
+        "id": "examples",
+        "title": "Korvar in use: 97 examples",
+        "sources": [
+          "language-examples"
+        ]
+      },
+      {
+        "id": "dictionary-section",
+        "title": "Dictionary",
+        "sources": []
+      }
+    ]
+  }
+]

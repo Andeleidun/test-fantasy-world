@@ -1,0 +1,2035 @@
+[
+  {
+    "source": "erde.md",
+    "sourceAnchor": "",
+    "destination": "erde.html#landscape",
+    "status": "included"
+  },
+  {
+    "source": "erde.md",
+    "sourceAnchor": "the-lands-of-erde",
+    "destination": "erde.html#the-lands-of-erde",
+    "status": "included"
+  },
+  {
+    "source": "erde.md",
+    "sourceAnchor": "peoples-and-deep-history",
+    "destination": "erde.html#peoples-and-deep-history",
+    "status": "included"
+  },
+  {
+    "source": "erde.md",
+    "sourceAnchor": "landscapes-and-learned-magic",
+    "destination": "erde.html#landscapes-and-learned-magic",
+    "status": "included"
+  },
+  {
+    "source": "erde.md",
+    "sourceAnchor": "the-thal-departure",
+    "destination": "erde.html#the-thal-departure",
+    "status": "included"
+  },
+  {
+    "source": "erde.md",
+    "sourceAnchor": "further-reading",
+    "destination": "erde.html#landscape",
+    "status": "merged",
+    "reason": "Navigation is supplied by the page contents and contextual links."
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "",
+    "destination": "erde.html#atlas",
+    "status": "included"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "scope-of-this-guide",
+    "destination": "erde.html#erde-atlas--scope-of-this-guide",
+    "status": "updated"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "e1",
+    "destination": "erde.html#e1",
+    "status": "included"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "e2",
+    "destination": "erde.html#e2",
+    "status": "included"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "e3",
+    "destination": "erde.html#e3",
+    "status": "included"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "e4",
+    "destination": "erde.html#e4",
+    "status": "included"
+  },
+  {
+    "source": "erde-atlas.md",
+    "sourceAnchor": "e5",
+    "destination": "erde.html#e5",
+    "status": "included"
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "",
+    "destination": "erde.html#ancestry",
+    "status": "included"
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "deep-ancestry",
+    "destination": "erde.html#erde-reference--deep-ancestry",
+    "status": "included"
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "early-continental-settlement",
+    "destination": "erde.html#erde-reference--early-continental-settlement",
+    "status": "included"
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "contact-and-successor-communities",
+    "destination": "erde.html#erde-reference--contact-and-successor-communities",
+    "status": "included"
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "great-watersheds",
+    "destination": "erde.html#erde-history-full-reference--great-watersheds",
+    "status": "merged",
+    "reason": "The full regional account retains the institutions, river defenses, costs, exceptional acts and coastal bypass."
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "volcanic-hinge",
+    "destination": "erde.html#erde-history-full-reference--volcanic-hinge",
+    "status": "merged",
+    "reason": "The full account retains refuges, warning authority, volcanic practice, mixed ports and local continuity."
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "highland-spine",
+    "destination": "erde.html#erde-history-full-reference--highland-spine",
+    "status": "merged",
+    "reason": "The full account retains vertical exchange, altitude practice, preparation and the spread of knowledge."
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "equatorial-basin",
+    "destination": "erde.html#erde-history-full-reference--equatorial-basin",
+    "status": "merged",
+    "reason": "The full account retains river gardens, ecological medicine, signaling, kinship, shapeshifting and contact geography."
+  },
+  {
+    "source": "erde-reference.md",
+    "sourceAnchor": "learned-traditions-and-individual-lives",
+    "destination": "erde.html#erde-reference--learned-traditions-and-individual-lives",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "",
+    "destination": "erde.html#regional-history",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "chronology-and-ancestry",
+    "destination": "erde.html#erde-history-full-reference--chronology-and-ancestry",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "great-watersheds",
+    "destination": "erde.html#erde-history-full-reference--great-watersheds",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "river-defenses-and-coastal-voyages",
+    "destination": "erde.html#erde-history-full-reference--river-defenses-and-coastal-voyages",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "councils-and-hydrological-orders",
+    "destination": "erde.html#erde-history-full-reference--councils-and-hydrological-orders",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "volcanic-hinge",
+    "destination": "erde.html#erde-history-full-reference--volcanic-hinge",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "warning-systems-and-maritime-settlements",
+    "destination": "erde.html#erde-history-full-reference--warning-systems-and-maritime-settlements",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "highland-spine",
+    "destination": "erde.html#erde-history-full-reference--highland-spine",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "refuge-houses-and-mountain-travel",
+    "destination": "erde.html#erde-history-full-reference--refuge-houses-and-mountain-travel",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "equatorial-basin",
+    "destination": "erde.html#erde-history-full-reference--equatorial-basin",
+    "status": "included"
+  },
+  {
+    "source": "erde-history-full-reference.md",
+    "sourceAnchor": "river-garden-houses",
+    "destination": "erde.html#erde-history-full-reference--river-garden-houses",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "",
+    "destination": "erde.html#goblins",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "the-name-and-its-difficulties",
+    "destination": "erde.html#goblins--the-name-and-its-difficulties",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "affinities-with-humankind",
+    "destination": "erde.html#goblins--affinities-with-humankind",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "changeable-form",
+    "destination": "erde.html#goblins--changeable-form",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "habitations-and-recurring-forms",
+    "destination": "erde.html#goblins--habitations-and-recurring-forms",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "strange-passages",
+    "destination": "erde.html#goblins--strange-passages",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "descent-mixture-and-fertility",
+    "destination": "erde.html#goblins--descent-mixture-and-fertility",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "mind-society-and-moral-character",
+    "destination": "erde.html#goblins--mind-society-and-moral-character",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "the-green-alchemical-lineage",
+    "destination": "erde.html#goblins--the-green-alchemical-lineage",
+    "status": "included"
+  },
+  {
+    "source": "goblins.md",
+    "sourceAnchor": "limits-of-the-present-account",
+    "destination": "erde.html#goblins--limits-of-the-present-account",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#landscape",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar.md",
+    "sourceAnchor": "permanent-day-night-and-twilight",
+    "destination": "dverghamar.html#permanent-day-night-and-twilight",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar.md",
+    "sourceAnchor": "rivers-lakes-and-homes",
+    "destination": "dverghamar.html#rivers-lakes-and-homes",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar.md",
+    "sourceAnchor": "peoples",
+    "destination": "dverghamar.html#peoples",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#landscape",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "rock-and-relief",
+    "destination": "dverghamar.html#dverghamar-reference--rock-and-relief",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "the-twilight-provinces",
+    "destination": "dverghamar.html#dverghamar-reference--the-twilight-provinces",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "water-and-food",
+    "destination": "dverghamar.html#dverghamar-reference--water-and-food",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "homes-inside-rock",
+    "destination": "dverghamar.html#dverghamar-reference--homes-inside-rock",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-reference.md",
+    "sourceAnchor": "neighbors-and-journeys",
+    "destination": "dverghamar.html#dverghamar-reference--neighbors-and-journeys",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#atlas",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "scope-of-this-guide",
+    "destination": "dverghamar.html#dverghamar-atlas--scope-of-this-guide",
+    "status": "updated"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d1",
+    "destination": "dverghamar.html#d1",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d2",
+    "destination": "dverghamar.html#d2",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d3",
+    "destination": "dverghamar.html#d3",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d4",
+    "destination": "dverghamar.html#d4",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d5",
+    "destination": "dverghamar.html#d5",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d6",
+    "destination": "dverghamar.html#d6",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d7",
+    "destination": "dverghamar.html#d7",
+    "status": "included"
+  },
+  {
+    "source": "dverghamar-atlas.md",
+    "sourceAnchor": "d8",
+    "destination": "dverghamar.html#d8",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#hamarkorar",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "people-of-the-great-rock-masses",
+    "destination": "dverghamar.html#hamarkorar--people-of-the-great-rock-masses",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "four-arms-and-two-legs",
+    "destination": "dverghamar.html#hamarkorar--four-arms-and-two-legs",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "related-peoples-in-different-habitats",
+    "destination": "dverghamar.html#hamarkorar--related-peoples-in-different-habitats",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "adaptation-and-senses",
+    "destination": "dverghamar.html#hamarkorar--adaptation-and-senses",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "care-and-households",
+    "destination": "dverghamar.html#hamarkorar--care-and-households",
+    "status": "included"
+  },
+  {
+    "source": "hamarkorar.md",
+    "sourceAnchor": "household-life-and-material-knowledge",
+    "destination": "dverghamar.html#hamarkorar--household-life-and-material-knowledge",
+    "status": "included"
+  },
+  {
+    "source": "evolution-reference.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#hamarkorar",
+    "status": "included"
+  },
+  {
+    "source": "evolution-reference.md",
+    "sourceAnchor": "native-descent",
+    "destination": "dverghamar.html#evolution-reference--native-descent",
+    "status": "included"
+  },
+  {
+    "source": "evolution-reference.md",
+    "sourceAnchor": "a-six-limbed-ancestry",
+    "destination": "dverghamar.html#evolution-reference--a-six-limbed-ancestry",
+    "status": "included"
+  },
+  {
+    "source": "evolution-reference.md",
+    "sourceAnchor": "diversification-and-habitat",
+    "destination": "dverghamar.html#evolution-reference--diversification-and-habitat",
+    "status": "included"
+  },
+  {
+    "source": "evolution-reference.md",
+    "sourceAnchor": "care-learning-and-later-history",
+    "destination": "dverghamar.html#evolution-reference--care-learning-and-later-history",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#wildlife",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "lit-and-watered-country",
+    "destination": "dverghamar.html#wildlife-questions--lit-and-watered-country",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "native-animals",
+    "destination": "dverghamar.html#wildlife-questions--native-animals",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "lakes-and-shorelines",
+    "destination": "dverghamar.html#wildlife-questions--lakes-and-shorelines",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "hot-margins-and-dark-country",
+    "destination": "dverghamar.html#wildlife-questions--hot-margins-and-dark-country",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "caves-and-settlements",
+    "destination": "dverghamar.html#wildlife-questions--caves-and-settlements",
+    "status": "included"
+  },
+  {
+    "source": "wildlife-questions.md",
+    "sourceAnchor": "open-public-descriptions",
+    "destination": "dverghamar.html#wildlife-questions--open-public-descriptions",
+    "status": "included"
+  },
+  {
+    "source": "thals.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#thals",
+    "status": "included"
+  },
+  {
+    "source": "thals.md",
+    "sourceAnchor": "from-erde-to-dverghamar",
+    "destination": "dverghamar.html#thals--from-erde-to-dverghamar",
+    "status": "included"
+  },
+  {
+    "source": "thals.md",
+    "sourceAnchor": "mountain-refuge-life",
+    "destination": "dverghamar.html#thals--mountain-refuge-life",
+    "status": "included"
+  },
+  {
+    "source": "thals.md",
+    "sourceAnchor": "neighbors-and-continuity",
+    "destination": "dverghamar.html#thals--neighbors-and-continuity",
+    "status": "included"
+  },
+  {
+    "source": "jotuns.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#jotuns",
+    "status": "included"
+  },
+  {
+    "source": "jotuns.md",
+    "sourceAnchor": "mountain-people",
+    "destination": "dverghamar.html#jotuns--mountain-people",
+    "status": "included"
+  },
+  {
+    "source": "jotuns.md",
+    "sourceAnchor": "homes-and-journeys",
+    "destination": "dverghamar.html#jotuns--homes-and-journeys",
+    "status": "included"
+  },
+  {
+    "source": "jotuns.md",
+    "sourceAnchor": "different-reputations",
+    "destination": "dverghamar.html#jotuns-full-reference--authority-and-difference",
+    "status": "merged",
+    "reason": "The detailed account retains hospitable and violent communities and exaggerated giant stories."
+  },
+  {
+    "source": "jotuns-full-reference.md",
+    "sourceAnchor": "",
+    "destination": "dverghamar.html#jotuns",
+    "status": "included"
+  },
+  {
+    "source": "jotuns-full-reference.md",
+    "sourceAnchor": "mountain-belonging",
+    "destination": "dverghamar.html#jotuns--mountain-people",
+    "status": "merged",
+    "reason": "The preceding Jotun introduction retains cold adaptation, mountain belonging, uncertain anatomy and demanding travel."
+  },
+  {
+    "source": "jotuns-full-reference.md",
+    "sourceAnchor": "authority-and-difference",
+    "destination": "dverghamar.html#jotuns-full-reference--authority-and-difference",
+    "status": "included"
+  },
+  {
+    "source": "jotuns-full-reference.md",
+    "sourceAnchor": "atrocity-and-exaggeration",
+    "destination": "dverghamar.html#jotuns-full-reference--atrocity-and-exaggeration",
+    "status": "included"
+  },
+  {
+    "source": "jotuns-full-reference.md",
+    "sourceAnchor": "open-details",
+    "destination": "dverghamar.html#jotuns-full-reference--open-details",
+    "status": "included"
+  },
+  {
+    "source": "merenval.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#paired-worlds",
+    "status": "included"
+  },
+  {
+    "source": "merenval.md",
+    "sourceAnchor": "two-inhabited-worlds",
+    "destination": "merenval.html#two-inhabited-worlds",
+    "status": "included"
+  },
+  {
+    "source": "merenval.md",
+    "sourceAnchor": "related-life-different-landscapes",
+    "destination": "merenval.html#related-life-different-landscapes",
+    "status": "included"
+  },
+  {
+    "source": "merenval.md",
+    "sourceAnchor": "peoples",
+    "destination": "merenval.html#peoples",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#paired-worlds",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "seas-and-coasts",
+    "destination": "merenval.html#merenval-reference--seas-and-coasts",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "plateaus-pillars-and-caverns",
+    "destination": "merenval.html#merenval-reference--plateaus-pillars-and-caverns",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "elven-traditions-and-exchange",
+    "destination": "merenval.html#merenval-reference--elven-traditions-and-exchange",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "natural-history-and-remembered-journeys",
+    "destination": "merenval.html#merenval-reference--natural-history-and-remembered-journeys",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "dorrenath",
+    "destination": "merenval.html#merenval-reference--dorrenath",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#elves",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "one-people-across-two-worlds",
+    "destination": "merenval.html#elves--one-people-across-two-worlds",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "four-traditions-three-approaches",
+    "destination": "merenval.html#elves--four-traditions-three-approaches",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "sylvans-of-merenval",
+    "destination": "merenval.html#elves--sylvans-of-merenval",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "peoples-of-the-companion",
+    "destination": "merenval.html#elves--peoples-of-the-companion",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "dorrenath-and-the-wayroots",
+    "destination": "merenval.html#elves--dorrenath-and-the-wayroots",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#gnomes",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "on-the-breadth-of-the-gnome-peoples",
+    "destination": "merenval.html#gnomes-full-reference--on-the-breadth-of-the-gnome-peoples",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "the-assembled-body",
+    "destination": "merenval.html#gnomes-full-reference--the-assembled-body",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "birth-childhood-and-bodily-descent",
+    "destination": "merenval.html#gnomes-full-reference--birth-childhood-and-bodily-descent",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "the-living-house",
+    "destination": "merenval.html#gnomes-full-reference--the-living-house",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "propagation-and-household-founding",
+    "destination": "merenval.html#gnomes-full-reference--propagation-and-household-founding",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "houses-spirits-and-the-dead",
+    "destination": "merenval.html#gnomes-full-reference--houses-spirits-and-the-dead",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "houses-that-awaken",
+    "destination": "merenval.html#gnomes-full-reference--houses-that-awaken",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "growing-into-the-otherworld",
+    "destination": "merenval.html#gnomes-full-reference--growing-into-the-otherworld",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "dethreading",
+    "destination": "merenval.html#gnomes-full-reference--dethreading",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "perception-assay-and-medicine",
+    "destination": "merenval.html#gnomes-full-reference--perception-assay-and-medicine",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "mechanism-and-industry",
+    "destination": "merenval.html#gnomes-full-reference--mechanism-and-industry",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "government-beyond-the-household",
+    "destination": "merenval.html#gnomes-full-reference--government-beyond-the-household",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "the-incomparable-city-house",
+    "destination": "merenval.html#gnomes-full-reference--the-incomparable-city-house",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "variation-and-disagreement",
+    "destination": "merenval.html#gnomes-full-reference--variation-and-disagreement",
+    "status": "included"
+  },
+  {
+    "source": "gnomes-full-reference.md",
+    "sourceAnchor": "limits-of-this-account",
+    "destination": "merenval.html#gnomes-full-reference--limits-of-this-account",
+    "status": "included"
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#gnomes",
+    "status": "included"
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "a-diverse-people",
+    "destination": "merenval.html#gnomes-full-reference--on-the-breadth-of-the-gnome-peoples",
+    "status": "merged",
+    "reason": "The comparative account describes diversity, approximate stature, relatedness and bodily organization."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "body-and-medicine",
+    "destination": "merenval.html#gnomes-full-reference--the-assembled-body",
+    "status": "merged",
+    "reason": "The comparative account retains bodily tissues, repair, hazards and mineralization; its Dethreading section retains passage and rescue medicine."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "living-houses-and-kinship",
+    "destination": "merenval.html#gnomes-full-reference--the-living-house",
+    "status": "merged",
+    "reason": "The living-house and household-founding sections retain organisms, frames, habitats, childhood houses and kinship."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "houses-ancestors-and-awakening",
+    "destination": "merenval.html#gnomes-full-reference--houses-spirits-and-the-dead",
+    "status": "merged",
+    "reason": "The full spirit and awakening sections retain the distinctions, recognition disputes and defenses."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "otherworld-cultivation",
+    "destination": "merenval.html#gnomes-full-reference--growing-into-the-otherworld",
+    "status": "merged",
+    "reason": "The full cultivation section retains roots, rooms, organism differences and the hazards of connection."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "craft-and-society",
+    "destination": "merenval.html#gnomes-full-reference--perception-assay-and-medicine",
+    "status": "merged",
+    "reason": "The full account retains assay, machinery and the varied political relationship between house and state."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "a-city-that-is-one-house",
+    "destination": "merenval.html#gnomes-full-reference--the-incomparable-city-house",
+    "status": "merged",
+    "reason": "The full city-house account retains its personhood, lineage, neighborhoods and Otherworld spaces."
+  },
+  {
+    "source": "gnomes.md",
+    "sourceAnchor": "neighbors",
+    "destination": "merenval.html#gnomes--neighbors",
+    "status": "included"
+  },
+  {
+    "source": "orcs.md",
+    "sourceAnchor": "",
+    "destination": "merenval.html#orcs",
+    "status": "included"
+  },
+  {
+    "source": "orcs.md",
+    "sourceAnchor": "ancestry-and-body",
+    "destination": "merenval.html#orcs--ancestry-and-body",
+    "status": "included"
+  },
+  {
+    "source": "orcs.md",
+    "sourceAnchor": "strength-and-agreed-terms",
+    "destination": "merenval.html#orcs--strength-and-agreed-terms",
+    "status": "included"
+  },
+  {
+    "source": "orcs.md",
+    "sourceAnchor": "two-worlds",
+    "destination": "merenval.html#orcs--two-worlds",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#everyday-magic",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "magic-in-the-community",
+    "destination": "magic.html#magic-in-the-community",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "learning-magic",
+    "destination": "magic.html#learning-magic",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "what-people-notice",
+    "destination": "magic.html#what-people-notice",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "cost-and-recovery",
+    "destination": "magic.html#cost-and-recovery",
+    "status": "included"
+  },
+  {
+    "source": "magic.md",
+    "sourceAnchor": "magic-people-commonly-seek",
+    "destination": "magic.html#magic-people-commonly-seek",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#practitioners",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "discovering-an-affinity",
+    "destination": "magic.html#magic-practice--discovering-an-affinity",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "training-and-specialization",
+    "destination": "magic.html#magic-practice--training-and-specialization",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "healing-protection-and-practical-work",
+    "destination": "magic.html#magic-practice--healing-protection-and-practical-work",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "messages-scrying-and-testimony",
+    "destination": "magic.html#magic-practice--messages-scrying-and-testimony",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "travel-and-movement",
+    "destination": "magic.html#magic-practice--travel-and-movement",
+    "status": "included"
+  },
+  {
+    "source": "magic-practice.md",
+    "sourceAnchor": "law-reputation-and-power",
+    "destination": "magic.html#magic-practice--law-reputation-and-power",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#objects",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "magic-prepared-in-advance",
+    "destination": "magic.html#enchanted-objects--magic-prepared-in-advance",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "objects-in-ordinary-life",
+    "destination": "magic.html#enchanted-objects--objects-in-ordinary-life",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "charges-wear-and-repair",
+    "destination": "magic.html#enchanted-objects--charges-wear-and-repair",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "objects-shaped-by-use",
+    "destination": "magic.html#enchanted-objects--objects-shaped-by-use",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "how-artifacts-emerge",
+    "destination": "magic.html#enchanted-objects--how-artifacts-emerge",
+    "status": "included"
+  },
+  {
+    "source": "enchanted-objects.md",
+    "sourceAnchor": "spiritual-objects-and-ethical-limits",
+    "destination": "magic.html#enchanted-objects--spiritual-objects-and-ethical-limits",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#familiars",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "a-mutual-relationship",
+    "destination": "magic.html#familiar-magic--a-mutual-relationship",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "learning-to-change",
+    "destination": "magic.html#familiar-magic--learning-to-change",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "mastery-and-endurance",
+    "destination": "magic.html#familiar-magic--mastery-and-endurance",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "injury-and-recovery",
+    "destination": "magic.html#familiar-magic--injury-and-recovery",
+    "status": "included"
+  },
+  {
+    "source": "familiar-magic.md",
+    "sourceAnchor": "clothing-and-equipment",
+    "destination": "magic.html#familiar-magic--clothing-and-equipment",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#spiritual-practice",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "what-a-practitioner-can-encounter",
+    "destination": "magic.html#cosmology-reference--what-a-practitioner-can-encounter",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "preparing-communion",
+    "destination": "magic.html#cosmology-reference--preparing-communion",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "welcome-refusal-and-obligation",
+    "destination": "magic.html#cosmology-reference--welcome-refusal-and-obligation",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "households-and-ancestors",
+    "destination": "magic.html#cosmology-reference--households-and-ancestors",
+    "status": "included"
+  },
+  {
+    "source": "cosmology-reference.md",
+    "sourceAnchor": "limits-of-testimony",
+    "destination": "magic.html#cosmology-reference--limits-of-testimony",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#otherworld",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "a-name-for-unfamiliar-places",
+    "destination": "magic.html#otherworld--a-name-for-unfamiliar-places",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "fay-courts-and-dangerous-hospitality",
+    "destination": "magic.html#otherworld--fay-courts-and-dangerous-hospitality",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "dragons-and-other-beings",
+    "destination": "magic.html#otherworld--dragons-and-other-beings",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "time-loss-and-return",
+    "destination": "magic.html#otherworld--time-loss-and-return",
+    "status": "included"
+  },
+  {
+    "source": "otherworld.md",
+    "sourceAnchor": "sacred-trees-and-ancestral-stories",
+    "destination": "magic.html#otherworld--sacred-trees-and-ancestral-stories",
+    "status": "included"
+  },
+  {
+    "source": "people-beliefs-and-boundaries.md",
+    "sourceAnchor": "",
+    "destination": "magic.html#beliefs",
+    "status": "included"
+  },
+  {
+    "source": "people-beliefs-and-boundaries.md",
+    "sourceAnchor": "public-office-and-religious-claims",
+    "destination": "magic.html#people-beliefs-and-boundaries--public-office-and-religious-claims",
+    "status": "included"
+  },
+  {
+    "source": "people-beliefs-and-boundaries.md",
+    "sourceAnchor": "belief-and-interpretation",
+    "destination": "magic.html#people-beliefs-and-boundaries--belief-and-interpretation",
+    "status": "included"
+  },
+  {
+    "source": "people-beliefs-and-boundaries.md",
+    "sourceAnchor": "the-howling-void-in-warnings-and-belief",
+    "destination": "magic.html#people-beliefs-and-boundaries--the-howling-void-in-warnings-and-belief",
+    "status": "included"
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#getting-started",
+    "status": "included"
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "the-shared-language",
+    "destination": "korvar.html#the-shared-language",
+    "status": "included"
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "basic-roots",
+    "destination": "korvar.html#basic-roots",
+    "status": "included"
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "a-first-example",
+    "destination": "korvar.html#a-first-example",
+    "status": "included"
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "language-guides",
+    "destination": "korvar.html#getting-started",
+    "status": "merged",
+    "reason": "All seven guides and the dictionary now appear on this page."
+  },
+  {
+    "source": "korvar.md",
+    "sourceAnchor": "reference-data",
+    "destination": "korvar.html#dictionary-section",
+    "status": "merged",
+    "reason": "The dictionary is on this page; all three language data downloads remain under About/downloads."
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#sounds",
+    "status": "included"
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "names-and-belonging",
+    "destination": "korvar.html#language-foundation--names-and-belonging",
+    "status": "included"
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "language-in-daily-life",
+    "destination": "korvar.html#language-foundation--language-in-daily-life",
+    "status": "included"
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "phonemes-and-reader-spelling",
+    "destination": "korvar.html#language-foundation--phonemes-and-reader-spelling",
+    "status": "included"
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "word-boundaries-and-literal-compounds",
+    "destination": "korvar.html#language-foundation--word-boundaries-and-literal-compounds",
+    "status": "included"
+  },
+  {
+    "source": "language-foundation.md",
+    "sourceAnchor": "habitats-and-usage",
+    "destination": "korvar.html#language-foundation--habitats-and-usage",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#grammar",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "noun-phrases-and-reference",
+    "destination": "korvar.html#language-grammar--noun-phrases-and-reference",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "verbs-time-aspect-and-voice",
+    "destination": "korvar.html#language-grammar--verbs-time-aspect-and-voice",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "clause-order-questions-and-negation",
+    "destination": "korvar.html#language-grammar--clause-order-questions-and-negation",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "dependent-clauses-and-connective-meanings",
+    "destination": "korvar.html#language-grammar--dependent-clauses-and-connective-meanings",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "space-comparison-quantities-and-measurement",
+    "destination": "korvar.html#language-grammar--space-comparison-quantities-and-measurement",
+    "status": "included"
+  },
+  {
+    "source": "language-grammar.md",
+    "sourceAnchor": "register-and-evidence",
+    "destination": "korvar.html#language-grammar--register-and-evidence",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#materials",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "describing-a-material",
+    "destination": "korvar.html#language-materials--describing-a-material",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "a-field-encounter",
+    "destination": "korvar.html#language-materials--a-field-encounter",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "loose-earth-and-soil",
+    "destination": "korvar.html#language-materials--loose-earth-and-soil",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "geological-distribution",
+    "destination": "korvar.html#language-materials--geological-distribution",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "productive-rock-stone-crag-and-hammer-words",
+    "destination": "korvar.html#language-materials--productive-rock-stone-crag-and-hammer-words",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "industry-and-measurement",
+    "destination": "korvar.html#language-materials--industry-and-measurement",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "household-and-care-vocabulary",
+    "destination": "korvar.html#language-materials--household-and-care-vocabulary",
+    "status": "included"
+  },
+  {
+    "source": "language-materials.md",
+    "sourceAnchor": "breadth-beyond-industry",
+    "destination": "korvar.html#language-materials--breadth-beyond-industry",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#regional-languages",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "a-shared-history",
+    "destination": "korvar.html#language-family--a-shared-history",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "five-regional-traditions",
+    "destination": "korvar.html#language-family--five-regional-traditions",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "what-the-languages-share",
+    "destination": "korvar.html#language-family--what-the-languages-share",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "ordered-sound-rules",
+    "destination": "korvar.html#language-family--ordered-sound-rules",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "complete-grammatical-overrides",
+    "destination": "korvar.html#language-family--complete-grammatical-overrides",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "parallel-passages",
+    "destination": "korvar.html#language-family--parallel-passages",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "learning-the-shared-standard",
+    "destination": "korvar.html#language-family--learning-the-shared-standard",
+    "status": "included"
+  },
+  {
+    "source": "language-family.md",
+    "sourceAnchor": "productive-naming",
+    "destination": "korvar.html#language-family--productive-naming",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#writing",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "stavmark-the-writing-system",
+    "destination": "korvar.html#language-writing--stavmark-the-writing-system",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "spoken-numerals-and-quantities",
+    "destination": "korvar.html#language-writing--spoken-numerals-and-quantities",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "time-units-and-industrial-records",
+    "destination": "korvar.html#language-writing--time-units-and-industrial-records",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "names-courtesy-and-acquisition",
+    "destination": "korvar.html#language-writing--names-courtesy-and-acquisition",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "reading-passages",
+    "destination": "korvar.html#language-writing--reading-passages",
+    "status": "included"
+  },
+  {
+    "source": "language-writing.md",
+    "sourceAnchor": "practice-exercises",
+    "destination": "korvar.html#language-writing--practice-exercises",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "",
+    "destination": "korvar.html#examples",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "reading-the-examples",
+    "destination": "korvar.html#language-examples--reading-the-examples",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c01-i-am-a-dwarf",
+    "destination": "korvar.html#language-examples--c01-i-am-a-dwarf",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c02-we-are-dwarves",
+    "destination": "korvar.html#language-examples--c02-we-are-dwarves",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c03-the-stoneworker-builds-the-chamber",
+    "destination": "korvar.html#language-examples--c03-the-stoneworker-builds-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c04-now-i-build-the-chamber",
+    "destination": "korvar.html#language-examples--c04-now-i-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c05-the-stoneworker-speaks-inside-the-chamber",
+    "destination": "korvar.html#language-examples--c05-the-stoneworker-speaks-inside-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c06-do-you-build-the-chamber",
+    "destination": "korvar.html#language-examples--c06-do-you-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c07-who-builds-the-chamber",
+    "destination": "korvar.html#language-examples--c07-who-builds-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c08-what-do-you-build",
+    "destination": "korvar.html#language-examples--c08-what-do-you-build",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c09-where-is-the-child",
+    "destination": "korvar.html#language-examples--c09-where-is-the-child",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c10-with-whom-do-you-speak",
+    "destination": "korvar.html#language-examples--c10-with-whom-do-you-speak",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c11-i-do-not-build-the-chamber",
+    "destination": "korvar.html#language-examples--c11-i-do-not-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c12-now-i-have-not-built-the-chamber",
+    "destination": "korvar.html#language-examples--c12-now-i-have-not-built-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c13-i-say-that-they-do-not-build-the-chamber",
+    "destination": "korvar.html#language-examples--c13-i-say-that-they-do-not-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c14-i-know-whether-you-build-the-chamber",
+    "destination": "korvar.html#language-examples--c14-i-know-whether-you-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c15-i-know-where-you-build-the-chamber",
+    "destination": "korvar.html#language-examples--c15-i-know-where-you-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c16-the-person-who-builds-the-chamber-is-here",
+    "destination": "korvar.html#language-examples--c16-the-person-who-builds-the-chamber-is-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c17-the-chamber-that-i-build-is-large",
+    "destination": "korvar.html#language-examples--c17-the-chamber-that-i-build-is-large",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c18-the-person-with-whom-i-speak-is-here",
+    "destination": "korvar.html#language-examples--c18-the-person-with-whom-i-speak-is-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c19-the-person-who-does-not-build-the-chamber-is-here",
+    "destination": "korvar.html#language-examples--c19-the-person-who-does-not-build-the-chamber-is-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c20-my-chamber-is-here",
+    "destination": "korvar.html#language-examples--c20-my-chamber-is-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c21-the-stoneworker-s-chamber-is-here",
+    "destination": "korvar.html#language-examples--c21-the-stoneworker-s-chamber-is-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c22-i-have-a-chamber-belonging-to-the-stoneworker",
+    "destination": "korvar.html#language-examples--c22-i-have-a-chamber-belonging-to-the-stoneworker",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c23-i-give-the-stone-to-you",
+    "destination": "korvar.html#language-examples--c23-i-give-the-stone-to-you",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c24-they-wash-themself",
+    "destination": "korvar.html#language-examples--c24-they-wash-themself",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c25-they-wash-another-person-referred-to-as-they",
+    "destination": "korvar.html#language-examples--c25-they-wash-another-person-referred-to-as-they",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c26-they-have-their-own-hand-hammer",
+    "destination": "korvar.html#language-examples--c26-they-have-their-own-hand-hammer",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c27-they-have-another-person-s-hand-hammer",
+    "destination": "korvar.html#language-examples--c27-they-have-another-person-s-hand-hammer",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c28-we-help-one-another",
+    "destination": "korvar.html#language-examples--c28-we-help-one-another",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c29-i-speak-with-myself-and-you",
+    "destination": "korvar.html#language-examples--c29-i-speak-with-myself-and-you",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c30-the-stone-is-scratch-resistant-and-brittle",
+    "destination": "korvar.html#language-examples--c30-the-stone-is-scratch-resistant-and-brittle",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c31-this-stone-is-harder-than-that-stone",
+    "destination": "korvar.html#language-examples--c31-this-stone-is-harder-than-that-stone",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c32-this-chamber-is-as-large-as-that-chamber",
+    "destination": "korvar.html#language-examples--c32-this-chamber-is-as-large-as-that-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c33-the-stoneworker-built-the-nursery",
+    "destination": "korvar.html#language-examples--c33-the-stoneworker-built-the-nursery",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c34-i-have-built-the-chamber",
+    "destination": "korvar.html#language-examples--c34-i-have-built-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c35-i-had-built-the-chamber",
+    "destination": "korvar.html#language-examples--c35-i-had-built-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c36-i-will-build-the-chamber",
+    "destination": "korvar.html#language-examples--c36-i-will-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c37-i-will-have-built-the-chamber",
+    "destination": "korvar.html#language-examples--c37-i-will-have-built-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c38-i-can-carry-the-stone",
+    "destination": "korvar.html#language-examples--c38-i-can-carry-the-stone",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c39-i-must-remain-silent",
+    "destination": "korvar.html#language-examples--c39-i-must-remain-silent",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c40-i-am-not-obliged-to-speak",
+    "destination": "korvar.html#language-examples--c40-i-am-not-obliged-to-speak",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c41-i-prohibit-speaking",
+    "destination": "korvar.html#language-examples--c41-i-prohibit-speaking",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c42-i-permit-the-child-to-eat",
+    "destination": "korvar.html#language-examples--c42-i-permit-the-child-to-eat",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c43-the-chamber-is-being-built-by-the-stoneworker",
+    "destination": "korvar.html#language-examples--c43-the-chamber-is-being-built-by-the-stoneworker",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c44-the-chamber-stands-built",
+    "destination": "korvar.html#language-examples--c44-the-chamber-stands-built",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c45-i-am-now-engaged-in-building",
+    "destination": "korvar.html#language-examples--c45-i-am-now-engaged-in-building",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c46-if-the-water-flow-stops-the-wheel-stops",
+    "destination": "korvar.html#language-examples--c46-if-the-water-flow-stops-the-wheel-stops",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c47-if-i-had-the-stone-i-would-build-the-chamber",
+    "destination": "korvar.html#language-examples--c47-if-i-had-the-stone-i-would-build-the-chamber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c48-i-come-to-help",
+    "destination": "korvar.html#language-examples--c48-i-come-to-help",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c49-i-build-the-chamber-so-that-the-child-can-sleep",
+    "destination": "korvar.html#language-examples--c49-i-build-the-chamber-so-that-the-child-can-sleep",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c50-as-for-the-chamber-i-build-it",
+    "destination": "korvar.html#language-examples--c50-as-for-the-chamber-i-build-it",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c51-do-not-open-the-door",
+    "destination": "korvar.html#language-examples--c51-do-not-open-the-door",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c52-please-give-the-stone-to-me",
+    "destination": "korvar.html#language-examples--c52-please-give-the-stone-to-me",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c53-pump-the-water-into-the-cistern",
+    "destination": "korvar.html#language-examples--c53-pump-the-water-into-the-cistern",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c54-the-water-flow-powers-the-wheel",
+    "destination": "korvar.html#language-examples--c54-the-water-flow-powers-the-wheel",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c55-i-test-the-sample",
+    "destination": "korvar.html#language-examples--c55-i-test-the-sample",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c56-i-label-the-sample-with-a-mark",
+    "destination": "korvar.html#language-examples--c56-i-label-the-sample-with-a-mark",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c57-the-support-stone-grade-is-not-known",
+    "destination": "korvar.html#language-examples--c57-the-support-stone-grade-is-not-known",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c58-the-sample-is-dry-by-observation",
+    "destination": "korvar.html#language-examples--c58-the-sample-is-dry-by-observation",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c59-i-think-the-sample-is-dry",
+    "destination": "korvar.html#language-examples--c59-i-think-the-sample-is-dry",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c61-the-child-is-in-the-nursery",
+    "destination": "korvar.html#language-examples--c61-the-child-is-in-the-nursery",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c62-i-care-for-and-protect-the-child",
+    "destination": "korvar.html#language-examples--c62-i-care-for-and-protect-the-child",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c63-i-feed-the-child-with-nourishment",
+    "destination": "korvar.html#language-examples--c63-i-feed-the-child-with-nourishment",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c64-the-child-holds-the-hand-hammer",
+    "destination": "korvar.html#language-examples--c64-the-child-holds-the-hand-hammer",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c65-i-want-water",
+    "destination": "korvar.html#language-examples--c65-i-want-water",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c66-i-eat-the-tuber",
+    "destination": "korvar.html#language-examples--c66-i-eat-the-tuber",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c67-i-like-the-fungal-food",
+    "destination": "korvar.html#language-examples--c67-i-like-the-fungal-food",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c68-i-love-you",
+    "destination": "korvar.html#language-examples--c68-i-love-you",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c69-i-grieve",
+    "destination": "korvar.html#language-examples--c69-i-grieve",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c70-the-child-plays",
+    "destination": "korvar.html#language-examples--c70-the-child-plays",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c71-we-sing-the-song",
+    "destination": "korvar.html#language-examples--c71-we-sing-the-song",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c72-i-have-no-stone",
+    "destination": "korvar.html#language-examples--c72-i-have-no-stone",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c73-two-chambers-are-here",
+    "destination": "korvar.html#language-examples--c73-two-chambers-are-here",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c74-i-take-two-vessel-units-of-water",
+    "destination": "korvar.html#language-examples--c74-i-take-two-vessel-units-of-water",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c75-the-chamber-is-high-and-deeply-covered",
+    "destination": "korvar.html#language-examples--c75-the-chamber-is-high-and-deeply-covered",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c76-i-travel-sunward",
+    "destination": "korvar.html#language-examples--c76-i-travel-sunward",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c77-i-travel-through-the-tunnel",
+    "destination": "korvar.html#language-examples--c77-i-travel-through-the-tunnel",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c78-do-you-know-whether-the-water-flows",
+    "destination": "korvar.html#language-examples--c78-do-you-know-whether-the-water-flows",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c79-i-want-to-learn-common-dwarven",
+    "destination": "korvar.html#language-examples--c79-i-want-to-learn-common-dwarven",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c80-i-teach-common-dwarven-to-the-child",
+    "destination": "korvar.html#language-examples--c80-i-teach-common-dwarven-to-the-child",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c81-hello-can-you-help-me",
+    "destination": "korvar.html#language-examples--c81-hello-can-you-help-me",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c82-yes-what-do-you-want",
+    "destination": "korvar.html#language-examples--c82-yes-what-do-you-want",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c83-i-want-two-dressed-stone-pieces",
+    "destination": "korvar.html#language-examples--c83-i-want-two-dressed-stone-pieces",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c84-i-give-these-to-you",
+    "destination": "korvar.html#language-examples--c84-i-give-these-to-you",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c85-thanks-i-will-pay",
+    "destination": "korvar.html#language-examples--c85-thanks-i-will-pay",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c86-farewell",
+    "destination": "korvar.html#language-examples--c86-farewell",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c87-my-home-is-inside-the-mountain",
+    "destination": "korvar.html#language-examples--c87-my-home-is-inside-the-mountain",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c88-the-chamber-is-high-but-the-rock-cover-is-shallow",
+    "destination": "korvar.html#language-examples--c88-the-chamber-is-high-but-the-rock-cover-is-shallow",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c89-the-water-flow-powers-the-wheel",
+    "destination": "korvar.html#language-examples--c89-the-water-flow-powers-the-wheel",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c90-we-have-fungal-food-and-tubers",
+    "destination": "korvar.html#language-examples--c90-we-have-fungal-food-and-tubers",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c91-the-child-sleeps-in-the-nursery",
+    "destination": "korvar.html#language-examples--c91-the-child-sleeps-in-the-nursery",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c92-now-i-speak-with-the-caregiver",
+    "destination": "korvar.html#language-examples--c92-now-i-speak-with-the-caregiver",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c93-i-have-a-piece-of-dark-fine-grained-rock",
+    "destination": "korvar.html#language-examples--c93-i-have-a-piece-of-dark-fine-grained-rock",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c94-the-rock-is-scratch-resistant-and-brittle",
+    "destination": "korvar.html#language-examples--c94-the-rock-is-scratch-resistant-and-brittle",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c95-its-support-stone-grade-is-not-known",
+    "destination": "korvar.html#language-examples--c95-its-support-stone-grade-is-not-known",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c96-i-will-test-the-sample",
+    "destination": "korvar.html#language-examples--c96-i-will-test-the-sample",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c97-afterward-i-will-write-the-decision",
+    "destination": "korvar.html#language-examples--c97-afterward-i-will-write-the-decision",
+    "status": "included"
+  },
+  {
+    "source": "language-examples.md",
+    "sourceAnchor": "c98-now-we-must-wait",
+    "destination": "korvar.html#language-examples--c98-now-we-must-wait",
+    "status": "included"
+  },
+  {
+    "source": "stellar-system-reference.md",
+    "sourceAnchor": "",
+    "destination": "index.html#skies",
+    "status": "included"
+  },
+  {
+    "source": "stellar-system-reference.md",
+    "sourceAnchor": "local-suns",
+    "destination": "index.html#stellar-system-reference--local-suns",
+    "status": "included"
+  },
+  {
+    "source": "stellar-system-reference.md",
+    "sourceAnchor": "different-experiences-of-light",
+    "destination": "index.html#stellar-system-reference--different-experiences-of-light",
+    "status": "included"
+  },
+  {
+    "source": "stellar-system-reference.md",
+    "sourceAnchor": "observation-and-calendars",
+    "destination": "index.html#stellar-system-reference--observation-and-calendars",
+    "status": "included"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "",
+    "destination": "about.html#reading-maps",
+    "status": "included"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "scope-and-status",
+    "destination": "about.html#map-methods--scope-and-status",
+    "status": "updated"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "geography-and-illustration",
+    "destination": "about.html#map-methods--geography-and-illustration",
+    "status": "included"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "habitat-and-community",
+    "destination": "about.html#map-methods--habitat-and-community",
+    "status": "included"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "historical-time",
+    "destination": "about.html#map-methods--historical-time",
+    "status": "included"
+  },
+  {
+    "source": "map-methods.md",
+    "sourceAnchor": "using-the-index",
+    "destination": "about.html#map-methods--using-the-index",
+    "status": "updated"
+  },
+  {
+    "source": "README.md",
+    "sourceAnchor": "",
+    "destination": "index.html#guides",
+    "status": "updated",
+    "reason": "The five-guide index replaces the document catalog. Source data links are retained under About/downloads."
+  }
+]

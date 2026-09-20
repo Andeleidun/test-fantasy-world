@@ -1,5 +1,23 @@
 const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
+// A chapter choice closes the mobile contents so the selected passage is visible.
+document.querySelectorAll('.mobile-toc a').forEach(link => link.addEventListener('click', () => {
+  link.closest('.mobile-toc').open = false;
+}));
+
+const chapters = [...document.querySelectorAll('.guide-chapter[id], .guide-chapter > h2[id]')];
+if ('IntersectionObserver' in window && chapters.length) {
+  const observer = new IntersectionObserver(entries => {
+    for (const entry of entries) if (entry.isIntersecting) {
+      document.querySelectorAll('.toc-chapter > a').forEach(link => {
+        if (link.hash === `#${entry.target.id}`) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+    }
+  }, { rootMargin:'0px 0px -70% 0px' });
+  chapters.forEach(chapter => observer.observe(chapter));
+}
+
 const themeToggle = document.querySelector('#theme-toggle');
 if (themeToggle) {
   const systemTheme = matchMedia('(prefers-color-scheme: dark)');

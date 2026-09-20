@@ -14,7 +14,7 @@ test('keyboard skip link, search, filters and dictionary work at a project URL',
   await expect(page.locator('#results .eyebrow').first()).toHaveText('Language');
   await page.getByLabel('Search the lore', { exact: true }).fill('zxqvnotaword');
   await expect(page.getByRole('status')).toContainText('No results');
-  await page.goto('dictionary.html');
+  await page.goto('korvar.html#dictionary-section');
   await page.getByLabel('Find a word or meaning').fill('rakkor');
   await expect(page.locator('#dictionary tbody tr:visible')).toHaveCount(1);
   await expect(page.locator('#dictionary tbody tr:visible')).toContainText('regional');
@@ -34,13 +34,13 @@ test('worlds and dictionary remain readable without JavaScript', async ({ browse
   const page = await context.newPage();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/dverghamar.html');
   await expect(page.getByRole('heading', { name: 'Dverghamar', exact: true })).toBeVisible();
-  await page.getByRole('link', { name: 'The Hamarkorar', exact: true }).click();
+  await page.locator('.toc').getByRole('link', { name: 'The Hamarkorar', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'The Hamarkorar', exact: true })).toBeVisible();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/merenval.html');
   await expect(page.getByRole('heading', { name: 'Merenval and its living companion', exact: true })).toBeVisible();
-  await page.getByRole('link', { name: 'Elven peoples and traditions', exact: true }).click();
+  await page.locator('.toc').getByRole('link', { name: 'Elven peoples and traditions', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Elven peoples and traditions', exact: true })).toBeVisible();
-  await page.goto('http://127.0.0.1:4173/test-fantasy-world/dictionary.html');
+  await page.goto('http://127.0.0.1:4173/test-fantasy-world/korvar.html#dictionary-section');
   await expect(page.locator('#dictionary tbody tr')).toHaveCount(562);
   await context.close();
 });
@@ -49,7 +49,7 @@ for (const theme of ['light', 'dark']) for (const width of [1440, 390, 320]) {
   test(`${theme} reader and accessibility at ${width}px`, async ({ page }) => {
     await page.emulateMedia({ colorScheme: theme });
     await page.setViewportSize({ width, height: 950 });
-    for (const path of ['./', 'erde.html', 'erde-atlas.html', 'dverghamar.html', 'merenval.html', 'stellar-system-reference.html', 'magic.html', 'elves.html', 'goblins.html', 'gnomes-full-reference.html', 'reference.html', 'language-grammar.html', 'dverghamar-atlas.html', 'search.html', 'dictionary.html']) {
+    for (const path of ['./', 'erde.html', 'dverghamar.html', 'merenval.html', 'magic.html', 'korvar.html', 'search.html', 'about.html']) {
       await page.goto(path);
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
       const results = await new AxeBuilder({ page }).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();
@@ -127,15 +127,38 @@ test('search ignores stale requests, paginates and uses only public text', async
 });
 
 
-test('new public references, local source links and text atlas are accessible', async ({ page }) => {
-  await page.goto('reference.html');
-  await page.getByRole('link', { name: /Gnomes: a comparative account/ }).click();
-  await expect(page.getByRole('heading', { level: 1 })).toHaveText('Gnomes: a comparative account of body, house, kinship and craft');
+test('old bookmarks reach complete guides, with inline maps and useful search destinations', async ({ page }) => {
+  await page.goto('gnomes-full-reference.html#the-living-house');
+  await expect(page).toHaveURL(/merenval\.html#gnomes-full-reference--the-living-house$/);
+  await expect(page.locator('#gnomes-full-reference--the-living-house')).toBeInViewport();
+  await expect(page.locator('#figure-gnome-living-house img')).toHaveJSProperty('complete', true);
   await page.goto('search.html?q=Alchemical&category=peoples');
   await expect(page.locator('#results')).toContainText('Goblins');
-  await page.goto('README.html');
-  await expect(page.locator('.prose a[href="goblins.html"]')).toBeVisible();
+  await page.locator('#results a').first().click();
+  await expect(page).toHaveURL(/erde\.html#goblins--/);
   await page.goto('erde-atlas.html#e4');
-  await expect(page.locator('#e4')).toContainText('Ancestry and dispersal');
-  await expect(page.locator('img[src*="maps/"]')).toHaveCount(0);
+  await expect(page).toHaveURL(/erde\.html#e4$/);
+  await expect(page.locator('#e4')).toBeInViewport();
+  await expect(page.locator('#figure-erde-ancestry img')).toHaveJSProperty('complete', true);
+});
+
+test('mobile contents jump within a guide and close after selection', async ({ page }) => {
+  await page.setViewportSize({ width:390, height:850 });
+  await page.goto('dverghamar.html');
+  const contents=page.locator('.mobile-toc');
+  await contents.locator(':scope > summary').click();
+  await contents.getByRole('link', { name:'The Jotun', exact:true }).click();
+  await expect(contents).not.toHaveAttribute('open', '');
+  await expect(page.locator('h2#jotuns')).toBeInViewport();
+  await expect(page).toHaveURL(/dverghamar\.html#jotuns$/);
+});
+
+test('legacy links offer direct section destinations without JavaScript', async ({ browser }) => {
+  const context=await browser.newContext({ javaScriptEnabled:false });
+  const page=await context.newPage();
+  await page.goto('http://127.0.0.1:4173/test-fantasy-world/language-grammar.html#noun-phrases-and-reference');
+  await page.locator('#noun-phrases-and-reference a').click();
+  await expect(page).toHaveURL(/korvar\.html#language-grammar--noun-phrases-and-reference$/);
+  await expect(page.locator('#language-grammar--noun-phrases-and-reference')).toBeInViewport();
+  await context.close();
 });

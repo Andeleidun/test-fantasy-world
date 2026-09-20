@@ -2,7 +2,9 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
-import { catalog, readerAssets, legacyWordAnchor, wordAnchor, wordKey } from '../scripts/public-edition.mjs';
+import { catalog, legacyWordAnchor, wordAnchor, wordKey } from '../scripts/public-edition.mjs';
+
+import { guides, readerFiles, figures, routes, coverage } from '../scripts/reader-edition.mjs';
 
 const json = async path => JSON.parse(await readFile(path, 'utf8'));
 const walk = async dir => (await Promise.all((await readdir(dir, { withFileTypes: true })).map(async entry => {
@@ -25,45 +27,63 @@ test('all 44 public sources retain their complete synchronized bytes', async () 
   }
 });
 
-test('every source article and category is reachable; existing article routes survive', async () => {
-  const publicMarkdown = (await readdir('content/public')).filter(file => file.endsWith('.md')).sort();
+test('five guides cover every source and old article routes remain reachable', async () => {
+  assert.equal(guides.length, 5);
   assert.equal(catalog.length, 37);
-  assert.deepEqual(catalog.map(page => page.file).sort(), publicMarkdown);
-  assert.equal(new Set(catalog.map(page => page.id)).size, catalog.length);
-  for (const page of await json('content/catalog.json')) assert.ok(catalog.some(current => current.id === page.id), page.id);
-  for (const page of catalog) {
-    const html = await readFile(`dist/${page.id}.html`, 'utf8');
-    assert.ok(html.includes(`/blob/main/content/public/${page.file}`));
-    assert.doesNotMatch(html, /Back to undefined|\/file\/d\//);
-    const category = await readFile(`dist/${page.category}.html`, 'utf8');
-    assert.ok(category.includes(`href="${page.id}.html"`));
+  assert.deepEqual([...new Set(coverage.map(item => item.source))].sort(), catalog.map(item => item.file).sort());
+  const publishedRoutes = await json('dist/redirects.json');
+  for (const [file, destinations] of Object.entries(publishedRoutes)) {
+    assert.ok(await readFile(`dist/${file}`, 'utf8'));
+    for (const destination of Object.values(destinations)) {
+      const [target, hash] = destination.split('#');
+      const html = await readFile(`dist/${target}`, 'utf8');
+      if (hash) assert.ok(html.includes(`id="${hash}"`), `${file} -> ${destination}`);
+    }
   }
-  const title = 'Gnomes: a comparative account of body, house, kinship and craft';
-  assert.equal(catalog.find(page => page.id === 'gnomes-full-reference').title, title);
-  assert.ok((await readFile('dist/gnomes-full-reference.html', 'utf8')).includes(`<h1>${title}</h1>`));
+  for (const item of coverage) {
+    const [file, anchor] = item.destination.split('#');
+    const html = await readFile(`dist/${file}`, 'utf8');
+    assert.ok(html.includes(`id="${anchor}"`), JSON.stringify(item));
+    if (item.status === 'merged') assert.ok(item.reason);
+  }
+  const home = await readFile('dist/index.html', 'utf8');
+  for (const guide of guides) {
+    assert.ok(home.includes(`href="${guide.id}.html"`));
+    const html = await readFile(`dist/${guide.id}.html`, 'utf8');
+    assert.equal((html.match(/class="guide-chapter"/g) || []).length, guide.chapters.length);
+    assert.doesNotMatch(html, /Related reading|Back to undefined|Map illustrations are awaiting|text only/);
+  }
 });
 
 test('only reviewed reader assets and public datasets are deployed', async () => {
-  assert.deepEqual((await walk('dist/assets')).sort(), readerAssets.map(file => `dist/assets/${file}`).sort());
+  assert.deepEqual((await walk('dist/assets')).sort(), readerFiles.map(file => `dist/assets/${file}`).sort());
   for (const file of ['catalog.json', 'maps.json', 'lexicon.json', 'PUBLIC-INDEX.txt', 'data/korvar-lexicon.tsv', 'data/regional-dictionary.tsv', 'data/korvar-examples.tsv']) {
     assert.deepEqual(await readFile(`dist/${file}`), await readFile(`content/public/${file}`), file);
   }
   const all = await walk('dist');
-  assert.ok(all.every(file => !/\/maps\/|\/docs\/|provenance|SOURCES|erde-reference-locations/.test(file)));
+  assert.ok(all.every(file => !/assets\/maps\/|\/docs\/|provenance|SOURCES|erde-reference-locations/.test(file)));
   const search = await readFile('dist/search-index.json', 'utf8');
   assert.doesNotMatch(search, /0\.1776 AU|38\.65 Earth days|23\.2 days|controlled late-parent model|rapid planetary return|manufactur(?:e|ing) new souls/i);
   const home = await readFile('dist/index.html', 'utf8');
   assert.doesNotMatch(home, /scenario targets|system architecture|biological models|unresolved gates/);
 });
 
-test('thirteen atlas subjects resolve to text without withdrawn artwork', async () => {
+test('every atlas subject has a reviewed inline map; every reader figure appears in its guide', async () => {
   const maps = await json('content/public/maps.json');
   assert.equal(maps.length, 13);
+  assert.equal(figures.length, 12);
   for (const map of maps) {
-    assert.equal(map.stem, undefined);
-    const html = await readFile(`dist/${map.guide.replace('.md', '.html')}`, 'utf8');
-    assert.ok(html.includes(`id="${map.code.toLowerCase()}"`), map.code);
-    assert.doesNotMatch(html, /assets\/maps\/|Open full-size map/);
+    const figure = figures.find(item => item.codes?.includes(map.code));
+    assert.ok(figure, map.code);
+    const html = await readFile(`dist/${figure.guide}.html`, 'utf8');
+    assert.ok(html.includes(`id="${map.code.toLowerCase()}"`));
+    assert.ok(html.includes(`src="assets/${figure.file}"`));
+  }
+  for (const figure of figures) {
+    const html = await readFile(`dist/${figure.guide}.html`, 'utf8');
+    assert.ok(html.includes(`id="figure-${figure.id}"`));
+    assert.ok(figure.alt.length > 25 && figure.caption.length > 25);
+    assert.equal((html.match(new RegExp(`id="figure-${figure.id}"`, 'g')) || []).length, 1);
   }
 });
 
@@ -74,7 +94,7 @@ test('dictionary identity survives omissions and all language datasets agree', a
   assert.equal(words.length, 562);
   assert.equal(new Set(words.map(wordKey)).size, words.length);
   assert.equal(new Set(words.map(wordAnchor)).size, words.length);
-  const dictionary = await readFile('dist/dictionary.html', 'utf8');
+  const dictionary = await readFile('dist/korvar.html', 'utf8');
   for (const word of words) {
     const oldIndex = original.findIndex(old => wordKey(old) === wordKey(word));
     if (oldIndex >= 0) assert.equal(legacyWordAnchor(word), `word-${oldIndex}`);
@@ -108,4 +128,35 @@ test('public edition retains current substantive distinctions', async () => {
   assert.match(await read('gnomes-full-reference'), /not be confused with the Otherworld rooms/);
   assert.match(await read('cosmology-reference'), /Failure to reach someone does not disclose that person’s fate/);
   assert.match(await read('orcs'), /walking, running or bounding along the bottom/);
+});
+
+test('complete Markdown guides have working local links and retain every translated example', async () => {
+  const { stat } = await import('node:fs/promises');
+  const { resolve, dirname } = await import('node:path');
+  for (const guide of guides) {
+    const file=`dist/guides/${guide.id}.md`;
+    const source=await readFile(file,'utf8');
+    assert.equal(source,await readFile(`guides/${guide.id}.md`,'utf8'));
+    for (const [,href] of source.matchAll(/\]\(([^)]+)\)/g)) {
+      if (/^https?:/.test(href)) continue;
+      const [path,hash]=href.split('#');
+      const target=path?resolve(dirname(file),path):resolve(file);
+      assert.ok((await stat(target)).isFile(),`${file}: ${href}`);
+      if (hash) {
+        const body=await readFile(target,'utf8');
+        assert.ok(body.includes(`id="${hash}"`),`${file}: ${href}`);
+      }
+    }
+  }
+  const lines=(await readFile('content/public/data/korvar-examples.tsv','utf8')).trimEnd().split('\n');
+  const columns=lines.shift().split('\t');
+  const source=await readFile('guides/korvar.md','utf8');
+  for (const line of lines) {
+    const values=line.split('\t');
+    for (const column of ['text','translation']) {
+      const i=columns.indexOf(column);
+      assert.ok(i>=0,columns.join(','));
+      assert.ok(source.includes(values[i]),`${values[0]}: ${column}`);
+    }
+  }
 });

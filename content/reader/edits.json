@@ -1,0 +1,79 @@
+{
+  "omit": {
+    "erde#further-reading": {
+      "target": "erde#landscape",
+      "reason": "Navigation is supplied by the page contents and contextual links."
+    },
+    "korvar#language-guides": {
+      "target": "korvar#getting-started",
+      "reason": "All seven guides and the dictionary now appear on this page."
+    },
+    "erde-reference#great-watersheds": {
+      "target": "erde#erde-history-full-reference--great-watersheds",
+      "reason": "The full regional account retains the institutions, river defenses, costs, exceptional acts and coastal bypass."
+    },
+    "erde-reference#volcanic-hinge": {
+      "target": "erde#erde-history-full-reference--volcanic-hinge",
+      "reason": "The full account retains refuges, warning authority, volcanic practice, mixed ports and local continuity."
+    },
+    "erde-reference#highland-spine": {
+      "target": "erde#erde-history-full-reference--highland-spine",
+      "reason": "The full account retains vertical exchange, altitude practice, preparation and the spread of knowledge."
+    },
+    "erde-reference#equatorial-basin": {
+      "target": "erde#erde-history-full-reference--equatorial-basin",
+      "reason": "The full account retains river gardens, ecological medicine, signaling, kinship, shapeshifting and contact geography."
+    },
+    "gnomes#a-diverse-people": {
+      "target": "merenval#gnomes-full-reference--on-the-breadth-of-the-gnome-peoples",
+      "reason": "The comparative account describes diversity, approximate stature, relatedness and bodily organization."
+    },
+    "gnomes#body-and-medicine": {
+      "target": "merenval#gnomes-full-reference--the-assembled-body",
+      "reason": "The comparative account retains bodily tissues, repair, hazards and mineralization; its Dethreading section retains passage and rescue medicine."
+    },
+    "gnomes#living-houses-and-kinship": {
+      "target": "merenval#gnomes-full-reference--the-living-house",
+      "reason": "The living-house and household-founding sections retain organisms, frames, habitats, childhood houses and kinship."
+    },
+    "gnomes#houses-ancestors-and-awakening": {
+      "target": "merenval#gnomes-full-reference--houses-spirits-and-the-dead",
+      "reason": "The full spirit and awakening sections retain the distinctions, recognition disputes and defenses."
+    },
+    "gnomes#otherworld-cultivation": {
+      "target": "merenval#gnomes-full-reference--growing-into-the-otherworld",
+      "reason": "The full cultivation section retains roots, rooms, organism differences and the hazards of connection."
+    },
+    "gnomes#craft-and-society": {
+      "target": "merenval#gnomes-full-reference--perception-assay-and-medicine",
+      "reason": "The full account retains assay, machinery and the varied political relationship between house and state."
+    },
+    "gnomes#a-city-that-is-one-house": {
+      "target": "merenval#gnomes-full-reference--the-incomparable-city-house",
+      "reason": "The full city-house account retains its personhood, lineage, neighborhoods and Otherworld spaces."
+    },
+    "jotuns#different-reputations": {
+      "target": "dverghamar#jotuns-full-reference--authority-and-difference",
+      "reason": "The detailed account retains hospitable and violent communities and exaggerated giant stories."
+    },
+    "jotuns-full-reference#mountain-belonging": {
+      "target": "dverghamar#jotuns--mountain-people",
+      "reason": "The preceding Jotun introduction retains cold adaptation, mountain belonging, uncertain anatomy and demanding travel."
+    },
+    "korvar#reference-data": {
+      "target": "korvar#dictionary-section",
+      "reason": "The dictionary is on this page; all three language data downloads remain under About/downloads."
+    }
+  },
+  "replace": {
+    "erde-atlas#scope-of-this-guide": "The maps below show the regional relationships described in the histories. They are schematics: detailed coastlines, distances and many local places remain undescribed.",
+    "dverghamar-atlas#scope-of-this-guide": "These maps connect the day and night geography with habitats, water and mountain settlements. They show broad relationships; distances, continental outlines and engineering dimensions remain undescribed.",
+    "map-methods#scope-and-status": "The guide places maps and diagrams beside their subjects. Five atlas entries describe Erde and eight describe Dverghamar. Revised illustrations group related entries on shared plates; a further diagram compares Merenval and its companion.",
+    "map-methods#using-the-index": "Atlas codes E1–E5 and D1–D8 still identify the same subjects. Each entry appears beside an illustration or links to the relevant figure on its world page."
+  },
+  "textReplacements": {
+    "Detailed regional maps remain to be drawn.": "The diagrams show the regional relationships; detailed coastlines and distances remain undescribed.",
+    "The guides below cover pronunciation, grammar, the Stavmark script and five regional languages.": "The following chapters cover pronunciation, grammar, the Stavmark script and five regional languages.",
+    "The separate familiar guide describes its later development.": "The account of [familiars and shapeshifting](magic.html#familiars) describes its later development."
+  }
+}

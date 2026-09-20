@@ -1,0 +1,156 @@
+[
+  {
+    "id": "erde-river-country",
+    "file": "illustrations/erde-river-country.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Illustrated river basin with gardens, embankments, landing stages and settlements linked by boats.",
+    "caption": "River country on Erde. This illustration brings together the cultivated banks, settlements and water routes described in the regional histories.",
+    "guide": "erde",
+    "kind": "illustration"
+  },
+  {
+    "id": "dverghamar-twilight",
+    "file": "illustrations/dverghamar-twilight.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Illustrated twilight valley with cultivated slopes, homes cut into rock and a water wheel beside the river.",
+    "caption": "An inhabited twilight valley on Dverghamar. Farms and river works support homes built inside the mountain.",
+    "guide": "dverghamar",
+    "kind": "illustration"
+  },
+  {
+    "id": "merenval-coast",
+    "file": "illustrations/merenval-coast.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Illustrated forested coast with tidal inlets, islands, boats and the companion world visible in the sky.",
+    "caption": "A maritime landscape on Merenval. The coast and the companion’s appearance are illustrative; their exact geography and angular scale remain unspecified.",
+    "guide": "merenval",
+    "kind": "illustration"
+  },
+  {
+    "id": "gnome-living-house",
+    "file": "illustrations/gnome-living-house.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Illustrated courtyard with living fibrous walls around timber and stone, assay gardens, water channels and a clockwork workbench.",
+    "caption": "An interpretation of a Gnome living house at a cavern entrance. Living panels share a frame with stone and timber; assay gardens and a mechanical workshop occupy the courtyard. Gnome house traditions vary widely.",
+    "guide": "merenval",
+    "after": "gnomes-full-reference#the-living-house",
+    "kind": "illustration"
+  },
+  {
+    "id": "erde-regions",
+    "file": "guide-maps/erde-regions.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Schematic regional map: coastal travel bypasses the defended Great Watersheds; contact proceeds through Volcanic Hinge and Highland Spine to Equatorial Basin headwaters.",
+    "caption": "Erde’s regional routes. The arrows summarize later migration through coasts, maritime passages and headwaters. They do not give distances or surveyed positions.",
+    "guide": "erde",
+    "after": "erde-atlas#e1",
+    "codes": [
+      "E1",
+      "E3",
+      "E5"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "erde-landscape",
+    "file": "guide-maps/erde-landscape.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Latitude bands beside a mountain and river cross-section, showing that latitude, relief and local water each influence landscape.",
+    "caption": "Latitude and landscape. Mountain chains divide interiors while rivers connect settlements. This diagram assigns no temperature, rainfall or elevation values.",
+    "guide": "erde",
+    "after": "erde-atlas#e2",
+    "codes": [
+      "E2"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "erde-ancestry",
+    "file": "guide-maps/erde-ancestry.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Dverghamar.",
+    "caption": "Ancestry and migration describe different spans of history. The Thal departure occurred about five thousand years ago, long after Dverghamar’s native lineages had arisen.",
+    "guide": "erde",
+    "after": "erde-atlas#e4",
+    "codes": [
+      "E4"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "dverghamar-light",
+    "file": "guide-maps/dverghamar-light.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Dverghamar has a sunward hemisphere, dark hemisphere and intervening twilight, with watered districts interrupted by dry ground.",
+    "caption": "Permanent light and darkness. The twilight region contains fertile districts, dry divides and difficult terrain. The diagram does not specify the region’s width.",
+    "guide": "dverghamar",
+    "after": "dverghamar-atlas#d1",
+    "codes": [
+      "D1",
+      "D2"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "dverghamar-habitats",
+    "file": "guide-maps/dverghamar-habitats.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Comparison of warm-margin, massif, cold-edge and high-mountain habitats, with lake shores and isolated warm refuges below.",
+    "caption": "Habitats and refuges. Dwarven ranges overlap, and a species range establishes neither a political border nor a language boundary. Many lake animals and isolated refuges remain undescribed.",
+    "guide": "dverghamar",
+    "after": "dverghamar-atlas#d3",
+    "codes": [
+      "D3",
+      "D6",
+      "D8"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "dverghamar-settlement",
+    "file": "guide-maps/dverghamar-settlement.svg",
+    "width": 1000,
+    "height": 720,
+    "alt": "Mountain cross-section with a high chamber under shallow rock, a deeper mine, surface fields, a river, water wheel and lake.",
+    "caption": "Water and mountain homes. Height above a valley differs from burial depth. Farms, roads and river machinery sustain the settlement; the section gives no engineering dimensions.",
+    "guide": "dverghamar",
+    "after": "dverghamar-atlas#d4",
+    "codes": [
+      "D4",
+      "D5",
+      "D7"
+    ],
+    "kind": "map"
+  },
+  {
+    "id": "merenval-pair",
+    "file": "guide-maps/merenval-pair.svg",
+    "width": 1000,
+    "height": 740,
+    "alt": "Merenval’s connected seas and forests beside the companion’s plateaus and caverns, with their Elven traditions, Gnome communities and shared Orc presence.",
+    "caption": "The paired landscapes. The diagram compares the worlds and the communities described in their accounts. It does not place cities, draw exclusive territories or specify the orbit.",
+    "guide": "merenval",
+    "after": "merenval#two-inhabited-worlds",
+    "kind": "map"
+  },
+  {
+    "id": "stavmark",
+    "file": "Stavmark.svg",
+    "width": 960,
+    "height": 920,
+    "alt": "Stavmark alphabet reference with 24 basic signs, two regional extensions, decimal figures and a sample phrase.",
+    "caption": "The Stavmark writing reference. The surrounding text explains the signs, regional additions and numeral forms.",
+    "guide": "korvar",
+    "after": "language-writing#stavmark-the-writing-system",
+    "kind": "reference"
+  }
+]

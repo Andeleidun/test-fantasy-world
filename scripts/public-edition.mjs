@@ -27,19 +27,8 @@ export function publicLink(href) {
   return href.replace(/^([A-Za-z-]+)\.md(?=#|$)/, '$1.html').replace(/^\.\.\/\.\.\/assets\//, 'assets/');
 }
 
-export const readerAssets = ['app.js', 'styles.css', 'theme.js', 'favicon.svg', 'Stavmark.svg'];
 const previousAnchors = JSON.parse(await readFile('content/dictionary-anchors.json', 'utf8'));
 export const wordKey = word => [word.lemma, word.pos, word.parts || ''].join('\t');
 // Encoding the complete lexical key avoids collisions between accented forms and homographs.
 export const wordAnchor = word => `lex-${Buffer.from(wordKey(word)).toString('base64url')}`;
 export const legacyWordAnchor = word => previousAnchors[wordKey(word)] === undefined ? null : `word-${previousAnchors[wordKey(word)]}`;
-
-export const related = {
-  erde: ['erde-reference', 'erde-history-full-reference', 'goblins', 'thals', 'erde-atlas'],
-  dverghamar: ['hamarkorar', 'evolution-reference', 'thals', 'jotuns', 'dverghamar-reference', 'dverghamar-atlas'],
-  merenval: ['elves', 'gnomes', 'orcs', 'merenval-reference'],
-  gnomes: ['gnomes-full-reference', 'merenval'],
-  jotuns: ['jotuns-full-reference', 'dverghamar'],
-  'erde-reference': ['erde-history-full-reference', 'erde-atlas'],
-  'language-writing': ['language-examples', 'korvar'],
-};
