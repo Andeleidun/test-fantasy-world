@@ -150,6 +150,9 @@ test('complete Markdown guides have working local links and retain every transla
   }
   const lines=(await readFile('content/public/data/korvar-examples.tsv','utf8')).trimEnd().split('\n');
   const columns=lines.shift().split('\t');
+  const gnomes=await readFile('guides/merenval.md','utf8');
+  assert.match(gnomes,/body is built from differentiated fungal or fungus-like tissues/);
+  assert.match(gnomes,/grown across centuries into a city-scale house/);
   const source=await readFile('guides/korvar.md','utf8');
   for (const line of lines) {
     const values=line.split('\t');

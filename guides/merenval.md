@@ -138,7 +138,7 @@ Comparative form strongly supports kinship among the Gnome peoples. How distant 
 <a id="gnomes-full-reference--the-assembled-body"></a>
 ### The assembled body
 
-The Gnome body is not built like the body of a Human, Elf, or Orc. When examined after injury or death, it shows braided fibers, cords, layered membranes, fluid passages, toughened supports, soft exchange tissues, and several masses of especially dense and responsive material. The fibers branch and join repeatedly. Different tissues stain, tear, dry, burn, mineralize, and regrow differently, so an anatomist must distinguish them.
+The Gnome body is built from differentiated fungal or fungus-like tissues. Its organization differs from the body of a Human, Elf, or Orc. When examined after injury or death, it shows braided fibers, cords, layered membranes, fluid passages, toughened supports, soft exchange tissues, and several masses of especially dense and responsive material. The fibers branch and join repeatedly. Different tissues stain, tear, dry, burn, mineralize, and regrow differently, so an anatomist must distinguish them.
 
 No agreement exists about which dense tissues perform thought, sensation, memory, or voluntary motion. Injury to some regions produces predictable losses, while in other cases function returns through a route that the anatomist did not expect. This has encouraged both the theory of several cooperating centers and the theory of one widely distributed sensitive web. Neither explains every case.
 
@@ -269,7 +269,7 @@ Neither arrangement belongs exclusively to an earlier or later age. In both, peo
 <a id="gnomes-full-reference--the-incomparable-city-house"></a>
 ### The incomparable city-house
 
-Travelers describe one settlement grown so far that “city” and “house” are both inadequate. Courtyards, towers, tunnels, bridges, workshops, waters, parks, transit cords, and neighborhoods belong to one ancient continuous house lineage. The house itself is recognized as a person.
+Travelers describe one settlement that has grown across centuries into a city-scale house. Courtyards, towers, tunnels, bridges, workshops, waters, parks, transit cords, and neighborhoods belong to one ancient continuous house lineage. The house itself is recognized as a person.
 
 Its roots, galleries, gardens, reservoirs, and inhabited chambers extend beyond ordinary space. No single three-dimensional plan can contain them. A nearby room may require a journey; a distant district may share a wall; a corridor may possess more directions than an animal-bodied surveyor expects.
 

@@ -74,6 +74,8 @@
   "textReplacements": {
     "Detailed regional maps remain to be drawn.": "The diagrams show the regional relationships; detailed coastlines and distances remain undescribed.",
     "The guides below cover pronunciation, grammar, the Stavmark script and five regional languages.": "The following chapters cover pronunciation, grammar, the Stavmark script and five regional languages.",
-    "The separate familiar guide describes its later development.": "The account of [familiars and shapeshifting](magic.html#familiars) describes its later development."
+    "The separate familiar guide describes its later development.": "The account of [familiars and shapeshifting](magic.html#familiars) describes its later development.",
+    "The Gnome body is not built like the body of a Human, Elf, or Orc.": "The Gnome body is built from differentiated fungal or fungus-like tissues. Its organization differs from the body of a Human, Elf, or Orc.",
+    "Travelers describe one settlement grown so far that “city” and “house” are both inadequate.": "Travelers describe one settlement that has grown across centuries into a city-scale house."
   }
 }

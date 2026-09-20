@@ -61,6 +61,7 @@ The reader now contains five complete guides, with 30 chapters in total. The hom
 - A separate comparison against the preceding build checked 1,447 old content bookmarks, including dictionary records. Every one resolves to retained content or its documented merged section.
 - Inspected all four generated illustrations, all seven maps and representative desktop/mobile/light/dark page renders. Corrected two crowded map labels, the coastal-route diagram's endpoint, and mobile scroll spacing beneath the sticky contents control. Image QA waits for decoding before capture.
 - The five Markdown guides contain no broken local image, document or fragment links. Utility and data links use the published site address so the same files work in GitHub and in downloads.
+- The final merge comparison restored two explicit details from the short Gnome account: the fungal or fungus-like body tissues and the city-house’s growth across centuries. A regression check covers both.
 - Source scientific and historical uncertainties remain as described in the public collection. This publication pass does not validate the older planetary models or select new continental geometry.
 
 Publication uses the existing build, research-validation, browser-test and Pages-deployment workflow. The deployed commit and workflow result are recorded in GitHub history.
