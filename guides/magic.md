@@ -145,7 +145,7 @@ Repair is rarely a matter of replacing one interchangeable part. Another enchant
 
 Prepared scrolls and similar objects also decay. Durable examples require better craft, compatible materials and greater investment. Their apparent simplicity can conceal the work needed to make an effect safe for a later user.
 
-Practitioners report unreliable results when combining magic with electrical equipment. Rare practitioners may work with steam, water power or mechanical machinery, but this does not produce an ordinary electrical-magical industry.
+Sensitive electrical equipment is especially unreliable around active magic. Simple motors, generators and heating equipment can be more robust, though their performance depends on the working and the machine. Some specialists combine magic with steam, water power or mechanical machinery. Such work remains difficult and does not provide a dependable electrical-magical industry.
 
 
 <a id="enchanted-objects--objects-shaped-by-use"></a>
@@ -296,7 +296,7 @@ Travel stories include disorientation, uncertain elapsed time, altered appearanc
 <a id="otherworld--sacred-trees-and-ancestral-stories"></a>
 ### Sacred trees and ancestral stories
 
-Wayroots and Elven associations with the Otherworld attract stories of paths and unusual encounters. Traditions link Elves with fay, though their ancestry remains unverified. Accounts of Dorrenath do not establish that it created the worlds or stands at their center.
+Wayroots and Elven associations with the Otherworld attract stories of paths and unusual encounters. Traditions link Elves with fay, though their ancestry remains unverified. Dorrenath is called the Great Mother by those who live within her. That title expresses their relationship with a living host; it does not establish that she created the worlds or stands at their center.
 
 These motifs recur in human stories, but their meanings differ among tellers and communities.
 

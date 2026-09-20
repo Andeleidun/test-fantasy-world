@@ -14,6 +14,12 @@ Hexagonal and honeycomb arrangements suit seals, panel borders, household labels
 
 The regional sh /ʃ/ and dh /ð/ signs extend the same visual system. Common technical documents can instead retain their Common ancestral spelling when a reader is expected to pronounce it in the shared register. A local-language text uses its local spelling consistently. A bilingual sign states which version is which; spelling differences are not treated as careless Common errors.
 
+<!-- guide-figure: stavmark -->
+![Stavmark alphabet reference with 24 basic signs, two regional extensions, decimal figures and a sample phrase.](https://andeleidun.github.io/test-fantasy-world/assets/Stavmark.svg)
+
+The Stavmark writing reference. The surrounding text explains the signs, regional additions and numeral forms.
+<!-- /guide-figure -->
+
 ## Spoken numerals and quantities
 
 Korvar uses decimal counting. This convention is independent of the number of limbs or fingers. The written decimal figures in reader transcription use the familiar 0–9 reader convention; their native straight-stroke counterparts are supplied on the chart. They have a baseline marker that separates figures from letters.

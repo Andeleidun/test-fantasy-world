@@ -2,7 +2,15 @@
 
 This collection describes the worlds, their peoples and languages, and the magic people encounter in daily life. Its natural histories draw on the comparisons a nineteenth-century scholar could make. Spiritual accounts describe the experiences of ordinary trained practitioners; Otherworld accounts record human reports and stories.
 
-The accounts distinguish what people observe, what they infer and what they believe. They leave disputed origins and spiritual experiences unresolved. General story motifs do not establish a named myth or a doctrine for any particular people. Detailed technical models are kept in the authorial collection, including models published in earlier editions.
+The five illustrated guides gather these accounts by world and subject. Each includes its related references, with a contents list for moving within the page. The individual source documents remain listed below.
+
+- [Erde](https://andeleidun.github.io/test-fantasy-world/erde.html)
+- [Dverghamar](https://andeleidun.github.io/test-fantasy-world/dverghamar.html)
+- [Merenval and its companion](https://andeleidun.github.io/test-fantasy-world/merenval.html)
+- [Magic and belief](https://andeleidun.github.io/test-fantasy-world/magic.html)
+- [Korvar and its dictionary](https://andeleidun.github.io/test-fantasy-world/korvar.html)
+
+Detailed technical models remain in the authorial collection. A reported encounter or an ancestral story is identified as such where it appears.
 
 ## Documents
 
@@ -52,6 +60,6 @@ The accounts distinguish what people observe, what they infer and what they beli
 - [regional-dictionary.tsv](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view)
 - [korvar-examples.tsv](https://drive.google.com/file/d/12vcdIVCizsYezklErssPH90WPHHUBtnO/view)
 
-The language data contain 562 lexical records and 97 translated examples. Their identifiers remain stable, including a gap where one technical example was omitted. The atlas has thirteen text entries; map illustrations are awaiting revision.
+The language data contain 562 lexical records and 97 translated examples. Their identifiers remain stable, including a gap where one technical example was omitted. Seven maps and diagrams accompany the thirteen atlas subjects and the paired worlds. Six landscape and household illustrations and the Stavmark chart appear beside their subjects in the guides.
 
 All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

@@ -2,7 +2,7 @@
 
 ## Mountain people
 
-Jotun is the self-name of Dverghamar’s mountain giants. They stand around two and a half to three metres tall and have cold-adapted bodies with distinctive protective features. Their ancestry and detailed appearance remain undecided.
+Jotun is the self-name of Dverghamar’s mountain giants. They are imposing people with cold-adapted bodies and distinctive protective features. Their typical height, ancestry and detailed appearance remain unsettled; the earlier two-and-a-half to three-metre range is a provisional design.
 
 ## Homes and journeys
 

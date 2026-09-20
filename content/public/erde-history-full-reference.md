@@ -8,7 +8,7 @@ Early continental inhabitants precede later human migration. Contact unfolds thr
 
 Around five thousand years before the present, Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin communities remain self-sustaining. Coastal and mountain-rim communities continue through multiple mixed successors. Ancestry alone does not define membership.
 
-The later Thal catastrophe sent refugees from Erde to Dverghamar, where native dwarven peoples already lived.
+The Thal catastrophe belongs to a much earlier period, about **40,000 years ago**. Refugees crossed from Erde to Dverghamar, where native dwarven peoples already lived. The five-thousand-year date used throughout the regional accounts below describes a later stage of those communities’ histories.
 
 ## Great Watersheds
 

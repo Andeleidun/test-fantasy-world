@@ -2,9 +2,9 @@
 
 A world of permanent day, night and twilight. Its inhabited valleys support farms and mountain homes, with Hamarkorar, Thals and Jotun living across overlapping landscapes.
 
-![Illustrated twilight valley with cultivated slopes, homes cut into rock and a water wheel beside the river.](../assets/illustrations/dverghamar-twilight.webp)
+![Rock-cut homes and workshops on a dark escarpment, with a waterwheel, spillway and planted benches catching low twilight.](../assets/illustrations/dverghamar-twilight.webp)
 
-An inhabited twilight valley on Dverghamar. Farms and river works support homes built inside the mountain.
+Dverghamar: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.
 
 <a id="landscape"></a>
 ## Light, landscape and settlement
@@ -291,7 +291,9 @@ Appearance, behavior and local uses remain to be described for much of Dverghama
 <a id="thals--from-erde-to-dverghamar"></a>
 ### From Erde to Dverghamar
 
-The Thals descend from an ancient human lineage of Erde. About five thousand years ago, catastrophe drove survivors to seek refuge on Dverghamar through a passage associated with the Otherworld. How that passage worked remains unknown.
+The Thals descend from an ancient human lineage of Erde. About **40,000 years ago**, a catastrophe drove a great migration through the Otherworld. People fled alongside animals and plants bound up with the life of their homeland. The survivors emerged across Dverghamar’s twilight mountains, changed by the passage and better able to live in their new surroundings.
+
+Accounts of the flight recall terror, skilled practitioners and a desperate will to survive. They do not settle what caused the catastrophe, why the road reached Dverghamar or how the travelers changed. Particular animals, plants and surviving local populations still need fuller descriptions.
 
 The native Hamarkorar are not descended from the refugees. Their ancestry and diversification belong to Dverghamar’s independent history of life.
 
@@ -299,7 +301,9 @@ The native Hamarkorar are not descended from the refugees. Their ancestry and di
 <a id="thals--mountain-refuge-life"></a>
 ### Mountain refuge life
 
-Thal communities favor cool, illuminated mountain and cave districts with sheltered terrain, access to water and cultivated food. The heavier pull of the world makes work and travel demanding. The settlers rely on familiar crops, stored provisions and knowledge learned from their new surroundings.
+Thal communities favor cool, illuminated mountain and cave districts with sheltered terrain, access to water and cultivated food. Their history on Dverghamar spans tens of thousands of years. Present communities have inherited that long history of settlement and exchange, as well as memories of the flight.
+
+The heavier pull of the world still shapes work and travel. Sheltered growing ground, manageable routes and knowledge of local conditions matter. The changes of the migration did not remove the need for food, water, rest and care.
 
 Near-surface growing chambers and sheltered fields allow crops to receive light. Fungal cultivation and food storage supplement the work of growers. Judging native foods requires practical knowledge. Resemblance to an Erde organism is not enough.
 
@@ -307,7 +311,7 @@ Near-surface growing chambers and sheltered fields allow crops to receive light.
 <a id="thals--neighbors-and-continuity"></a>
 ### Neighbors and continuity
 
-Thals and Hamarkorar trade, share settlements and learn one another’s speech. Thal households have built permanent homes and organized care, transport and work around the demands of their adopted world. Their local institutions and histories remain to be described.
+Thals and Hamarkorar trade, share settlements and learn one another’s speech. Thal households have built permanent homes and organized care, transport and work around the demands of their adopted world. There is no single Thal culture. Their regional histories, bodily variation and local institutions remain to be described in detail.
 
 <a id="jotuns"></a>
 ## The Jotun
@@ -318,7 +322,7 @@ Thals and Hamarkorar trade, share settlements and learn one another’s speech. 
 <a id="jotuns--mountain-people"></a>
 ### Mountain people
 
-Jotun is the self-name of Dverghamar’s mountain giants. They stand around two and a half to three metres tall and have cold-adapted bodies with distinctive protective features. Their ancestry and detailed appearance remain undecided.
+Jotun is the self-name of Dverghamar’s mountain giants. They are imposing people with cold-adapted bodies and distinctive protective features. Their typical height, ancestry and detailed appearance remain unsettled; the earlier two-and-a-half to three-metre range is a provisional design.
 
 
 <a id="jotuns--homes-and-journeys"></a>

@@ -1,31 +1,5 @@
-## An Erde lineage on Dverghamar
+# The Thals
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
+This earlier article has been replaced by the [Dverghamar guide](../guides/dverghamar.md#thals). Its current source is [public/thals.md](public/thals.md).
 
-The Thals are the surviving descendants of Neanderthal populations from Erde. Their catastrophe occurred on Erde approximately five thousand years ago. Survivors escaped through the Otherworld and established refuge on Dverghamar.
-
-The native Hamarkorar had evolved independently long before the Thals arrived.
-
-## A twilight refuge
-
-The Thals’ permanent homes belong to the mountain and cave environments of the twilight belt. Protected habitation depends on food, water, ventilation and workable temperatures. Photosynthetic production in the lit corridor helps sustain them.
-
-The existence of caves does not make the deep dayside or nightside broadly habitable for large exposed organisms. Refuges must be understood through their local environmental support.
-
-## Belonging and language
-
-Residence, ancestry and language are separate categories. In Korvar, **kelir**, interior-dweller, can describe a Thal. **Hamarkor** denotes membership in the native dwarven peoples rather than everyone who lives underground.
-
-Specific institutions, settlements and citizenship rules remain to be described.
-
-- [Return to Erde’s history](erde.html).
-- [Explore the receiving world](dverghamar.html).
-- [Read the Otherworld framework](otherworld.html).
-
-## Permanent mountain refuges
-
-The preferred settlement history places permanent Thal homes in cool, illuminated mountain and cave districts, beginning with benches roughly 500–1,200 m above the local pressure datum. This range is an initial siting target, not a climate result. Modest rock cover, drainage and ventilation avoid equating a mountain home with an extreme-altitude or deeply buried citadel.
-
-The founding communities bring a finite package of compatible Erde-derived seed crops, cultures and necessary cultivation organisms, together with provisions for establishment. They grow compatible foods locally rather than depending on an endless external subsidy. Sheltered fields and near-surface chambers provide light, with controlled dark periods for crops that need them. Fungi consume already-produced organic substrate. Native foods enter the diet only when their chemistry and nutritional value prove suitable.
-
-Lifelong human reproduction at 1.53 g remains untested. Five thousand years permit cultural change and selection but do not guarantee complete physiological adaptation. Assisted transport, manageable loads, moderate elevations and support during pregnancy reduce demands without eliminating that uncertainty. The continued Thal lineage remains a conditional element of the setting, separate from native dwarf evolution.
+The [previous article and its source credits](https://github.com/Andeleidun/test-fantasy-world/blob/47c34104759c5e90e770748ba66ac3143f83c74d/content/thals.md) remain in the repository history. It may contain superseded lore or material outside the current public edition.

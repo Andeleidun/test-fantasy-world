@@ -14,8 +14,8 @@
     "file": "illustrations/dverghamar-twilight.webp",
     "width": 1536,
     "height": 1024,
-    "alt": "Illustrated twilight valley with cultivated slopes, homes cut into rock and a water wheel beside the river.",
-    "caption": "An inhabited twilight valley on Dverghamar. Farms and river works support homes built inside the mountain.",
+    "alt": "Rock-cut homes and workshops on a dark escarpment, with a waterwheel, spillway and planted benches catching low twilight.",
+    "caption": "Dverghamar: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.",
     "guide": "dverghamar",
     "kind": "illustration"
   },
@@ -24,9 +24,31 @@
     "file": "illustrations/merenval-coast.webp",
     "width": 1536,
     "height": 1024,
-    "alt": "Illustrated forested coast with tidal inlets, islands, boats and the companion world visible in the sky.",
-    "caption": "A maritime landscape on Merenval. The coast and the companion’s appearance are illustrative; their exact geography and angular scale remain unspecified.",
+    "alt": "Sailing boats move through blue-green water beside a flooded forest, root-grown dwellings and working waterfront platforms.",
+    "caption": "Merenval: boats, living shorelines and inhabited roots along a forested coast. The scene interprets maritime Sylvan life without fixing a named settlement or tree species.",
     "guide": "merenval",
+    "kind": "illustration"
+  },
+  {
+    "id": "companion-plateaus",
+    "file": "illustrations/companion-plateaus.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Pale stone and crystalline buildings overlook dry plateaus, isolated pillars, deep fissures and a distant inland sea.",
+    "caption": "Merenval’s companion: a plateau settlement built with stone and crystalline materials. Broad land interiors and broken relief give this region a different character from Merenval’s wet coasts. This is one regional landscape, not a view of the whole world.",
+    "guide": "merenval",
+    "after": "merenval-reference#plateaus-pillars-and-caverns",
+    "kind": "illustration"
+  },
+  {
+    "id": "dorrenath",
+    "file": "illustrations/dorrenath.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Dorrenath’s vast spreading crown rises above several layers of cloud, with ordinary forest far below and small inhabited galleries along her trunk.",
+    "caption": "Dorrenath, the eldest Wayroot, rises about 25 kilometres above the ground. Cloud layers and the forest below suggest her scale. Her branching form, inhabited galleries and surrounding terrain are an artistic interpretation; her exact crown width and location remain unsettled.",
+    "guide": "merenval",
+    "after": "merenval-reference#dorrenath",
     "kind": "illustration"
   },
   {
@@ -76,7 +98,7 @@
     "width": 1000,
     "height": 720,
     "alt": "Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Dverghamar.",
-    "caption": "Ancestry and migration describe different spans of history. The Thal departure occurred about five thousand years ago, long after Dverghamar’s native lineages had arisen.",
+    "caption": "The Thal departure occurred about 40,000 years ago, long after Dverghamar’s native lineages had arisen. The separate five-thousand-year regional histories describe a later period.",
     "guide": "erde",
     "after": "erde-atlas#e4",
     "codes": [

@@ -7,7 +7,8 @@
     "reading": "Erde’s continents, seas and broad coastlines. Detailed shorelines remain to be described.",
     "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/erde-regions.svg"
   },
   {
     "code": "E2",
@@ -17,7 +18,8 @@
     "reading": "How latitude, relief and local conditions affect the landscape.",
     "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/erde-landscape.svg"
   },
   {
     "code": "E3",
@@ -27,7 +29,8 @@
     "reading": "Mountains, valleys, coastal approaches and island passages used by travelers.",
     "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/erde-regions.svg"
   },
   {
     "code": "E4",
@@ -37,7 +40,8 @@
     "reading": "Inferred shared descent and movement between habitats. The early chronology remains uncertain.",
     "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/erde-ancestry.svg"
   },
   {
     "code": "E5",
@@ -47,7 +51,8 @@
     "reading": "Contact among Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.",
     "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/erde-regions.svg"
   },
   {
     "code": "D1",
@@ -57,7 +62,8 @@
     "reading": "The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-light.svg"
   },
   {
     "code": "D2",
@@ -67,7 +73,8 @@
     "reading": "Hot dry ground near the sunward margin, watered districts in the twilight region and cold country farther nightward.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-light.svg"
   },
   {
     "code": "D3",
@@ -77,7 +84,8 @@
     "reading": "Wet provinces and dry rain shadows, with salt basins, valleys and mountain passes between them. Continental names remain undecided.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-habitats.svg"
   },
   {
     "code": "D4",
@@ -87,7 +95,8 @@
     "reading": "Rivers, springs, lakes and glaciers that shape travel and settlement.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-settlement.svg"
   },
   {
     "code": "D5",
@@ -97,7 +106,8 @@
     "reading": "A mountain chamber can be high above the valley while having little rock overhead. Elevation and burial depth describe different conditions.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-settlement.svg"
   },
   {
     "code": "D6",
@@ -107,7 +117,8 @@
     "reading": "Related dwarven peoples occupy overlapping habitats. These ranges do not define political borders.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-habitats.svg"
   },
   {
     "code": "D7",
@@ -117,7 +128,8 @@
     "reading": "The farms, roads and river works that connect mountain homes with the surrounding country.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-settlement.svg"
   },
   {
     "code": "D8",
@@ -127,6 +139,7 @@
     "reading": "Lake shores, large aquatic animals and reports of sparse life around isolated warm sites.",
     "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "Map illustration awaiting revision"
+    "asset_status": "Reviewed schematic; not a surveyed map",
+    "illustration": "https://andeleidun.github.io/test-fantasy-world/assets/guide-maps/dverghamar-habitats.svg"
   }
 ]

@@ -18,6 +18,10 @@ const chapterList = [...guides.flatMap(guide => guide.chapters.map(chapter => ({
 const rights = /\n*All original project IP remains the author’s\. Public documentation grants no license or right to reuse this work\.\s*$/;
 export function cleanText(value) {
   let text = value.replace(rights, '').replace(/^- \[[^\n]+\]\([^\n]+\)\s*$/gm, '');
+  text = text.replace(/<!-- guide-figure: ([\w-]+) -->[\s\S]*?<!-- \/guide-figure -->/g, (block, id) => {
+    if (!figures.some(figure => figure.id === id)) throw new Error(`Unknown source figure: ${id}`);
+    return '';
+  });
   for (const [from,to] of Object.entries(edits.textReplacements)) text = text.replaceAll(from,to);
   return text.trim();
 }

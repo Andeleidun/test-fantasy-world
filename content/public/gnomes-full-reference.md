@@ -12,7 +12,7 @@ Comparative form strongly supports kinship among the Gnome peoples. How distant 
 
 ## The assembled body
 
-The Gnome body is not built like the body of a Human, Elf, or Orc. When examined after injury or death, it shows braided fibers, cords, layered membranes, fluid passages, toughened supports, soft exchange tissues, and several masses of especially dense and responsive material. The fibers branch and join repeatedly. Different tissues stain, tear, dry, burn, mineralize, and regrow differently, so an anatomist must distinguish them.
+The Gnome body is built from differentiated fungal or fungus-like tissues. Its organization differs from the body of a Human, Elf, or Orc. When examined after injury or death, it shows braided fibers, cords, layered membranes, fluid passages, toughened supports, soft exchange tissues, and several masses of especially dense and responsive material. The fibers branch and join repeatedly. Different tissues stain, tear, dry, burn, mineralize, and regrow differently, so an anatomist must distinguish them.
 
 No agreement exists about which dense tissues perform thought, sensation, memory, or voluntary motion. Injury to some regions produces predictable losses, while in other cases function returns through a route that the anatomist did not expect. This has encouraged both the theory of several cooperating centers and the theory of one widely distributed sensitive web. Neither explains every case.
 
@@ -41,6 +41,12 @@ Every living house must be fed. Most receive plant matter, cultivated substrate,
 Ventilation, drainage, humidity, temperature, and the removal of waste are therefore matters of architecture. The pleasant odor of a healthy house is not proof of health; neither is an unfamiliar odor proof of disease. Cultures maintain different balances among dryness, living surface, dormant structure, flowing air, and sealed chambers.
 
 House ailments include rot, drying, runaway fruiting, blocked passages, parasitic invasion, poisoned feed, mineral imbalance, graft rejection, loss of symbionts, and growth into unsafe foundations. The boundary between illness and an unwelcome preference becomes controversial in very old houses.
+
+<!-- guide-figure: gnome-living-house -->
+![Illustrated courtyard with living fibrous walls around timber and stone, assay gardens, water channels and a clockwork workbench.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/gnome-living-house.webp)
+
+An interpretation of a Gnome living house at a cavern entrance. Living panels share a frame with stone and timber; assay gardens and a mechanical workshop occupy the courtyard. Gnome house traditions vary widely.
+<!-- /guide-figure -->
 
 ## Propagation and household founding
 
@@ -116,7 +122,7 @@ Neither arrangement belongs exclusively to an earlier or later age. In both, peo
 
 ## The incomparable city-house
 
-Travelers describe one settlement grown so far that “city” and “house” are both inadequate. Courtyards, towers, tunnels, bridges, workshops, waters, parks, transit cords, and neighborhoods belong to one ancient continuous house lineage. The house itself is recognized as a person.
+Travelers describe one settlement that has grown across centuries into a city-scale house. Courtyards, towers, tunnels, bridges, workshops, waters, parks, transit cords, and neighborhoods belong to one ancient continuous house lineage. The house itself is recognized as a person.
 
 Its roots, galleries, gardens, reservoirs, and inhabited chambers extend beyond ordinary space. No single three-dimensional plan can contain them. A nearby room may require a journey; a distant district may share a wall; a corridor may possess more directions than an animal-bodied surveyor expects.
 

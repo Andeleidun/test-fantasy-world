@@ -20,7 +20,7 @@ Travel stories include disorientation, uncertain elapsed time, altered appearanc
 
 ## Sacred trees and ancestral stories
 
-Wayroots and Elven associations with the Otherworld attract stories of paths and unusual encounters. Traditions link Elves with fay, though their ancestry remains unverified. Accounts of Dorrenath do not establish that it created the worlds or stands at their center.
+Wayroots and Elven associations with the Otherworld attract stories of paths and unusual encounters. Traditions link Elves with fay, though their ancestry remains unverified. Dorrenath is called the Great Mother by those who live within her. That title expresses their relationship with a living host; it does not establish that she created the worlds or stands at their center.
 
 These motifs recur in human stories, but their meanings differ among tellers and communities.
 

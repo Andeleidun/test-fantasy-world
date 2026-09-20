@@ -1,10 +1,16 @@
 # Erde
 
+<!-- guide-figure: erde-river-country -->
+![Illustrated river basin with gardens, embankments, landing stages and settlements linked by boats.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/erde-river-country.webp)
+
+River country on Erde. This illustration brings together the cultivated banks, settlements and water routes described in the regional histories.
+<!-- /guide-figure -->
+
 ## The lands of Erde
 
 Mountain chains divide Erde’s interiors. Rivers connect settlements across wide basins, and travelers follow coasts and island passages between communities.
 
-The [atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) describes the lands and seas, mountain passages and ancient migrations. Detailed regional maps remain to be drawn.
+The [atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) describes the lands and seas, mountain passages and ancient migrations. The diagrams show the regional relationships; detailed coastlines and distances remain undescribed.
 
 Erde orbits one sun in the [three-star system](https://drive.google.com/file/d/1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj/view?usp=drivesdk). Its sun and Merenval's form the closer stellar pair. The exact properties of Erde’s sun and the length of its calendar periods remain undecided.
 
@@ -24,7 +30,7 @@ A well-prepared team at a familiar river crossing can achieve things that an iso
 
 ## The Thal departure
 
-About five thousand years ago, a catastrophe on **Erde** drove survivors of an ancient human lineage through the Otherworld to Dverghamar. Their descendants are the **Thals**. Other populations of that lineage remaining on Erde subsequently became extinct or were absorbed.
+About **40,000 years ago**, a catastrophe on **Erde** drove survivors of an ancient human lineage through the Otherworld to Dverghamar. Animals and plants from their homeland accompanied the flight. The survivors arrived changed, scattered across the twilight mountains. Their descendants are the **Thals**. Other populations of that lineage remaining on Erde subsequently became extinct or were absorbed.
 
 The departure belongs to Erde’s history. Dverghamar’s native dwarven lineages had already evolved independently over far longer spans of time.
 

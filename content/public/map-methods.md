@@ -2,7 +2,7 @@
 
 ## Scope and status
 
-The atlas contains five text entries for Erde and eight for Dverghamar. Revised illustrations are not yet available. Earlier diagrams need a separate revision before they can accompany these accounts.
+The guide places maps and diagrams beside their subjects. Five atlas entries describe Erde and eight describe Dverghamar. Revised illustrations group related entries on shared plates; a further diagram compares Merenval and its companion.
 
 ## Geography and illustration
 
@@ -18,6 +18,6 @@ Ancestral movement, later migration and a particular contact era are different s
 
 ## Using the index
 
-The map index links each subject to its text guide. New illustrations must be checked against these public accounts before publication.
+Atlas codes E1–E5 and D1–D8 still identify the same subjects. Each entry appears beside an illustration or links to the relevant figure on its world page.
 
 All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

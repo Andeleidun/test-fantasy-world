@@ -71,7 +71,7 @@ test('only reviewed reader assets and public datasets are deployed', async () =>
 test('every atlas subject has a reviewed inline map; every reader figure appears in its guide', async () => {
   const maps = await json('content/public/maps.json');
   assert.equal(maps.length, 13);
-  assert.equal(figures.length, 12);
+  assert.equal(figures.length, 14);
   for (const map of maps) {
     const figure = figures.find(item => item.codes?.includes(map.code));
     assert.ok(figure, map.code);
@@ -128,6 +128,40 @@ test('public edition retains current substantive distinctions', async () => {
   assert.match(await read('gnomes-full-reference'), /not be confused with the Otherworld rooms/);
   assert.match(await read('cosmology-reference'), /Failure to reach someone does not disclose that person’s fate/);
   assert.match(await read('orcs'), /walking, running or bounding along the bottom/);
+});
+
+test('current canon keeps the Thal migration separate from later regional history', async () => {
+  const thals = await readFile('content/public/thals.md', 'utf8');
+  const erde = await readFile('content/public/erde.md', 'utf8');
+  const history = await readFile('content/public/erde-history-full-reference.md', 'utf8');
+  const map = await readFile('assets/guide-maps/erde-ancestry.svg', 'utf8');
+  for (const text of [thals, erde, map]) {
+    assert.match(text, /40,000/);
+    assert.doesNotMatch(text, /five (?:thousand|millennia)|5,000/i);
+  }
+  assert.match(history, /much earlier period, about \*\*40,000 years ago/);
+  assert.doesNotMatch(history, /later Thal catastrophe/);
+  assert.match(history, /Shapeshifting begins to be pioneered by a few masters around five thousand years ago/);
+  const merenval = await readFile('guides/merenval.md', 'utf8');
+  assert.match(merenval, /25 kilometres/);
+  assert.match(merenval, /journeys between worlds remain rare/);
+  assert.doesNotMatch(merenval, /107.kilometre|150 km|three.complex.degree|gravity.control mechanism|selected.*admixture model/i);
+  assert.doesNotMatch(await readFile('dist/search-index.json', 'utf8'), /later Thal catastrophe|Map illustration awaiting revision|city-scale living presence/);
+});
+
+test('source documents embed the reviewed illustrations without duplicating site figures', async () => {
+  for (const figure of figures) {
+    const source = figure.after?.split('#')[0] || figure.guide;
+    const text = await readFile(`content/public/${source}.md`, 'utf8');
+    assert.ok(text.includes(`<!-- guide-figure: ${figure.id} -->`), figure.id);
+    assert.ok(text.includes(`![${figure.alt}](https://andeleidun.github.io/test-fantasy-world/assets/${figure.file})`), figure.id);
+    assert.ok(text.includes(figure.caption), figure.id);
+    const html = await readFile(`dist/${figure.guide}.html`, 'utf8');
+    assert.equal(html.split(`src="assets/${figure.file}"`).length - 1, 1, figure.id);
+    assert.ok(!html.includes('<!-- guide-figure:'), figure.id);
+  }
+  const maps = await json('content/public/maps.json');
+  assert.ok(maps.every(map => map.illustration && !map.asset_status.includes('awaiting')));
 });
 
 test('complete Markdown guides have working local links and retain every translated example', async () => {

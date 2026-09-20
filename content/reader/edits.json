@@ -65,17 +65,9 @@
       "reason": "The dictionary is on this page; all three language data downloads remain under About/downloads."
     }
   },
-  "replace": {
-    "erde-atlas#scope-of-this-guide": "The maps below show the regional relationships described in the histories. They are schematics: detailed coastlines, distances and many local places remain undescribed.",
-    "dverghamar-atlas#scope-of-this-guide": "These maps connect the day and night geography with habitats, water and mountain settlements. They show broad relationships; distances, continental outlines and engineering dimensions remain undescribed.",
-    "map-methods#scope-and-status": "The guide places maps and diagrams beside their subjects. Five atlas entries describe Erde and eight describe Dverghamar. Revised illustrations group related entries on shared plates; a further diagram compares Merenval and its companion.",
-    "map-methods#using-the-index": "Atlas codes E1–E5 and D1–D8 still identify the same subjects. Each entry appears beside an illustration or links to the relevant figure on its world page."
-  },
+  "replace": {},
   "textReplacements": {
-    "Detailed regional maps remain to be drawn.": "The diagrams show the regional relationships; detailed coastlines and distances remain undescribed.",
     "The guides below cover pronunciation, grammar, the Stavmark script and five regional languages.": "The following chapters cover pronunciation, grammar, the Stavmark script and five regional languages.",
-    "The separate familiar guide describes its later development.": "The account of [familiars and shapeshifting](magic.html#familiars) describes its later development.",
-    "The Gnome body is not built like the body of a Human, Elf, or Orc.": "The Gnome body is built from differentiated fungal or fungus-like tissues. Its organization differs from the body of a Human, Elf, or Orc.",
-    "Travelers describe one settlement grown so far that “city” and “house” are both inadequate.": "Travelers describe one settlement that has grown across centuries into a city-scale house."
+    "The separate familiar guide describes its later development.": "The account of [familiars and shapeshifting](magic.html#familiars) describes its later development."
   }
 }

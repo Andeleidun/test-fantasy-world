@@ -2,9 +2,9 @@
 
 Merenval’s seas and forests face a companion of plateaus, pillars and caverns. Elves, Gnomes and Orcs inhabit the pair, with long histories of travel and exchange.
 
-![Illustrated forested coast with tidal inlets, islands, boats and the companion world visible in the sky.](../assets/illustrations/merenval-coast.webp)
+![Sailing boats move through blue-green water beside a flooded forest, root-grown dwellings and working waterfront platforms.](../assets/illustrations/merenval-coast.webp)
 
-A maritime landscape on Merenval. The coast and the companion’s appearance are illustrative; their exact geography and angular scale remain unspecified.
+Merenval: boats, living shorelines and inhabited roots along a forested coast. The scene interprets maritime Sylvan life without fixing a named settlement or tree species.
 
 <a id="paired-worlds"></a>
 ## The two worlds
@@ -34,9 +34,9 @@ Naturalists find similarities between life on the two worlds that suggest shared
 <a id="peoples"></a>
 ### Peoples
 
-Forest and Maritime/Littoral Sylvan traditions are associated with Merenval. Crystalline/High and Deep/Star traditions are associated with the companion. These Elven traditions share ancestry and remain in contact.
+Forest and Maritime/Littoral Sylvan traditions are associated with Merenval. Crystalline/High and Deep/Star traditions are associated with the companion. These Elven traditions share ancestry, but journeys between worlds remain rare. Regular travel within a coast, cavern district or Wayroot settlement does not make an onward crossing dependable.
 
-Gnome communities cultivate living homes in the companion’s fungal and cavern landscapes. Orc cities, farms, river communities, pastoral networks and other societies occur across the pair. Both worlds have societies of their own.
+Gnome communities cultivate living homes across the companion, from cavern districts to forests, wetlands, coasts and cities. Orc cities, farms, river communities, pastoral networks and other societies occur across the pair. Both worlds have societies of their own.
 
 
 
@@ -44,13 +44,22 @@ Gnome communities cultivate living homes in the companion’s fungal and cavern 
 <a id="merenval-reference--seas-and-coasts"></a>
 ### Seas and coasts
 
-Merenval’s seas connect coastal, island, estuary and river communities. Maritime/Littoral Sylvan networks grew through many communities and repeated exchange. Voyaging and kinship keep these communities in contact; no single colony founded the whole network.
+Merenval’s seas connect coastal, island, estuary and river communities. Forests reach into wetlands and tidal country. Maritime/Littoral Sylvan networks grew through many communities and repeated exchange. Voyaging and kinship keep these communities in contact; no single colony founded the whole network.
+
+Voyagers carry living cultures, seeds, medicine, craftwork and news as well as passengers. A family may keep a rooted home and spend much of its life aboard a vessel. Reliable seamanship depends on winds, currents, landing places and provisions even where magic helps a navigator.
 
 
 <a id="merenval-reference--plateaus-pillars-and-caverns"></a>
 ### Plateaus, pillars and caverns
 
-The companion has broad land interiors, rain-shadow districts, separated seas, great escarpments and cavern environments. Crystal-rich rock gives some places and cities a distinctive appearance. Rock, masonry and worked crystalline materials occur together in architecture.
+The companion has broad land interiors, rain-shadow districts, separated seas, great escarpments and cavern environments. Open plateaus and isolated pillars give some regions long views across broken ground. Crystal-rich rock gives some places and cities a distinctive appearance. Rock, masonry and worked crystalline materials occur together in architecture.
+
+Life below those plateaus can look very different. Water, roots and surface openings support inhabited cavern districts. Reflected light and luminous fungi can make mineral ceilings resemble a night sky. Deeper settlements depend on their own local sources of food and on supplies from elsewhere. Neither bare rock nor glowing fungus alone feeds a city.
+
+<a id="figure-companion-plateaus"></a>
+![Pale stone and crystalline buildings overlook dry plateaus, isolated pillars, deep fissures and a distant inland sea.](../assets/illustrations/companion-plateaus.webp)
+
+Merenval’s companion: a plateau settlement built with stone and crystalline materials. Broad land interiors and broken relief give this region a different character from Merenval’s wet coasts. This is one regional landscape, not a view of the whole world.
 
 
 <a id="merenval-reference--elven-traditions-and-exchange"></a>
@@ -64,13 +73,44 @@ Deep/Star Elves and Gnomes have long histories of exchange and some mixed settle
 <a id="merenval-reference--natural-history-and-remembered-journeys"></a>
 ### Natural history and remembered journeys
 
-The pair’s life has broad ancestral affinities, while its habitats differ substantially. Elven migration and continuing contact connect the worlds. The dates of early settlement, numbers of founders and details of ancestry remain uncertain.
+The pair’s life has broad ancestral affinities, while its habitats differ substantially. Ancient Elven migrations established communities on the companion. Later contact was intermittent, and present journeys between worlds remain rare. A well-kept local Wayroot path or cavern route does not guarantee passage to the other world. The dates of early settlement, numbers of founders and details of ancestry remain uncertain.
 
 
 <a id="merenval-reference--dorrenath"></a>
 ### Dorrenath
 
-Dorrenath is the eldest known Wayroot and a city-scale living presence on Merenval. Accounts associate Wayroots with unusual paths and Otherworld encounters. The reported paths can be dangerous, and ordinary trees offer no dependable passage.
+Dorrenath is the eldest known Wayroot and the ancestor of the Wayroot lineage. She rises about **25 kilometres** above the ground beneath a vast, spreading crown. Ordinary forest is dwarfed at her feet. Her inhabited spaces extend through roots, trunk and branches, with paths that lead beyond what an outside view of the tree can explain.
+
+Residents live with a responsive host. Dorrenath has her own interests, knowledge and habits of attention. Those who call her the **Great Mother** include more than Elves: the name embraces the many lives sheltered within her. It is a name of belonging and reverence, not a claim that she created all life.
+
+Accounts describe long intervals of sleep in which her wider attention withdraws. Local parts of the tree remain responsive, so a sleeping Dorrenath is neither an empty house nor a defenseless one. She can resist interference and can restrain, injure or kill an aggressor. Knowing a resident does not mean knowing everything that resident thinks or does.
+
+Her exact location and crown width remain unsettled.
+
+<a id="figure-dorrenath"></a>
+![Dorrenath’s vast spreading crown rises above several layers of cloud, with ordinary forest far below and small inhabited galleries along her trunk.](../assets/illustrations/dorrenath.webp)
+
+Dorrenath, the eldest Wayroot, rises about 25 kilometres above the ground. Cloud layers and the forest below suggest her scale. Her branching form, inhabited galleries and surrounding terrain are an artistic interpretation; her exact crown width and location remain unsettled.
+
+
+<a id="merenval-reference--living-within-dorrenath"></a>
+### Living within Dorrenath
+
+Homes, kitchens, stores, workshops and civic spaces share the tree with living tissues and other organisms. Some inhabited spaces also serve her bodily needs. Repairing a passage or treating an injury can disrupt a neighborhood; protecting residents and caring for their host can become competing obligations.
+
+People still grow food, carry water, remove waste, mend buildings and inspect routes. Familiar paths can be dependable, but a visitor needs local knowledge. Different conditions beyond a passage may call for a guide or preparation. Children learn within predictable neighborhoods and gradually take on more demanding journeys.
+
+Care for Dorrenath does not by itself confer authority over her residents. Interpreters can disagree about a response, and illness or reflex can be mistaken for a deliberate request. The institutions that settle such disputes remain to be described.
+
+Some residents and spiritual practitioners report continuing contact with the dead within Dorrenath. They distinguish a remembered impression from an apparent continuing person, though an encounter can be difficult to interpret. These experiences have a place in Great Mother traditions; they do not promise every resident the same fate.
+
+
+<a id="merenval-reference--other-wayroots"></a>
+### Other Wayroots
+
+Wayroots descend from Dorrenath, but each grows in its own surroundings. Some become associated with usable Otherworld paths; others never do. Health, age, cultivation and local conditions matter. Planting a young Wayroot does not reproduce its parent's destinations or open a reliable road between planets.
+
+The reported paths can be dangerous. Ordinary trees offer no dependable passage.
 
 <a id="elves"></a>
 ## Elven peoples and traditions
@@ -83,17 +123,17 @@ Dorrenath is the eldest known Wayroot and a city-scale living presence on Merenv
 
 Elves originated on Merenval and remain one fully interfertile people spread across Merenval and its companion. Their history produced four major traditions: Forest Sylvan, Maritime/Littoral Sylvan, Crystalline/High and Deep/Star. Each tradition has its own history and relationships with its surroundings. None is a separate species.
 
-Ancient migrations established Elven communities on the companion. Later journeys and continuing kinship connect the pair. Their early ancestry remains uncertain. Traditions associating Elves with fay remain attributed ancestral stories here, not a verified explanation of their origins.
+Ancient migrations established Elven communities on the companion. Later journeys connected the pair intermittently; travel between the worlds remains rare. Their early ancestry remains uncertain. Traditions associating Elves with fay remain attributed ancestral stories here, not a verified explanation of their origins.
 
 
 <a id="elves--four-traditions-three-approaches"></a>
 ### Four traditions, three approaches
 
-Forest and Maritime/Littoral Sylvans share a broad magical approach based on **reciprocity**. Forest practice emphasizes growth and relationships among living systems. Maritime practice emphasizes flow and the overlapping cycles of sea and land.
+Forest and Maritime/Littoral Sylvans share a broad magical approach based on **reciprocity**. Forest practitioners cultivate living passages, care for associated organisms and learn to recognize a host's distress or refusal. Maritime practitioners maintain refuges along coasts, tend littoral Wayroots and plan journeys through changing waters. Fog or a rising tide does not open a path by itself.
 
-Crystalline/High practice emphasizes **structure and intricate craft**, often through carefully built crystal arrays. Deep/Star practice emphasizes **resonance**, with major schools rooted in the companion's deep-cave settlements.
+Crystalline/High practice emphasizes **structure and intricate craft**, often through carefully built crystal arrays. Practitioners make local charts, instruments and protected passages, then check them against conditions that can change. Deep/Star practice emphasizes **resonance**, with major schools rooted in the companion's deep-cave settlements. Their specialists listen for changed connections in rock, water and living networks; a response need not be intentional speech.
 
-Schools borrow from one another, and individual practitioners often disagree.
+Schools borrow from one another, and individual practitioners often disagree. An inland Sylvan may study crystal craft, and a Deep Elf may be a cook or historian with little magical training. These traditions describe learned approaches rather than professions assigned by ancestry.
 
 
 <a id="elves--sylvans-of-merenval"></a>
@@ -115,7 +155,19 @@ Deep/Star communities have long histories of contact with Gnomes in fungal, cave
 <a id="elves--dorrenath-and-the-wayroots"></a>
 ### Dorrenath and the Wayroots
 
-Dorrenath is the eldest known Wayroot, a city-scale living presence on Merenval. Stories associate Wayroots with unusual paths and Otherworld encounters. The reported paths can be dangerous; most trees offer no such passage.
+Dorrenath is the eldest known Wayroot, a living host rising about **25 kilometres** beneath a vast crown. Elves and other inhabitants live within her and call her the Great Mother. Her knowledge, responses and defenses make residence a relationship with another being. Ordinary labor, care for the tree and negotiation over inhabited space shape daily life.
+
+Other Wayroots descend from her. Some grow useful Otherworld paths, but those paths do not all lead to the same places. A familiar local route gives no assurance of reaching the companion world. The reported paths can be dangerous; most trees offer no such passage.
+
+
+<a id="elves--bodies-childhood-and-experience"></a>
+### Bodies, childhood and experience
+
+Elves keep remarkably stable bodily forms despite their close Otherworld associations. Neither residence near a strange passage nor magical study makes every Elf a shapeshifter. Experienced practitioners can manage conditions that would confuse an unprepared traveler, but they remain vulnerable to injury, illness and error.
+
+Children begin within familiar, predictable networks of home and care. Their journeys grow more demanding as experience allows. Safety depends on the actual neighborhood and its routes, rather than simply on how strange a place looks from outside.
+
+Long lives allow teachers, craftspeople and travelers to build deep experience. They do not give everyone the same skills or an infallible memory.
 
 Elven lifespans, maturity, detailed physiology, present populations and many local histories remain open.
 

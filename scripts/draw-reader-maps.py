@@ -53,7 +53,7 @@ b+=path('M500 234 L758 234 L758 268',stroke=BLUE,width=3,extra='marker-end="url(
 b+=panel(38,278,410,130,'Human branches',['Separation, migration and later contact.','Some branches exchange ancestry.'])
 b+=panel(550,278,410,130,'Hobbit lineages',['Island, highland and seafaring branches.','Different histories and ways of living.'])
 b+=line(448,355,550,355,BLUE,2,'5 5')+txt(500,447,'Human–hobbit interbreeding is rare and usually has low fertility.',18,MUTED,anchor='middle')
-b+=panel(38,485,410,135,'The Thal departure',['Erde refugees passed through the','Otherworld about 5,000 years ago.'],'#e9e2c7')
+b+=panel(38,485,410,135,'The Thal departure',['Erde refugees passed through the','Otherworld about 40,000 years ago.'],'#e9e2c7')
 b+=panel(550,485,410,135,'Dverghamar',['Thal descendants settled among','native peoples with separate ancestry.'],'#d9e7e8')
 b+=path('M448 551 L542 551',stroke=BLUE,width=3,extra='marker-end="url(#arrow)"')
 save('erde-ancestry','Erde: ancestry and the Thal migration','Broad inferred descent and a much later historical journey.',b,720,'E4 | Branching dates and a detailed family tree remain uncertain. Culture does not follow descent alone.')

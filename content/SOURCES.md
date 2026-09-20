@@ -2,7 +2,9 @@
 
 The 20 September 2026 [Public — Cultural Knowledge collection](https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt) governs this publication. The complete 44-file import map, timestamps and checksums are in [`public-sync.json`](public-sync.json). The current public files are in [`public/`](public/); the initial import is recorded in [`PUBLIC-SYNC-2026-09-18.md`](../docs/PUBLIC-SYNC-2026-09-18.md), and the subsequent edit in [`PROSE-REVIEW-2026-09-20.md`](../docs/PROSE-REVIEW-2026-09-20.md).
 
-The edition contains 36 subject articles plus its collection README, six data/index files, and a native index exported as text. The dictionary has 562 entries and the examples file has 97 records. Thirteen atlas subjects have text guides, with no revised atlas artwork. The Stavmark chart was checked against the current writing guide and remains a reader asset.
+The edition contains 36 subject articles plus its collection README, six data/index files, and a native index exported as text. The dictionary has 562 entries and the examples file has 97 records. Seven reviewed maps accompany the thirteen atlas subjects and the paired worlds. Six scene illustrations and the Stavmark chart appear beside their subjects.
+
+The [20 September canon review](../docs/CANON-REVIEW-2026-09-20.md) incorporates later accepted decisions rather than treating the older public snapshot as final authority. The Thal migration is about 40,000 years before the present. The five-thousand-year regional history and early shapeshifting dates describe separate events. Obsolete article copies now link to the guides and to their historical versions.
 
 Earlier technical summaries, maps, source eligibility labels and publication counts below describe prior snapshots. They are retained for research traceability and attribution, not current publication authority. A prior `complete` provenance label is not a new audit of the 18 September material. The prose edit uses the same public sources.
 

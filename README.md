@@ -12,7 +12,7 @@ The reader brings the current public collection into five complete, illustrated 
 | Magic and belief | [World guide](https://andeleidun.github.io/test-fantasy-world/magic.html) | [Magic and belief](guides/magic.md) |
 | Korvar, including the dictionary | [World guide](https://andeleidun.github.io/test-fantasy-world/korvar.html) | [Korvar](guides/korvar.md) |
 
-The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Four new illustrations and the Stavmark chart appear beside their subjects. The source collection was synchronized on 20 September 2026.
+The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Six illustrations and the Stavmark chart appear beside their subjects and are embedded in the corresponding source documents. The source collection was reviewed and synchronized on 20 September 2026.
 
 ## Run locally
 
@@ -28,7 +28,7 @@ Open <http://localhost:4173/test-fantasy-world/>. The local server also supports
 
 ## Current sources and synchronization
 
-The live public Drive collection determines what appears on the site. `content/public/` contains its unchanged Markdown and data, plus a readable text export of the native index. `content/public-sync.json` maps all 44 files to source IDs, modification times, byte lengths and SHA-256 checksums. The import does not introduce additional authorial lore.
+The public Drive collection supplies the site's source text. Before synchronization, check it against the author's latest accepted decisions: a recent file timestamp alone does not establish current canon. Update the public sources where eligible decisions supersede them. `content/public/` then preserves those source bytes, plus a readable text export of the native index. `content/public-sync.json` maps all 44 files to source IDs, modification times, byte lengths and SHA-256 checksums.
 
 `content/reader/guides.json` defines the five guides and their chapter order. `scripts/reader-edition.mjs` maps source sections and old URLs into this structure; `scripts/build.mjs` renders the website and the complete Markdown guides. Every source has a recorded destination in `content/reader/coverage.json`.
 
@@ -36,16 +36,17 @@ The live public Drive collection determines what appears on the site. `content/p
 - Record editorial replacements and merged summaries in `content/reader/edits.json`, with a destination and reason. The source snapshot remains unchanged by reader composition.
 - `content/reader/figures.json` supplies image descriptions, captions, placements and atlas-code coverage. Only its reviewed images and the reader's application assets are deployed. `scripts/draw-reader-maps.py` regenerates the seven vector plates.
 - Illustration prompts and generation method are recorded in `content/reader/illustration-prompts.json`. The web images are stored in `assets/illustrations/`.
+- After editing figure metadata, run `node scripts/sync-source-figures.mjs`, review the resulting public Markdown, and synchronize those source files. The reader recognizes these embedded blocks and renders each figure once at its configured location.
 - Maintain the exact six source datasets/indexes. TSVs live in `content/public/data/`; JSON files live directly in `content/public/`.
 - `content/dictionary-anchors.json` preserves old numeric bookmarks for surviving words. Stable lexical anchors identify dictionary records. Removed entries never redirect to a different word.
 - Old article routes provide fragment-aware forwarding and ordinary links for readers without JavaScript. Search indexes the composed text and points directly into the five guides.
 - Apply the Humanizer editorial rules to new reader prose and captions. Preserve naturalist voices, grammatical examples and genuine uncertainty.
 
-The [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation plan and results](docs/GUIDE-CONSOLIDATION-2026-09-20.md) document these changes.
+The [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md) records the latest corrections. Earlier work is documented in the [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md).
 
 ## Historical research
 
-Older files directly in `content/` other than the current sync and anchor manifests, older `public/data/`, map artwork in `assets/maps/`, and prior scientific/editorial records under `docs/` are retained research history. They are not current public source authority and are not copied into the website. Their credits and evidence distinctions remain intact. The older Level 3 register is a historical research record; import coverage does not certify a fresh real-world source audit.
+Twenty-seven obsolete articles directly in `content/` now point to the current guides and to their previous versions in Git history, where their source credits remain. The unused article catalog agrees with the current public catalog. Original lexical ordering, older map data and artwork, and prior scientific/editorial records remain dated research history used by old bookmarks or research scripts. They are not copied into the website. The older Level 3 register is a historical research record; import coverage does not certify a fresh real-world source audit.
 
 This repository is public. An editorial directory boundary does not restrict access, and this synchronization does not erase previously committed material from Git history. See [source notes](content/SOURCES.md) for the historical record and current boundary.
 

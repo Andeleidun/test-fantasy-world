@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "retrievedOn": "2026-09-20",
-  "repositoryBaseline": "eeebdaf8862a4e2e87e2bd7b951894e5dfedd817",
+  "repositoryBaseline": "47c34104759c5e90e770748ba66ac3143f83c74d",
   "sourceFolder": "https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt",
   "files": [
     {
@@ -18,10 +18,10 @@
       "sourceId": "1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y",
       "sourceName": "gnomes-full-reference.md",
       "sourceUrl": "https://drive.google.com/file/d/1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y/view",
-      "modifiedTime": "2026-09-20T01:13:20.352Z",
+      "modifiedTime": "2026-09-20T07:06:40.120Z",
       "path": "content/public/gnomes-full-reference.md",
-      "sha256": "726a2a68713c70d1677d4ed7af425f330767c56213402bf7daf75ecde65630fb",
-      "sizeBytes": 17257,
+      "sha256": "4a0f74ece8804fa8fcce1c748334eea0e3953e28e86c9e2196fe3e2be0679822",
+      "sizeBytes": 17827,
       "format": "original-text"
     },
     {
@@ -48,40 +48,40 @@
       "sourceId": "1-21envIncKQCy8fC7eoFKM5lGX9kMnMh",
       "sourceName": "catalog.json",
       "sourceUrl": "https://drive.google.com/file/d/1-21envIncKQCy8fC7eoFKM5lGX9kMnMh/view",
-      "modifiedTime": "2026-09-20T01:13:24.567Z",
+      "modifiedTime": "2026-09-20T07:06:53.313Z",
       "path": "content/public/catalog.json",
-      "sha256": "a0c10f4947b6d8ca695b15d103f3046998ac392678ac102b8282b8825ef6b883",
-      "sizeBytes": 11891,
+      "sha256": "950daf3abd64f73d26810b78bd8eee0a3431d7a0b10d55cbf62c6706cabb8c67",
+      "sizeBytes": 11784,
       "format": "original-text"
     },
     {
       "sourceId": "1qSQEnlOfU9DeYc1voqVzdye1jh0lDHvL",
       "sourceName": "README.md",
       "sourceUrl": "https://drive.google.com/file/d/1qSQEnlOfU9DeYc1voqVzdye1jh0lDHvL/view",
-      "modifiedTime": "2026-09-20T01:13:26.644Z",
+      "modifiedTime": "2026-09-20T07:06:55.316Z",
       "path": "content/public/README.md",
-      "sha256": "f359a7e1b3758c6fa043e18fcaf55f8ca3d3f326e8e8319f640c81dd5b4c8dee",
-      "sizeBytes": 5488,
+      "sha256": "e0bb9a0e06549da2e883bdebef10d9e5e7ed8a255c5f97120e49e8e28abc55ef",
+      "sizeBytes": 6022,
       "format": "original-text"
     },
     {
       "sourceId": "1KQ--6Z9H2QnFDvqiNGqSwYyZeBM12WMd",
       "sourceName": "erde-history-full-reference.md",
       "sourceUrl": "https://drive.google.com/file/d/1KQ--6Z9H2QnFDvqiNGqSwYyZeBM12WMd/view",
-      "modifiedTime": "2026-09-20T01:13:28.549Z",
+      "modifiedTime": "2026-09-20T07:06:57.337Z",
       "path": "content/public/erde-history-full-reference.md",
-      "sha256": "2c4ab02b77923addd1ba583b17982f69f5dbee385d13bfb28481adacaa31b719",
-      "sizeBytes": 30306,
+      "sha256": "36312eb94795a75a76c6207fba17ee78586902cf156f71af19d683ff0eea69d8",
+      "sizeBytes": 30496,
       "format": "original-text"
     },
     {
       "sourceId": "1BLoJ9s4TIN7QJNYH4nW5aqVHTxfXwNv4",
       "sourceName": "thals.md",
       "sourceUrl": "https://drive.google.com/file/d/1BLoJ9s4TIN7QJNYH4nW5aqVHTxfXwNv4/view",
-      "modifiedTime": "2026-09-20T01:13:30.736Z",
+      "modifiedTime": "2026-09-20T07:06:59.652Z",
       "path": "content/public/thals.md",
-      "sha256": "6064ee785519f4e0b4ea751da4936b8e3025a0ab9ee0daaa1c6fe581bd8ab322",
-      "sizeBytes": 1414,
+      "sha256": "14f1b835564edea0e36b1baaa844b98caf84e78328f725efec4a72ac9881f40c",
+      "sizeBytes": 2152,
       "format": "original-text"
     },
     {
@@ -198,10 +198,10 @@
       "sourceId": "1dkpx1CXWE3RVgBPO4GurZf5b2NCtFYqo",
       "sourceName": "maps.json",
       "sourceUrl": "https://drive.google.com/file/d/1dkpx1CXWE3RVgBPO4GurZf5b2NCtFYqo/view",
-      "modifiedTime": "2026-09-20T01:13:54.049Z",
+      "modifiedTime": "2026-09-20T07:07:01.629Z",
       "path": "content/public/maps.json",
-      "sha256": "c6c95322b25b195f8bf8b61999fd958dd0c0b01cab35b91bc6d1ab28fdf60339",
-      "sizeBytes": 5815,
+      "sha256": "48bbf9a8c4c14e7f54bdd35c3b50c5f473e8cb2442b1055cf385975dd6fbc618",
+      "sizeBytes": 7304,
       "format": "original-text"
     },
     {
@@ -228,10 +228,10 @@
       "sourceId": "1y19L-zcd6BJsmdcfPNZZ24J4mBme2c0R",
       "sourceName": "dverghamar-atlas.md",
       "sourceUrl": "https://drive.google.com/file/d/1y19L-zcd6BJsmdcfPNZZ24J4mBme2c0R/view",
-      "modifiedTime": "2026-09-20T01:14:04.509Z",
+      "modifiedTime": "2026-09-20T07:07:03.528Z",
       "path": "content/public/dverghamar-atlas.md",
-      "sha256": "41cb1b1c9c68fd9813e4d821fda26e440390cf70d715d125b6bb457703e31fc5",
-      "sizeBytes": 1538,
+      "sha256": "fabae3970bb77c80a3b95bacd9fce21e1f54289f1479ff3d432bc9914369720f",
+      "sizeBytes": 2899,
       "format": "original-text"
     },
     {
@@ -248,50 +248,50 @@
       "sourceId": "1cR4g5Zr9Za6T7sa9aEPQZqcbkyWBzQN4",
       "sourceName": "dverghamar.md",
       "sourceUrl": "https://drive.google.com/file/d/1cR4g5Zr9Za6T7sa9aEPQZqcbkyWBzQN4/view",
-      "modifiedTime": "2026-09-20T01:14:08.438Z",
+      "modifiedTime": "2026-09-20T07:07:05.486Z",
       "path": "content/public/dverghamar.md",
-      "sha256": "46b48918c0562127d70775a07fe734801d9b37b7c87f2388ab6743a1845f5f8e",
-      "sizeBytes": 1467,
+      "sha256": "c31b6c52478ebdd1a67b91ee44adb447a6b322d1a4bfea70168849ff74de6e9a",
+      "sizeBytes": 1946,
       "format": "original-text"
     },
     {
       "sourceId": "16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy",
       "sourceName": "elves.md",
       "sourceUrl": "https://drive.google.com/file/d/16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy/view",
-      "modifiedTime": "2026-09-20T01:14:10.238Z",
+      "modifiedTime": "2026-09-20T07:07:07.547Z",
       "path": "content/public/elves.md",
-      "sha256": "9364bee73e54d415ca6e0f03fb7560f4d0c9c2c1f973cee59507fd422cfc6d6c",
-      "sizeBytes": 3105,
+      "sha256": "07c3910264edb0c5e7a1744a1a291380e51893f00bd44ebd0de25af83c4da6aa",
+      "sizeBytes": 4906,
       "format": "original-text"
     },
     {
       "sourceId": "1SGwJBymd5pJK_pll700eU1V76M4gRhXt",
       "sourceName": "enchanted-objects.md",
       "sourceUrl": "https://drive.google.com/file/d/1SGwJBymd5pJK_pll700eU1V76M4gRhXt/view",
-      "modifiedTime": "2026-09-20T01:14:12.340Z",
+      "modifiedTime": "2026-09-20T07:07:09.757Z",
       "path": "content/public/enchanted-objects.md",
-      "sha256": "19ca2b9b54c051218ead5cb8bff83863d5adce3b1803814e2bfaf19fd72d7a44",
-      "sizeBytes": 4549,
+      "sha256": "8edf9da796877b5f29711b4b6c7e29719a48cb0986e0b12f7fe4764a71edb667",
+      "sizeBytes": 4698,
       "format": "original-text"
     },
     {
       "sourceId": "1zousEECeB-aIaph7UE1M7hmCFC0-QEL2",
       "sourceName": "erde-atlas.md",
       "sourceUrl": "https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view",
-      "modifiedTime": "2026-09-20T01:14:14.359Z",
+      "modifiedTime": "2026-09-20T07:07:11.642Z",
       "path": "content/public/erde-atlas.md",
-      "sha256": "7f7b4a1878b109bc51b3627a1e1d08c6f33be16ca3d48737673cb9c6cb000268",
-      "sizeBytes": 1001,
+      "sha256": "a49a5dae00c064acd241d873c3c910d492796406d5377eac2406294bd586cfb8",
+      "sizeBytes": 2331,
       "format": "original-text"
     },
     {
       "sourceId": "1FoH09WrtbZYe_h2yos8ejx5PMz3QXz-G",
       "sourceName": "erde.md",
       "sourceUrl": "https://drive.google.com/file/d/1FoH09WrtbZYe_h2yos8ejx5PMz3QXz-G/view",
-      "modifiedTime": "2026-09-20T01:14:16.340Z",
+      "modifiedTime": "2026-09-20T07:07:13.586Z",
       "path": "content/public/erde.md",
-      "sha256": "40a510a67e748436b31f837685084aea6cf4ba4328b2ff2d4a2f3ae30aced89e",
-      "sizeBytes": 3105,
+      "sha256": "46ae4d3a1c09c7eb43abcc0f3b698be66c9ae8f973ed4d87d3278e0cc05c4c4e",
+      "sizeBytes": 3702,
       "format": "original-text"
     },
     {
@@ -328,10 +328,10 @@
       "sourceId": "16-349-N4u_74M-2446cDE-MMU2WXyg7g",
       "sourceName": "jotuns.md",
       "sourceUrl": "https://drive.google.com/file/d/16-349-N4u_74M-2446cDE-MMU2WXyg7g/view",
-      "modifiedTime": "2026-09-20T01:14:24.297Z",
+      "modifiedTime": "2026-09-20T07:07:15.525Z",
       "path": "content/public/jotuns.md",
-      "sha256": "70ff583bdbc36cfadc170cbea18a3e9d45b62cf156483fe38362ec39fbdf3dfc",
-      "sizeBytes": 855,
+      "sha256": "52c2daab0a521083af142cf411de7153a8ac40aa7dc5d1ba8ee1d997fae91e86",
+      "sizeBytes": 910,
       "format": "original-text"
     },
     {
@@ -378,10 +378,10 @@
       "sourceId": "1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC",
       "sourceName": "language-writing.md",
       "sourceUrl": "https://drive.google.com/file/d/1S2Uei8kwdaXGY4_GFvcEk8cPlR3dx8yC/view",
-      "modifiedTime": "2026-09-20T01:14:32.074Z",
+      "modifiedTime": "2026-09-20T07:07:17.462Z",
       "path": "content/public/language-writing.md",
-      "sha256": "3624d22c964f142d1707db1eccb12edc4de28f315f3f9ed3723c5f2c1c8ddfaa",
-      "sizeBytes": 10824,
+      "sha256": "9ca36624ee1b252e038cade5924875223c42a130f6d302f64b8e179451fdc7ae",
+      "sizeBytes": 11175,
       "format": "original-text"
     },
     {
@@ -398,40 +398,40 @@
       "sourceId": "1NhMf1QXeH7arFZDJr_-YgrL6yIM__vp9",
       "sourceName": "map-methods.md",
       "sourceUrl": "https://drive.google.com/file/d/1NhMf1QXeH7arFZDJr_-YgrL6yIM__vp9/view",
-      "modifiedTime": "2026-09-20T01:14:36.011Z",
+      "modifiedTime": "2026-09-20T07:07:19.556Z",
       "path": "content/public/map-methods.md",
-      "sha256": "b79b468425d1a6d3bd185c633210ebee02c328f89a61acabb68a609511b51ccb",
-      "sizeBytes": 1292,
+      "sha256": "8711a0efeae637ed2631b2e6876b46332838d61dfff11260f60c62629d639da4",
+      "sizeBytes": 1353,
       "format": "original-text"
     },
     {
       "sourceId": "17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc",
       "sourceName": "merenval-reference.md",
       "sourceUrl": "https://drive.google.com/file/d/17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc/view",
-      "modifiedTime": "2026-09-20T01:14:38.026Z",
+      "modifiedTime": "2026-09-20T07:07:21.518Z",
       "path": "content/public/merenval-reference.md",
-      "sha256": "4a25102b38875ea9dac97c5a4b14ee76d351abba301ff2ec2f43069e5b36a162",
-      "sizeBytes": 1820,
+      "sha256": "8cde00249e40339c7432cdb444af6992b915aef0356c508134581592e97256c5",
+      "sizeBytes": 6370,
       "format": "original-text"
     },
     {
       "sourceId": "1i-BobUuGlv5TqVcOeqNLDB7qda_rnFa-",
       "sourceName": "merenval.md",
       "sourceUrl": "https://drive.google.com/file/d/1i-BobUuGlv5TqVcOeqNLDB7qda_rnFa-/view",
-      "modifiedTime": "2026-09-20T01:14:39.820Z",
+      "modifiedTime": "2026-09-20T07:07:23.476Z",
       "path": "content/public/merenval.md",
-      "sha256": "00d8e08d685628e2b82ce7c245a5476c39c8196f27bbe68fed0c2235c8d67103",
-      "sizeBytes": 1404,
+      "sha256": "90fd45826ff47a33dd864e553b92cd17ed76a85b632a1e04c8c428d790c475b1",
+      "sizeBytes": 2511,
       "format": "original-text"
     },
     {
       "sourceId": "1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb",
       "sourceName": "otherworld.md",
       "sourceUrl": "https://drive.google.com/file/d/1d1UOPOEMsv08Sd2sWi1HibfDY4p5aaCb/view",
-      "modifiedTime": "2026-09-20T01:14:41.747Z",
+      "modifiedTime": "2026-09-20T07:07:25.322Z",
       "path": "content/public/otherworld.md",
-      "sha256": "7306b2375688c7ee0370b157f3102350ede725e798de54f90e56880617dbf3ae",
-      "sizeBytes": 2045,
+      "sha256": "f5f86da51e065329535e7ea971cd1cd739b5cec572f387fbd200a043bf8caa57",
+      "sizeBytes": 2156,
       "format": "original-text"
     },
     {
@@ -445,5 +445,6 @@
       "format": "original-text"
     }
   ],
-  "displayCorrections": []
+  "displayCorrections": [],
+  "canonReview": "docs/CANON-REVIEW-2026-09-20.md"
 }

@@ -1,5 +1,11 @@
 # Dverghamar
 
+<!-- guide-figure: dverghamar-twilight -->
+![Rock-cut homes and workshops on a dark escarpment, with a waterwheel, spillway and planted benches catching low twilight.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/dverghamar-twilight.webp)
+
+Dverghamar: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.
+<!-- /guide-figure -->
+
 ## Permanent day, night and twilight
 
 The dwarven world is called Dverghamar, or Dvergahamrar in archaic and highly formal speech. One hemisphere faces the sun, the other lies in darkness, and a broad twilight region runs between them. Mountains, dry basins and salt country divide the fertile districts.

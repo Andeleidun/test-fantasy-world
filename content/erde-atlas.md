@@ -1,9 +1,5 @@
-## Reading this atlas
+# Erde: public atlas guide
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+This earlier article has been replaced by the [Erde guide](../guides/erde.md#atlas). Its current source is [public/erde-atlas.md](public/erde-atlas.md).
 
-These five existing sheets use Earth-reference land geometry to explain Erde’s selected orientation and working historical scenarios. They do not assert that modern Earth coastlines, climates or political boundaries survive unchanged on Erde.
-
-Map placement and migration lines remain schematic where the source atlas identifies them as such. Each caption includes a text explanation of the relationship being shown.
-
-[Read the atlas methods and limitations](map-methods.html).
+The [previous article and its source credits](https://github.com/Andeleidun/test-fantasy-world/blob/47c34104759c5e90e770748ba66ac3143f83c74d/content/erde-atlas.md) remain in the repository history. It may contain superseded lore or material outside the current public edition.

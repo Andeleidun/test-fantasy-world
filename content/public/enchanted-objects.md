@@ -22,7 +22,7 @@ Repair is rarely a matter of replacing one interchangeable part. Another enchant
 
 Prepared scrolls and similar objects also decay. Durable examples require better craft, compatible materials and greater investment. Their apparent simplicity can conceal the work needed to make an effect safe for a later user.
 
-Practitioners report unreliable results when combining magic with electrical equipment. Rare practitioners may work with steam, water power or mechanical machinery, but this does not produce an ordinary electrical-magical industry.
+Sensitive electrical equipment is especially unreliable around active magic. Simple motors, generators and heating equipment can be more robust, though their performance depends on the working and the machine. Some specialists combine magic with steam, water power or mechanical machinery. Such work remains difficult and does not provide a dependable electrical-magical industry.
 
 ## Objects shaped by use
 

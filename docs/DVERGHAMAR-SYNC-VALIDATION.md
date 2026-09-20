@@ -1,5 +1,8 @@
 # Dverghamar source synchronization and validation
 
+> Historical research record. The current Thal migration occurred about 40,000 years ago and included changes during the crossing. Earlier establishment arguments below do not define current Thal canon. See the [current guide](../guides/dverghamar.md#thals) and [canon review](CANON-REVIEW-2026-09-20.md).
+
+
 > Historical editorial/research record. The current publication plan and results are in [PUBLIC-SYNC-2026-09-18.md](PUBLIC-SYNC-2026-09-18.md).
 
 Date: 7 September 2026. Starting repository revision: `a8f7e6ab873d2dd109bde088d1962e39d1d59ebf`.

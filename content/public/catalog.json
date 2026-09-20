@@ -43,7 +43,7 @@
     "id": "elves",
     "title": "Elven peoples and traditions",
     "category": "peoples",
-    "description": "One Elven people lives across Merenval and its companion, with four major traditions and three broad approaches to magic.",
+    "description": "Four Elven traditions, their practical arts and childhood customs, and their relationship with Dorrenath and other Wayroots.",
     "kind": "Peoples",
     "file": "elves.md"
   },
@@ -147,7 +147,7 @@
     "id": "jotuns",
     "title": "The Jotun",
     "category": "peoples",
-    "description": "Dverghamar’s mountain giants live along productive valleys and mountain margins, trading with richer districts and traveling into higher country.",
+    "description": "Dverghamar’s cold-adapted mountain people; their detailed anatomy remains unsettled.",
     "kind": "Peoples",
     "file": "jotuns.md"
   },
@@ -235,7 +235,7 @@
     "id": "merenval-reference",
     "title": "Merenval: landscapes, travel and communities",
     "category": "worlds",
-    "description": "Voyaging connects Merenval’s coasts and islands. Its companion has broad plateaus, crystal-rich cities and deep cavern settlements.",
+    "description": "Merenval’s coasts, the companion’s plateaus and caverns, rare interworld journeys and life within Dorrenath.",
     "kind": "Worlds",
     "file": "merenval-reference.md"
   },
@@ -283,7 +283,7 @@
     "id": "thals",
     "title": "The Thals",
     "category": "peoples",
-    "description": "Refugees from Erde reached Dverghamar about five thousand years ago. Their descendants farm sheltered mountain districts and live alongside the Hamarkorar.",
+    "description": "Thal refugees reached Dverghamar about 40,000 years ago, changed by a flight that carried people, animals and plants from Erde.",
     "kind": "Peoples",
     "file": "thals.md"
   },

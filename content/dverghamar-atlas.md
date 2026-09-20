@@ -1,15 +1,5 @@
-## Reading this atlas
+# Dverghamar: public atlas guide
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+This earlier article has been replaced by the [Dverghamar guide](../guides/dverghamar.md#atlas). Its current source is [public/dverghamar-atlas.md](public/dverghamar-atlas.md).
 
-These eight existing sheets explain the relationships among permanent day and night, the twilight belt, water circulation, biological habitats and underground settlements.
-
-The original sheets use “Dwarven Planet” for the world now named **Dverghamar**. Their hypothetical regions and settlement examples are explanatory models, not newly selected continents or territorial boundaries.
-
-The climate envelope remains a scenario target. Underground diagrams distinguish elevation above lowlands from rock cover and depth.
-
-[Read the atlas methods and limitations](map-methods.html).
-
-## Physical reading
-
-The eight sheets retain their schematic geometry. Water pathways require validated transport conditions; the city plan shows local facilities within a much larger supporting region; oasis consumer size depends on production. The reference water inventory totals 240 million km³ water-equivalent, with sustainable fluxes still requiring a coupled model.
+The [previous article and its source credits](https://github.com/Andeleidun/test-fantasy-world/blob/47c34104759c5e90e770748ba66ac3143f83c74d/content/dverghamar-atlas.md) remain in the repository history. It may contain superseded lore or material outside the current public edition.

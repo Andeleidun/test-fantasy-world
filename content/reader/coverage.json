@@ -46,7 +46,7 @@
     "source": "erde-atlas.md",
     "sourceAnchor": "scope-of-this-guide",
     "destination": "erde.html#erde-atlas--scope-of-this-guide",
-    "status": "updated"
+    "status": "included"
   },
   {
     "source": "erde-atlas.md",
@@ -332,7 +332,7 @@
     "source": "dverghamar-atlas.md",
     "sourceAnchor": "scope-of-this-guide",
     "destination": "dverghamar.html#dverghamar-atlas--scope-of-this-guide",
-    "status": "updated"
+    "status": "included"
   },
   {
     "source": "dverghamar-atlas.md",
@@ -637,6 +637,18 @@
     "status": "included"
   },
   {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "living-within-dorrenath",
+    "destination": "merenval.html#merenval-reference--living-within-dorrenath",
+    "status": "included"
+  },
+  {
+    "source": "merenval-reference.md",
+    "sourceAnchor": "other-wayroots",
+    "destination": "merenval.html#merenval-reference--other-wayroots",
+    "status": "included"
+  },
+  {
     "source": "elves.md",
     "sourceAnchor": "",
     "destination": "merenval.html#elves",
@@ -670,6 +682,12 @@
     "source": "elves.md",
     "sourceAnchor": "dorrenath-and-the-wayroots",
     "destination": "merenval.html#elves--dorrenath-and-the-wayroots",
+    "status": "included"
+  },
+  {
+    "source": "elves.md",
+    "sourceAnchor": "bodies-childhood-and-experience",
+    "destination": "merenval.html#elves--bodies-childhood-and-experience",
     "status": "included"
   },
   {
@@ -1999,7 +2017,7 @@
     "source": "map-methods.md",
     "sourceAnchor": "scope-and-status",
     "destination": "about.html#map-methods--scope-and-status",
-    "status": "updated"
+    "status": "included"
   },
   {
     "source": "map-methods.md",
@@ -2023,7 +2041,7 @@
     "source": "map-methods.md",
     "sourceAnchor": "using-the-index",
     "destination": "about.html#map-methods--using-the-index",
-    "status": "updated"
+    "status": "included"
   },
   {
     "source": "README.md",
