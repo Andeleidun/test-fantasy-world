@@ -18,7 +18,7 @@ kelir	N	interior-dweller	identity	kel+-ir	Lexicalized habitat participant.
 menir	N	stoneworker	industry	men+-ir	Occupation, not an ethnonym.
 kelkor	N	member or resident of a chamber-household	social	kel+kor	
 korvar	N	public/common speech; Common Dwarven	language	kor+var	Capitalized when naming the standard.
-menkorvar	N	reserved name for a possible Menkor community language	language	menkor+var	A possible Menkor community-language name; no separate established language is implied.
+menkorvar	N	reserved name for a possible Menkor community language	language	menkor+var	A proposed name for a Menkor community’s language, which remains undescribed.
 karnir	N	builder	industry	karn+-ir	
 menek	N	dressed stone piece	material	men+-ek	
 menet	N	stoneworking workshop	industry	men+-et	
@@ -78,7 +78,7 @@ tin	N	tin as a metal	industry
 bly	N	lead as a metal	industry		A material term, not a biological safety judgment.
 sulv	N	identified sulfur-bearing mineral matter	material		Does not alone distinguish sulfide from sulfate.
 mal	N	mineral-bearing material worth processing under stated conditions	industry		Economic ore category; not a fixed mineral species.
-kol	N	carbon-rich combustible material	fuel		Does not assert Earth-style coal deposits.
+kol	N	carbon-rich combustible material	fuel		The local geology of this fuel remains unspecified.
 dul	N	loose mineral earth; unconsolidated ground material	material		
 sarn	N	sand-sized loose grains	material		Shared technical register may attach explicit size limits.
 silm	N	silt-sized loose mineral grains	material		
@@ -86,7 +86,7 @@ lem	N	clay-rich fine earth with stated plastic behavior	material		Field category
 grust	N	gravel; loose small stones	material		
 skel	N	shell; enclosing shell-like layer	care		Qualify the term when the kind of enclosing layer matters.
 esk	N	ash-sized particulate deposit	material		Context distinguishes volcanic and combustion ash.
-jörm	N	biologically active soil used by rooted producers	food		Does not assert terrestrial soil organisms.
+jörm	N	biologically active soil used by rooted producers	food		Native soil organisms remain undescribed.
 slik	N	wet deposited sediment; mud slurry	material		
 brak	N	broken rock debris; rubble	material		
 veir	N	mineral-filled fracture or vein	material		
@@ -98,10 +98,10 @@ vörk	N	mass measurement in the standard register	measure		Distinct from gravita
 rom	N	volume; occupied three-dimensional space	measure		
 mer	ADV	more; comparative marker	grammar		Homonym with length-unit noun is explicitly registered.
 mest	ADV	most; superlative marker	grammar		
-mer	N	conventional unit of length	measure		Calibration must be supplied; not an Earth meter by assertion.
+mer	N	conventional unit of length	measure		Specify the calibration when converting to Earth units.
 kap	N	standardized vessel unit of capacity	measure		Calibration must be supplied.
 vek	N	conventional unit of mass	measure		
-tik	N	short counted time unit	measure		Defined by an agreed clock; no Earth second asserted.
+tik	N	short counted time unit	measure		Defined by an agreed clock; its duration in Earth seconds remains unspecified.
 takt	N	scheduled work/rest time cycle	time		Not a sunrise-to-sunrise cycle.
 tid	N	time; duration	time		
 sek	N	ordered sequence; numbered series	language		
@@ -174,7 +174,7 @@ trov	N	sample or specimen	industry		Distinct vowel from tröv, test.
 meel	N	measured magnitude; target dimension	measure		
 fevn	N	error; mismatch with a stated requirement	language		
 del	N	part; share	social		
-hand	N	hand	body		No digit count is implied.
+hand	N	hand	body		The number of digits remains unspecified.
 arn	N	arm	body		Dwarves have four; upper/lower are independent adjectives.
 fot	N	foot	body		
 delm	N	leg	body		
@@ -182,11 +182,11 @@ delm	N	leg	body
 hör	N	ear	body		
 mur	N	mouth	body		
 hul	N	outer skin or body covering	body		Exact native covering remains unspecified.
-bern	N	internal skeletal support element	body		No human mineral chemistry asserted.
+bern	N	internal skeletal support element	body		The mineral chemistry remains unspecified.
 brol	N	circulating nutritive/respiratory fluid	body		Does not fix pigment.
 hjar	N	pumping circulatory organ	body		Detailed respiratory/circulatory anatomy remains open.
-lun	N	gas-exchange organ in a broad functional translation	body		Not a claim of human lung microanatomy.
-egg	N	egg	care		Ordinary lexical meaning; no sapient reproductive model is specified here.
+lun	N	gas-exchange organ in a broad functional translation	body		The internal structure remains undescribed.
+egg	N	egg	care		A general reproductive term; the process varies and remains undescribed.
 neret	N	dedicated care site; nursery	care	ner+-et	Lexicalized place derivation.
 rinn	N	reproductive parent	care		Sex or reproductive role can be specified without assuming household structure.
 rukkor	N	caregiver responsible for protection and maintenance	care	ruk+kor	Care role; distinct from the verb veren, become.
@@ -199,20 +199,20 @@ seld	N	sleeping platform or bed	social
 duk	N	cloth; flexible woven covering	social		
 kläd	N	clothing	social		
 mard	N	prepared meal	food		
-röt	N	storage root or tuber as food	food		Functional analog, not an Earth potato species.
+röt	N	storage root or tuber as food	food		A native tuber crop; the species remains unspecified.
 somb	N	fungus-like decomposer or its cultivated food body	food		Ecological translation; detailed taxonomy remains open.
 grölm	N	cultivated crop	food		
-frö	N	dispersal/reproductive propagule of a cultivated producer	food		Does not commit all producers to seed-plant anatomy.
+frö	N	dispersal/reproductive propagule of a cultivated producer	food		Applies where seed-like structures occur; other producers may reproduce differently.
 grö	N	edible green producer tissue	food		
-fesk	N	aquatic swimming animal used as food	food		Not Earth vertebrate membership.
+fesk	N	aquatic swimming animal used as food	food		Does not place the organism among Earth vertebrates.
 dyl	N	animal	ecology		
 mik	N	microscopic living organism	ecology		
 lir	N	life; living state	ecology		
 rest	N	remainder; residue	ecology		
-skarn	N	discarded waste requiring handling	ecology		Coined everyday sense; not the Earth petrological term skarn.
+skarn	N	discarded waste requiring handling	ecology		An everyday Korvar word, unrelated to the Earth rock name skarn.
 prid	N	agreed price	trade		
 byt	N	exchange; traded lot	trade		
-myrk	N	token used as currency	trade		No universal coinage or metal standard assumed.
+myrk	N	token used as currency	trade		Coinage and standards vary by community.
 felagkor	N	member of a cooperating work group	social	felag+kor	Literal association term.
 döm	N	judgment or decision	social		
 rett	ADJ	correct or conforming to the stated rule	social		
@@ -362,10 +362,10 @@ mut	PART	reciprocal marker after a plural object pronoun	grammar
 vis	N	an observation as a recorded item	language		Homonym of evidence particle, same semantic family.
 ja	RESP	yes	grammar		
 no	RESP	no as an answer	grammar		
-bitte	PART	please	social		Courtesy form; one deliberately familiar loan-shaped item.
+bitte	PART	please	social		A courtesy form resembling a familiar Earth word.
 takk	N	thanks; gratitude	social		
 hei	RESP	hello; greeting	social		
-farvel	RESP	farewell	social		Lexical greeting; not a rule assigning farewell to every fer/vel compound.
+farvel	RESP	farewell	social		A conventional farewell; its meaning cannot be applied to other fer/vel compounds.
 nu	ADV	now	time		
 jev	ADV	already	time		
 nal	ADV	still	time		
@@ -487,7 +487,7 @@ jernmal	N	material currently workable as an iron ore	industry	jern+mal	Grade, pr
 kubrmal	N	material currently workable as a copper ore	industry	kubr+mal	Shine or green color alone is insufficient.
 salbas	N	basin containing extensive salt deposits	land	sal+bas	A closed evaporative basin may have this condition.
 esklag	N	ash layer	material	esk+lag	Volcanic versus combustion origin must be stated.
-sallag	N	salt layer	material	sal+lag	no undocumented l-to-r sound change.
+sallag	N	salt layer	material	sal+lag	The spelling is lexical; it follows no general l-to-r sound change.
 isbrak	N	rock debris associated with ice movement	material	is+brak	Broad transported-debris term; not a claim of one precise till fabric.
 sarnlem	N	clay-rich earth with a substantial sand fraction	material	sarn+lem	Texture mixture, not an automatic engineering grade.
 silmdul	N	loose earth dominated by silt-sized material	material	silm+dul	
@@ -543,7 +543,7 @@ gnisthamar	N	electrically powered hammer	industry	gnist+hamar	Limited industrial
 kamvar	N	massif-network language; bedrock speech	language	kam+var	Capitalized language name.
 hamarvar	N	ridge-network language; crag speech	language	hamar+var	Capitalized language name.
 dravvar	N	basin-network language; water-flow speech	language	drav+var	Capitalized language name.
-nattvar	N	cold-edge-network language; dark-side speech	language	natt+var	Not a far-nightside isolated-oasis language.
+nattvar	N	cold-edge-network language; dark-side speech	language	natt+var	Spoken in cold-edge communities connected to illuminated food-growing districts.
 solvar	N	warm-margin-network language; starward speech	language	sol+var	Capitalized language name.
 förvar	N	earlier speech; reconstructed common source of the family	language	för+var	The history and vocabulary of this earlier speech are approximate.
 stavmark	N	native letter-mark script	language	stav+mark	The native writing system.
@@ -559,5 +559,5 @@ nedhand	N	hand belonging to a lower limb pair	body	ned+hand
 vinsthand	N	a hand on the left side of the body	body	vinst+hand	Upper/lower pair can be stated separately.
 hösthand	N	a hand on the right side of the body	body	höst+hand	Upper/lower pair can be stated separately.
 hamarkor	N	member of the native dwarven peoples; dwarf	identity	hamar+kor	General native people-name: crag or great-rock-mass person. Includes all native dwarven species and the deep-massif subspecies.
-hamarkorvar	N	the Dwarven language family collectively	language	hamarkor+var	Family umbrella; Korvar is the common standard and Hamarvar retains its regional meaning.
+hamarkorvar	N	the Dwarven language family collectively	language	hamarkor+var	The language family. Korvar is its common standard; Hamarvar is the ridge language.
 rakkor	N	member of a reserved regional native people	identity	rak+kor	Regional people-name. The specific community has not yet been described.

@@ -1,10 +1,8 @@
 # Reading public atlas descriptions
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Scope and status
 
-The collection retains five Erde subjects and eight Dverghamar subjects as public geographic reading notes. It does not currently provide revised map artwork. The earlier detailed diagrams are outside this edition until they receive a separate content revision.
+The atlas contains five text entries for Erde and eight for Dverghamar. Revised illustrations are not yet available. Earlier diagrams need a separate revision before they can accompany these accounts.
 
 ## Geography and illustration
 
@@ -12,12 +10,14 @@ A broad world view, a local scene and an underground section answer different qu
 
 ## Habitat and community
 
-Habitats overlap; they are not automatically species territories, political borders or linguistic boundaries. A settlement’s fields, roads and river works can be described as ordinary geography without giving a support model.
+Habitats overlap; they are not automatically species territories, political borders or linguistic boundaries. A settlement’s fields, roads and river works show how people use the surrounding country.
 
 ## Historical time
 
-Ancestral movement, later migration and a particular contact era are different subjects. Shared descent does not establish one culture. The public natural-history account does not disclose a detailed modern genealogy or exact deep-time chronology.
+Ancestral movement, later migration and a particular contact era are different subjects. Shared descent does not establish one culture. The natural histories infer broad ancestry; exact early dates and family trees remain uncertain.
 
 ## Using the index
 
-The map index lists public subjects and their companion text guides. It contains no links or asset identifiers for the unrevised detailed sheets. New artwork will need its own review against the current boundary before being included.
+The map index links each subject to its text guide. New illustrations must be checked against these public accounts before publication.
+
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

@@ -1,14 +1,10 @@
 # Korvar and the language family
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+## The shared language
 
-## Shared speech, regional traditions
+Hamarkorvar is the language family spoken by the dwarven peoples. Its regional languages share much of their grammar but differ in vocabulary and pronunciation. Korvar, literally people’s or public speech, is the standard taught for communication between regions. Hamarvar is the language of the ridge networks.
 
-**Hamarkorvar** names the language family. **Korvar**, literally people’s or public speech, is the taught interregional standard. **Hamarvar** retains its separate ridge-network language meaning.
-
-The family combines shared grammatical patterns with regional vocabulary and pronunciation. Korvar provides a taught form for communication across those differences.
-
-## Literal roots with distinct jobs
+## Basic roots
 
 | Root | Common reference meaning |
 | --- | --- |
@@ -19,11 +15,11 @@ The family combines shared grammatical patterns with regional vocabulary and pro
 | kor | Person |
 | var | Speech or language |
 
-Compounds are head-final. Their last noun identifies the kind of thing being named. A compound’s precise relationship still needs an established meaning: material, purpose, contents and mechanism are not interchangeable.
+The last noun in a compound tells you what kind of thing it names. Earlier roots can describe its material, purpose, contents or mechanism; the dictionary records which meaning a compound has.
 
-## Reading and speaking Korvar
+## A first example
 
-The guide includes **562 lexical records**, five regional language profiles, a practical writing system and **97 translated examples**. The broader vocabulary covers ordinary relationships and activities as well as geology, nurseries, farming and industrial work.
+The guides below cover pronunciation, grammar, the Stavmark script and five regional languages. The dictionary contains 562 lexical records, and the example collection has 97 translated sentences. You can begin with these two:
 
 **Ek sere Hamarkor.**
 
@@ -35,7 +31,7 @@ We are dwarves.
 
 Plural **-ar** attaches to the complete noun. The general people-name therefore makes **Hamarkorar**. The old **hamrar** in Dvergahamrar belongs to the inherited planetary name; it does not replace the regular modern plural of every related word.
 
-## Explore the language
+## Language guides
 
 - [Identity, sounds and word formation](https://drive.google.com/file/d/1gQd3KwPHyqydBTxiF--2IbhGsG_CuBCR/view?usp=drivesdk)
 - [The common grammar](https://drive.google.com/file/d/1Ae1Zy56sGVBesktkQzZUQU4tflHlADiX/view?usp=drivesdk)
@@ -51,3 +47,4 @@ Plural **-ar** attaches to the complete noun. The general people-name therefore 
 - [Download the aligned regional dictionary (TSV)](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view?usp=drivesdk)
 - [Download the translated examples (TSV)](https://drive.google.com/file/d/12vcdIVCizsYezklErssPH90WPHHUBtnO/view?usp=drivesdk)
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

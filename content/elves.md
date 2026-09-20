@@ -1,6 +1,6 @@
 # Elven peoples and traditions
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 ## One people across two worlds
 
@@ -16,7 +16,7 @@ Crystalline/High practice emphasizes **topology, structure and complexity**. Cry
 
 Deep/Star practice emphasizes **resonance and hidden nodes**. Its strongest traditions developed among deep-cave populations of the companion, where routes, echoes and distant relationships could be studied over long timescales.
 
-These are three approaches expressed through four traditions. Individual schools, mixed communities and dissenting practitioners prevent them from becoming rigid civilizational boxes.
+Schools borrow from one another, and individual practitioners often disagree.
 
 ## Sylvan diversity
 
@@ -26,7 +26,7 @@ Maritime populations may show modest diving and marine-foraging adaptations. The
 
 ## Companion traditions
 
-Crystalline/High communities are often associated with monumental structures, resonant arrays and exacting topological arts. Tendencies toward order, fractal design or serenity are cultural patterns, never an innate mandate for authoritarian government or uniform personality.
+Crystalline/High communities are often associated with monumental structures, resonant arrays and exacting topological arts. A taste for order, fractal design or serenity appears in communities with different governments and among people with different personalities.
 
 Deep/Star communities form a persistent companion metapopulation by roughly 55,000 BP. They have long histories of contact with Gnome settlements in fungal, cavern and geothermal environments. Exchange and mixed settlements do not erase either people.
 

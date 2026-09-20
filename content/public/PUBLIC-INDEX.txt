@@ -1,8 +1,8 @@
-﻿Public — Cultural Knowledge
-Reader-facing documentation for Andel’s Song
+﻿Public guide
+Worlds, peoples and languages of Andel’s Song
 
 
-This revised collection contains 37 Markdown documents, this native index and six data files. Ancestry is limited to reasonable nineteenth-century natural history; spiritual accounts to competent ordinary practitioner experience; and Otherworld accounts to average human perceptions and attributed stories. Technical models are authorial. Earlier publication does not override these limits. Eligibility, belief, fact and validation retain their separate status.
+This collection contains 37 Markdown documents, this index and six data files. Its natural histories use comparisons within the reach of nineteenth-century scholarship. Spiritual accounts describe ordinary trained practitioners’ experiences; Otherworld accounts record human perceptions and stories. Observations, theories and religious beliefs are identified as such. Detailed technical models belong to the authorial collection, including models published in earlier editions.
 All original project IP remains the author’s. “Public” grants no license, reuse permission, or public-domain dedication.
 
 

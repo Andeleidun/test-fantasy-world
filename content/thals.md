@@ -1,10 +1,10 @@
 ## An Erde lineage on Dverghamar
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 The Thals are the surviving descendants of Neanderthal populations from Erde. Their catastrophe occurred on Erde approximately five thousand years ago. Survivors escaped through the Otherworld and established refuge on Dverghamar.
 
-That migration is separate from the deep evolutionary history of the native Hamarkorar. The dwarven genus was not created by the Thal catastrophe.
+The native Hamarkorar had evolved independently long before the Thals arrived.
 
 ## A twilight refuge
 
@@ -16,7 +16,7 @@ The existence of caves does not make the deep dayside or nightside broadly habit
 
 Residence, ancestry and language are separate categories. In Korvar, **kelir**, interior-dweller, can describe a Thal. **Hamarkor** denotes membership in the native dwarven peoples rather than everyone who lives underground.
 
-Specific institutions, settlements and cultural relationships remain available for later development. No single citizenship rule follows automatically from these words.
+Specific institutions, settlements and citizenship rules remain to be described.
 
 - [Return to Erde’s history](erde.html).
 - [Explore the receiving world](dverghamar.html).

@@ -1,7 +1,5 @@
 # Identity, sounds and word formation
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Names and belonging
 
 **Hamarkor** /ˈha.mar.kor/ is the singular general people-name; **Hamarkorar** /ˈha.mar.ko.rar/ is the plural. Together they express “people of the great rock masses.” **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
@@ -16,7 +14,7 @@ Names can preserve older sounds and meanings even as everyday speech changes. Th
 
 Mountain settlement, water-powered industry, cultivation and nursery care give speakers reasons to distinguish materials and processes carefully. Korvar also covers ordinary affection, play, memory, travel and household needs. Language affiliation crosses species boundaries, and community membership need not depend on ancestry.
 
-The standard is taught across regional networks. Its regular patterns support shared records and learning; they do not mean that older languages were unchanging or that everyone speaks one home language.
+Schools and apprenticeships teach the standard across regional networks. Its regular forms make records easier to share, while local languages continue to change and remain in use at home.
 
 ## Phonemes and reader spelling
 
@@ -30,7 +28,7 @@ The standard is taught across regional networks. Its regular patterns support sh
 | m n l r j | /m n l r j/ | r may be tapped or trilled; j is the sound in English yes |
 | ng | /ŋ/ | One consonant within a root; write n-g across a boundary when /n.g/ must be explicit |
 
-There are eight vowel qualities and sixteen consonant phonemes. No obligatory guttural or very low voice is assumed. Short roots favor (C)(C)V(C)(C), with occasional two-syllable roots. Initial dv survives in the proper name. Other registered roots license their listed clusters; new roots should generally follow clusters already represented in the dictionary. Affix and compound boundaries may create longer clusters; syllable division normally resolves these. Thus karn-te is pronounced with the consonants retained. Speakers may use a noncontrastive transitional schwa inside a difficult boundary cluster; it does not change spelling, morphology or word identity. These transitional sounds do not add written vowels.
+There are eight vowel qualities and sixteen consonant phonemes. No obligatory guttural or very low voice is assumed. Short roots favor (C)(C)V(C)(C), with occasional two-syllable roots. Initial dv survives in the proper name. Other registered roots license their listed clusters; new roots should generally follow clusters already represented in the dictionary. Affix and compound boundaries may create longer clusters; syllable division normally resolves these. Thus karn-te is pronounced with the consonants retained. Speakers may use a noncontrastive transitional schwa inside a difficult boundary cluster; it does not change spelling, morphology or word identity.
 
 Primary stress falls on the first root syllable; later compound roots can have secondary stress. Grammatical endings are unstressed. The infinitive -en is normally /ən/. Identical vowel letters meeting across an affix boundary coalesce into a long vowel: se + e gives see /seː/, se + en gives seen /seːn/, and du + um gives duum /duːm/. This coalescence overrides ordinary reduction of the infinitive vowel. Different adjacent vowel qualities remain consecutive syllables in careful speech. Written vowels are retained. Runs of two or more identical consonants are realized as one long consonant; morpheme spelling remains visible, so genitive risss may be written riss-s for clarity. Set-te retains its long t and remains distinct from sete. Loan names may preserve unusual spelling but are listed as exceptions.
 
@@ -51,9 +49,10 @@ Reader spelling permits hyphens to reveal a new or long compound: drav-karn-kel.
 | Verb stem + ad | activity/practice | menad, stoneworking |
 | Noun + ig | characterized by/containing the noun | porig, containing pores |
 
-These affixes are productive constructions, not guarantees that every combination has an established conventional sense. The dictionary records each verb’s meanings and complements. Kelir is a lexicalized habitat-participant extension: it does not require an invented verb meaning 'to kel'. A new term's literal reading, intended reference and example are recorded before it joins the shared dictionary. Literal language still allows humor, figurative speech and semantic change; ordinary material names generally favor direct descriptions.
+Speakers use these affixes to form new words, whose conventional meanings still need to be learned. The dictionary records each verb’s meanings and complements. Kelir is a lexicalized habitat-participant extension: it does not require an invented verb meaning 'to kel'. New dictionary entries record a word’s literal reading, intended meaning and an example. Material names usually favor direct descriptions, though speakers also use humor and figurative language, and meanings change over time.
 
 ## Habitats and usage
 
-The physical reference distinguishes a chain of illuminated refuge provinces from a uniformly wet terminator ring. River supply requires catchment runoff, glacier-outlet flow or connected groundwater; temperate terrain does not automatically receive rain. Natural carbonate, lava-tube and fracture shelters precede later excavations in competent massif rock. Thal refuge life uses compatible Erde-derived cultivation in the preferred establishment history; native foods are not automatically edible. These distinctions change no ethnonym, grammar rule, species territory or language-family assignment.
+Settlements occupy separate illuminated refuges along the twilight region. Their rivers draw on catchment runoff, glacier outlets or groundwater; mild terrain can still be dry. Natural carbonate caves, lava tubes and fractures provided shelter before people excavated homes in solid massif rock. Thals grow compatible Erde-derived crops and need local advice before eating native foods. This vocabulary describes those conditions without assigning a language or people to one habitat.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

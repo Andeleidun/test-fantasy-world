@@ -1,10 +1,8 @@
 # Stone and material vocabulary
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Describing a material
 
-The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The common register makes their descriptions interoperable by keeping **material**, **observed property**, **identified composition**, **origin**, and **tested use** separate.
+The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The shared vocabulary distinguishes the material itself, its observed properties, identified composition, inferred origin and tested uses.
 
 | Layer | What the word identifies | Example | What it does not prove |
 | --- | --- | --- | --- |
@@ -21,7 +19,7 @@ USGS distinguishes sedimentary grain-size classes, igneous cooling textures and 
 
 ## A field encounter
 
-A worker first calls a dark, fine-grained block **durfinrak**. A specialist may later identify it as a basalt-like melt-derived rock. A mason selects part of that block as **men**, perhaps **stalmen** for a support. The tested lot receives a grade with its dimensions, fracture orientation, load conditions and environment. The remainder can stay rak or become brak, rubble. This progression does not change the material's identity at each step; it changes which relation the speaker needs to express.
+A worker first calls a dark, fine-grained block **durfinrak**. A specialist may later identify it as a basalt-like melt-derived rock. A mason selects part of that block as **men**, perhaps **stalmen** for a support. The tested lot receives a grade with its dimensions, fracture orientation, load conditions and environment. The remainder can stay rak or become brak, rubble. The specimen stays the same; each name describes what the speaker needs to say about it.
 
 The same observed texture can occur in different geological materials. A dark fine-grained rock can be something other than basalt; a banded rock is not automatically gneiss; a pale coarse rock is not necessarily granite. Surface color can reflect weathering. Scratch resistance, impact toughness, compressive strength, discontinuities and permeability are different properties. Connected fractures can transmit water through rock that appears dense in hand sample. Speakers can describe what they observe while reserving judgment about composition or performance.
 
@@ -29,7 +27,7 @@ The same observed texture can occur in different geological materials. A dark fi
 
 **Dul** is loose mineral ground material. **Sarn**, **silm**, **lem**, and **grust** distinguish sand, silt, clay-rich earth and gravel in the shared field system. **Jörm** is biologically active growing soil. A material can be lemdul while being unsuitable as jörm; the terms answer different questions.
 
-Mixtures remain expressible: sarnlem, sand-bearing clay-rich earth; saldul, salt-bearing loose earth; eskdul, ash-rich loose earth. **Svellem** is clay-rich earth observed to swell under specified conditions, not all clay. **Tettlem** names densely packed clay-rich material without promising that a seal will survive drying or loading. BGS studies link shrink–swell behavior to the mineralogy and water interaction of particular clays; the term therefore records behavior and conditions instead of treating fine particle size as a complete explanation. [BGS/NERC: clay mineralogy and shrink–swell research](https://nora.nerc.ac.uk/id/eprint/19698/1/IR10079.pdf).
+Mixtures remain expressible: sarnlem, sand-bearing clay-rich earth; saldul, salt-bearing loose earth; eskdul, ash-rich loose earth. **Svellem** is clay-rich earth observed to swell under specified conditions, not all clay. **Tettlem** names densely packed clay-rich material without promising that a seal will survive drying or loading. BGS studies relate shrink-swell behavior to the minerals in a clay and their interaction with water. Svellem records the observed behavior and its conditions. [BGS/NERC: clay mineralogy and shrink–swell research](https://nora.nerc.ac.uk/id/eprint/19698/1/IR10079.pdf).
 
 Field grain classes can precede exact calibrated thresholds. The industrial standard adds numbers and the measuring method where trades need reproducible sorting. The precise sieve thresholds of the shared standard have not yet been specified. Terms for organic residue, rooting structure, salts, wetness and cultivation purpose can be combined with texture words while leaving the native organisms to their own biological descriptions.
 
@@ -55,7 +53,7 @@ Geology creates opportunities for lexical specialization; it does not force a sp
 - **Rakhamar**: rock-breaking hammer. **Rakstal**: retained-rock support structure.
 - **Handhamar**: hand hammer. **Dravhamar**: water-powered hammer. **Gnisthamar**: electrically powered hammer, where such equipment exists.
 
-The same root can remain productive without every compound becoming metaphorical. Where a compound could mean either construction material or purpose, the established dictionary sense governs; otherwise use a phrase. A hammer made of stone is **handhamar af menum**, while menhamar is the conventional tool for dressing stone.
+Where a compound could mean either construction material or purpose, the established dictionary sense governs; otherwise use a phrase. A hammer made of stone is **handhamar af menum**, while menhamar is the conventional tool for dressing stone.
 
 ## Industry and measurement
 
@@ -67,15 +65,16 @@ The technical vocabulary distinguishes **ener**, energy, **kravt**, power, **las
 
 ## Household and care vocabulary
 
-Nerkel names a nursery chamber; neret a care site. These words identify everyday places without specifying their reproductive mechanisms.
+Nerkel names a nursery chamber; neret a care site.
 
 Rinn denotes reproductive parentage; rukkor a protective caregiver; selkor a food-providing caregiver; kelkor household residence. A person can hold several roles. These distinctions allow extended households, fostering, shared care and other arrangements without prescribing one family form.
 
 ## Breadth beyond industry
 
-The lexical database includes eating, drinking, buying, selling, affection, grief, games, music, questions, memories, bodies, travel, clothing, household space and ordinary disagreement. Literal naming does not mean that dwarves lack emotions or abstractions. 'Know a fact' and 'know a person' have separate verbs; fear, love, permission and prohibition have explicit constructions. These words keep the language from becoming a mining phrasebook.
+The lexical database includes eating, drinking, buying, selling, affection, grief, games, music, questions, memories, bodies, travel, clothing, household space and ordinary disagreement. 'Know a fact' and 'know a person' have separate verbs; fear, love, permission and prohibition have explicit constructions.
 
-Several roots recur across everyday vocabulary: men in the reserved regional name Menkor, menek and menhamar; kam in kamkel and kammeel; kor in household and caregiver terms; klak in fitted-stone vocabulary. Newly coined everyday stems such as **vegn** (wall), **gulm** (floor), **somb** (fungal food organism), **röl** (pipe), **mern** (memory) and **sivar** (signal) broaden the independent vocabulary. Familiar short stems and a few industrial loan-shaped words are permitted; the family is not claimed to be etymologically assembled from any one Earth language.
+Several roots recur across everyday vocabulary: men in the reserved regional name Menkor, menek and menhamar; kam in kamkel and kammeel; kor in household and caregiver terms; klak in fitted-stone vocabulary. Everyday stems such as **vegn** (wall), **gulm** (floor), **somb** (fungal food organism), **röl** (pipe), **mern** (memory) and **sivar** (signal) have meanings of their own. Some short stems and industrial terms resemble Earth words, but the family has no single Earth-language source.
 
 The [dictionary](https://drive.google.com/file/d/19AoKZcov-bT9hmWCsfEMOwBXf-4HWmuP/view) gives definitions, word components and usage notes. Its entries include both roots and separately recorded compounds.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

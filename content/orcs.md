@@ -1,6 +1,6 @@
 # Orcs
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 ## Major peoples of the companion
 
@@ -10,9 +10,9 @@ Low gravity and dense air are compatible with the intended massive body form and
 
 ## Wild Orc bands
 
-Some Orcs adopt identities that reject established rules and permanent roots. Particular Wild Orc bands value dangerous challenges, travel with wargs and have histories of raiding or ritual violence. These are cultural and political formations, not the natural state of every Orc.
+Some Orcs adopt identities that reject established rules and permanent roots. Particular Wild Orc bands value dangerous challenges, travel with wargs and have histories of raiding or ritual violence. People join these bands through cultural and political affiliations.
 
-Wild bands disproportionately enter unstable Otherworld routes. Off-world travelers therefore encounter them more often than their share of the companion's total population would suggest. This selection effect helps explain a violent reputation on other worlds without turning morality into biology.
+Wild bands disproportionately enter unstable Otherworld routes. Off-world travelers therefore encounter them more often than their share of the companion's total population would suggest. This uneven contact helps explain their violent reputation on other worlds, where travelers hear less about settled Orc societies.
 
 Older notes about cannibalism or a challenger consuming a defeated chief, where retained at all, apply only to particular violent bands and ritual histories. They do not describe the species as a whole.
 

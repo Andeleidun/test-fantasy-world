@@ -1,0 +1,30 @@
+{
+  "language-writing": {
+    "two-connected-reading-passages": "reading-passages",
+    "a-small-teaching-sequence-with-answers": "practice-exercises"
+  },
+  "language-family": {
+    "parallel-sample-shared-content-real-differences": "parallel-passages"
+  },
+  "korvar": {
+    "shared-speech-regional-traditions": "the-shared-language",
+    "literal-roots-with-distinct-jobs": "basic-roots",
+    "reading-and-speaking-korvar": "a-first-example",
+    "explore-the-language": "language-guides"
+  },
+  "magic": {
+    "familiar-useful-and-uncommon": "magic-in-the-community",
+    "a-practiced-relationship": "learning-magic"
+  },
+  "erde-history-full-reference": {
+    "great-watersheds-watershed-resilience-hostile-containment-and-hydrological-magic": "great-watersheds",
+    "weaponized-rivers-and-the-delayed-maritime-bypass": "river-defenses-and-coastal-voyages",
+    "contested-hydromantic-authority-exceptional-masters-and-the-coastal-ocean-bypass": "councils-and-hydrological-orders",
+    "volcanic-hinge-divided-contact-refuge-networks-and-volcanic-foresight": "volcanic-hinge",
+    "civic-observatories-specialist-override-and-mixed-maritime-populations": "warning-systems-and-maritime-settlements",
+    "highland-spine-relay-vertical-ecology-and-high-altitude-magic": "highland-spine",
+    "highland-spine-refuge-houses-layered-altitude-magic-and-demographic-zones": "refuge-houses-and-mountain-travel",
+    "equatorial-basin-headwater-contact-distributed-continuity-and-living-system-magic": "equatorial-basin",
+    "equatorial-basin-river-garden-houses-kinship-magic-and-highland-spine-contact-zones": "river-garden-houses"
+  }
+}

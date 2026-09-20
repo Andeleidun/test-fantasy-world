@@ -1,6 +1,6 @@
 ## A world between day and night
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 **Dverghamar** is the ordinary native planetary name. **Dvergahamrar** is its archaic or highly formal form. The world is synchronously rotating: one hemisphere faces its star while the other remains in darkness.
 
@@ -36,7 +36,7 @@ Twilight-zone river hydropower is the principal industrial energy source. Direct
 
 The **Hamarkorar** are Dverghamar's native four-armed dwarven radiation. Their deep history predates the arrival of the **Thals**, Erde-derived Neanderthal descendants who reached the planet through the Otherworld about five millennia ago. The **Jotun** are an additional mountain people whose approved first model is a 2.5–3-metre, cold-adapted, heavily supported biped. Their ancestry, including any relationship to the native six-limbed radiation, remains open.
 
-## Continue exploring
+## Further reading
 
 - [Read the scientific canon and its unresolved parameters](dverghamar-reference.html).
 - [Meet the Hamarkorar](hamarkorar.html).

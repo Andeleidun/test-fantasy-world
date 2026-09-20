@@ -1,14 +1,12 @@
 # Five regional languages
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## A shared history
 
-The family’s approximate history begins with diverse older languages spoken across surface-supported cave and mountain networks. A related corridor continuum spreads through household movement, neighboring settlements and trade. **Förvar**, “earlier speech,” names the late common source in this reconstruction, placed roughly three to six millennia before the present. That interval is a working historical model, not the origin date of dwarven language.
+The family’s approximate history begins with diverse older languages spoken across surface-supported cave and mountain networks. A related corridor continuum spreads through household movement, neighboring settlements and trade. **Förvar**, “earlier speech,” names the late common source in this reconstruction, placed roughly three to six millennia before the present. The date is provisional; dwarven speech is much older.
 
 Divided drainage systems, mountain barriers and discontinuous routes reduce contact, allowing five daughter traditions to develop. Later exchange reconnects some routes. Shared material labels, counting and written records encourage **Korvar**, a taught interregional standard based especially on conservative massif forms.
 
-Record keepers, craft schools and exchange settlements support the standard without requiring a single planetary state. Mechanical transport, rail, signal links and apprenticeship broaden its use. Local languages remain important in homes and communities.
+Record keepers, craft schools and exchange settlements teach the standard across political boundaries. Mechanical transport, rail, signal links and apprenticeship broaden its use. Local languages remain important in homes and communities.
 
 The reference uses Common citation forms to describe the earlier shared vocabulary where no difference is specified. This is a limited reconstruction; the much older naming layer preserved in Dvergahamrar has its own history.
 
@@ -22,7 +20,7 @@ The reference uses Common citation forms to describe the earlier shared vocabula
 | **Nattvar** | dark-side speech | cold-edge communities linked to photic food sources | several vowel mergers, final devoicing, loss of main-clause V2 |
 | **Solvar** | starward speech | hot-margin and some volcanic trade networks | initial h loss, intervocalic d lenition, reduced inflections, analytic possession |
 
-These labels describe language networks. A high-mountain dwarf can grow up speaking Dravvar in a lake settlement; two volcanic-range communities can speak Solvar and Hamarvar respectively. Kamvar speakers may include central, deep-massif and other dwarves, as well as proficient Thal residents. Nattvar is not a language evolved among isolated far-nightside geothermal microfauna. Mixed households can use two local languages or a local language and Korvar.
+These labels describe language networks. A high-mountain dwarf can grow up speaking Dravvar in a lake settlement; two volcanic-range communities can speak Solvar and Hamarvar respectively. Kamvar speakers may include central, deep-massif and other dwarves, as well as proficient Thal residents. Mixed households can use two local languages or a local language and Korvar.
 
 ## What the languages share
 
@@ -30,7 +28,7 @@ Each regional language inherits the Common phoneme inventory, lexical meanings, 
 
 Local basic-word replacements in the dictionary are lexical alternatives, not sound-law exceptions. Their sources within the older dialect continuum have not yet been described. Listed replacements are inserted before the sound rules. A compound recorded as a shared industrial term is borrowed whole from the common lexicon and then adapted phonologically; it need not replace each component with the local everyday synonym. A newly created household compound normally uses local words. This explains, for example, why a local word for drinking water can differ while a common water-pump label remains recognizable. Nattvar uses **pran/pranen** for test/to test: otherwise its ö-to-o merger would collapse the noun tröv, test, with trov, sample. The local synonym preserves a useful industrial distinction; ordinary homophones elsewhere remain possible.
 
-The [aligned regional dictionary](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view?usp=drivesdk) gives the local citation form of every registered Common entry. For a verb, that is its infinitive; for a noun, its direct singular. A wordlist is not a syntax translator. The inflection tables and parallel texts below explain grammar and word order. Two other practical contrasts use inherited local synonyms: Hamarvar and Solvar distinguish dissolving (los-/losen) from reading (les-/lesen before local endings), and asking (frägen) from blocking (speren). Nattvar uses tiren for teaching, distinct from leren for learning, and upig for high in elevation, distinct from hol, hollow. These choices keep useful distinctions through the regional mergers without declaring every ordinary homophone an error.
+The [aligned regional dictionary](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view?usp=drivesdk) gives the local citation form of every registered Common entry. For a verb, that is its infinitive; for a noun, its direct singular. Use the inflection tables and parallel texts below for grammar and word order. Two other practical contrasts use inherited local synonyms: Hamarvar and Solvar distinguish dissolving (los-/losen) from reading (les-/lesen before local endings), and asking (frägen) from blocking (speren). Nattvar uses tiren for teaching, distinct from leren for learning, and upig for high in elevation, distinct from hol, hollow. These synonyms preserve distinctions lost in the regional sound changes. Other homophones remain in ordinary use.
 
 ## Ordered sound rules
 
@@ -44,7 +42,7 @@ Rules operate in the order shown. V denotes a vowel. Hyphens preserve a visible 
 | Nattvar | word-initial v → f; ö → o, y → u, ä → e; word-final b, d, g devoice | var → far; röl → rol; berg → berk, but plural berga retains g |
 | Solvar | word-initial h disappears; ö → e, y → i; single d → dh /ð/ between vowels | hand → and; röl → rel; fadur → fadhur |
 
-Only single consonants lenite in Dravvar and Solvar. A doubled consonant protects the cluster: sette does not become sedde merely because t is near vowels. The regular past suffix changes separately in Dravvar by analogy. The individual sound changes are plausible linguistic mechanisms; their exact combination and distribution here are artistic choices, not a necessary consequence of climate or vocal anatomy.
+Only single consonants lenite in Dravvar and Solvar. A doubled consonant protects the cluster: sette does not become sedde merely because t is near vowels. The regular past suffix changes separately in Dravvar by analogy. The sound changes follow plausible linguistic patterns. Their particular combination is fictional and does not follow from the speakers’ climate or anatomy.
 
 ## Complete grammatical overrides
 
@@ -64,15 +62,15 @@ Only single consonants lenite in Dravvar and Solvar. A doubled consonant protect
 
 These suffix differences are inflectional developments: Hamarvar lowers the unstressed oblique vowel; Dravvar fronts the plural suffix vowel and loses a weak oblique ending, then generalizes -de past forms; Nattvar loses final r/m in the specified unstressed noun endings; Solvar reduces the specified suffixes and replaces genitives with an existing prepositional relation. These are **morphologically restricted** changes in the historical reconstruction, not rules that delete every final r or m in the vocabulary.
 
-Nattvar no longer puts a finite verb ahead of the subject after a time/place topic. Its topic can come first, followed by a comma: **Nu, ek ne karne da kel**. Subject questions remain hve + finite; non-subject questions use wh + subject + negation + finite. Its content-question linker se is inherited, while its yes/no question use is a grammatical extension. Imperatives, relative clauses, nonfinite groups and dependent clauses retain Common behavior. Counterfactual Common vu, locally **fu**, sits after ne and before the finite verb in all Nattvar finite clauses. This is a complete order override rather than an isolated exceptional example.
+Nattvar no longer puts a finite verb ahead of the subject after a time/place topic. Its topic can come first, followed by a comma: **Nu, ek ne karne da kel**. Subject questions remain hve + finite; non-subject questions use wh + subject + negation + finite. Its content-question linker se is inherited, while its yes/no question use is a grammatical extension. Imperatives, relative clauses, nonfinite groups and dependent clauses retain Common behavior. Counterfactual Common vu, locally **fu**, sits after ne and before the finite verb in all Nattvar finite clauses. This word order applies throughout Nattvar.
 
-Solvar possession puts the head before **af + oblique possessor**: da kel af da meniru, the stoneworker's chamber; da kel af eku, my chamber. Its demonstratives, pronouns and interrogative stems follow the same local case reduction as nouns. Dravvar keeps prepositions after case loss; explicit prepositions and fixed order carry the lost distinction. Neither case reduction makes sentences inherently less precise.
+Solvar possession puts the head before **af + oblique possessor**: da kel af da meniru, the stoneworker's chamber; da kel af eku, my chamber. Its demonstratives, pronouns and interrogative stems follow the same local case reduction as nouns. Dravvar keeps prepositions after case loss; explicit prepositions and fixed order carry the lost distinction.
 
 The local numeral system retains the Common decimal structure with regular pronunciation changes. Serial numbers, measurement labels and emergency readbacks can always use careful Korvar forms. The shared written technical register spells canonical Common forms; a local-language book uses its local spelling. Both conventions are valid when the document identifies its language.
 
-## Parallel sample: shared content, real differences
+## Parallel passages
 
-These parallel passages show the same content in each language:
+Compare the same passage in each language:
 
 | Language | Text | Literal English |
 | --- | --- | --- |
@@ -98,13 +96,14 @@ These parallel passages show the same content in each language:
 
 Korvar is a learned shared language. Everyday literacy and fluency can vary by age, route access, household and education. Related languages can permit partial understanding, with fluency still requiring practice. Kamvar speakers usually face the smallest adjustment; local vocabulary and reduced inflections still require attention elsewhere. A person may read the Common technical standard well while speaking a local language most comfortably.
 
-Standard access is maintained through apprenticeship, school instruction where available, exchanged records, route work and mixed households. Print, reusable written charts and trained instructors are sufficient; digital infrastructure is unnecessary. Community access matters: isolated speakers are not assumed fluent merely because the standard exists. Interpreters and bilingual records remain useful.
+Standard access is maintained through apprenticeship, school instruction where available, exchanged records, route work and mixed households. Teachers use printed texts and reusable charts. Isolated speakers may have little chance to learn the standard. Interpreters and bilingual records remain useful.
 
-Critical instructions use a restricted Common vocabulary, one action per clause, explicit quantities and a readback by the recipient. Technical glossaries map local terms to observed properties and sample classes rather than insisting that one traditional rock word have exactly the same boundaries everywhere. This supplies common understanding while allowing ordinary languages to remain distinct.
+Critical instructions use a restricted Common vocabulary, one action per clause, explicit quantities and a readback by the recipient. Technical glossaries map local terms to observed properties and sample classes rather than insisting that one traditional rock word have exactly the same boundaries everywhere.
 
 ## Productive naming
 
 Settlement names can combine an observable feature and a place head: **Salbaskel**, salt-basin chamber settlement; **Bandhamar**, banded crag; **Dravmenet**, stone workshop served by water flow. These illustrate naming patterns; they do not identify mapped settlements. Person names can develop from short root forms, household associations or inherited names; occupations are only one possible source.
 
-A practical record can identify a person as **Menel af da Hamarkelum**, Menel of the crag-chamber household. Menel is a sample proper name, not a common noun or a fixed surname. Reproductive parentage, household membership and personal preference may supply different name elements. Use an explicit association phrase when a compound would confuse a place, a person and an occupation. A settled proper name can fossilize earlier spelling just as Dverghamar has; no rule requires personal identity to change whenever an occupation or residence changes.
+A practical record can identify a person as **Menel af da Hamarkelum**, Menel of the crag-chamber household. Menel is a sample proper name, not a common noun or a fixed surname. Reproductive parentage, household membership and personal preference may supply different name elements. Use an explicit association phrase when a compound would confuse a place, a person and an occupation. A settled proper name can fossilize earlier spelling just as Dverghamar has; people may keep their names after changing occupation or residence.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

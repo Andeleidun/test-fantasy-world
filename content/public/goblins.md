@@ -1,6 +1,6 @@
 # Goblins: a comparative natural history
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. The following account distinguishes observation, report, tradition, and inference. It represents the reach and limits of a careful human naturalist, not a final anatomy of Goblin nature.
+A human naturalist’s account, drawn from observation, testimony and competing theories of descent.
 
 ## The name and its difficulties
 
@@ -8,11 +8,9 @@ Few names in natural history conceal as much variety as *Goblin*. Travelers comm
 
 Some Goblins are smaller than most humans; some approach ordinary human mass, and a few short populations are remarkably broad and heavy. Green, olive, brown, pale, ruddy, and other complexions are reported. Ears, teeth, eyes, hands, feet, posture, and proportions vary too widely for any single feature to decide the question. Large or finely responsive sense organs, dexterous hands, flexible joints, and strong adaptation to a local manner of life recur often, but none is universal.
 
-It is therefore safer to speak of Goblin peoples and Goblin forms than of one uniform race.
-
 ## Affinities with humankind
 
-Comparative skeletons, teeth, muscles, pregnancy, and the many well-attested children born between Goblin and non-Goblin peoples leave little doubt that Goblins belong within the wider human kind. They do not appear to be beasts made clever by enchantment, nor one foreign species merely resembling humanity.
+Comparative skeletons, teeth, muscles, pregnancy, and the many well-attested children born between Goblin and non-Goblin peoples leave little doubt that Goblins belong within the wider human kind.
 
 Their affinities are nevertheless perplexing. One cave people may resemble a neighboring human population in the skull yet differ greatly from another cave people. Two Goblin populations of unlike appearance may have healthy children readily, while two outwardly similar groups may have greater difficulty. Island Goblins sometimes show affinities with the small-bodied ancient peoples whom naturalists call hobbits. Other groups preserve heavy jaws or other proportions not common among neighboring humanity.
 
@@ -38,13 +36,13 @@ Littoral Goblins keep tide knowledge, reef paths, shellfish grounds, and crossin
 
 Market Goblins gather at ports, caravan junctions, river exchanges, and other places where many peoples and environments meet. They are often accomplished linguists and judges of custom. Redcaps are reported from old fortresses and disputed passages repeatedly occupied in war; battle alone does not produce them, for most battlefields have no such population. Changelings are associated with childhood divided among different households or between Goblin and non-Goblin communities, and often display remarkable adaptability.
 
-These are convenient descriptions, not a complete arrangement of nature. River and Market forms commonly occur together; a household lineage may also be subterranean; and a people’s present way of life may preserve traces of several earlier ones.
+The forms overlap. River and Market forms commonly occur together; a household lineage may also be subterranean; and a people’s present way of life may preserve traces of several earlier ones.
 
 ## Strange passages
 
 Goblin settlements are disproportionately associated with roads, rooms, caverns, marsh paths, tidal places, and sea routes that do not agree with ordinary measurement. A mine may open into galleries exceeding the mountain’s apparent volume. A river party may emerge in another drainage. A household passage may exist only at particular times. Goblin charts sometimes place usable waters where human pilots find none.
 
-These reports resemble wider human accounts of the Otherworld. Goblin guides often possess practical knowledge of the crossings without agreeing upon their nature. Some scholars therefore suppose that repeated use of such places contributes to Goblin form. Others argue that Goblins merely find and keep routes that their senses suit them to perceive. Observation establishes the association more securely than either explanation.
+These reports resemble wider human accounts of the Otherworld. Goblin guides often possess practical knowledge of the crossings without agreeing upon their nature. Some scholars therefore suppose that repeated use of such places contributes to Goblin form. Others argue that Goblins merely find and keep routes that their senses suit them to perceive. The association is well observed; neither explanation has been proved.
 
 ## Descent, mixture, and fertility
 
@@ -52,7 +50,7 @@ Goblin fertility is broader than many old classifications predict. Marriages bet
 
 This broad fertility may explain why Goblin populations so often combine traits otherwise found far apart. It also makes descent difficult to reconstruct. A heavy-jawed feature may descend from a population’s remote forebears, a later marriage, or an adaptation developed after settlement. Present form is not a portrait of an ancient ancestor.
 
-Goblins preserve more than bones. Physicians and naturalists have found distinctive gut, skin, and household organisms among old communities. Some may descend from associations long lost elsewhere. Claims that any such organism is unchanged from remote antiquity should be treated with caution.
+Physicians and naturalists have found distinctive gut, skin, and household organisms among old communities. Some may descend from associations long lost elsewhere. Claims that any such organism is unchanged from remote antiquity should be treated with caution.
 
 ## Mind, society, and moral character
 
@@ -74,7 +72,6 @@ Outsiders often seek the medicine for power, longevity, military use, or escape 
 
 ## Limits of the present account
 
-This survey can compare bodies, households, marriages, routes, settlements, and traditions. It cannot establish the hidden operation of strange passages, the first appearance of Goblins, an exact family tree across remote ages, or the composition of the Alchemical medicine. Those who turn an observed association into a universal law exceed the evidence.
+Strange passages remain unexplained, as do the first appearance of Goblins and the composition of Alchemical medicine. Naturalists can trace some relationships among the peoples but cannot reconstruct a complete family tree. Their bodies respond unusually strongly to inherited history and manner of life; how anomalous places contribute to that response remains disputed. The green Alchemical lineage is one part of this much wider history.
 
-The safest conclusion is narrower and more useful: Goblins are diverse human-related peoples whose bodies show an extraordinary responsiveness to inherited history and manner of life. Their recurring association with anomalous places is real; the mechanism remains disputed. The green Alchemical lineage is neither the origin nor the measure of all others.
-
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

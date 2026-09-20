@@ -1,12 +1,12 @@
-## Shared speech, regional traditions
+## The shared language
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 **Hamarkorvar** names the language family. **Korvar**, literally people’s or public speech, is the taught interregional standard. **Hamarvar** retains its separate ridge-network language meaning.
 
-The family’s main sound and grammar inspirations are Nordic, Icelandic and German, with smaller echoes from other European roots. It is an invented family, not a claim that a real European ancestral language has been reconstructed. Real-world speakers must still learn its vocabulary.
+The family’s main sound and grammar inspirations are Nordic, Icelandic and German, with smaller echoes from other European roots. The family is fictional. Speakers of its source languages will recognize some patterns but still need to learn its vocabulary.
 
-## Literal roots with distinct jobs
+## Basic roots
 
 | Root | Common reference meaning |
 | --- | --- |
@@ -17,9 +17,9 @@ The family’s main sound and grammar inspirations are Nordic, Icelandic and Ger
 | kor | Person |
 | var | Speech or language |
 
-Compounds are head-final. Their last noun identifies the kind of thing being named. A compound’s precise relationship still needs an established meaning: material, purpose, contents and mechanism are not interchangeable.
+The final noun in a compound identifies the kind of thing it names. Earlier roots can describe material, purpose, contents or mechanism; the dictionary records which meaning applies.
 
-## A usable reference
+## Examples and reference material
 
 The current edition contains **571 lexical records**, five regional language profiles, a practical writing system and **98 translated examples**. The broader vocabulary covers ordinary relationships and activities as well as geology, nurseries, farming and industrial work.
 
@@ -29,7 +29,7 @@ The current edition contains **571 lexical records**, five regional language pro
 
 Plural **-ar** attaches to the complete noun. The general people-name therefore makes **Hamarkorar**. The old **hamrar** in Dvergahamrar belongs to the inherited planetary name; it does not replace the regular modern plural of every related word.
 
-## Explore the language
+## Language guides
 
 - [Identity, sounds and word formation](language-foundation.html)
 - [The common grammar](language-grammar.html)

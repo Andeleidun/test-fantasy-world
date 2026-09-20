@@ -1,10 +1,8 @@
 # Erde: peoples and regional histories
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Deep ancestry
 
-Erde’s human and hobbit peoples share a deep ancestral foundation, followed by long divergence, dispersal and contact. Separation between island populations and neighboring mainland populations is important to the later branching history. Several island, highland and pelagic hobbit lineages develop their own ways of living.
+Erde’s human and hobbit peoples share deep ancestry. Their branches separated, spread and sometimes met again. Separation between island populations and neighboring mainland populations is important to the later branching history. Several island, highland and pelagic hobbit lineages develop their own ways of living.
 
 Ancient human branches likewise diverge, encounter one another and sometimes exchange ancestry. Interbreeding between the broad human and hobbit branches is rare and usually has low fertility. Biological compatibility, language, culture and political belonging remain different questions.
 
@@ -12,7 +10,7 @@ Ancient human branches likewise diverge, encounter one another and sometimes exc
 
 An early human population reaches a connected pair of continents in deep antiquity. Its descendants diversify long before later human arrivals. Mountain corridors, watershed systems, coastlines and refuges support different regional histories.
 
-Five broad complexes organize the current description. The descriptions identify broad geographic and historical communities. Each contains distinct local peoples and institutions.
+Five broad regional groups appear in this history. Each contains distinct local peoples and institutions.
 
 | Complex | Landscape and later continuity |
 | --- | --- |
@@ -24,9 +22,9 @@ Five broad complexes organize the current description. The descriptions identify
 
 ## Contact and successor communities
 
-A later durable human founding movement occurs much later in the historical account. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
+Further human populations establish lasting settlements much later. Contact spreads unevenly over many generations. Some regions support newcomers, some restrict settlement, and others experience violence, displacement or long-term mixture.
 
-Disease acts together with food shortages, social disruption and existing local stresses. Transmission is reciprocal, with different populations affected at different times. It is not a single one-way epidemic that determines every outcome.
+Disease acts together with food shortages, social disruption and existing local stresses. Transmission is reciprocal, with different populations affected at different times.
 
 The coastal and mountain-rim complex eventually continues through multiple mixed successor populations. Substantial ancestral and cultural continuity can survive without one unchanged population identity. The other regional complexes remain self-sustaining through different combinations of ecological connection, institutions, refuges and defense.
 
@@ -74,7 +72,8 @@ Mixed settlements concentrate in upland headwaters and major confluences. Deep-f
 
 ## Learned traditions and individual lives
 
-Magical traditions emerge when recurring needs make observation, teaching and cooperation valuable. Biology can influence how a practice is experienced without assigning one ability to an entire people. Institutions can share techniques, disagree about authority and preserve mistakes as well as discoveries.
+Communities develop magical traditions through repeated observation, teaching and work together. Bodily differences affect how individuals experience a practice, but ability varies within every people. Institutions pass on discoveries and mistakes alike, and often disagree about who may use their knowledge.
 
-The [Erde atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) places these histories in their geographic framework. The public atlas guide distinguishes broad geography, historical contact and ancestral inference; it does not supply a precise deep-time genealogy.
+The [Erde atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) places these histories in their geographic framework. It covers broad geography, contact and inferred ancestry, with the early chronology still uncertain.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

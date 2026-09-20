@@ -1,14 +1,12 @@
 # Dverghamar: habitats and wildlife
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Lit and watered country
 
 Moist slopes, shorelines and shallow waters support the most familiar plant-like life and its consumers. Growers use suitable storage crops and cultivated fungi. Exact pigments, textures, names and many visible forms remain undescribed.
 
 ## Native animals
 
-Grazers, scavengers, predators and aquatic animals occupy different habitats. Three pairs of limbs characterize the ancestry leading to the Hamarkorar, not all fauna. A natural-history account can compare visible structures without supplying an exact family tree.
+Grazers, scavengers, predators and aquatic animals occupy different habitats. Three pairs of limbs characterize the ancestry leading to the Hamarkorar, not all fauna. Naturalists compare visible structures to investigate relationships, which remain uncertain.
 
 ## Lakes and shorelines
 
@@ -16,12 +14,14 @@ Large lake animals can reach several metres. Their feeding habits, shapes and li
 
 ## Hot margins and dark country
 
-Hot dry ground, brine basins and cooler water-bearing refuges contrast with nightward ice and isolated warm sites. Much life in extreme districts is inconspicuous. Reports of sparse small creatures in isolated oases do not amount to a complete ecological survey.
+Hot dry ground, brine basins and cooler water-bearing refuges contrast with nightward ice and isolated warm sites. Much life in extreme districts is inconspicuous. Travelers report sparse small creatures in isolated oases, though few of these places have been thoroughly surveyed.
 
 ## Caves and settlements
 
-Streams, entrances and neighboring productive habitats connect cave life with the wider landscape. Settlements add tended crops, stored food and waste, attracting cultivated organisms, household associates and pests. No complete catalog of these organisms or domestic animals is established.
+Streams, entrances and neighboring productive habitats connect cave life with the wider landscape. Settlements add tended crops, stored food and waste, attracting cultivated organisms, household associates and pests. Many of these organisms and domestic animals remain undescribed.
 
 ## Open public descriptions
 
-Future natural-history entries can add appearance, behavior, habitat, field identification and local uses. Detailed physiological, reproductive and settlement-support models belong to the authorial records.
+Appearance, behavior and local uses remain to be described for much of Dverghamar’s wildlife. The available accounts are too limited for a comprehensive field guide.
+
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

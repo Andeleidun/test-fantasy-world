@@ -1,6 +1,6 @@
 # Merenval and its living companion
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 ## A binary pair of inhabited worlds
 
@@ -30,7 +30,7 @@ The companion also sustains major Gnome populations in cave, fungal, sinkhole an
 
 Dorrenath, the eldest known Wayroot, is a city-scale living structure on Merenval. Wayroots can develop unusually stable overlap with the Otherworld, though not every tree produces a usable passage. Dorrenath is a genealogical and ecological elder, not a creator tree or cosmic axis.
 
-## Continue exploring
+## Further reading
 
 - [Physical and demographic reference](merenval-reference.md)
 - [Elven peoples and traditions](elves.md)

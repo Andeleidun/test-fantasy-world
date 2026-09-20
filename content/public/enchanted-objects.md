@@ -1,10 +1,8 @@
 # Enchantments, heirlooms and artifacts
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## Magic prepared in advance
 
-Enchanting places part of a magical working into an object so it can later help reproduce, sustain or direct that effect. Some items do most of the work and can be used by someone with little magical ability. Others serve only as tools for a trained practitioner.
+Enchanting places part of a magical working into an object so it can later help reproduce, sustain or direct that effect. Some items do most of the work and can be used by someone with little magical ability. Others require a trained practitioner.
 
 Enchanting is a demanding profession. A sizable guild may accept ordinary commissions while entrusting dangerous, expensive or irreplaceable work to only a few specialists. The enchanter must understand the intended effect, prepare the object and invest enough time and energy for later use.
 
@@ -28,7 +26,7 @@ Practitioners report unreliable results when combining magic with electrical equ
 
 ## Objects shaped by use
 
-Formal enchanting is not the only way an object gains magical character. Repeated skilled use, strong emotion, repair, inheritance, ritual, place and participation in important events can deepen an object's relationships over time.
+Objects can also gain magical character through repeated use, strong emotion, repair and inheritance. Rituals, places and important events may leave lasting effects.
 
 Most changes remain subtle. A violin may answer especially well to the musician who played it for decades. A craftsperson's hammer may feel unusually balanced in familiar work. A family hearthstone may become easier to ward. Age alone is insufficient; an unused object does not become powerful merely by surviving.
 
@@ -38,11 +36,12 @@ Artifacts can begin as ordinary things. History and repeated relationships may r
 
 An artifact can develop new tendencies as its history grows. A sword repeatedly used to defend one family may become more effective in that role. A healer's bowl may become unusually good at stabilization. A storm-tested ship may acquire resilience no enchanter originally planned.
 
-Artifact durability follows continuity rather than appearance. A ragged cloak may remain ragged while becoming extraordinarily hard to tear further. Careful repair over generations can preserve an artifact even as much of its material is replaced. A perfect new copy made after total destruction would not automatically inherit the same identity or history.
+A ragged cloak may remain ragged while becoming extraordinarily hard to tear further. Careful repair over generations can preserve an artifact even as much of its material is replaced. A perfect new copy made after total destruction would not automatically inherit the same identity or history.
 
 ## Spiritual objects and ethical limits
 
 Some objects are associated with death, presences or attempts at spiritual contact. Cultures disagree sharply about their use, especially where a sapient death is involved. Practitioners distinguish impressions or residual effects from an apparent continuing person, while acknowledging that interpretation can fail.
 
-Attempts to imprison a person through spiritual binding are treated as grave violations in many societies. The public ethical account does not explain the underlying soul mechanics.
+Attempts to imprison a person through spiritual binding are treated as grave violations in many societies. The nature of such bindings remains poorly understood by ordinary practitioners.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

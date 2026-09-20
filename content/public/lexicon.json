@@ -157,7 +157,7 @@
     "meaning": "reserved name for a possible Menkor community language",
     "domain": "language",
     "parts": "menkor+var",
-    "notes": "A possible Menkor community-language name; no separate established language is implied."
+    "notes": "A proposed name for a Menkor community’s language, which remains undescribed."
   },
   {
     "lemma": "karnir",
@@ -637,7 +637,7 @@
     "meaning": "carbon-rich combustible material",
     "domain": "fuel",
     "parts": "",
-    "notes": "Does not assert Earth-style coal deposits."
+    "notes": "The local geology of this fuel remains unspecified."
   },
   {
     "lemma": "dul",
@@ -701,7 +701,7 @@
     "meaning": "biologically active soil used by rooted producers",
     "domain": "food",
     "parts": "",
-    "notes": "Does not assert terrestrial soil organisms."
+    "notes": "Native soil organisms remain undescribed."
   },
   {
     "lemma": "slik",
@@ -797,7 +797,7 @@
     "meaning": "conventional unit of length",
     "domain": "measure",
     "parts": "",
-    "notes": "Calibration must be supplied; not an Earth meter by assertion."
+    "notes": "Specify the calibration when converting to Earth units."
   },
   {
     "lemma": "kap",
@@ -821,7 +821,7 @@
     "meaning": "short counted time unit",
     "domain": "measure",
     "parts": "",
-    "notes": "Defined by an agreed clock; no Earth second asserted."
+    "notes": "Defined by an agreed clock; its duration in Earth seconds remains unspecified."
   },
   {
     "lemma": "takt",
@@ -1405,7 +1405,7 @@
     "meaning": "hand",
     "domain": "body",
     "parts": "",
-    "notes": "No digit count is implied."
+    "notes": "The number of digits remains unspecified."
   },
   {
     "lemma": "arn",
@@ -1469,7 +1469,7 @@
     "meaning": "internal skeletal support element",
     "domain": "body",
     "parts": "",
-    "notes": "No human mineral chemistry asserted."
+    "notes": "The mineral chemistry remains unspecified."
   },
   {
     "lemma": "brol",
@@ -1493,7 +1493,7 @@
     "meaning": "gas-exchange organ in a broad functional translation",
     "domain": "body",
     "parts": "",
-    "notes": "Not a claim of human lung microanatomy."
+    "notes": "The internal structure remains undescribed."
   },
   {
     "lemma": "egg",
@@ -1501,7 +1501,7 @@
     "meaning": "egg",
     "domain": "care",
     "parts": "",
-    "notes": "Ordinary lexical meaning; no sapient reproductive model is specified here."
+    "notes": "A general reproductive term; the process varies and remains undescribed."
   },
   {
     "lemma": "neret",
@@ -1605,7 +1605,7 @@
     "meaning": "storage root or tuber as food",
     "domain": "food",
     "parts": "",
-    "notes": "Functional analog, not an Earth potato species."
+    "notes": "A native tuber crop; the species remains unspecified."
   },
   {
     "lemma": "somb",
@@ -1629,7 +1629,7 @@
     "meaning": "dispersal/reproductive propagule of a cultivated producer",
     "domain": "food",
     "parts": "",
-    "notes": "Does not commit all producers to seed-plant anatomy."
+    "notes": "Applies where seed-like structures occur; other producers may reproduce differently."
   },
   {
     "lemma": "grö",
@@ -1645,7 +1645,7 @@
     "meaning": "aquatic swimming animal used as food",
     "domain": "food",
     "parts": "",
-    "notes": "Not Earth vertebrate membership."
+    "notes": "Does not place the organism among Earth vertebrates."
   },
   {
     "lemma": "dyl",
@@ -1685,7 +1685,7 @@
     "meaning": "discarded waste requiring handling",
     "domain": "ecology",
     "parts": "",
-    "notes": "Coined everyday sense; not the Earth petrological term skarn."
+    "notes": "An everyday Korvar word, unrelated to the Earth rock name skarn."
   },
   {
     "lemma": "prid",
@@ -1709,7 +1709,7 @@
     "meaning": "token used as currency",
     "domain": "trade",
     "parts": "",
-    "notes": "No universal coinage or metal standard assumed."
+    "notes": "Coinage and standards vary by community."
   },
   {
     "lemma": "felagkor",
@@ -2909,7 +2909,7 @@
     "meaning": "please",
     "domain": "social",
     "parts": "",
-    "notes": "Courtesy form; one deliberately familiar loan-shaped item."
+    "notes": "A courtesy form resembling a familiar Earth word."
   },
   {
     "lemma": "takk",
@@ -2933,7 +2933,7 @@
     "meaning": "farewell",
     "domain": "social",
     "parts": "",
-    "notes": "Lexical greeting; not a rule assigning farewell to every fer/vel compound."
+    "notes": "A conventional farewell; its meaning cannot be applied to other fer/vel compounds."
   },
   {
     "lemma": "nu",
@@ -3909,7 +3909,7 @@
     "meaning": "salt layer",
     "domain": "material",
     "parts": "sal+lag",
-    "notes": "no undocumented l-to-r sound change."
+    "notes": "The spelling is lexical; it follows no general l-to-r sound change."
   },
   {
     "lemma": "isbrak",
@@ -4357,7 +4357,7 @@
     "meaning": "cold-edge-network language; dark-side speech",
     "domain": "language",
     "parts": "natt+var",
-    "notes": "Not a far-nightside isolated-oasis language."
+    "notes": "Spoken in cold-edge communities connected to illuminated food-growing districts."
   },
   {
     "lemma": "solvar",
@@ -4485,7 +4485,7 @@
     "meaning": "the Dwarven language family collectively",
     "domain": "language",
     "parts": "hamarkor+var",
-    "notes": "Family umbrella; Korvar is the common standard and Hamarvar retains its regional meaning."
+    "notes": "The language family. Korvar is its common standard; Hamarvar is the ridge language."
   },
   {
     "lemma": "rakkor",

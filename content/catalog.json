@@ -11,7 +11,7 @@
     "id": "dverghamar",
     "title": "Dverghamar",
     "category": "worlds",
-    "description": "Permanent day, permanent night, and the twilight landscapes that sustain a living world.",
+    "description": "Dverghamar has permanent day and night, with most settlements in the watered twilight region.",
     "kind": "World guide",
     "file": "dverghamar.md"
   },
@@ -43,7 +43,7 @@
     "id": "elves",
     "title": "Elven peoples and traditions",
     "category": "peoples",
-    "description": "Four traditions, three magical approaches and one braided population across two worlds.",
+    "description": "One Elven population spans both worlds, with four major traditions and three broad approaches to magic.",
     "kind": "People guide",
     "file": "elves.md"
   },
@@ -59,7 +59,7 @@
     "id": "orcs",
     "title": "Orcs",
     "category": "peoples",
-    "description": "Diverse surface societies and the travel bias behind their narrow off-world reputation.",
+    "description": "Settled and mobile Orc societies, and why travelers disproportionately encounter wild bands.",
     "kind": "People guide",
     "file": "orcs.md"
   },
@@ -67,7 +67,7 @@
     "id": "jotuns",
     "title": "The Jotun",
     "category": "peoples",
-    "description": "The approved cold-mountain giant direction and the mechanics still awaiting a coherent model.",
+    "description": "The proposed body of the cold-adapted mountain giants, with its unresolved mechanical constraints.",
     "kind": "People guide",
     "file": "jotuns.md"
   },
@@ -99,7 +99,7 @@
     "id": "korvar",
     "title": "Korvar and the language family",
     "category": "language",
-    "description": "A common linguistic foundation with five regional traditions and literal, productive roots.",
+    "description": "Korvar is the shared standard taught across the dwarven regions. The reference covers its roots and five regional languages.",
     "kind": "World guide",
     "file": "korvar.md"
   },
@@ -155,7 +155,7 @@
     "id": "language-foundation",
     "title": "Identity, sound and word formation",
     "category": "language",
-    "description": "From the complete language reference edition 1.1.",
+    "description": "The names of the dwarven peoples and their languages, followed by Korvar pronunciation and the rules for forming words. From reference edition 1.1.",
     "kind": "Language reference",
     "file": "language-foundation.md"
   },
@@ -163,7 +163,7 @@
     "id": "language-grammar",
     "title": "The common grammar",
     "category": "language",
-    "description": "From the complete language reference edition 1.1.",
+    "description": "Korvar noun cases, verbs and sentence patterns, with worked examples for questions, possession, conditions and measurement. From reference edition 1.1.",
     "kind": "Language reference",
     "file": "language-grammar.md"
   },
@@ -171,7 +171,7 @@
     "id": "language-materials",
     "title": "Stone and material vocabulary",
     "category": "language",
-    "description": "From the complete language reference edition 1.1.",
+    "description": "Korvar words distinguish a rock’s appearance from its composition and tested uses. The vocabulary also covers machinery, soil and household care. From reference edition 1.1.",
     "kind": "Language reference",
     "file": "language-materials.md"
   },
@@ -179,7 +179,7 @@
     "id": "language-family",
     "title": "Five regional languages",
     "category": "language",
-    "description": "From the complete language reference edition 1.1.",
+    "description": "Compare Kamvar, Hamarvar, Dravvar, Nattvar and Solvar through their sound changes, grammar and parallel passages. From reference edition 1.1.",
     "kind": "Language reference",
     "file": "language-family.md"
   },
@@ -187,7 +187,7 @@
     "id": "language-writing",
     "title": "Writing, numbers and everyday use",
     "category": "language",
-    "description": "From the complete language reference edition 1.1.",
+    "description": "Learn the Stavmark script, decimal counting and everyday forms of address. Reading passages and exercises put them into use. From reference edition 1.1.",
     "kind": "Language reference",
     "file": "language-writing.md"
   },

@@ -1,10 +1,10 @@
 ## People of the great rock masses
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 **Hamarkor** is the singular general native people-name; **Hamarkorar** is its plural. The components are **hamar**, crag or great rock mass, and **kor**, person.
 
-The name includes the native dwarven peoples across their different habitats and occupations. It is not a requirement that every individual live beneath a particular kind of rock or work as a stoneworker.
+The name includes the native dwarven peoples across their different habitats and occupations. Individuals can live in other terrain and pursue any occupation.
 
 **Rakkor/Rakkorar** is reserved for a regional people. **Menkor/Menkorar** remains available for another narrower local, cultural or species identity. Their exact assignments remain open. **Hamkor/Hamkorar** remains a proposed everyday contraction.
 
@@ -30,7 +30,7 @@ Porous regions permit gas exchange. Honeycombing can provide useful structural s
 
 Underground residence, construction, food production and nursery care make careful material distinctions useful. Hardness is not strength; porosity does not guarantee connected pores; visually similar stones can have different composition and suitability.
 
-The common language reflects that practical knowledge without reducing dwarven life to stoneworking. Its vocabulary also covers care, play, affection, trade, travel and ordinary household life.
+The common language records that material knowledge alongside words for care, play, affection, trade, travel and household life.
 
 - [Read the full evolutionary history](evolution-reference.html).
 - [Explore the common language](korvar.html).

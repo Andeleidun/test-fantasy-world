@@ -1,8 +1,8 @@
 # Erde, Dverghamar & Merenval
 
-An accessible guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Dverghamar, Merenval and its living companion.
+A guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Dverghamar, Merenval and its living companion.
 
-The current edition was synchronized from the [Public — Cultural Knowledge folder](https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt) on 18 September 2026. It contains **36 subject articles, a collection index, thirteen atlas subjects, 562 dictionary entries and 97 translated examples**. The atlas currently supplies text guides; older map artwork is outside this edition. The Stavmark writing chart remains consistent with the current writing guide.
+The current edition was synchronized from the [Public — Cultural Knowledge folder](https://drive.google.com/drive/folders/126BrWsD3GZ-Qg2oGTjxX3lN_Tp642AXt) on 20 September 2026. It contains **36 subject articles, a collection index, thirteen atlas subjects, 562 dictionary entries and 97 translated examples**. The atlas currently supplies text guides; older map artwork is outside this edition. The Stavmark writing chart remains consistent with the current writing guide.
 
 ## Run locally
 
@@ -18,17 +18,18 @@ Open <http://localhost:4173/test-fantasy-world/>. The local server also supports
 
 ## Current sources and synchronization
 
-The live public Drive collection governs publication eligibility. `content/public/` contains its unchanged Markdown and data, plus a readable text export of the native index. `content/public-sync.json` maps all 44 files to source IDs, modification times, byte lengths and SHA-256 checksums. The import does not introduce additional authorial lore.
+The live public Drive collection determines what appears on the site. `content/public/` contains its unchanged Markdown and data, plus a readable text export of the native index. `content/public-sync.json` maps all 44 files to source IDs, modification times, byte lengths and SHA-256 checksums. The import does not introduce additional authorial lore.
 
-The build resolves links between known public Drive files to local articles and downloads. Article H1 headings govern displayed titles when a catalog label lags a document revision. The detailed Gnome article has older catalog metadata; its current title and a content-based summary are used for display, as recorded in the sync manifest. Downloaded source catalogs retain the original wording.
+The build resolves links between known public Drive files to local articles and downloads. Article H1 headings govern displayed titles when a catalog label lags a document revision. Catalog titles and summaries match the edited sources. Section aliases preserve bookmarks when a heading changes.
 
 - Categories: `worlds`, `peoples`, `cosmology`, `language`, `maps` and `reference`.
 - Keep article IDs stable. New articles require catalog entries; every category needs navigation and a category page.
 - Maintain the exact six source datasets/indexes. TSVs live in `content/public/data/`; JSON files live directly in `content/public/`. Tests compare dictionary meanings, forms and row counts across formats.
 - `content/dictionary-anchors.json` preserves old numeric bookmarks for surviving words. Deterministic lexical anchors are used for new links. Removed entries do not redirect to a different word.
 - `scripts/public-edition.mjs` defines link resolution, related reading and the explicit asset allowlist. New illustrations require review before inclusion.
-- Public knowledge is bounded natural history, ordinary practitioner experience and attributed cultural accounts. Earlier public inclusion does not make technical or authorial material eligible today.
-- Plans and results for this update are recorded in [the synchronization record](docs/PUBLIC-SYNC-2026-09-18.md).
+- Public articles describe natural history, ordinary practitioner experience and attributed cultural accounts. Check older material against the current source collection before publishing it.
+- The initial import is recorded in [the synchronization record](docs/PUBLIC-SYNC-2026-09-18.md). The subsequent [prose review](docs/PROSE-REVIEW-2026-09-20.md) covers the Humanizer edit.
+- `content/section-anchors.json` maps previous heading bookmarks to their current sections.
 
 ## Historical research
 

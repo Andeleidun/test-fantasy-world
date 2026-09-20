@@ -1,10 +1,8 @@
-# Public — Cultural Knowledge
+# Public guide
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
+This collection describes the worlds, their peoples and languages, and the magic people encounter in daily life. Its natural histories draw on the comparisons a nineteenth-century scholar could make. Spiritual accounts describe the experiences of ordinary trained practitioners; Otherworld accounts record human reports and stories.
 
-This is the reader-facing cultural collection. The revised boundary limits ancestry to reasonable nineteenth-century natural history, spiritual material to the experience of a competent ordinary practitioner, and Otherworld material to average human perceptions and attributed stories. Detailed technical models belong to the authorial collection. Earlier publication does not override these limits.
-
-Eligibility, current in-world knowledge, truth and validation remain different questions. Ancestral inference does not become a measured genealogy; a belief does not become objective cosmology. No new named myth is established by presenting a general motif.
+The accounts distinguish what people observe, what they infer and what they believe. They leave disputed origins and spiritual experiences unresolved. General story motifs do not establish a named myth or a doctrine for any particular people. Detailed technical models are kept in the authorial collection, including models published in earlier editions.
 
 ## Documents
 
@@ -20,7 +18,7 @@ Eligibility, current in-world knowledge, truth and validation remain different q
 - [Erde](https://drive.google.com/file/d/1FoH09WrtbZYe_h2yos8ejx5PMz3QXz-G/view)
 - [Dwarven natural history](https://drive.google.com/file/d/1MkLAK5JtSCUQI-jaxjftxLO563mqmMlP/view)
 - [Familiars and shapeshifting in practice](https://drive.google.com/file/d/1bDC2NWm2-WbTd_66obQk2anXBMPUj9aQ/view)
-- [Gnomes: homes, households and remembrance](https://drive.google.com/file/d/1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y/view)
+- [Gnomes: a comparative account of body, house, kinship and craft](https://drive.google.com/file/d/1v4mI8lIr4zc2ff-yiFTu1Sry7jf5pg6Y/view)
 - [Gnomes](https://drive.google.com/file/d/105Ut2CZdRqep6QHOGdWgRqQsHyGYjHdI/view)
 - [Goblins: a comparative natural history](https://drive.google.com/file/d/1b8An44XQSMMFOL49Recw0jYAMGyUuCGg/view)
 - [The Hamarkorar](https://drive.google.com/file/d/1OcMraCLWa_aS4_6bAEOP3VllzilFg_fn/view)
@@ -54,5 +52,6 @@ Eligibility, current in-world knowledge, truth and validation remain different q
 - [regional-dictionary.tsv](https://drive.google.com/file/d/13QiDjx_eRUNa6G7pc3TDSxjilwuYe8lM/view)
 - [korvar-examples.tsv](https://drive.google.com/file/d/12vcdIVCizsYezklErssPH90WPHHUBtnO/view)
 
-The language data contain 562 public lexical records and 97 translated examples. Record identifiers are preserved; one technical example is omitted. The map index contains thirteen subject descriptions with no unrevised artwork links.
+The language data contain 562 lexical records and 97 translated examples. Their identifiers remain stable, including a gap where one technical example was omitted. The atlas has thirteen text entries; map illustrations are awaiting revision.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

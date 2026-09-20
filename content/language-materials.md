@@ -1,10 +1,10 @@
 
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
-## A practical classification, not one universal rock name
+## Describing materials
 
-The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The common register makes their descriptions interoperable by keeping **material**, **observed property**, **identified composition**, **origin**, and **tested use** separate.
+The dictionary makes fine distinctions where dwarves repeatedly need them. A mason, grower and mineralogist may name the same specimen differently without contradicting one another. The shared vocabulary distinguishes the material itself, its observed properties, identified composition, inferred origin and tested uses.
 
 | Layer | What the word identifies | Example | What it does not prove |
 | --- | --- | --- | --- |
@@ -21,17 +21,17 @@ USGS distinguishes sedimentary grain-size classes, igneous cooling textures and 
 
 ## A field encounter
 
-A worker first calls a dark, fine-grained block **durfinrak**. A specialist may later identify it as a basalt-like melt-derived rock. A mason selects part of that block as **men**, perhaps **stalmen** for a support. The tested lot receives a grade with its dimensions, fracture orientation, load conditions and environment. The remainder can stay rak or become brak, rubble. This progression does not change the material's identity at each step; it changes which relation the speaker needs to express.
+A worker first calls a dark, fine-grained block **durfinrak**. A specialist may later identify it as a basalt-like melt-derived rock. A mason selects part of that block as **men**, perhaps **stalmen** for a support. The tested lot receives a grade with its dimensions, fracture orientation, load conditions and environment. The remainder can stay rak or become brak, rubble. The specimen stays the same; each name describes what the speaker needs to say about it.
 
-The same observed texture can occur in different geological materials. A dark fine-grained rock can be something other than basalt; a banded rock is not automatically gneiss; a pale coarse rock is not necessarily granite. Surface color can reflect weathering. Scratch resistance, impact toughness, compressive strength, discontinuities and permeability are different properties. Connected fractures can transmit water through rock that appears dense in hand sample. These distinctions prevent the vocabulary from becoming a false geology engine.
+The same observed texture can occur in different geological materials. A dark fine-grained rock can be something other than basalt; a banded rock is not automatically gneiss; a pale coarse rock is not necessarily granite. Surface color can reflect weathering. Scratch resistance, impact toughness, compressive strength, discontinuities and permeability are different properties. Connected fractures can transmit water through rock that appears dense in hand sample. A descriptive word alone cannot identify a rock’s composition or performance.
 
 ## Loose earth and soil
 
 **Dul** is loose mineral ground material. **Sarn**, **silm**, **lem**, and **grust** distinguish sand, silt, clay-rich earth and gravel in the shared field system. **Jörm** is biologically active growing soil. A material can be lemdul while being unsuitable as jörm; the terms answer different questions.
 
-Mixtures remain expressible: sarnlem, sand-bearing clay-rich earth; saldul, salt-bearing loose earth; eskdul, ash-rich loose earth. **Svellem** is clay-rich earth observed to swell under specified conditions, not all clay. **Tettlem** names densely packed clay-rich material without promising that a seal will survive drying or loading. BGS studies link shrink–swell behavior to the mineralogy and water interaction of particular clays; the term therefore records behavior and conditions instead of treating fine particle size as a complete explanation. [BGS/NERC: clay mineralogy and shrink–swell research](https://nora.nerc.ac.uk/id/eprint/19698/1/IR10079.pdf).
+Mixtures remain expressible: sarnlem, sand-bearing clay-rich earth; saldul, salt-bearing loose earth; eskdul, ash-rich loose earth. **Svellem** is clay-rich earth observed to swell under specified conditions, not all clay. **Tettlem** names densely packed clay-rich material without promising that a seal will survive drying or loading. BGS studies relate shrink-swell behavior to the minerals in a clay and their interaction with water. Svellem records the observed behavior and its conditions. [BGS/NERC: clay mineralogy and shrink–swell research](https://nora.nerc.ac.uk/id/eprint/19698/1/IR10079.pdf).
 
-Field grain classes can precede exact calibrated thresholds. The industrial standard adds numbers and the measuring method where trades need reproducible sorting. This edition does not canonize an Earth sieve series. Terms for organic residue, rooting structure, salts, wetness and cultivation purpose can be combined with texture words without pretending that extraterrestrial soil contains terrestrial taxa.
+Field grain classes can precede exact calibrated thresholds. The industrial standard adds numbers and the measuring method where trades need reproducible sorting. This edition does not canonize an Earth sieve series. Terms for organic residue, rooting structure, salts, wetness and cultivation purpose can be combined with texture words while leaving native soil organisms undescribed.
 
 ## Geological distribution
 
@@ -55,9 +55,9 @@ Geology creates opportunities for lexical specialization; it does not force a sp
 - **Rakhamar**: rock-breaking hammer. **Rakstal**: retained-rock support structure.
 - **Handhamar**: hand hammer. **Dravhamar**: water-powered hammer. **Gnisthamar**: electrically powered hammer, where such equipment exists.
 
-The same root can remain productive without every compound becoming metaphorical. Where a compound could mean either construction material or purpose, the established dictionary sense governs; otherwise use a phrase. A hammer made of stone is **handhamar af menum**, while menhamar is the conventional tool for dressing stone.
+Where a compound could mean either construction material or purpose, the established dictionary sense governs; otherwise use a phrase. A hammer made of stone is **handhamar af menum**, while menhamar is the conventional tool for dressing stone.
 
-## Industry with the right power economy
+## Industry and power
 
 **Dravrad** is a water wheel, **tarnrad** a gear wheel, **aks** a rotating shaft, **relm** a belt and **kavrel** a cable. **Vasporm** and **luftporm** are distinct pumps. Hydraulic power, pressure, fluid flow and shaft work must be described separately from their source. **Eldmotor** names a combustion engine; **gnistmotor** names an electric motor. Neither motor word specifies an automatic controller.
 
@@ -75,8 +75,8 @@ Species-specific experience, inherited preferences, education and accumulated te
 
 ## Breadth beyond industry
 
-The lexical database includes eating, drinking, buying, selling, affection, grief, games, music, questions, memories, bodies, travel, clothing, household space and ordinary disagreement. Literal naming does not mean that dwarves lack emotions or abstractions. 'Know a fact' and 'know a person' have separate verbs; fear, love, permission and prohibition have explicit constructions. These words keep the language from becoming a mining phrasebook.
+The lexical database includes eating, drinking, buying, selling, affection, grief, games, music, questions, memories, bodies, travel, clothing, household space and ordinary disagreement. 'Know a fact' and 'know a person' have separate verbs; fear, love, permission and prohibition have explicit constructions.
 
-The non-Germanic echoes remain productive: men in the reserved regional name Menkor, menek and menhamar; kam in kamkel and kammeel; kor in household and caregiver terms; klak in fitted-stone vocabulary. Newly coined everyday stems such as **vegn** (wall), **gulm** (floor), **somb** (fungal food organism), **röl** (pipe), **mern** (memory) and **sivar** (signal) broaden the independent vocabulary. Familiar short stems and a few industrial loan-shaped words are permitted; the family is not claimed to be etymologically assembled from any one Earth language.
+The non-Germanic echoes remain productive: men in the reserved regional name Menkor, menek and menhamar; kam in kamkel and kammeel; kor in household and caregiver terms; klak in fitted-stone vocabulary. Everyday stems such as **vegn** (wall), **gulm** (floor), **somb** (fungal food organism), **röl** (pipe), **mern** (memory) and **sivar** (signal) have meanings of their own. Some short stems and industrial terms resemble Earth words, but the family has no single Earth-language source.
 
-Every entry in the appended dictionary has a definition, domain, components when applicable, and a note where an inference or use could be misunderstood. Derived and compound entries are counted separately from basic lexemes. A lexical database can check those dependencies; it cannot certify that every future creative compound will sound idiomatic to a hypothetical native speaker.
+Every entry in the appended dictionary has a definition, domain, components when applicable, and a note where an inference or use could be misunderstood. Derived and compound entries are counted separately from basic lexemes. The database checks those dependencies. Idiomatic use of a new compound still needs an example.

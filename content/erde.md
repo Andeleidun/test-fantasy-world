@@ -1,10 +1,10 @@
-## A familiar foundation, a different world
+## Geographic foundation
 
-> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source.
+> Historical research snapshot, retained through 14 September 2026. For the current public edition, use [the public collection](public/README.md). This file is not a current publication source. Prose edited on 20 September 2026; historical decisions and data retain their earlier status.
 
 Erde uses Earth’s continental arrangement as a reference scaffold, with a selected planetary orientation that puts the north pole at Earth-reference latitude 0°, longitude 150° west. The south pole lies at the antipode, 0°, 30° east.
 
-The resulting latitude changes reshape the questions of climate, movement and isolation. They do not justify transplanting modern Earth biomes onto a rotated map. Currents, ice, rainfall, erosion and independent geological history still need their own treatment.
+The changed latitudes affect climate, movement and isolation. Modern Earth biomes cannot simply be copied onto the map. Currents, ice, rainfall, erosion and independent geological history still need their own treatment.
 
 Erde orbits one member of the selected [wide three-star system](stellar-system-reference.md). Its star and Merenval's star form the inner stellar pair near a working separation of 80 AU. The historical system screen's exact Erde-star values and 310-day example year have not been independently selected by the current Erde reconstruction.
 
@@ -28,7 +28,7 @@ The Thal catastrophe occurred on **Erde**, approximately five thousand years ago
 
 The remaining Neanderthal populations on Erde became extinct or were absorbed. The Thals continue as their surviving descendants on another world.
 
-## Continue exploring
+## Further reading
 
 - [Read Erde’s history and lineage decisions](erde-reference.html).
 - [Explore the five Erde maps](erde-atlas.html).

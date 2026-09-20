@@ -3,130 +3,130 @@
     "code": "E1",
     "title": "Lands and seas",
     "world": "Erde",
-    "description": "Continental land, seas and broad coastlines. Local shorelines require regional description.",
-    "reading": "Continental land, seas and broad coastlines. Local shorelines require regional description.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Erde’s continents, seas and broad coastlines. Detailed shorelines remain to be described.",
+    "reading": "Erde’s continents, seas and broad coastlines. Detailed shorelines remain to be described.",
+    "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "E2",
     "title": "Latitude and landscape",
     "world": "Erde",
-    "description": "Broad contrasts of latitude, relief and local environment; no numerical climate model.",
-    "reading": "Broad contrasts of latitude, relief and local environment; no numerical climate model.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "How latitude, relief and local conditions affect the landscape.",
+    "reading": "How latitude, relief and local conditions affect the landscape.",
+    "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "E3",
     "title": "Relief and passages",
     "world": "Erde",
-    "description": "Mountains, valleys, coastal approaches and island passages that shape movement.",
-    "reading": "Mountains, valleys, coastal approaches and island passages that shape movement.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Mountains, valleys, coastal approaches and island passages used by travelers.",
+    "reading": "Mountains, valleys, coastal approaches and island passages used by travelers.",
+    "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "E4",
     "title": "Ancestry and dispersal",
     "world": "Erde",
-    "description": "Broad shared descent and movement between habitats; no precise divergence chronology or calculated genealogy.",
-    "reading": "Broad shared descent and movement between habitats; no precise divergence chronology or calculated genealogy.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Inferred shared descent and movement between habitats. The early chronology remains uncertain.",
+    "reading": "Inferred shared descent and movement between habitats. The early chronology remains uncertain.",
+    "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "E5",
     "title": "Regional contact",
     "world": "Erde",
-    "description": "Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.",
-    "reading": "Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Contact among Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.",
+    "reading": "Contact among Great Watersheds, Volcanic Hinge, Highland Spine, Equatorial Basin and coastal successor communities.",
+    "kind": "Atlas note",
     "guide": "erde-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D1",
     "title": "Day, night and twilight",
     "world": "Dverghamar",
-    "description": "Sunward, dark and twilight landscapes; their boundaries do not guarantee fertile ground.",
-    "reading": "Sunward, dark and twilight landscapes; their boundaries do not guarantee fertile ground.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.",
+    "reading": "The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D2",
     "title": "Landscape contrasts",
     "world": "Dverghamar",
-    "description": "Hot dry ground, watered twilight districts and cold nightward country.",
-    "reading": "Hot dry ground, watered twilight districts and cold nightward country.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Hot dry ground near the sunward margin, watered districts in the twilight region and cold country farther nightward.",
+    "reading": "Hot dry ground near the sunward margin, watered districts in the twilight region and cold country farther nightward.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D3",
     "title": "Habitats and passages",
     "world": "Dverghamar",
-    "description": "Wet provinces, salt basins, rain shadows, valleys and passes; no new named continent is selected.",
-    "reading": "Wet provinces, salt basins, rain shadows, valleys and passes; no new named continent is selected.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Wet provinces and dry rain shadows, with salt basins, valleys and mountain passes between them. Continental names remain undecided.",
+    "reading": "Wet provinces and dry rain shadows, with salt basins, valleys and mountain passes between them. Continental names remain undecided.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D4",
     "title": "Water in the landscape",
     "world": "Dverghamar",
-    "description": "Rivers, springs, lakes, glaciers and ice as encountered features; no global storage or transport accounting.",
-    "reading": "Rivers, springs, lakes, glaciers and ice as encountered features; no global storage or transport accounting.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Rivers, springs, lakes and glaciers that shape travel and settlement.",
+    "reading": "Rivers, springs, lakes and glaciers that shape travel and settlement.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D5",
     "title": "Mountain homes",
     "world": "Dverghamar",
-    "description": "The distinction between elevation and the amount of rock over a room; no engineering depth or capacity table.",
-    "reading": "The distinction between elevation and the amount of rock over a room; no engineering depth or capacity table.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "A mountain chamber can be high above the valley while having little rock overhead. Elevation and burial depth describe different conditions.",
+    "reading": "A mountain chamber can be high above the valley while having little rock overhead. Elevation and burial depth describe different conditions.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D6",
     "title": "Dwarven habitats",
     "world": "Dverghamar",
-    "description": "Overlapping habitat associations of related peoples, not exclusive ethnic or political territories.",
-    "reading": "Overlapping habitat associations of related peoples, not exclusive ethnic or political territories.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Related dwarven peoples occupy overlapping habitats. These ranges do not define political borders.",
+    "reading": "Related dwarven peoples occupy overlapping habitats. These ranges do not define political borders.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D7",
     "title": "Settlement and countryside",
     "world": "Dverghamar",
-    "description": "Everyday relationships among homes, farms, roads and river works; no support calculations.",
-    "reading": "Everyday relationships among homes, farms, roads and river works; no support calculations.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "The farms, roads and river works that connect mountain homes with the surrounding country.",
+    "reading": "The farms, roads and river works that connect mountain homes with the surrounding country.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   },
   {
     "code": "D8",
     "title": "Lakes and isolated refuges",
     "world": "Dverghamar",
-    "description": "Shorelines, large lake animals and reports of sparse life in isolated warm sites; no underlying biochemical model.",
-    "reading": "Shorelines, large lake animals and reports of sparse life in isolated warm sites; no underlying biochemical model.",
-    "kind": "Public geographic subject; text guide only",
+    "description": "Lake shores, large aquatic animals and reports of sparse life around isolated warm sites.",
+    "reading": "Lake shores, large aquatic animals and reports of sparse life around isolated warm sites.",
+    "kind": "Atlas note",
     "guide": "dverghamar-atlas.md",
-    "asset_status": "No revised public artwork supplied"
+    "asset_status": "Map illustration awaiting revision"
   }
 ]

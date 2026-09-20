@@ -80,8 +80,8 @@ if (form) {
     if (selected) url.searchParams.set('category', selected); else url.searchParams.delete('category');
     history.replaceState(null, '', url);
     results.replaceChildren(); more.hidden = true;
-    if (!raw && !selected) { status.textContent = 'Enter a word or phrase to explore the lore.'; return; }
-    status.textContent = 'Searching the lore…';
+    if (!raw && !selected) { status.textContent = 'Enter a word or phrase to search.'; return; }
+    status.textContent = 'Searching…';
     try {
       indexPromise ||= fetch('search-index.json').then(response => { if (!response.ok) throw new Error('Search unavailable'); return response.json(); }).then(items => items.map(item => ({ ...item, normalizedTitle: normalize(item.title), haystack: normalize(item.title + ' ' + item.text) }))).catch(error => { indexPromise = undefined; throw error; });
       const index = await indexPromise;

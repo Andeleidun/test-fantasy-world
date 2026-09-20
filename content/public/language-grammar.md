@@ -1,8 +1,6 @@
 # The common grammar
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
-This grammar describes Korvar, the shared standard. The regional profiles identify where each language differs. Regularity belongs partly to the interregional standard and its teaching tradition; it does not imply that all historical speech was exception-free.
+This grammar describes Korvar, the shared standard. The regional profiles identify where each language differs. Teaching has helped regularize the standard; older and regional speech can preserve exceptions.
 
 ## Noun phrases and reference
 
@@ -31,7 +29,7 @@ Pronouns distinguish person and number, not gender. Their genitives are possessi
 | you plural | jir | jirs | jirum |
 | they plural | sar | sars | sarum |
 
-Standalone demonstratives use di / dis / dium and dan / dans / danum. Their number follows the antecedent; use di kelar when it needs stating. **Si** is the reflexive direct object, **sis** the reflexive possessive, **sium** the oblique, referring to the subject of its own clause. **Sa** in an object or possessive position normally points to someone else when si/sis is available. Repeat a name or noun if several possible antecedents compete. **Mut** after a plural subject's object pronoun marks reciprocal action; for clarity use vir helpe vir mut, we help one another. This deliberately transparent reciprocal is not a new person category.
+Standalone demonstratives use di / dis / dium and dan / dans / danum. Their number follows the antecedent; use di kelar when it needs stating. **Si** is the reflexive direct object, **sis** the reflexive possessive, **sium** the oblique, referring to the subject of its own clause. **Sa** in an object or possessive position normally points to someone else when si/sis is available. Repeat a name or noun if several possible antecedents compete. **Mut** after a plural subject's object pronoun marks reciprocal action; for clarity use vir helpe vir mut, we help one another.
 
 Coordination uses **ak**, and; **el**, or; **dar**, but. Each conjunct receives its own case under a preposition: me ekum ak duum. Da kel ak da nerkel names two distinct referents. Da kel ak nerkel can be contextually ambiguous and is avoided in technical writing.
 
@@ -79,11 +77,11 @@ Declarative main clauses are **verb-second (V2)**: one whole constituent precede
 - Ek have ne karnet da kel. Subject–finite–negation–participle–object.
 - Nu have ek ne karnet da kel. Time–finite–subject–negation–participle–object.
 
-**Ne** negates the clause and sits after the subject–finite group. Inside a subordinate clause it precedes the finite verb. Default modal scope is negation over the modal: **Ek mole ne varen** means I am not obliged to speak. Distinguish **Ek mole stilen**, I must remain silent. For prohibition, **Ek banne varen** means I prohibit speaking. Bannen takes a bare infinitive activity or a ke clause; it does not by itself impose an obligation on the speaker. Explicit lexical wording makes these different scopes usable without introducing an undocumented negative infinitive.
+**Ne** negates the clause and sits after the subject–finite group. Inside a subordinate clause it precedes the finite verb. Default modal scope is negation over the modal: **Ek mole ne varen** means I am not obliged to speak. Distinguish **Ek mole stilen**, I must remain silent. For prohibition, **Ek banne varen** means I prohibit speaking. Bannen takes a bare infinitive activity or a ke clause; it does not by itself impose an obligation on the speaker. The verb chosen makes the scope of the negation clear.
 
 Yes/no questions start with the finite verb: **Karne du da kel?** A question word occupies the first field: **Van karne du da kel?**, when do you build it? Subject questions use the interrogative itself as subject: **Hve karne da kel?**, who builds it? Non-subject questions retain the following subject: **Hvat karne du?**, what do you build? Who is hve; what is hvat; where is hor; when van; why virke; how ham. Case-mark hve/hvat after a preposition: **Me hveum vare du?**, with whom do you speak? These question stems, unlike most function words, accept noun case endings.
 
-**Ja** and **no** answer yes and no; **ne** is clause negation, not the answer 'no'. Negative questions are avoided when an answer could invert the intended meaning. Repeat the proposition: Ek karne or Ek karne ne. Alternative questions use el and invite a named alternative. Commands use the bare stem, usually without a subject: **Karn da kel.** Negative commands place ne before the imperative: **Ne op da dor.**, do not open the door. Jir can be added as a vocative or explicit addressee when needed; no hidden plural imperative ending is required. Polite requests use **Bitte, op da dor**, please open the door, or a question with magen. Courtesy does not require a formal second-person pronoun.
+**Ja** and **no** answer yes and no; **ne** is clause negation, not the answer 'no'. Negative questions are avoided when an answer could invert the intended meaning. Repeat the proposition: Ek karne or Ek karne ne. Alternative questions use el and invite a named alternative. Commands use the bare stem, usually without a subject: **Karn da kel.** Negative commands place ne before the imperative: **Ne op da dor.**, do not open the door. Jir can be added as a vocative or explicit addressee when needed; the imperative has no separate plural ending. Polite requests use **Bitte, op da dor**, please open the door, or a question with magen. Courtesy does not require a formal second-person pronoun.
 
 Ordinary direct objects cannot be freely fronted because direct subject and object forms are identical. Explicit topic **tem** introduces an outside-clause topic followed by a resumptive pronoun: **Tem da kel, ek karne di.**, as for the chamber, I build it. The topic frame is outside the V2 clause. Do not delete the resumptive pronoun. This provides topicalization without relying on ambiguous noun case.
 
@@ -99,7 +97,7 @@ Relative **ri** introduces an adjective clause immediately after its head. In a 
 
 Purpose uses **te** + infinitive where the subject is shared: Ek kome te helpen, I come to help. A different subject needs **te ke** + full subordinate clause. Perception and reported speech prefer explicit ke clauses; quotation can instead follow a colon. Complement verbs may take a shared-subject infinitive only when their dictionary frame licenses it (modals, desire, begin, finish, permit/prohibit an activity). No English-style object-plus-infinitive frame is assumed by default.
 
-Relative time is stated lexically when needed: before/after, a numbered work interval, a local calendar date. A synchronous planet does not imply that people cannot divide time or rest regularly. Terrestrial solar sunrise/sunset is not built into basic tense or the word for a work cycle.
+Relative time is stated lexically when needed: before/after, a numbered work interval, a local calendar date. People on Dverghamar measure time and rest regularly despite the fixed sun. Basic tense and the word for a work cycle do not depend on sunrise or sunset.
 
 ## Space, comparison, quantities and measurement
 
@@ -113,7 +111,8 @@ Measure phrases use numeral + plural unit + **af** + material in oblique: **tor 
 
 ## Register and evidence
 
-Common offers ordinary, careful technical, familiar and formal registers without assigning moral worth or intelligence to an accent. Technical statements can append **vis**, observed, **tal**, reported, or **ren**, inferred. These optional words identify the claimed basis of a statement; they do not guarantee truth. Vis/tal/ren in this use are tagged as evidence particles, independent of any noun senses. A report still needs a speaker, time and sample identifier when provenance matters.
+Speakers use ordinary, technical, familiar and formal registers. Accent alone tells nothing about intelligence or moral character. Technical statements can append **vis**, observed, **tal**, reported, or **ren**, inferred. These optional words identify the claimed basis of a statement; they do not guarantee truth. Vis/tal/ren in this use are tagged as evidence particles, independent of any noun senses. A report still needs a speaker, time and sample identifier when provenance matters.
 
 Short alarms can omit grammar in conventional phrases: **Ut!**, out; **Stal!**, support/brace; **Ne op!**, do not open. Because bare tool nouns and imperative roots can overlap, safety-critical actions are repeated in a full clause when time permits. Instructions never assume that a material name alone guarantees load capacity, potable water, breathable air or nursery suitability.
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

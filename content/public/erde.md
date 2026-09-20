@@ -1,28 +1,26 @@
 # Erde
 
-All original project IP remains the author’s. Public documentation grants no license or right to reuse this work. Observations, cultural accounts, hypotheses and unresolved details retain their separate status.
-
 ## The lands of Erde
 
-Erde is home to many peoples, languages and ways of life. Mountain chains divide its interiors; rivers connect settlements across wide basins; coasts and island passages carry travelers between communities with long histories of their own.
+Mountain chains divide Erde’s interiors. Rivers connect settlements across wide basins, and travelers follow coasts and island passages between communities.
 
-Its geography shapes where people can travel, grow food, take refuge and meet their neighbors. The [atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) follows these relationships through lands and seas, latitude, mountain passages and ancient migrations. Its broad outlines leave room for more detailed regional maps.
+The [atlas](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk) describes the lands and seas, mountain passages and ancient migrations. Detailed regional maps remain to be drawn.
 
-Erde orbits one sun in the selected [three-star system](https://drive.google.com/file/d/1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj/view?usp=drivesdk). Its sun and Merenval's form the closer stellar pair. Erde's exact sun and calendar values have not yet been fixed by the current geographic reconstruction.
+Erde orbits one sun in the [three-star system](https://drive.google.com/file/d/1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj/view?usp=drivesdk). Its sun and Merenval's form the closer stellar pair. The exact properties of Erde’s sun and the length of its calendar periods remain undecided.
 
 ## Peoples and deep history
 
 Human and hobbit lineages share deep ancestry and follow different branches. Long isolation, movement between habitats and occasional contact shape their histories. Hobbit lineages include several island branches, highland populations and seafaring peoples. Their shared ancestry does not give them one culture or a single way of living.
 
-Humans, Halflings or hobbit lineages, and Goblins are the peoples currently assigned to Erde. This collection does not yet supply a dedicated public Goblin profile; familiar genre assumptions should not fill that gap.
+Humans, Halflings or hobbit lineages, and Goblins inhabit Erde. Goblin peoples vary greatly in body, habitat and custom.
 
 Early human migration reaches a connected pair of continents long before later arrivals. Over many generations, descendants form distinct regional populations with established communities, routes, institutions and ways of living.
 
 ## Landscapes and learned magic
 
-Different communities develop magical traditions around recurring needs. River peoples learn to sense and influence water; volcanic communities maintain warning and refuge networks; highland communities preserve knowledge of breath, cold and ascent. Ecological knowledge, training and institutions matter alongside individual ability.
+Different communities develop magical traditions around recurring needs. River peoples learn to sense and influence water; volcanic communities maintain warning and refuge networks; highland communities preserve knowledge of breath, cold and ascent. Teachers and local institutions preserve this knowledge across generations.
 
-These practices have costs and limits. A well-prepared team at a familiar river crossing can achieve things that an isolated traveler cannot. Exceptional masters are remembered precisely because their abilities exceed ordinary practice.
+A well-prepared team at a familiar river crossing can achieve things that an isolated traveler cannot. Exceptional masters are remembered precisely because their abilities exceed ordinary practice.
 
 ## The Thal departure
 
@@ -38,3 +36,4 @@ The departure belongs to Erde’s history. Dverghamar’s native dwarven lineage
 - [Maps of Erde](https://drive.google.com/file/d/1zousEECeB-aIaph7UE1M7hmCFC0-QEL2/view?usp=drivesdk)
 - [The three-star system](https://drive.google.com/file/d/1Hf49MNFjGGv4Oqw-DDHqlaQoAcGA1DNj/view?usp=drivesdk)
 
+All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

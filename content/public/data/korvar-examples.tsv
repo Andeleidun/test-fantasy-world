@@ -1,5 +1,5 @@
 id	text	translation	feature	analysis
-C01	Ek sere Hamarkor.	I am a dwarf.	identity	Hamarkor is a predicate noun; no occupational implication.
+C01	Ek sere Hamarkor.	I am a dwarf.	identity	Hamarkor identifies a dwarf; it does not specify an occupation.
 C02	Vir sere Hamarkorar.	We are dwarves.	number	Plural predicate noun; verb does not agree.
 C03	Da menir karne da kel.	The stoneworker builds the chamber.	main_v2	Subject + finite + object.
 C04	Nu karne ek da kel.	Now I build the chamber.	inversion	Time constituent + finite + subject.
@@ -45,7 +45,7 @@ C43	Da kel vere karnet af da menirum.	The chamber is being built by the stonewor
 C44	Da kel sere karnet.	The chamber stands built.	result_state	Copula plus result participle.
 C45	Ek sere nu na karnadum.	I am now engaged in building.	ongoing	Activity noun after na.
 C46	Vel da drav stane, stane da rad.	If the water flow stops, the wheel stops.	condition	Dependent clause fills first main-clause field.
-C47	Vel ek vu havte da men, fere ek vu karnen da kel.	If I had the stone, I would build the chamber.	counterfactual	Vu has documented dependent and main positions.
+C47	Vel ek vu havte da men, fere ek vu karnen da kel.	If I had the stone, I would build the chamber.	counterfactual	Vu follows the dependent subject and the main subject–finite group.
 C48	Ek kome te helpen.	I come to help.	purpose_shared	Infinitive shares main subject.
 C49	Ek karne da kel te ke da ner mage soven.	I build the chamber so that the child can sleep.	purpose_different	Te ke introduces explicit new subject.
 C50	Tem da kel, ek karne di.	As for the chamber, I build it.	topic	Outside-clause topic plus resumptive demonstrative.
@@ -55,16 +55,16 @@ C53	Pom da vas in da dravkelum.	Pump the water into the cistern.	industrial_dire
 C54	Da drav dreve da rad.	The water flow powers the wheel.	industrial_power	Direct mechanical power relationship.
 C55	Ek tröve da trov.	I test the sample.	test_sample	Tröv and trov remain different words.
 C56	Ek merke da trov me markum.	I label the sample with a mark.	instrument	Me governs oblique.
-C57	Da gred af stalmenum sere ne vitet.	The support-stone grade is not known.	uncertainty	Explicit lack of knowledge; not a failed grade.
+C57	Da gred af stalmenum sere ne vitet.	The support-stone grade is not known.	uncertainty	The grade is unknown; the sample has not been judged unsuitable.
 C58	Da trov sere tör, vis.	The sample is dry, by observation.	evidence	Particle states the claimed basis.
 C59	Ek tönke ke da trov sere tör.	I think the sample is dry.	reported_belief	Thought complement rather than asserted measurement.
-C61	Da ner sere na da nerkelum.	The child is in the nursery.	care_location	No claim that the child is itself a geode.
+C61	Da ner sere na da nerkelum.	The child is in the nursery.	care_location	Na takes the oblique nerkelum to locate the child inside the nursery.
 C62	Ek ruke da ner.	I care for and protect the child.	care_action	Protective caregiver role.
 C63	Ek sele da ner me selum.	I feed the child with nourishment.	feeding	Recipient is direct object; food is me phrase.
-C64	Da ner halte da handhamar.	The child holds the hand hammer.	body_action	No unselected digit count.
+C64	Da ner halte da handhamar.	The child holds the hand hammer.	body_action	Halte takes the thing held as its direct object.
 C65	Ek vele vas.	I want water.	need	Bare mass noun.
-C66	Ek ete da röt.	I eat the tuber.	food	Food object of eten; functional crop analog rather than an Earth species.
-C67	Ek like da sombsel.	I like the fungal food.	preference	Enjoyment outside industrial register.
+C66	Ek ete da röt.	I eat the tuber.	food	Eten takes a food object. Röt names a tuber crop, whose species remains unspecified.
+C67	Ek like da sombsel.	I like the fungal food.	preference	Liken expresses enjoyment and takes the thing liked as its object.
 C68	Ek elske du.	I love you.	affection	Direct object pronoun.
 C69	Ek sorge.	I grieve.	emotion	Intransitive feeling verb.
 C70	Da ner spele.	The child plays.	play	No object required.
@@ -86,13 +86,13 @@ C85	Takk. Ek fere betalen.	Thanks. I will pay.	trade_close	Payment amount is con
 C86	Farvel.	Farewell.	farewell	Conventional social formula.
 C87	Eks helm sere na da bergum.	My home is inside the mountain.	connected_home	Opening of the high-home passage.
 C88	Da kel sere höl, dar da kammeel sere kurt.	The chamber is high, but the rock cover is shallow.	connected_home	Literal cover thickness is short; elevation is a separate quantity.
-C89	Da drav dreve da rad.	The water flow powers the wheel.	connected_home	Industrial setting without universal electricity.
-C90	Vir have sombsel ak rötar.	We have fungal food and tubers.	connected_home	Food sources; no assertion of underground primary production.
+C89	Da drav dreve da rad.	The water flow powers the wheel.	connected_home	Dreve describes the water flow driving the wheel.
+C90	Vir have sombsel ak rötar.	We have fungal food and tubers.	connected_home	Sombsel is a mass noun; rötar is a plural count noun.
 C91	Na da nerkelum sove da ner.	The child sleeps in the nursery.	connected_home	Location-first main clause.
 C92	Nu vare ek me da rukkorum.	Now I speak with the caregiver.	connected_home	Care role with explicit oblique phrase.
 C93	Ek have durfinrak.	I have a piece of dark fine-grained rock.	connected_sample	Count reading of the natural rock category.
 C94	Da rak sere darn ak spröd.	The rock is scratch-resistant and brittle.	connected_sample	Distinct physical properties.
 C95	Da gred af stalmenum sere ne vitet.	Its support-stone grade is not known.	connected_sample	Contextual referent, explicit unknown grade.
-C96	Ek fere tröven da trov.	I will test the sample.	connected_sample	Future action, not a fabricated result.
+C96	Ek fere tröven da trov.	I will test the sample.	connected_sample	Fere plus an infinitive places the test in the future.
 C97	Eft fere ek skriven da döm.	Afterward I will write the decision.	connected_sample	Time constituent before finite auxiliary.
 C98	Nu mole vir ventren.	Now we must wait.	connected_sample	Positive obligation in a connected technical exchange.
