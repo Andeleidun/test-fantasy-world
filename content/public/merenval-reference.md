@@ -30,18 +30,18 @@ The pair’s life has broad ancestral affinities, while its habitats differ subs
 
 ## Dorrenath
 
-Dorrenath is the eldest known Wayroot and the ancestor of the Wayroot lineage. She rises about **25 kilometres** above the ground beneath a vast, spreading crown. Ordinary forest is dwarfed at her feet. Her inhabited spaces extend through roots, trunk and branches, with paths that lead beyond what an outside view of the tree can explain.
+Dorrenath is the eldest known Wayroot and the ancestor of the Wayroot lineage. She rises about **25 kilometres** above the ground beneath a vast, spreading crown. Ordinary forest is dwarfed at her feet. Her sweeping crown rises cleanly over substantial mountain shoulders near its edges, with higher peaks set farther back in the working regional design. Forested valleys, rivers and an open southern gulf connect the mountain country to her low root terrace. Her inhabited spaces extend through roots, trunk and branches, with paths that lead beyond what an outside view of the tree can explain.
 
 Residents live with a responsive host. Dorrenath has her own interests, knowledge and habits of attention. Those who call her the **Great Mother** include more than Elves: the name embraces the many lives sheltered within her. It is a name of belonging and reverence, not a claim that she created all life.
 
 Accounts describe long intervals of sleep in which her wider attention withdraws. Local parts of the tree remain responsive, so a sleeping Dorrenath is neither an empty house nor a defenseless one. She can resist interference and can restrain, injure or kill an aggressor. Knowing a resident does not mean knowing everything that resident thinks or does.
 
-Her exact location and crown width remain unsettled.
+Her exact location, crown width and mountain contours remain unsettled. Some lower slopes could lie beneath outer limbs with open air between the trees and rock; the higher peaks chiefly form a backdrop. An apparent overlap in a picture need not mean that a branch physically touches a summit.
 
 <!-- guide-figure: dorrenath -->
-![Dorrenath’s vast spreading crown rises above several layers of cloud, with ordinary forest far below and small inhabited galleries along her trunk.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/dorrenath.webp)
+![Dorrenath’s enormous crown sweeps above two nearby rocky mountain shoulders. Forested valleys and rivers descend toward an open gulf.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/dorrenath.webp)
 
-Dorrenath, the eldest Wayroot, rises about 25 kilometres above the ground. Cloud layers and the forest below suggest her scale. Her branching form, inhabited galleries and surrounding terrain are an artistic interpretation; her exact crown width and location remain unsettled.
+Dorrenath rises about 25 kilometres above her lowland roots. Nearby mountain shoulders give scale to her broad crown, while higher peaks remain distant and the gulf opens to the south. This is a regional concept illustration: exact ridge positions, crown width, and settlement geography remain open.
 <!-- /guide-figure -->
 
 ## Living within Dorrenath

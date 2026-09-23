@@ -258,10 +258,10 @@
       "sourceId": "16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy",
       "sourceName": "elves.md",
       "sourceUrl": "https://drive.google.com/file/d/16XQDll-xqx-4Ofbj48HCDV3J6vnRIYhy/view",
-      "modifiedTime": "2026-09-20T07:07:07.547Z",
+      "modifiedTime": "2026-09-23T22:08:02.737Z",
       "path": "content/public/elves.md",
-      "sha256": "07c3910264edb0c5e7a1744a1a291380e51893f00bd44ebd0de25af83c4da6aa",
-      "sizeBytes": 4906,
+      "sha256": "d62d2fbbfdb9c1fac659dfcbe9ed08d33e7905e6f57d073556d5d4a2e51fd8ca",
+      "sizeBytes": 5056,
       "format": "original-text"
     },
     {
@@ -408,10 +408,10 @@
       "sourceId": "17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc",
       "sourceName": "merenval-reference.md",
       "sourceUrl": "https://drive.google.com/file/d/17lmjUHzQ4ePha36ln7UZPZGdUcabXpfc/view",
-      "modifiedTime": "2026-09-20T07:07:21.518Z",
+      "modifiedTime": "2026-09-23T22:10:49.994Z",
       "path": "content/public/merenval-reference.md",
-      "sha256": "8cde00249e40339c7432cdb444af6992b915aef0356c508134581592e97256c5",
-      "sizeBytes": 6370,
+      "sha256": "12a18bb0e5f76a3355011ab3b3109a18c2f93e9121e877b44594aed9ea8452c1",
+      "sizeBytes": 6877,
       "format": "original-text"
     },
     {
@@ -446,5 +446,10 @@
     }
   ],
   "displayCorrections": [],
-  "canonReview": "docs/CANON-REVIEW-2026-09-20.md"
+  "canonReview": "docs/CANON-REVIEW-2026-09-20.md",
+  "partialRefreshOn": "2026-09-23",
+  "partialRefreshPaths": [
+    "content/public/elves.md",
+    "content/public/merenval-reference.md"
+  ]
 }

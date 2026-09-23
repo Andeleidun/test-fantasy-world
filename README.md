@@ -12,7 +12,7 @@ The reader brings the current public collection into five complete, illustrated 
 | Magic and belief | [World guide](https://andeleidun.github.io/test-fantasy-world/magic.html) | [Magic and belief](guides/magic.md) |
 | Korvar, including the dictionary | [World guide](https://andeleidun.github.io/test-fantasy-world/korvar.html) | [Korvar](guides/korvar.md) |
 
-The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Six illustrations and the Stavmark chart appear beside their subjects and are embedded in the corresponding source documents. The source collection was reviewed and synchronized on 20 September 2026.
+The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Six illustrations and the Stavmark chart appear beside their subjects and are embedded in the corresponding source documents. The full source collection was reviewed and synchronized on 20 September 2026; Dorrenath's two public sources and illustration received a targeted revision on 23 September 2026.
 
 ## Run locally
 
@@ -42,7 +42,7 @@ The public Drive collection supplies the site's source text. Before synchronizat
 - Old article routes provide fragment-aware forwarding and ordinary links for readers without JavaScript. Search indexes the composed text and points directly into the five guides.
 - Apply the Humanizer editorial rules to new reader prose and captions. Preserve naturalist voices, grammatical examples and genuine uncertainty.
 
-The [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md) records the latest corrections. Earlier work is documented in the [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md).
+The [Dorrenath regional update](docs/DORRENATH-REGION-UPDATE-2026-09-23.md) records the latest targeted correction. The earlier [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md), [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md) retain their dated results.
 
 ## Historical research
 
