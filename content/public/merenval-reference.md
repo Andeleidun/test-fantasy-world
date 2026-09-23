@@ -38,6 +38,8 @@ Accounts describe long intervals of sleep in which her wider attention withdraws
 
 Her exact location, crown width and mountain contours remain unsettled. Some lower slopes could lie beneath outer limbs with open air between the trees and rock; the higher peaks chiefly form a backdrop. An apparent overlap in a picture need not mean that a branch physically touches a summit.
 
+Her roots meet a great underground water store, with a lake in the rock near her foundation. Water enters from the mountain country and also feeds springs and streams beyond her; caretakers attend to its quality and flow. Accounts place Dorrenath's life far before the present rivers and settlements, although her current limbs and these waters have changed over time.
+
 <!-- guide-figure: dorrenath -->
 ![Dorrenath’s enormous crown sweeps above two nearby rocky mountain shoulders. Forested valleys and rivers descend toward an open gulf.](https://andeleidun.github.io/test-fantasy-world/assets/illustrations/dorrenath.webp)
 

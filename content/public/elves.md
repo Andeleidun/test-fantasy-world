@@ -28,7 +28,7 @@ Deep/Star communities have long histories of contact with Gnomes in fungal, cave
 
 ## Dorrenath and the Wayroots
 
-Dorrenath is the eldest known Wayroot, a living host rising about **25 kilometres** beneath a vast crown. Elves and other inhabitants live within her and call her the Great Mother. Her broad crown passes above mountains beside her in a developing regional picture, while the exact crown breadth and mountain locations remain open. Her knowledge, responses and defenses make residence a relationship with another being. Ordinary labor, care for the tree and negotiation over inhabited space shape daily life.
+Dorrenath is the eldest known Wayroot, a living host rising about **25 kilometres** beneath a vast crown. Elves and other inhabitants live within her and call her the Great Mother. Her broad crown passes above mountains beside her in a developing regional picture, while the exact crown breadth and mountain locations remain open. Her roots also reach a deep underground lake and the surrounding water-bearing rock. Her knowledge, responses and defenses make residence a relationship with another being. Ordinary labor, care for the tree and negotiation over inhabited space shape daily life.
 
 Other Wayroots descend from her. Some grow useful Otherworld paths, but those paths do not all lead to the same places. A familiar local route gives no assurance of reaching the companion world. The reported paths can be dangerous; most trees offer no such passage.
 
