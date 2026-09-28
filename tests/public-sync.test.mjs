@@ -4,7 +4,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { catalog, legacyWordAnchor, wordAnchor, wordKey } from '../scripts/public-edition.mjs';
 
-import { guides, readerFiles, figures, routes, coverage } from '../scripts/reader-edition.mjs';
+import { guides, readerFiles, figures, routes, coverage, canonicalizeText } from '../scripts/reader-edition.mjs';
 
 const json = async path => JSON.parse(await readFile(path, 'utf8'));
 const walk = async dir => (await Promise.all((await readdir(dir, { withFileTypes: true })).map(async entry => {
@@ -153,9 +153,10 @@ test('source documents embed the reviewed illustrations without duplicating site
   for (const figure of figures) {
     const source = figure.after?.split('#')[0] || figure.guide;
     const text = await readFile(`content/public/${source}.md`, 'utf8');
+    const currentText = canonicalizeText(text);
     assert.ok(text.includes(`<!-- guide-figure: ${figure.id} -->`), figure.id);
-    assert.ok(text.includes(`![${figure.alt}](https://andeleidun.github.io/test-fantasy-world/assets/${figure.file})`), figure.id);
-    assert.ok(text.includes(figure.caption), figure.id);
+    assert.ok(currentText.includes(`![${figure.alt}](https://andeleidun.github.io/test-fantasy-world/assets/${figure.file})`), figure.id);
+    assert.ok(currentText.includes(figure.caption), figure.id);
     const html = await readFile(`dist/${figure.guide}.html`, 'utf8');
     assert.equal(html.split(`src="assets/${figure.file}"`).length - 1, 1, figure.id);
     assert.ok(!html.includes('<!-- guide-figure:'), figure.id);
@@ -193,7 +194,7 @@ test('complete Markdown guides have working local links and retain every transla
     for (const column of ['text','translation']) {
       const i=columns.indexOf(column);
       assert.ok(i>=0,columns.join(','));
-      assert.ok(source.includes(values[i]),`${values[0]}: ${column}`);
+      assert.ok(source.includes(canonicalizeText(values[i])),`${values[0]}: ${column}`);
     }
   }
 });
