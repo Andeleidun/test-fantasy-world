@@ -22,6 +22,13 @@ export function cleanText(value) {
     if (!figures.some(figure => figure.id === id)) throw new Error(`Unknown source figure: ${id}`);
     return '';
   });
+  // Canon naming migration. Preserve legacy source bytes and route IDs, but render current names.
+  // Ordering is intentional: planetary Dverghamar is converted before old Hamarkorar becomes
+  // the new collective ethnonym Dverghamar, preventing a cascading second replacement.
+  text = text
+    .replaceAll('Dverghamar', 'Hamarkor')
+    .replaceAll('Hamarkorar', 'Dverghamar')
+    .replaceAll('Hamarkorvar', 'Dverghamar language family');
   for (const [from,to] of Object.entries(edits.textReplacements)) text = text.replaceAll(from,to);
   return text.trim();
 }
