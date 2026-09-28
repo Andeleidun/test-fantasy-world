@@ -1,13 +1,13 @@
-# Erde, Hamarkor & Merenval
+# Erde, Hamarkar & Merenval
 
-A guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Hamarkor, Merenval and its living companion.
+A guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Hamarkar, Merenval and its living companion.
 
 The reader brings the current public collection into five complete, illustrated guides. Each contains its related histories and references, with links to chapters and individual sections.
 
 | Guide | Read online | Read in the repository |
 | --- | --- | --- |
 | Erde | [World guide](https://andeleidun.github.io/test-fantasy-world/erde.html) | [Erde](guides/erde.md) |
-| Hamarkor | [World guide](https://andeleidun.github.io/test-fantasy-world/dverghamar.html) | [Hamarkor](guides/dverghamar.md) |
+| Hamarkar | [World guide](https://andeleidun.github.io/test-fantasy-world/dverghamar.html) | [Hamarkar](guides/dverghamar.md) |
 | Merenval and its companion | [World guide](https://andeleidun.github.io/test-fantasy-world/merenval.html) | [Merenval](guides/merenval.md) |
 | Magic and belief | [World guide](https://andeleidun.github.io/test-fantasy-world/magic.html) | [Magic and belief](guides/magic.md) |
 | Korvar, including the dictionary | [World guide](https://andeleidun.github.io/test-fantasy-world/korvar.html) | [Korvar](guides/korvar.md) |
@@ -42,7 +42,7 @@ The public Drive collection supplies the site's source text. Before synchronizat
 - Old article routes provide fragment-aware forwarding and ordinary links for readers without JavaScript. Search indexes the composed text and points directly into the five guides.
 - Apply the Humanizer editorial rules to new reader prose and captions. Preserve naturalist voices, grammatical examples and genuine uncertainty.
 
-The [Hamarkor / Dverghamar naming migration](docs/NAMING-MIGRATION-2026-09-28.md) records the current world/people assignment and compatibility policy. The [Dorrenath regional update](docs/DORRENATH-REGION-UPDATE-2026-09-23.md) records the latest targeted correction. The earlier [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md), [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md) retain their dated results.
+The [Hamarkar / Dverghamar naming migration](docs/NAMING-MIGRATION-2026-09-28.md) records the current world/people assignment and compatibility policy. The [Dorrenath regional update](docs/DORRENATH-REGION-UPDATE-2026-09-23.md) records the latest targeted correction. The earlier [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md), [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md) retain their dated results.
 
 ## Historical research
 
