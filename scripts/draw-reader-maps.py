@@ -54,7 +54,7 @@ b+=panel(38,278,410,130,'Human branches',['Separation, migration and later conta
 b+=panel(550,278,410,130,'Hobbit lineages',['Island, highland and seafaring branches.','Different histories and ways of living.'])
 b+=line(448,355,550,355,BLUE,2,'5 5')+txt(500,447,'Human–hobbit interbreeding is rare and usually has low fertility.',18,MUTED,anchor='middle')
 b+=panel(38,485,410,135,'The Thal departure',['Erde refugees passed through the','Otherworld about 40,000 years ago.'],'#e9e2c7')
-b+=panel(550,485,410,135,'Dverghamar',['Thal descendants settled among','native peoples with separate ancestry.'],'#d9e7e8')
+b+=panel(550,485,410,135,'Hamarkor',['Thal descendants settled among','native peoples with separate ancestry.'],'#d9e7e8')
 b+=path('M448 551 L542 551',stroke=BLUE,width=3,extra='marker-end="url(#arrow)"')
 save('erde-ancestry','Erde: ancestry and the Thal migration','Broad inferred descent and a much later historical journey.',b,720,'E4 | Branching dates and a detailed family tree remain uncertain. Culture does not follow descent alone.')
 
@@ -65,7 +65,7 @@ b+=panel(530,122,430,117,'Sunward margin',['Hot, dry ground; salt and brine basi
 b+=panel(530,267,430,145,'Twilight landscapes',['Lit slopes and watered valleys support','most settlements and familiar large life.','Dry divides interrupt fertile districts.'])
 b+=panel(530,440,430,117,'Nightward country',['Cold and darkness; ice farther nightward.','Reports of isolated warm sites.'],'#d9e4e8')
 b+=txt(64,605,'Sunlight',18,MUTED)+path('M158 598 L394 598',stroke=BLUE,width=3,extra='marker-end="url(#arrow)"')
-save('dverghamar-light','Dverghamar: day, night and twilight','The inhabited country follows light and water across a varied landscape.',b,720,'D1 · D2 | Twilight is not a uniform fertile ring. Widths and continental outlines are unspecified.')
+save('dverghamar-light','Hamarkor: day, night and twilight','The inhabited country follows light and water across a varied landscape.',b,720,'D1 · D2 | Twilight is not a uniform fertile ring. Widths and continental outlines are unspecified.')
 
 b=path('M38 482 L115 400 L189 342 L250 248 L299 322 L347 203 L435 385 L516 450 L589 425 L641 495 L962 514 L962 624 L38 624Z','#d1c7ad','#877c65',2)
 b+=path('M305 265 L347 203 L393 290 L353 274 L337 291Z','#edf0e8','#edf0e8')
@@ -81,7 +81,7 @@ b+=path('M495 470 L544 443 L548 412 L569 412 L571 443 L587 453',stroke=GOLD,widt
 b+=circle(543,457,18,PAPER,INK)+line(526,457,560,457)+line(543,440,543,474)
 b+=txt(505,181,'Mountain homes and their countryside',23)+lines(525,225,['Surface farms supply food.','Roads and rivers connect settlements.','Water drives workshops.','Homes need fresh air and drainage.'])
 b+=txt(641,414,'Fields',18)+txt(830,605,'Lake',19)+txt(695,364,'Rivers and springs',18)+path('M743 374 L732 438 L689 489',stroke=BLUE)
-save('dverghamar-settlement','Dverghamar: water and mountain homes','A cross-section connects chambers, valley farms and surface water.',b,720,'D4 · D5 · D7 | Illustrative section. Height above a valley differs from burial depth; no engineering scale.')
+save('dverghamar-settlement','Hamarkor: water and mountain homes','A cross-section connects chambers, valley farms and surface water.',b,720,'D4 · D5 · D7 | Illustrative section. Height above a valley differs from burial depth; no engineering scale.')
 
 b=panel(38,121,292,204,'Warm margins',['Sunward peoples: dry heat','and water conservation.','Volcanic ranges: humid','heat, ash and local','chemical exposure.'],'#e9d5ac')
 b+=panel(354,121,292,204,'Mountain interiors',['Central massif peoples.','','The deep-massif subspecies','retains connections with','shallower ecosystems.'])
@@ -91,7 +91,7 @@ b+=path('M45 484 Q145 470 240 502 Q320 560 451 512 Q548 478 655 514 Q797 480 962
 b+=path('M156 490 Q249 539 363 500 Q363 572 255 584 Q170 571 156 490Z','#94bcc6','none')
 b+=txt(45,414,'Lakes and productive shores',22)+lines(45,448,['Some large lake animals reach several metres.','Water depth alone does not establish safe fishing.'],17)
 b+=circle(796,533,42,'#b69b74')+circle(796,533,25,'#c5d8cd')+txt(590,585,'An isolated warm refuge',21)+lines(590,414,['Ice and darkness surround warm sites.','Reports describe sparse small life;','many places remain undescribed.'],17)
-save('dverghamar-habitats','Dverghamar: habitats and refuges','Related peoples occupy varied ground; lakes and isolated sites support different life.',b,720,'D3 · D6 · D8 | A habitat comparison, not a species range map or a wildlife identification plate.')
+save('dverghamar-habitats','Hamarkor: habitats and refuges','Related peoples occupy varied ground; lakes and isolated sites support different life.',b,720,'D3 · D6 · D8 | A habitat comparison, not a species range map or a wildlife identification plate.')
 
 b=rect(38,118,438,438,'#d9e7e8')+rect(522,118,438,438,'#e7dfcf')
 b+=txt(65,158,'Merenval',29)+txt(549,158,'The inhabited companion',27)
