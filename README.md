@@ -42,7 +42,7 @@ The public Drive collection supplies the site's source text. Before synchronizat
 - Old article routes provide fragment-aware forwarding and ordinary links for readers without JavaScript. Search indexes the composed text and points directly into the five guides.
 - Apply the Humanizer editorial rules to new reader prose and captions. Preserve naturalist voices, grammatical examples and genuine uncertainty.
 
-The [Dorrenath regional update](docs/DORRENATH-REGION-UPDATE-2026-09-23.md) records the latest targeted correction. The earlier [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md), [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md) retain their dated results.
+The [Hamarkor / Dverghamar naming migration](docs/NAMING-MIGRATION-2026-09-28.md) records the current world/people assignment and compatibility policy. The [Dorrenath regional update](docs/DORRENATH-REGION-UPDATE-2026-09-23.md) records the latest targeted correction. The earlier [canon review and artwork plan](docs/CANON-REVIEW-2026-09-20.md), [synchronization record](docs/PUBLIC-SYNC-2026-09-18.md), [prose review](docs/PROSE-REVIEW-2026-09-20.md), and [consolidation record](docs/GUIDE-CONSOLIDATION-2026-09-20.md) retain their dated results.
 
 ## Historical research
 
