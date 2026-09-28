@@ -45,9 +45,9 @@
   },
   {
     "id": "dverghamar",
-    "label": "Dverghamar",
-    "title": "Dverghamar",
-    "description": "A world of permanent day, night and twilight. Its inhabited valleys support farms and mountain homes, with Hamarkorar, Thals and Jotun living across overlapping landscapes.",
+    "label": "Hamarkor",
+    "title": "Hamarkor",
+    "description": "A world of permanent day, night and twilight. Its inhabited valleys support farms and mountain homes, with Dverghamar, Thals and Jotun living across overlapping landscapes.",
     "hero": "dverghamar-twilight",
     "chapters": [
       {
@@ -67,7 +67,7 @@
       },
       {
         "id": "hamarkorar",
-        "title": "The Hamarkorar",
+        "title": "The Dverghamar",
         "sources": [
           "hamarkorar",
           "evolution-reference"
@@ -197,7 +197,7 @@
     "id": "korvar",
     "label": "Korvar",
     "title": "Korvar: language and dictionary",
-    "description": "The shared speech of the Hamarkorar, from a first sentence to the full grammar. Pronunciation, regional languages, writing and all 562 dictionary records are gathered here.",
+    "description": "The shared speech of the Dverghamar, from a first sentence to the full grammar. Pronunciation, regional languages, writing and all 562 dictionary records are gathered here.",
     "chapters": [
       {
         "id": "getting-started",
