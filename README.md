@@ -1,13 +1,13 @@
-# Erde, Dverghamar & Merenval
+# Erde, Hamarkor & Merenval
 
-A guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Dverghamar, Merenval and its living companion.
+A guide to the landscapes, peoples, languages, ordinary magic and beliefs of Erde, Hamarkor, Merenval and its living companion.
 
 The reader brings the current public collection into five complete, illustrated guides. Each contains its related histories and references, with links to chapters and individual sections.
 
 | Guide | Read online | Read in the repository |
 | --- | --- | --- |
 | Erde | [World guide](https://andeleidun.github.io/test-fantasy-world/erde.html) | [Erde](guides/erde.md) |
-| Dverghamar | [World guide](https://andeleidun.github.io/test-fantasy-world/dverghamar.html) | [Dverghamar](guides/dverghamar.md) |
+| Hamarkor | [World guide](https://andeleidun.github.io/test-fantasy-world/dverghamar.html) | [Hamarkor](guides/dverghamar.md) |
 | Merenval and its companion | [World guide](https://andeleidun.github.io/test-fantasy-world/merenval.html) | [Merenval](guides/merenval.md) |
 | Magic and belief | [World guide](https://andeleidun.github.io/test-fantasy-world/magic.html) | [Magic and belief](guides/magic.md) |
 | Korvar, including the dictionary | [World guide](https://andeleidun.github.io/test-fantasy-world/korvar.html) | [Korvar](guides/korvar.md) |
