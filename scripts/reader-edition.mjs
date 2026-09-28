@@ -31,14 +31,14 @@ for (const chapter of chapterList) for (const id of chapter.sources) {
   const source = articleSources.get(page.file).replace(/^# [^\n]+\n+/, '').replace(rights, '');
   const matches = [...source.matchAll(/^(#{2,6}) (.+)$/gm)];
   const counts = new Map();
-  const sections = [{ oldAnchor:'', title:page.title, level:2, text:source.slice(0,matches[0]?.index ?? source.length), anchor:chapter.id }];
+  const sections = [{ oldAnchor:'', title:cleanText(page.title), level:2, text:source.slice(0,matches[0]?.index ?? source.length), anchor:chapter.id }];
   for (let i=0;i<matches.length;i++) {
     const match = matches[i], base = slug(match[2]), n=(counts.get(base)||0)+1;
     counts.set(base,n);
     const atlas = maps.find(map => map.guide === page.file && match[2].startsWith(map.code+' ·'));
     const oldAnchor = atlas ? atlas.code.toLowerCase() : base+(n>1?`-${n}`:'');
     const anchor = atlas ? oldAnchor : id===chapter.guide ? oldAnchor : `${id}--${oldAnchor}`;
-    sections.push({ oldAnchor, title:match[2], level:match[1].length+1, text:source.slice(match.index+match[0].length,matches[i+1]?.index ?? source.length), anchor });
+    sections.push({ oldAnchor, title:cleanText(match[2]), level:match[1].length+1, text:source.slice(match.index+match[0].length,matches[i+1]?.index ?? source.length), anchor });
   }
   routes[`${id}.html`] = { '':`${chapter.guide}.html#${chapter.id}` };
   for (const section of sections) {
