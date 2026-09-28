@@ -270,7 +270,7 @@ The dead do not become an infallible source merely because an encounter feels co
 <a id="otherworld--a-name-for-unfamiliar-places"></a>
 ### A name for unfamiliar places
 
-In ordinary human accounts, the Otherworld is associated with strange roads, uncanny landscapes, fay encounters and journeys whose destination or duration is difficult to explain. Stories of crossings can connect remote places; the Thal migration is associated with passage from Erde to Hamarkor.
+In ordinary human accounts, the Otherworld is associated with strange roads, uncanny landscapes, fay encounters and journeys whose destination or duration is difficult to explain. Stories of crossings can connect remote places; the Thal migration is associated with passage from Erde to Hamarkar.
 
 A remembered route, a warning and a religious story may use the same place-name for different things, making the accounts difficult to compare.
 
