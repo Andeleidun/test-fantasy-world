@@ -43,9 +43,9 @@ A well-prepared team at a familiar river crossing can achieve things that an iso
 <a id="the-thal-departure"></a>
 ### The Thal departure
 
-About **40,000 years ago**, a catastrophe on **Erde** drove survivors of an ancient human lineage through the Otherworld to Hamarkor. Animals and plants from their homeland accompanied the flight. The survivors arrived changed, scattered across the twilight mountains. Their descendants are the **Thals**. Other populations of that lineage remaining on Erde subsequently became extinct or were absorbed.
+About **40,000 years ago**, a catastrophe on **Erde** drove survivors of an ancient human lineage through the Otherworld to Hamarkar. Animals and plants from their homeland accompanied the flight. The survivors arrived changed, scattered across the twilight mountains. Their descendants are the **Thals**. Other populations of that lineage remaining on Erde subsequently became extinct or were absorbed.
 
-The departure belongs to Erde’s history. Hamarkor’s native dwarven lineages had already evolved independently over far longer spans of time.
+The departure belongs to Erde’s history. Hamarkar’s native dwarven lineages had already evolved independently over far longer spans of time.
 
 <a id="atlas"></a>
 ## Maps and regional routes
@@ -95,9 +95,9 @@ Mountains, valleys, coastal approaches and island passages used by travelers.
 Inferred shared descent and movement between habitats. The early chronology remains uncertain.
 
 <a id="figure-erde-ancestry"></a>
-![Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Hamarkor.](../assets/guide-maps/erde-ancestry.svg)
+![Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Hamarkar.](../assets/guide-maps/erde-ancestry.svg)
 
-The Thal departure occurred about 40,000 years ago, long after Hamarkor’s native lineages had arisen. The separate five-thousand-year regional histories describe a later period.
+The Thal departure occurred about 40,000 years ago, long after Hamarkar’s native lineages had arisen. The separate five-thousand-year regional histories describe a later period.
 
 
 <a id="e5"></a>
@@ -169,7 +169,7 @@ Early continental inhabitants precede later human migration. Contact unfolds thr
 
 Around five thousand years before the present, Great Watersheds, Volcanic Hinge, Highland Spine and Equatorial Basin communities remain self-sustaining. Coastal and mountain-rim communities continue through multiple mixed successors. Ancestry alone does not define membership.
 
-The Thal catastrophe belongs to a much earlier period, about **40,000 years ago**. Refugees crossed from Erde to Hamarkor, where native dwarven peoples already lived. The five-thousand-year date used throughout the regional accounts below describes a later stage of those communities’ histories.
+The Thal catastrophe belongs to a much earlier period, about **40,000 years ago**. Refugees crossed from Erde to Hamarkar, where native dwarven peoples already lived. The five-thousand-year date used throughout the regional accounts below describes a later stage of those communities’ histories.
 
 
 <a id="erde-history-full-reference--great-watersheds"></a>
