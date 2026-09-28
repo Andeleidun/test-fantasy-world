@@ -53,11 +53,11 @@ Plural **-ar** attaches to ordinary count nouns and productive ethnonyms. **Dver
 <a id="language-foundation--names-and-belonging"></a>
 ### Names and belonging
 
-**Dverghamar** /ˈdvɛrɡˌha.mar/ is the broad collective ethnonym for the indigenous dwarven peoples of Hamarkor. It is fossilized rather than a productive singular/plural pair. **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
+**Dverghamar** /ˈdvɛrɡˌha.mar/ is the broad collective ethnonym for the indigenous dwarven peoples of Hamarkar. It is fossilized rather than a productive singular/plural pair. **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
 
 **Rakkor/Rakkorar** is retained for a regional people; **Menkor/Menkorar** for a narrower local, cultural or species identity. Their communities have not yet been specified. The former **Hamkor/Hamkorar** contraction is superseded. **Menkorvar** remains a possible community-language name, not an established sixth regional language.
 
-The broad family is referred to as the **Dverghamar language family**; **Korvar** is the shared standard and **Hamarvar** the ridge-network language. **Hamarkor** is the planetary name. The former ethnonymic use of Hamarkor/Hamarkorar, the label Hamarkorvar, and the planetary form Dvergahamrar are superseded and survive only where historical context requires them.
+The broad family is referred to as the **Dverghamar language family**; **Korvar** is the shared standard and **Hamarvar** the ridge-network language. **Hamarkar** is the planetary name. The former ethnonymic use of Hamarkor/Hamarkorar, the label Hamarkorvar, and the planetary form Dvergahamrar are superseded and survive only where historical context requires them.
 
 Names can preserve older sounds and meanings even as everyday speech changes. The grammar below describes the shared standard; local traditions have their own histories.
 
@@ -87,7 +87,7 @@ There are eight vowel qualities and sixteen consonant phonemes. No obligatory gu
 
 Primary stress falls on the first root syllable; later compound roots can have secondary stress. Grammatical endings are unstressed. The infinitive -en is normally /ən/. Identical vowel letters meeting across an affix boundary coalesce into a long vowel: se + e gives see /seː/, se + en gives seen /seːn/, and du + um gives duum /duːm/. This coalescence overrides ordinary reduction of the infinitive vowel. Different adjacent vowel qualities remain consecutive syllables in careful speech. Written vowels are retained. Runs of two or more identical consonants are realized as one long consonant; morpheme spelling remains visible, so genitive risss may be written riss-s for clarity. Set-te retains its long t and remains distinct from sete. Loan names may preserve unusual spelling but are listed as exceptions.
 
-In the ethnonym **Dverghamar**, **gh** is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this name. **Hamarkor** is approximately /ˈha.mar.kor/. These lexical pronunciations do not establish a productive e-to-ä rule. The former **Dvergahamrar** is a superseded historical form rather than a productive modern planetary plural.
+In the ethnonym **Dverghamar**, **gh** is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this name. **Hamarkar** is approximately /ˈha.mar.kor/. These lexical pronunciations do not establish a productive e-to-ä rule. The former **Dvergahamrar** is a superseded historical form rather than a productive modern planetary plural.
 
 
 <a id="language-foundation--word-boundaries-and-literal-compounds"></a>
@@ -131,7 +131,7 @@ There is no grammatical gender. All ordinary nouns use stem + plural **-ar**, fo
 | Genitive | kels | kelars | preposed possessor/association |
 | Oblique | kelum | kelarum | complement of a preposition |
 
-Vowel-final nouns keep their vowel before an ending; no automatic contraction. Stem-final s plus genitive s is written ss, retaining the boundary. Proper names are normally uninflected in direct use; add ordinary case endings when necessary, with a hyphen in reader spelling: **Hamarkor-um**. Fossilized historical names do not create productive number rules for the modern planetary name.
+Vowel-final nouns keep their vowel before an ending; no automatic contraction. Stem-final s plus genitive s is written ss, retaining the boundary. Proper names are normally uninflected in direct use; add ordinary case endings when necessary, with a hyphen in reader spelling: **Hamarkar-um**. Fossilized historical names do not create productive number rules for the modern planetary name.
 
 Noun-phrase order is determiner + numeral/quantity + adjective(s) + noun + postmodifiers. **Da** is the invariant definite article; bare nouns are indefinite, generic or mass according to context. **Di** is proximal 'this/these'; **dan** is distal 'that/those'. Determiners are alternatives, not stacked: di kel, not da di kel. Adjectives are uninflected. Numerals greater than one select plural count nouns: tor kelar, two chambers. Mass nouns such as water or stone material are not automatically countable; plurals denote kinds or separately identified portions. Use a measure/container phrase for quantities.
 
@@ -222,7 +222,7 @@ Relative **ri** introduces an adjective clause immediately after its head. In a 
 
 Purpose uses **te** + infinitive where the subject is shared: Ek kome te helpen, I come to help. A different subject needs **te ke** + full subordinate clause. Perception and reported speech prefer explicit ke clauses; quotation can instead follow a colon. Complement verbs may take a shared-subject infinitive only when their dictionary frame licenses it (modals, desire, begin, finish, permit/prohibit an activity). No English-style object-plus-infinitive frame is assumed by default.
 
-Relative time is stated lexically when needed: before/after, a numbered work interval, a local calendar date. People on Hamarkor measure time and rest regularly despite the fixed sun. Basic tense and the word for a work cycle do not depend on sunrise or sunset.
+Relative time is stated lexically when needed: before/after, a numbered work interval, a local calendar date. People on Hamarkar measure time and rest regularly despite the fixed sun. Basic tense and the word for a work cycle do not depend on sunrise or sunset.
 
 
 <a id="language-grammar--space-comparison-quantities-and-measurement"></a>
@@ -467,7 +467,7 @@ Critical instructions use a restricted Common vocabulary, one action per clause,
 
 Settlement names can combine an observable feature and a place head: **Salbaskel**, salt-basin chamber settlement; **Bandhamar**, banded crag; **Dravmenet**, stone workshop served by water flow. These illustrate naming patterns; they do not identify mapped settlements. Person names can develop from short root forms, household associations or inherited names; occupations are only one possible source.
 
-A practical record can identify a person as **Menel af da Hamarkelum**, Menel of the crag-chamber household. Menel is a sample proper name, not a common noun or a fixed surname. Reproductive parentage, household membership and personal preference may supply different name elements. Use an explicit association phrase when a compound would confuse a place, a person and an occupation. A settled proper name can fossilize earlier spelling just as Hamarkor has; people may keep their names after changing occupation or residence.
+A practical record can identify a person as **Menel af da Hamarkelum**, Menel of the crag-chamber household. Menel is a sample proper name, not a common noun or a fixed surname. Reproductive parentage, household membership and personal preference may supply different name elements. Use an explicit association phrase when a compound would confuse a place, a person and an occupation. A settled proper name can fossilize earlier spelling just as Hamarkar has; people may keep their names after changing occupation or residence.
 
 <a id="writing"></a>
 ## Writing and everyday use
@@ -484,7 +484,7 @@ The ordinary hand is linear, written left to right in horizontal lines from top 
 
 Spaces separate words; a short midline separator marks a compound boundary when needed; a low dot ends a sentence. A pair of low dots marks a clause break or colon according to layout. Questions have a terminal raised hooked mark, shown in reader transcription as ?. Reader Latin punctuation can be used in bilingual industrial records. There are no separate uppercase native letters; the reader transcription capitalizes names. A name cartouche is optional on labels and inscriptions and has no grammatical force.
 
-The sign chart includes **Dverghamar af Hamarkor-um**, 'Dverghamar of Hamarkor'. The planetary proper name takes its regular oblique ending after **af**, with a visible boundary separator. This is an association phrase suitable for a heading or label; it follows ordinary case rules.
+The sign chart includes **Dverghamar af Hamarkar-um**, 'Dverghamar of Hamarkar'. The planetary proper name takes its regular oblique ending after **af**, with a visible boundary separator. This is an association phrase suitable for a heading or label; it follows ordinary case rules.
 
 Hexagonal and honeycomb arrangements suit seals, panel borders, household labels and modular inventories when convenient. Text itself remains linearly ordered. A six-sided panel can hold six labeled compartments. This practical use has no prescribed religious or linguistic meaning, and counting remains decimal. Long documents, route notices and fast handwritten messages use ordinary lines. A writer can use the script with two working hands.
 
@@ -539,7 +539,7 @@ These are labeled fragments. A full assertion is **Da gred af stalmenum sere ne 
 <a id="language-writing--names-courtesy-and-acquisition"></a>
 ### Names, courtesy and acquisition
 
-Personal names can be short forms such as **Menel**, **Röva**, and **Keldin** which are sample names. Household associations can be expressed with af + oblique, and changed or retained according to local custom. Occupational labels remain distinct from ancestry labels. **Hamarkor** remains the planetary proper name and **Dverghamar** the broad dwarven ethnonym regardless of local name fashions.
+Personal names can be short forms such as **Menel**, **Röva**, and **Keldin** which are sample names. Household associations can be expressed with af + oblique, and changed or retained according to local custom. Occupational labels remain distinct from ancestry labels. **Hamarkar** remains the planetary proper name and **Dverghamar** the broad dwarven ethnonym regardless of local name fashions.
 
 Ordinary greetings are **Hei**, hello; **Takk**, thanks; **Bitte**, please; and **Farvel**, farewell. Affection and familiarity can be conveyed with voice, personal names and vocabulary; no obligatory honorific hierarchy is encoded. A respectful request can remain short and grammatical. Children learn household speech first and may acquire Korvar through other caregivers, community teaching or later apprenticeship; household arrangements and underground residence do not determine a fixed acquisition timetable.
 
@@ -1485,7 +1485,7 @@ Positive obligation in a connected technical exchange.
 | rygg | N | ridge |  |  |
 | berg | N | mountain or mountain body |  |  |
 | bas | N | closed or open topographic basin |  |  |
-| sol | N | star as the visible source of daylight |  | In local ordinary reference, Hamarkor's star. |
+| sol | N | star as the visible source of daylight |  | In local ordinary reference, Hamarkar's star. |
 | natt | N | permanent dark-side environment |  | Not a recurring solar night. |
 | skum | N | twilight or low-angle illuminated belt environment |  |  |
 | vindr | N | wind; moving air outdoors |  |  |
