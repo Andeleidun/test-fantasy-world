@@ -18,12 +18,16 @@ const chapterList = [...guides.flatMap(guide => guide.chapters.map(chapter => ({
 const rights = /\n*All original project IP remains the author’s\. Public documentation grants no license or right to reuse this work\.\s*$/;
 export function canonicalizeText(value) {
   // Preserve legacy source bytes and route IDs, but render current names.
-  // Ordering is intentional: planetary Dverghamar is converted before old Hamarkorar becomes
-  // the new collective ethnonym Dverghamar, preventing a cascading second replacement.
+  // The snapshots predate both naming migrations: Dverghamar was the planet and
+  // Hamarkor/Hamarkorar the people. Placeholders prevent the two roles from cascading.
   let text = value
-    .replaceAll('Dverghamar', 'Hamarkor')
-    .replaceAll('Hamarkorar', 'Dverghamar')
-    .replaceAll('Hamarkorvar', 'Dverghamar language family');
+    .replaceAll('Hamarkorvar', '@@DVERGHAMAR_LANGUAGE_FAMILY@@')
+    .replaceAll('Hamarkorar', '@@DVERGHAMAR_PEOPLE@@')
+    .replaceAll('Hamarkor', '@@DVERGHAMAR_PEOPLE@@')
+    .replaceAll('Dverghamar', '@@HAMARKAR_PLANET@@')
+    .replaceAll('@@HAMARKAR_PLANET@@', 'Hamarkar')
+    .replaceAll('@@DVERGHAMAR_PEOPLE@@', 'Dverghamar')
+    .replaceAll('@@DVERGHAMAR_LANGUAGE_FAMILY@@', 'Dverghamar language family');
   for (const [from,to] of Object.entries(edits.textReplacements)) text = text.replaceAll(from,to);
   return text;
 }
