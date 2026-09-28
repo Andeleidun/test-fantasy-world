@@ -15,7 +15,7 @@ Hamarkar: excavated homes and water-driven workshops beneath a rock escarpment. 
 <a id="permanent-day-night-and-twilight"></a>
 ### Permanent day, night and twilight
 
-The dwarven world is called Hamarkar. The former planetary form Dvergahamrar is retained only in historical records. One hemisphere faces the sun, the other lies in darkness, and a broad twilight region runs between them. Mountains, dry basins and salt country divide the fertile districts.
+The dwarven world is called Hamarkar. Earlier planetary forms Dverghamar/Dvergahamrar and Hamarkor survive only in historical records. One hemisphere faces the sun, the other lies in darkness, and a broad twilight region runs between them. Mountains, dry basins and salt country divide the fertile districts.
 
 The sunward lands become dangerously hot and dry. The nightward lands grow cold and dark. Most settlements and familiar large organisms are found in the better watered twilight landscapes. Strong gravity makes lifting and movement more demanding for human visitors.
 
