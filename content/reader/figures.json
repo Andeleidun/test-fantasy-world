@@ -15,7 +15,7 @@
     "width": 1536,
     "height": 1024,
     "alt": "Rock-cut homes and workshops on a dark escarpment, with a waterwheel, spillway and planted benches catching low twilight.",
-    "caption": "Dverghamar: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.",
+    "caption": "Hamarkor: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.",
     "guide": "dverghamar",
     "kind": "illustration"
   },
@@ -97,8 +97,8 @@
     "file": "guide-maps/erde-ancestry.svg",
     "width": 1000,
     "height": 720,
-    "alt": "Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Dverghamar.",
-    "caption": "The Thal departure occurred about 40,000 years ago, long after Dverghamar’s native lineages had arisen. The separate five-thousand-year regional histories describe a later period.",
+    "alt": "Human and hobbit branches share deep ancestry. A separate historical path shows the Thals leaving Erde through the Otherworld for Hamarkor.",
+    "caption": "The Thal departure occurred about 40,000 years ago, long after Hamarkor’s native lineages had arisen. The separate five-thousand-year regional histories describe a later period.",
     "guide": "erde",
     "after": "erde-atlas#e4",
     "codes": [
@@ -111,7 +111,7 @@
     "file": "guide-maps/dverghamar-light.svg",
     "width": 1000,
     "height": 720,
-    "alt": "Dverghamar has a sunward hemisphere, dark hemisphere and intervening twilight, with watered districts interrupted by dry ground.",
+    "alt": "Hamarkor has a sunward hemisphere, dark hemisphere and intervening twilight, with watered districts interrupted by dry ground.",
     "caption": "Permanent light and darkness. The twilight region contains fertile districts, dry divides and difficult terrain. The diagram does not specify the region’s width.",
     "guide": "dverghamar",
     "after": "dverghamar-atlas#d1",
