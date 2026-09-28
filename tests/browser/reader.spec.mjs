@@ -8,7 +8,7 @@ test('keyboard skip link, search, filters and dictionary work at a project URL',
   await page.keyboard.press('Enter');
   await expect(page.locator('#main')).toBeFocused();
   await page.getByRole('link', { name: 'Search', exact: true }).click();
-  await page.getByLabel('Search the lore', { exact: true }).fill('Hamarkor');
+  await page.getByLabel('Search the lore', { exact: true }).fill('Hamarkar');
   await expect(page.locator('#results li').first()).toBeVisible();
   await page.getByLabel('Within').selectOption('language');
   await expect(page.locator('#results .eyebrow').first()).toHaveText('Language');
@@ -33,7 +33,7 @@ test('worlds and dictionary remain readable without JavaScript', async ({ browse
   const context = await browser.newContext({ javaScriptEnabled: false });
   const page = await context.newPage();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/dverghamar.html');
-  await expect(page.getByRole('heading', { name: 'Hamarkor', exact: true })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Hamarkar', exact: true })).toBeVisible();
   await page.locator('.toc').getByRole('link', { name: 'The Dverghamar', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'The Dverghamar', exact: true })).toBeVisible();
   await page.goto('http://127.0.0.1:4173/test-fantasy-world/merenval.html');
