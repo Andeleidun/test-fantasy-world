@@ -1,10 +1,10 @@
-# Hamarkor
+# Hamarkar
 
 A world of permanent day, night and twilight. Its inhabited valleys support farms and mountain homes, with Dverghamar, Thals and Jotun living across overlapping landscapes.
 
 ![Rock-cut homes and workshops on a dark escarpment, with a waterwheel, spillway and planted benches catching low twilight.](../assets/illustrations/dverghamar-twilight.webp)
 
-Hamarkor: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.
+Hamarkar: excavated homes and water-driven workshops beneath a rock escarpment. Small planted benches catch the permanent low light. The buildings and landforms depict an unnamed district.
 
 <a id="landscape"></a>
 ## Light, landscape and settlement
@@ -15,7 +15,7 @@ Hamarkor: excavated homes and water-driven workshops beneath a rock escarpment. 
 <a id="permanent-day-night-and-twilight"></a>
 ### Permanent day, night and twilight
 
-The dwarven world is called Hamarkor. The former planetary form Dvergahamrar is retained only in historical records. One hemisphere faces the sun, the other lies in darkness, and a broad twilight region runs between them. Mountains, dry basins and salt country divide the fertile districts.
+The dwarven world is called Hamarkar. The former planetary form Dvergahamrar is retained only in historical records. One hemisphere faces the sun, the other lies in darkness, and a broad twilight region runs between them. Mountains, dry basins and salt country divide the fertile districts.
 
 The sunward lands become dangerously hot and dry. The nightward lands grow cold and dark. Most settlements and familiar large organisms are found in the better watered twilight landscapes. Strong gravity makes lifting and movement more demanding for human visitors.
 
@@ -31,7 +31,7 @@ The Dverghamar prefer homes inside rock. Surface farms feed the settlements, whi
 <a id="peoples"></a>
 ### Peoples
 
-The native Dverghamar have four arms and two legs. Their ancestry belongs to Hamarkor’s own life, long before the Thals arrived from Erde. Jotun communities occupy mountain margins and valleys; their precise ancestry remains undescribed.
+The native Dverghamar have four arms and two legs. Their ancestry belongs to Hamarkar’s own life, long before the Thals arrived from Erde. Jotun communities occupy mountain margins and valleys; their precise ancestry remains undescribed.
 
 
 
@@ -87,7 +87,7 @@ These maps connect the day and night geography with habitats, water and mountain
 The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.
 
 <a id="figure-dverghamar-light"></a>
-![Hamarkor has a sunward hemisphere, dark hemisphere and intervening twilight, with watered districts interrupted by dry ground.](../assets/guide-maps/dverghamar-light.svg)
+![Hamarkar has a sunward hemisphere, dark hemisphere and intervening twilight, with watered districts interrupted by dry ground.](../assets/guide-maps/dverghamar-light.svg)
 
 Permanent light and darkness. The twilight region contains fertile districts, dry divides and difficult terrain. The diagram does not specify the region’s width.
 
@@ -162,7 +162,7 @@ Lake shores, large aquatic animals and reports of sparse life around isolated wa
 <a id="hamarkorar--people-of-the-great-rock-masses"></a>
 ### A broad ancient name
 
-**Dverghamar** is the broad collective name for the indigenous dwarven peoples of **Hamarkor**. It is an old, fossilized ethnonym rather than a transparent modern compound or a regular singular/plural pair. In reader-facing English, **dwarf/dwarves** remains the ordinary translation.
+**Dverghamar** is the broad collective name for the indigenous dwarven peoples of **Hamarkar**. It is an old, fossilized ethnonym rather than a transparent modern compound or a regular singular/plural pair. In reader-facing English, **dwarf/dwarves** remains the ordinary translation.
 
 Rakkor/Rakkorar and Menkor/Menkorar are names reserved for narrower identities. The first is regional; the second may be local, cultural or a species name. Their communities remain unspecified. The former Hamarkor/Hamarkorar ethnonymic forms and Hamkor contraction are superseded.
 
@@ -215,13 +215,13 @@ Dwelling within rock encourages close attention to cracks, grain, moisture, heat
 <a id="evolution-reference--native-descent"></a>
 ### Native descent
 
-The Dverghamar belong to Hamarkor’s own history of life. Their origin is independent of the much later Thal migration. Naturalists infer their descent from comparisons of bodies and habitats; the dates and mechanisms remain uncertain.
+The Dverghamar belong to Hamarkar’s own history of life. Their origin is independent of the much later Thal migration. Naturalists infer their descent from comparisons of bodies and habitats; the dates and mechanisms remain uncertain.
 
 
 <a id="evolution-reference--a-six-limbed-ancestry"></a>
 ### A six-limbed ancestry
 
-The native ancestry leading to the Dverghamar has three pairs of limbs. In the living peoples, the hind pair supports upright movement and the other two pairs serve as arms. Shared bodily structures allow broad comparison with related native animals. They do not imply that every animal on Hamarkor has six limbs.
+The native ancestry leading to the Dverghamar has three pairs of limbs. In the living peoples, the hind pair supports upright movement and the other two pairs serve as arms. Shared bodily structures allow broad comparison with related native animals. They do not imply that every animal on Hamarkar has six limbs.
 
 Aquatic and terrestrial forms belong to the broad ancestral account. The intermediate forms and fossil record remain undescribed.
 
@@ -280,7 +280,7 @@ Streams, entrances and neighboring productive habitats connect cave life with th
 <a id="wildlife-questions--open-public-descriptions"></a>
 ### Open public descriptions
 
-Appearance, behavior and local uses remain to be described for much of Hamarkor’s wildlife. The available accounts are too limited for a comprehensive field guide.
+Appearance, behavior and local uses remain to be described for much of Hamarkar’s wildlife. The available accounts are too limited for a comprehensive field guide.
 
 <a id="thals"></a>
 ## The Thals
@@ -289,19 +289,19 @@ Appearance, behavior and local uses remain to be described for much of Hamarkor�
 
 
 <a id="thals--from-erde-to-dverghamar"></a>
-### From Erde to Hamarkor
+### From Erde to Hamarkar
 
-The Thals descend from an ancient human lineage of Erde. About **40,000 years ago**, a catastrophe drove a great migration through the Otherworld. People fled alongside animals and plants bound up with the life of their homeland. The survivors emerged across Hamarkor’s twilight mountains, changed by the passage and better able to live in their new surroundings.
+The Thals descend from an ancient human lineage of Erde. About **40,000 years ago**, a catastrophe drove a great migration through the Otherworld. People fled alongside animals and plants bound up with the life of their homeland. The survivors emerged across Hamarkar’s twilight mountains, changed by the passage and better able to live in their new surroundings.
 
-Accounts of the flight recall terror, skilled practitioners and a desperate will to survive. They do not settle what caused the catastrophe, why the road reached Hamarkor or how the travelers changed. Particular animals, plants and surviving local populations still need fuller descriptions.
+Accounts of the flight recall terror, skilled practitioners and a desperate will to survive. They do not settle what caused the catastrophe, why the road reached Hamarkar or how the travelers changed. Particular animals, plants and surviving local populations still need fuller descriptions.
 
-The native Dverghamar are not descended from the refugees. Their ancestry and diversification belong to Hamarkor’s independent history of life.
+The native Dverghamar are not descended from the refugees. Their ancestry and diversification belong to Hamarkar’s independent history of life.
 
 
 <a id="thals--mountain-refuge-life"></a>
 ### Mountain refuge life
 
-Thal communities favor cool, illuminated mountain and cave districts with sheltered terrain, access to water and cultivated food. Their history on Hamarkor spans tens of thousands of years. Present communities have inherited that long history of settlement and exchange, as well as memories of the flight.
+Thal communities favor cool, illuminated mountain and cave districts with sheltered terrain, access to water and cultivated food. Their history on Hamarkar spans tens of thousands of years. Present communities have inherited that long history of settlement and exchange, as well as memories of the flight.
 
 The heavier pull of the world still shapes work and travel. Sheltered growing ground, manageable routes and knowledge of local conditions matter. The changes of the migration did not remove the need for food, water, rest and care.
 
@@ -322,7 +322,7 @@ Thals and Dverghamar trade, share settlements and learn one another’s speech. 
 <a id="jotuns--mountain-people"></a>
 ### Mountain people
 
-Jotun is the self-name of Hamarkor’s mountain giants. They are imposing people with cold-adapted bodies and distinctive protective features. Their typical height, ancestry and detailed appearance remain unsettled; the earlier two-and-a-half to three-metre range is a provisional design.
+Jotun is the self-name of Hamarkar’s mountain giants. They are imposing people with cold-adapted bodies and distinctive protective features. Their typical height, ancestry and detailed appearance remain unsettled; the earlier two-and-a-half to three-metre range is a provisional design.
 
 
 <a id="jotuns--homes-and-journeys"></a>
