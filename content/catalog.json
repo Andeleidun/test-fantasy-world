@@ -17,15 +17,15 @@
   },
   {
     "id": "dverghamar-atlas",
-    "title": "Hamarkor: public atlas guide",
+    "title": "Hamarkar: public atlas guide",
     "category": "maps",
-    "description": "Eight geographic notes on the sunward lands, twilight settlements and dark country of Hamarkor.",
+    "description": "Eight geographic notes on the sunward lands, twilight settlements and dark country of Hamarkar.",
     "kind": "Atlas",
     "file": "dverghamar-atlas.md"
   },
   {
     "id": "dverghamar-reference",
-    "title": "Hamarkor: landscapes and settlement life",
+    "title": "Hamarkar: landscapes and settlement life",
     "category": "worlds",
     "description": "Mountain homes depend on surface farms, waterways and machinery. Local rock, rain and shelter determine where settlements can thrive.",
     "kind": "Worlds",
@@ -33,7 +33,7 @@
   },
   {
     "id": "dverghamar",
-    "title": "Hamarkor",
+    "title": "Hamarkar",
     "category": "worlds",
     "description": "The dwarven world has permanent day and night. Most settlements occupy watered valleys and mountain districts between them.",
     "kind": "Worlds",
@@ -131,7 +131,7 @@
     "id": "hamarkorar",
     "title": "The Dverghamar",
     "category": "peoples",
-    "description": "Hamarkor’s native dwarven peoples have four arms and two legs. They build homes within rock and share several traditions of household care.",
+    "description": "Hamarkar’s native dwarven peoples have four arms and two legs. They build homes within rock and share several traditions of household care.",
     "kind": "Peoples",
     "file": "hamarkorar.md"
   },
@@ -147,7 +147,7 @@
     "id": "jotuns",
     "title": "The Jotun",
     "category": "peoples",
-    "description": "Hamarkor’s cold-adapted mountain people; their detailed anatomy remains unsettled.",
+    "description": "Hamarkar’s cold-adapted mountain people; their detailed anatomy remains unsettled.",
     "kind": "Peoples",
     "file": "jotuns.md"
   },
@@ -283,15 +283,15 @@
     "id": "thals",
     "title": "The Thals",
     "category": "peoples",
-    "description": "Thal refugees reached Hamarkor about 40,000 years ago, changed by a flight that carried people, animals and plants from Erde.",
+    "description": "Thal refugees reached Hamarkar about 40,000 years ago, changed by a flight that carried people, animals and plants from Erde.",
     "kind": "Peoples",
     "file": "thals.md"
   },
   {
     "id": "wildlife-questions",
-    "title": "Hamarkor: habitats and wildlife",
+    "title": "Hamarkar: habitats and wildlife",
     "category": "peoples",
-    "description": "Hamarkor’s wildlife occupies moist slopes, lakes, caves and scattered refuges. Many species remain undescribed.",
+    "description": "Hamarkar’s wildlife occupies moist slopes, lakes, caves and scattered refuges. Many species remain undescribed.",
     "kind": "Peoples",
     "file": "wildlife-questions.md"
   }
