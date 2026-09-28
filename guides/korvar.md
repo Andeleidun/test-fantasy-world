@@ -57,7 +57,7 @@ Plural **-ar** attaches to ordinary count nouns and productive ethnonyms. **Dver
 
 **Rakkor/Rakkorar** is retained for a regional people; **Menkor/Menkorar** for a narrower local, cultural or species identity. Their communities have not yet been specified. The former **Hamkor/Hamkorar** contraction is superseded. **Menkorvar** remains a possible community-language name, not an established sixth regional language.
 
-The broad family is referred to as the **Dverghamar language family**; **Korvar** is the shared standard and **Hamarvar** the ridge-network language. **Hamarkar** is the planetary name. The former ethnonymic use of Hamarkor/Hamarkorar, the label Hamarkorvar, and the planetary form Dvergahamrar are superseded and survive only where historical context requires them.
+The broad family is referred to as the **Dverghamar language family**; **Korvar** is the shared standard and **Hamarvar** the ridge-network language. **Hamarkar** is the planetary name. The former ethnonymic use of Hamarkor/Hamarkorar, the label Hamarkorvar, and the former planetary forms Dverghamar/Dvergahamrar and Hamarkor are superseded and survive only where historical context requires them.
 
 Names can preserve older sounds and meanings even as everyday speech changes. The grammar below describes the shared standard; local traditions have their own histories.
 
@@ -87,7 +87,7 @@ There are eight vowel qualities and sixteen consonant phonemes. No obligatory gu
 
 Primary stress falls on the first root syllable; later compound roots can have secondary stress. Grammatical endings are unstressed. The infinitive -en is normally /ən/. Identical vowel letters meeting across an affix boundary coalesce into a long vowel: se + e gives see /seː/, se + en gives seen /seːn/, and du + um gives duum /duːm/. This coalescence overrides ordinary reduction of the infinitive vowel. Different adjacent vowel qualities remain consecutive syllables in careful speech. Written vowels are retained. Runs of two or more identical consonants are realized as one long consonant; morpheme spelling remains visible, so genitive risss may be written riss-s for clarity. Set-te retains its long t and remains distinct from sete. Loan names may preserve unusual spelling but are listed as exceptions.
 
-In the ethnonym **Dverghamar**, **gh** is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this name. **Hamarkar** is approximately /ˈha.mar.kor/. These lexical pronunciations do not establish a productive e-to-ä rule. The former **Dvergahamrar** is a superseded historical form rather than a productive modern planetary plural.
+In the ethnonym **Dverghamar**, **gh** is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this name. **Hamarkar** is approximately /ˈha.mar.kar/. These lexical pronunciations do not establish a productive e-to-ä rule. The former **Dvergahamrar** is a superseded historical form rather than a productive modern planetary plural.
 
 
 <a id="language-foundation--word-boundaries-and-literal-compounds"></a>
