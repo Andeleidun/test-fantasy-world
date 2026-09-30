@@ -941,7 +941,7 @@
     "meaning": "star as the visible source of daylight",
     "domain": "sky",
     "parts": "",
-    "notes": "In local ordinary reference, Dverghamar's star."
+    "notes": "In local ordinary reference, Hamarkar's star."
   },
   {
     "lemma": "natt",
@@ -4472,20 +4472,20 @@
     "notes": "Upper/lower pair can be stated separately."
   },
   {
-    "lemma": "hamarkor",
+    "lemma": "dverghamar",
     "pos": "N",
-    "meaning": "member of the native dwarven peoples; dwarf",
+    "meaning": "broad collective ethnonym for Hamarkar's indigenous dwarven peoples; also the language-family name",
     "domain": "identity",
-    "parts": "hamar+kor",
-    "notes": "General native people-name: crag or great-rock-mass person. Includes all native dwarven species and the deep-massif subspecies."
+    "parts": "",
+    "notes": "Inherited proper collective; not productively segmented in modern Korvar. Ordinary reader-facing English often translates the people as dwarves."
   },
   {
-    "lemma": "hamarkorvar",
+    "lemma": "hamarkar",
     "pos": "N",
-    "meaning": "the Dwarven language family collectively",
-    "domain": "language",
-    "parts": "hamarkor+var",
-    "notes": "The language family. Korvar is its common standard; Hamarvar is the ridge language."
+    "meaning": "Hamarkar, the planet or world",
+    "domain": "place",
+    "parts": "",
+    "notes": "Inherited planetary proper name. Its final -kar is not the modern noun kor, person."
   },
   {
     "lemma": "rakkor",

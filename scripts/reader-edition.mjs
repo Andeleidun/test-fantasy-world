@@ -17,17 +17,10 @@ export const extraChapters = [
 const chapterList = [...guides.flatMap(guide => guide.chapters.map(chapter => ({ ...chapter, guide: guide.id }))), ...extraChapters];
 const rights = /\n*All original project IP remains the author’s\. Public documentation grants no license or right to reuse this work\.\s*$/;
 export function canonicalizeText(value) {
-  // Preserve legacy source bytes and route IDs, but render current names.
-  // The snapshots predate both naming migrations: Dverghamar was the planet and
-  // Hamarkor/Hamarkorar the people. Placeholders prevent the two roles from cascading.
-  let text = value
-    .replaceAll('Hamarkorvar', '@@DVERGHAMAR_LANGUAGE_FAMILY@@')
-    .replaceAll('Hamarkorar', '@@DVERGHAMAR_PEOPLE@@')
-    .replaceAll('Hamarkor', '@@DVERGHAMAR_PEOPLE@@')
-    .replaceAll('Dverghamar', '@@HAMARKAR_PLANET@@')
-    .replaceAll('@@HAMARKAR_PLANET@@', 'Hamarkar')
-    .replaceAll('@@DVERGHAMAR_PEOPLE@@', 'Dverghamar')
-    .replaceAll('@@DVERGHAMAR_LANGUAGE_FAMILY@@', 'Dverghamar language family');
+  // Current public source snapshots already use the canonical Hamarkar/Dverghamar
+  // distinction. Compatibility is preserved in route IDs and filenames, not by
+  // rewriting reader-visible names during the build.
+  let text = value;
   for (const [from,to] of Object.entries(edits.textReplacements)) text = text.replaceAll(from,to);
   return text;
 }

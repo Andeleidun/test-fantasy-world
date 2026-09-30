@@ -116,7 +116,7 @@ dal	N	valley	land
 rygg	N	ridge	land		
 berg	N	mountain or mountain body	land		
 bas	N	closed or open topographic basin	land		
-sol	N	star as the visible source of daylight	sky		In local ordinary reference, Dverghamar's star.
+sol	N	star as the visible source of daylight	sky		In local ordinary reference, Hamarkar's star.
 natt	N	permanent dark-side environment	sky		Not a recurring solar night.
 skum	N	twilight or low-angle illuminated belt environment	sky		
 vindr	N	wind; moving air outdoors	air		
@@ -558,6 +558,6 @@ uphand	N	hand belonging to an upper limb pair	body	up+hand
 nedhand	N	hand belonging to a lower limb pair	body	ned+hand	
 vinsthand	N	a hand on the left side of the body	body	vinst+hand	Upper/lower pair can be stated separately.
 hösthand	N	a hand on the right side of the body	body	höst+hand	Upper/lower pair can be stated separately.
-hamarkor	N	member of the native dwarven peoples; dwarf	identity	hamar+kor	General native people-name: crag or great-rock-mass person. Includes all native dwarven species and the deep-massif subspecies.
-hamarkorvar	N	the Dwarven language family collectively	language	hamarkor+var	The language family. Korvar is its common standard; Hamarvar is the ridge language.
+dverghamar	N	broad collective ethnonym for Hamarkar's indigenous dwarven peoples; also the language-family name	identity		Inherited proper collective; not productively segmented in modern Korvar. Ordinary reader-facing English often translates the people as dwarves.
+hamarkar	N	Hamarkar, the planet or world	place		Inherited planetary proper name. Its final -kar is not the modern noun kor, person.
 rakkor	N	member of a reserved regional native people	identity	rak+kor	Regional people-name. The specific community has not yet been described.

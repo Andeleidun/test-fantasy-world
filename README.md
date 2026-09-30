@@ -12,7 +12,7 @@ The reader brings the current public collection into five complete, illustrated 
 | Magic and belief | [World guide](https://andeleidun.github.io/test-fantasy-world/magic.html) | [Magic and belief](guides/magic.md) |
 | Korvar, including the dictionary | [World guide](https://andeleidun.github.io/test-fantasy-world/korvar.html) | [Korvar](guides/korvar.md) |
 
-The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Six illustrations and the Stavmark chart appear beside their subjects and are embedded in the corresponding source documents. The full source collection was reviewed and synchronized on 20 September 2026; Dorrenath's two public sources and illustration received a targeted revision on 23 September 2026.
+The edition retains 36 source subjects, all 562 dictionary records and 97 translated examples. Seven vector maps cover the thirteen existing atlas subjects and Merenval's paired landscapes. Six illustrations and the Stavmark chart appear beside their subjects and are embedded in the corresponding source documents. The public source collection was resynchronized on 29 September 2026, including the current Hamarkar/Dverghamar naming model and refreshed Jotun and Thal material; Dorrenath's targeted source and illustration revision from 23 September 2026 remains included.
 
 ## Run locally
 

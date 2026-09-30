@@ -1,22 +1,32 @@
-# Identity, sounds and word formation
+﻿# Identity, sounds and word formation
+
 
 ## Names and belonging
 
-**Hamarkor** /ˈha.mar.kor/ is the singular general people-name; **Hamarkorar** /ˈha.mar.ko.rar/ is the plural. Together they express “people of the great rock masses.” **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
 
-**Rakkor/Rakkorar** is retained for a regional people; **Menkor/Menkorar** for a narrower local, cultural or species identity. Their communities have not yet been specified. **Hamkor/Hamkorar** remains a proposed everyday contraction. **Menkorvar** is a possible community-language name, not an established sixth regional language.
+**Dverghamar** is the established broad collective ethnonym for Hamarkar’s indigenous dwarven peoples. It is an old fossilized name rather than a productive modern compound, and this guide does not yet select a regular singular derived from it. Modern **kor** means person and **korar** people. **Kelir**, interior-dweller, and **menir**, stoneworker, describe residence or occupation rather than ancestry. **Kelkor** identifies a member of a chamber-household.
 
-**Hamarkorvar** names the language family, **Korvar** the shared standard and **Hamarvar** the ridge-network language. **Dverghamar** is the ordinary planetary name, with **Dvergahamrar** its archaic or highly formal form. The inherited dverg- element survives in names rather than serving as the modern general people-name.
+
+**Rakkor/Rakkorar** is retained for a regional people; **Menkor/Menkorar** for a narrower local, cultural or species identity. Their communities have not yet been specified. The former **Hamkor/Hamkorar** contraction is superseded. **Menkorvar** is a possible community-language name, not an established sixth regional language.
+
+
+**Dverghamar** also names the broad language family, **Korvar** the shared standard and **Hamarvar** the ridge-network language. **Hamarkar** is the planetary name. Its final **-kar** belongs to an older toponymic layer and is not the modern noun **kor**, person. Both Hamarkar and Dverghamar are inherited proper names whose deeper derivations remain outside productive modern grammar.
+
 
 Names can preserve older sounds and meanings even as everyday speech changes. The grammar below describes the shared standard; local traditions have their own histories.
 
+
 ## Language in daily life
+
 
 Mountain settlement, water-powered industry, cultivation and nursery care give speakers reasons to distinguish materials and processes carefully. Korvar also covers ordinary affection, play, memory, travel and household needs. Language affiliation crosses species boundaries, and community membership need not depend on ancestry.
 
+
 Schools and apprenticeships teach the standard across regional networks. Its regular forms make records easier to share, while local languages continue to change and remain in use at home.
 
+
 ## Phonemes and reader spelling
+
 
 | Spelling | Sound | Rule |
 | --- | --- | --- |
@@ -28,17 +38,24 @@ Schools and apprenticeships teach the standard across regional networks. Its reg
 | m n l r j | /m n l r j/ | r may be tapped or trilled; j is the sound in English yes |
 | ng | /ŋ/ | One consonant within a root; write n-g across a boundary when /n.g/ must be explicit |
 
+
 There are eight vowel qualities and sixteen consonant phonemes. No obligatory guttural or very low voice is assumed. Short roots favor (C)(C)V(C)(C), with occasional two-syllable roots. Initial dv survives in the proper name. Other registered roots license their listed clusters; new roots should generally follow clusters already represented in the dictionary. Affix and compound boundaries may create longer clusters; syllable division normally resolves these. Thus karn-te is pronounced with the consonants retained. Speakers may use a noncontrastive transitional schwa inside a difficult boundary cluster; it does not change spelling, morphology or word identity.
+
 
 Primary stress falls on the first root syllable; later compound roots can have secondary stress. Grammatical endings are unstressed. The infinitive -en is normally /ən/. Identical vowel letters meeting across an affix boundary coalesce into a long vowel: se + e gives see /seː/, se + en gives seen /seːn/, and du + um gives duum /duːm/. This coalescence overrides ordinary reduction of the infinitive vowel. Different adjacent vowel qualities remain consecutive syllables in careful speech. Written vowels are retained. Runs of two or more identical consonants are realized as one long consonant; morpheme spelling remains visible, so genitive risss may be written riss-s for clarity. Set-te retains its long t and remains distinct from sete. Loan names may preserve unusual spelling but are listed as exceptions.
 
-In Dverghamar, gh is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this name. Dvergahamrar is approximately /ˈdvɛr.ɡaˌham.rar/. These lexical pronunciations do not establish a productive e-to-ä rule. The formal name preserves a linker -a- and old hamrar plural. The ordinary modern plural of hamar is **hamarar**. The modern planetary name reflects a stored singular reanalysis and a reduced first-element boundary, not merely deletion of a final r.
+
+In **Dverghamar**, gh is the boundary g-h, not /ɣ/; the reader spelling is approximately /ˈdvɛrɡˌha.mar/, with fossil e realized as /ɛ/ in this inherited name. This lexical pronunciation does not establish a productive e-to-ä rule or a modern compound analysis. The exact older history of both Dverghamar and Hamarkar remains a matter for historical linguistics rather than ordinary word formation.
+
 
 ## Word boundaries and literal compounds
 
+
 Compounds are head-final: **dravkel** is a chamber associated with water flow, not a kind of water. The final noun receives number and case: dravkel-ar-um. The first element is normally its dictionary stem, without plural or genitive. Its exact relationship may be material (menkel), purpose (nerkel), contents (dravkel), or mechanism (dravhamar). Established meanings are listed; a novel ambiguous relationship is stated with a phrase before shortening it.
 
+
 Reader spelling permits hyphens to reveal a new or long compound: drav-karn-kel. Hyphens do not alter meaning or stress. More than three lexical roots normally become a phrase, particularly in instructions. Write n-g when separate n and g would otherwise look like ng. Proper place names retain their established spelling.
+
 
 | Pattern | Function | Example |
 | --- | --- | --- |
@@ -49,10 +66,14 @@ Reader spelling permits hyphens to reveal a new or long compound: drav-karn-kel.
 | Verb stem + ad | activity/practice | menad, stoneworking |
 | Noun + ig | characterized by/containing the noun | porig, containing pores |
 
+
 Speakers use these affixes to form new words, whose conventional meanings still need to be learned. The dictionary records each verb’s meanings and complements. Kelir is a lexicalized habitat-participant extension: it does not require an invented verb meaning 'to kel'. New dictionary entries record a word’s literal reading, intended meaning and an example. Material names usually favor direct descriptions, though speakers also use humor and figurative language, and meanings change over time.
+
 
 ## Habitats and usage
 
+
 Settlements occupy separate illuminated refuges along the twilight region. Their rivers draw on catchment runoff, glacier outlets or groundwater; mild terrain can still be dry. Natural carbonate caves, lava tubes and fractures provided shelter before people excavated homes in solid massif rock. Thals grow compatible Erde-derived crops and need local advice before eating native foods. This vocabulary describes those conditions without assigning a language or people to one habitat.
+
 
 All original project IP remains the author’s. Public documentation grants no license or right to reuse this work.

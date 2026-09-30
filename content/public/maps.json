@@ -57,7 +57,7 @@
   {
     "code": "D1",
     "title": "Day, night and twilight",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.",
     "reading": "The sunward hemisphere, dark hemisphere and twilight region, where fertile districts are separated by less hospitable ground.",
     "kind": "Atlas note",
@@ -68,7 +68,7 @@
   {
     "code": "D2",
     "title": "Landscape contrasts",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "Hot dry ground near the sunward margin, watered districts in the twilight region and cold country farther nightward.",
     "reading": "Hot dry ground near the sunward margin, watered districts in the twilight region and cold country farther nightward.",
     "kind": "Atlas note",
@@ -79,7 +79,7 @@
   {
     "code": "D3",
     "title": "Habitats and passages",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "Wet provinces and dry rain shadows, with salt basins, valleys and mountain passes between them. Continental names remain undecided.",
     "reading": "Wet provinces and dry rain shadows, with salt basins, valleys and mountain passes between them. Continental names remain undecided.",
     "kind": "Atlas note",
@@ -90,7 +90,7 @@
   {
     "code": "D4",
     "title": "Water in the landscape",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "Rivers, springs, lakes and glaciers that shape travel and settlement.",
     "reading": "Rivers, springs, lakes and glaciers that shape travel and settlement.",
     "kind": "Atlas note",
@@ -101,7 +101,7 @@
   {
     "code": "D5",
     "title": "Mountain homes",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "A mountain chamber can be high above the valley while having little rock overhead. Elevation and burial depth describe different conditions.",
     "reading": "A mountain chamber can be high above the valley while having little rock overhead. Elevation and burial depth describe different conditions.",
     "kind": "Atlas note",
@@ -112,7 +112,7 @@
   {
     "code": "D6",
     "title": "Dwarven habitats",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "Related dwarven peoples occupy overlapping habitats. These ranges do not define political borders.",
     "reading": "Related dwarven peoples occupy overlapping habitats. These ranges do not define political borders.",
     "kind": "Atlas note",
@@ -123,7 +123,7 @@
   {
     "code": "D7",
     "title": "Settlement and countryside",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "The farms, roads and river works that connect mountain homes with the surrounding country.",
     "reading": "The farms, roads and river works that connect mountain homes with the surrounding country.",
     "kind": "Atlas note",
@@ -134,7 +134,7 @@
   {
     "code": "D8",
     "title": "Lakes and isolated refuges",
-    "world": "Dverghamar",
+    "world": "Hamarkar",
     "description": "Lake shores, large aquatic animals and reports of sparse life around isolated warm sites.",
     "reading": "Lake shores, large aquatic animals and reports of sparse life around isolated warm sites.",
     "kind": "Atlas note",

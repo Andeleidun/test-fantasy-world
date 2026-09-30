@@ -558,6 +558,6 @@ uphand	N	hand belonging to an upper limb pair	uphand	uphand	uphand	uphant	uphand
 nedhand	N	hand belonging to a lower limb pair	nedhand	nedhand	nedhand	nedhant	nedhand
 vinsthand	N	a hand on the left side of the body	vinsthand	vinsthand	vinsthand	finsthant	vinsthand
 hösthand	N	a hand on the right side of the body	hösthand	hesthand	hösthand	hosthant	esthand
-hamarkor	N	member of the native dwarven peoples; dwarf	hamarkor	hamarkor	hamarkor	hamarkor	amarkor
-hamarkorvar	N	the Dwarven language family collectively	hamarkorvar	hamarkorvar	hamarkorvar	hamarkorvar	amarkorvar
+dverghamar	N	broad collective name for Hamarkar's indigenous dwarven peoples and their language family	dverghamar	dverghamar	dverghamar	dverghamar	dverghamar
+hamarkar	N	Hamarkar, the planet or world	hamarkar	hamarkar	hamarkar	hamarkar	hamarkar
 rakkor	N	member of a reserved regional native people	rakkor	rakkor	rakkor	rakkor	rakkor

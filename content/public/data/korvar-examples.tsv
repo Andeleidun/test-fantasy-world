@@ -1,6 +1,6 @@
 id	text	translation	feature	analysis
-C01	Ek sere Hamarkor.	I am a dwarf.	identity	Hamarkor identifies a dwarf; it does not specify an occupation.
-C02	Vir sere Hamarkorar.	We are dwarves.	number	Plural predicate noun; verb does not agree.
+C01	Ek sere kor.	I am a person.	identity	kor identifies a person; it does not specify ancestry, occupation or regional identity.
+C02	Vir sere korar.	We are people.	number	Plural predicate noun; verb does not agree.
 C03	Da menir karne da kel.	The stoneworker builds the chamber.	main_v2	Subject + finite + object.
 C04	Nu karne ek da kel.	Now I build the chamber.	inversion	Time constituent + finite + subject.
 C05	Na da kelum vare da menir.	The stoneworker speaks inside the chamber.	preposition	Whole location phrase occupies first field.
