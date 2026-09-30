@@ -1,4 +1,4 @@
-﻿# Public guide
+# Public guide
 
 
 This collection describes the worlds, their peoples and languages, and the magic people encounter in daily life. Its natural histories draw on the comparisons a nineteenth-century scholar could make. Spiritual accounts describe the experiences of ordinary trained practitioners; Otherworld accounts record human reports and stories.
@@ -39,8 +39,8 @@ Detailed technical models remain in the authorial collection. A reported encount
 - [Gnomes](https://drive.google.com/file/d/105Ut2CZdRqep6QHOGdWgRqQsHyGYjHdI/view)
 - [Goblins: a comparative natural history](https://drive.google.com/file/d/1b8An44XQSMMFOL49Recw0jYAMGyUuCGg/view)
 - [The Dverghamar peoples](https://drive.google.com/file/d/1OcMraCLWa_aS4_6bAEOP3VllzilFg_fn/view)
-- [Jotun societies and their reputations](https://drive.google.com/file/d/1PVdACustheW4pOAiL71VpUumSxy2kAT-/view)
-- [The Jotun](https://drive.google.com/file/d/16-349-N4u_74M-2446cDE-MMU2WXyg7g/view)
+- [Jotuns: environments, affinities, traditions and societies](https://drive.google.com/file/d/1PVdACustheW4pOAiL71VpUumSxy2kAT-/view)
+- [The Jotuns](https://drive.google.com/file/d/16-349-N4u_74M-2446cDE-MMU2WXyg7g/view)
 - [Korvar and the language family](https://drive.google.com/file/d/1iLXKSQDJNgNKLzimuxHATFcSG2FW0vsQ/view)
 - [Korvar in use](https://drive.google.com/file/d/12DS3IwRv6CV7LF7li4VCmuhOUITqtn2X/view)
 - [Five regional languages](https://drive.google.com/file/d/16i7ZQKJazvm9zPODEAZWBijw_J01krtJ/view)
